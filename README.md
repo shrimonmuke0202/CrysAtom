@@ -13,4 +13,4 @@ We will release our dense vector representation upon acceptance of this work. Pl
 To get the dense vector representation please run the AtomVectorExtractor.py
 
 ## Downstream Property Prediction
-After getting the 200 dimensional feature vector from the CrysAtom, run ```python3 train_jv.py``` for JARVIS and ```python3 train_mp.py``` for Materials Project. We take the Matformer original code and slightly modified it to input our dense representation.
+After getting the 200 dimensional feature vector from the CrysAtom, run ```python3 train_jv.py``` for JARVIS and ```python3 train_mp.py``` for Materials Project.

@@ -127,7 +127,7 @@ def embedding_create(atom_fea,crystal_atom_idx,atom_type):
     
     return embedding_dict        
         
-# Training procedure and chemical vector extraction. Detail is available in Technical Appendix.
+# Training procedure and chemical vector extraction.
 
 def train(train_loader, model, criterion, optimizer, epoch):
     losses =[]

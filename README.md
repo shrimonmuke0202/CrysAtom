@@ -1,4 +1,4 @@
-# CrysATOM
+# CrysAtom: Distributed Representation of Atoms for Crystal Property Prediction
 # This work is accepted at the Third Learning on Graphs Conference (LoG 2024)
 # We will make the necessary updates soon. Please stay tuned!
 ## Environment Setup

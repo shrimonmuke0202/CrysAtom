@@ -19,7 +19,7 @@ After getting the 200 dimensional feature vector from the CrysAtom, run ```pytho
 ## Citation  <a name="cite"></a>
 Please cite our paper if it's helpful to you in your research.
 
-'''bibtext
+```bibtext
 @inproceedings{
 mukherjee2024crysatom,
 title={CrysAtom: Distributed Representation of Atoms for Crystal Property Prediction},
@@ -28,4 +28,4 @@ booktitle={The Third Learning on Graphs Conference},
 year={2024},
 url={https://openreview.net/forum?id=2AIVM5pWXz}
 }
-'''
+```

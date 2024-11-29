@@ -11,7 +11,7 @@ pip install -r requirements.txt
 A small subset of dataset present in the data directory. To get the datasets used for creating dense vector is present in [[Zenodo](https://zenodo.org/records/14242239?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjA2NzVlMjVmLWM1ZWEtNDk4NC04ZmM5LTFkMWMzNjg0ZTRjMSIsImRhdGEiOnt9LCJyYW5kb20iOiIzYjdkNTFhMzFkYjc1ZWU3N2M2NGIzMmE4YWFiYjNlOSJ9.zG80nRXipzEdJ9MypJe2toA5UcvOmsZ1svlaKk-5qHtN937iHdOlKU1WeIBslatZFgXvCcNb7NrGRFIgPFXhBQ)]
 ## Dense Vector Extraction
 Our 200-dimensional vector is located in the dense_vector directory. To use this dense vector representation in your model, please adjust the input dimension of our GNN model accordingly. If you use our vector, kindly cite our paper.
-To get the dense vector representation please run the AtomVectorExtractor.py
+To get the dense vector representation from scratch please run the AtomVectorExtractor.py
 
 ## Downstream Property Prediction
 After getting the 200 dimensional feature vector from the CrysAtom, Please visit Downstream Property Predictor Task folder for more detail

@@ -14,7 +14,7 @@ Our 200-dimensional vector is located in the dense_vector directory. To use this
 To get the dense vector representation please run the AtomVectorExtractor.py
 
 ## Downstream Property Prediction
-After getting the 200 dimensional feature vector from the CrysAtom, run ```python3 train_jv.py``` for JARVIS and ```python3 train_mp.py``` for Materials Project.
+After getting the 200 dimensional feature vector from the CrysAtom, Please visit Downstream Property Predictor Task folder for more detail
 
 ## Citation  <a name="cite"></a>
 Please cite our paper if it's helpful to you in your research.

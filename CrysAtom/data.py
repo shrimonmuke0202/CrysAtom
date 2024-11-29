@@ -164,7 +164,7 @@ class StructureData(Dataset):
     def __getitem__(self, idx):
         cif_id = str(idx)
         
-        crystal = pickle.load(open(os.path.join(self.root_dir,cif_id+'.pkl'),'rb'))
+        crystal = Structure.from_file(os.path.join(self.root_dir, cif_id + '.cif'))
 
         atom_type = []
         atom_fea_list = []

@@ -1,0 +1,45 @@
+CIF file written using JARVIS-Tools package.
+data_PrCo4B4
+_symmetry_space_group_name_H-M  'P4_2/n'
+_cell_length_a       3.7897
+_cell_length_b       7.10923
+_cell_length_c       7.10932
+_cell_angle_alpha    89.9994
+_cell_angle_beta     89.9998
+_cell_angle_gamma    90.0002
+
+_symmetry_Int_Tables_number  86
+_chemical_formula_structural  PrCo4B4
+_chemical_formula_sum  Pr2Co8B8
+_cell_volume  191.53830247988458
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ B  B1  1  0.35377  0.95471  0.91200  1
+ B  B2  1  0.85378  0.58800  0.95471  1
+ B  B3  1  0.64623  0.04529  0.08800  1
+ B  B4  1  0.64623  0.45471  0.41200  1
+ B  B5  1  0.14622  0.08800  0.45471  1
+ B  B6  1  0.14622  0.41200  0.04529  1
+ B  B7  1  0.35377  0.54529  0.58800  1
+ B  B8  1  0.85378  0.91200  0.54529  1
+ Co  Co1  1  0.85642  0.63615  0.60648  1
+ Co  Co2  1  0.35642  0.89352  0.63615  1
+ Co  Co3  1  0.85642  0.86385  0.89352  1
+ Co  Co4  1  0.14358  0.13615  0.10648  1
+ Co  Co5  1  0.64358  0.10648  0.36385  1
+ Co  Co6  1  0.64358  0.39352  0.13615  1
+ Co  Co7  1  0.14358  0.36385  0.39352  1
+ Co  Co8  1  0.35642  0.60648  0.86385  1
+ Pr  Pr1  1  0.75000  0.25000  0.75000  1
+ Pr  Pr2  1  0.25000  0.75000  0.25000  1

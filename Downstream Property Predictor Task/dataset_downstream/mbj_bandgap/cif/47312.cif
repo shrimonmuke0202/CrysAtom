@@ -1,0 +1,49 @@
+CIF file written using JARVIS-Tools package.
+data_CuSnH12N2O6
+_symmetry_space_group_name_H-M  'P-1'
+_cell_length_a       5.57658
+_cell_length_b       6.77857
+_cell_length_c       4.83933
+_cell_angle_alpha    92.1608
+_cell_angle_beta     92.7041
+_cell_angle_gamma    109.127
+
+_symmetry_Int_Tables_number  2
+_chemical_formula_structural  CuSnH12N2O6
+_chemical_formula_sum  CuSnH2N2O6
+_cell_volume  172.3671220939684
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cu  Cu1  1  -0.00000  0.50000  -0.00000  1
+ H  H1  1  0.29550  0.05778  0.42655  1
+ H  H2  1  0.99200  0.75427  0.39656  1
+ H  H3  1  0.00800  0.24573  0.60344  1
+ H  H4  1  0.64520  0.11899  0.23613  1
+ H  H5  1  0.70450  0.94222  0.57345  1
+ H  H6  1  0.29615  0.61811  0.44406  1
+ H  H7  1  0.35480  0.88101  0.76387  1
+ H  H8  1  0.52267  0.35373  0.82190  1
+ H  H9  1  0.70385  0.38189  0.55594  1
+ H  H10  1  0.33373  0.40754  0.28281  1
+ H  H11  1  0.66627  0.59246  0.71719  1
+ H  H12  1  0.47733  0.64627  0.17810  1
+ N  N1  1  0.68877  0.44807  0.74614  1
+ N  N2  1  0.31123  0.55193  0.25386  1
+ O  O1  1  0.17609  0.87078  0.70563  1
+ O  O2  1  0.66535  0.87562  0.75310  1
+ O  O3  1  0.89831  0.71684  0.21033  1
+ O  O4  1  0.10169  0.28316  0.78967  1
+ O  O5  1  0.82391  0.12922  0.29437  1
+ O  O6  1  0.33465  0.12438  0.24690  1
+ Sn  Sn1  1  0.00000  0.00000  0.00000  1

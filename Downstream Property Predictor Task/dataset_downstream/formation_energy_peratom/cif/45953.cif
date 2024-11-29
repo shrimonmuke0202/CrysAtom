@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_SbO2
+_symmetry_space_group_name_H-M  'Cmcm'
+_cell_length_a       3.30059
+_cell_length_b       5.54592
+_cell_length_c       11.1333
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    107.312
+
+_symmetry_Int_Tables_number  63
+_chemical_formula_structural  SbO2
+_chemical_formula_sum  Sb4O8
+_cell_volume  194.55995136863342
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ O  O1  1  0.24358  0.48717  0.40756  1
+ O  O2  1  0.75642  0.51283  0.59244  1
+ O  O3  1  0.75642  0.51283  0.90756  1
+ O  O4  1  0.24358  0.48717  0.09244  1
+ O  O5  1  0.91484  0.82968  0.25000  1
+ O  O6  1  0.08516  0.17032  0.75000  1
+ O  O7  1  0.50000  0.00000  0.00000  1
+ O  O8  1  0.50000  0.00000  0.50000  1
+ Sb  Sb1  1  0.86660  0.73321  0.07786  1
+ Sb  Sb2  1  0.13340  0.26679  0.92214  1
+ Sb  Sb3  1  0.86660  0.73321  0.42214  1
+ Sb  Sb4  1  0.13340  0.26679  0.57786  1

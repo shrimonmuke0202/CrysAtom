@@ -1,0 +1,63 @@
+CIF file written using JARVIS-Tools package.
+data_BaN2O6
+_symmetry_space_group_name_H-M  'Pa-3'
+_cell_length_a       8.1479
+_cell_length_b       8.1479
+_cell_length_c       8.1479
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  205
+_chemical_formula_structural  BaN2O6
+_chemical_formula_sum  Ba4N8O24
+_cell_volume  540.9255948348679
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ba  Ba1  1  0.00000  0.50000  0.50000  1
+ Ba  Ba2  1  0.50000  0.50000  0.00000  1
+ Ba  Ba3  1  0.50000  0.00000  0.50000  1
+ Ba  Ba4  1  0.00000  0.00000  0.00000  1
+ N  N1  1  0.35019  0.35019  0.35019  1
+ N  N2  1  0.35019  0.14981  0.85019  1
+ N  N3  1  0.14981  0.85019  0.35019  1
+ N  N4  1  0.85019  0.35019  0.14981  1
+ N  N5  1  0.64981  0.64981  0.64981  1
+ N  N6  1  0.14981  0.64981  0.85019  1
+ N  N7  1  0.85019  0.14981  0.64981  1
+ N  N8  1  0.64981  0.85019  0.14981  1
+ O  O1  1  0.71115  0.97729  0.21573  1
+ O  O2  1  0.78427  0.28885  0.02271  1
+ O  O3  1  0.21115  0.97729  0.28427  1
+ O  O4  1  0.21573  0.78885  0.47729  1
+ O  O5  1  0.28427  0.21115  0.97729  1
+ O  O6  1  0.28427  0.28885  0.47729  1
+ O  O7  1  0.97729  0.28427  0.21115  1
+ O  O8  1  0.28885  0.47729  0.28427  1
+ O  O9  1  0.21115  0.52271  0.78427  1
+ O  O10  1  0.97729  0.21573  0.71115  1
+ O  O11  1  0.47729  0.28427  0.28885  1
+ O  O12  1  0.52271  0.71573  0.71115  1
+ O  O13  1  0.78427  0.21115  0.52271  1
+ O  O14  1  0.71573  0.78885  0.02271  1
+ O  O15  1  0.21573  0.71115  0.97729  1
+ O  O16  1  0.71573  0.71115  0.52271  1
+ O  O17  1  0.02271  0.71573  0.78885  1
+ O  O18  1  0.71115  0.52271  0.71573  1
+ O  O19  1  0.78885  0.47729  0.21573  1
+ O  O20  1  0.02271  0.78427  0.28885  1
+ O  O21  1  0.28885  0.02271  0.78427  1
+ O  O22  1  0.78885  0.02271  0.71573  1
+ O  O23  1  0.52271  0.78427  0.21115  1
+ O  O24  1  0.47729  0.21573  0.78885  1

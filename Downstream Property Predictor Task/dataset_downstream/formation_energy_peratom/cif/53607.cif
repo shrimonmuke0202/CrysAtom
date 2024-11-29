@@ -1,0 +1,45 @@
+CIF file written using JARVIS-Tools package.
+data_Co3O2F4
+_symmetry_space_group_name_H-M  'P1'
+_cell_length_a       4.49526
+_cell_length_b       5.45336
+_cell_length_c       7.56576
+_cell_angle_alpha    85.9327
+_cell_angle_beta     88.0769
+_cell_angle_gamma    87.6867
+
+_symmetry_Int_Tables_number  1
+_chemical_formula_structural  Co3O2F4
+_chemical_formula_sum  Co6O4F8
+_cell_volume  184.7636058795574
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Co  Co1  1  0.52783  0.51159  0.00757  1
+ Co  Co2  1  0.46318  0.18531  0.34821  1
+ Co  Co3  1  0.49936  0.83263  0.66159  1
+ Co  Co4  1  -0.00063  0.34109  0.67288  1
+ Co  Co5  1  0.00611  0.65242  0.31192  1
+ Co  Co6  1  0.98116  0.98268  0.00392  1
+ F  F1  1  0.29191  0.79676  0.89448  1
+ F  F2  1  0.71275  0.87323  0.42542  1
+ F  F3  1  0.70160  0.19523  0.11536  1
+ F  F4  1  0.78694  0.04385  0.76960  1
+ F  F5  1  0.80501  0.38082  0.42612  1
+ F  F6  1  0.19880  0.63320  0.54855  1
+ F  F7  1  0.21687  0.94068  0.23552  1
+ F  F8  1  0.20273  0.29212  0.90976  1
+ O  O1  1  0.70372  0.54457  0.76833  1
+ O  O2  1  0.29050  0.13539  0.57184  1
+ O  O3  1  0.30242  0.45802  0.22813  1
+ O  O4  1  0.80974  0.70039  0.10079  1

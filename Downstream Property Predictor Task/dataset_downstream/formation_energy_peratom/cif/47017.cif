@@ -1,0 +1,53 @@
+CIF file written using JARVIS-Tools package.
+data_Ca5Al2Sb6
+_symmetry_space_group_name_H-M  'Pbam'
+_cell_length_a       4.4781
+_cell_length_b       12.045
+_cell_length_c       14.0906
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  55
+_chemical_formula_structural  Ca5Al2Sb6
+_chemical_formula_sum  Ca0Al4Sb2
+_cell_volume  760.0260544855926
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Al  Al1  1  0.00000  0.16829  0.21243  1
+ Al  Al2  1  0.00000  0.83171  0.78757  1
+ Al  Al3  1  0.00000  0.66829  0.28757  1
+ Al  Al4  1  0.00000  0.33171  0.71243  1
+ Ca  Ca1  1  0.50000  0.59180  0.75303  1
+ Ca  Ca2  1  0.50000  0.67366  0.48690  1
+ Ca  Ca3  1  0.50000  0.82634  0.98690  1
+ Ca  Ca4  1  0.50000  0.09180  0.74697  1
+ Ca  Ca5  1  0.50000  0.00000  0.50000  1
+ Ca  Ca6  1  0.50000  0.50000  0.00000  1
+ Ca  Ca7  1  0.50000  0.90820  0.25303  1
+ Ca  Ca8  1  0.50000  0.32634  0.51310  1
+ Ca  Ca9  1  0.50000  0.40820  0.24697  1
+ Ca  Ca10  1  0.50000  0.17366  0.01310  1
+ Sb  Sb1  1  0.00000  0.52664  0.60078  1
+ Sb  Sb2  1  0.50000  0.16190  0.32322  1
+ Sb  Sb3  1  0.50000  0.83810  0.67678  1
+ Sb  Sb4  1  0.50000  0.66190  0.17678  1
+ Sb  Sb5  1  0.50000  0.33810  0.82322  1
+ Sb  Sb6  1  0.00000  0.15574  0.59332  1
+ Sb  Sb7  1  0.00000  0.65574  0.90668  1
+ Sb  Sb8  1  0.00000  0.84426  0.40668  1
+ Sb  Sb9  1  0.00000  0.02664  0.89922  1
+ Sb  Sb10  1  0.00000  0.47336  0.39922  1
+ Sb  Sb11  1  0.00000  0.34426  0.09332  1
+ Sb  Sb12  1  0.00000  0.97336  0.10078  1

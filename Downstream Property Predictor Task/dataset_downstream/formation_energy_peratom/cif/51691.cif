@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_TaCrNi
+_symmetry_space_group_name_H-M  'Amm2'
+_cell_length_a       4.88883
+_cell_length_b       4.88884
+_cell_length_c       7.83752
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    121.6
+
+_symmetry_Int_Tables_number  38
+_chemical_formula_structural  TaCrNi
+_chemical_formula_sum  Ta4Cr4Ni4
+_cell_volume  159.54803107174243
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cr  Cr1  1  0.00191  0.99809  0.24848  1
+ Cr  Cr2  1  0.00191  0.99809  0.75152  1
+ Cr  Cr3  1  0.83071  0.66667  0.00000  1
+ Cr  Cr4  1  0.33333  0.16929  0.00000  1
+ Ni  Ni1  1  0.82499  0.17501  0.00000  1
+ Ni  Ni2  1  0.17043  0.33497  0.50000  1
+ Ni  Ni3  1  0.66503  0.82957  0.50000  1
+ Ni  Ni4  1  0.17040  0.82960  0.50000  1
+ Ta  Ta1  1  0.33600  0.66400  0.18904  1
+ Ta  Ta2  1  0.66466  0.33534  0.31142  1
+ Ta  Ta3  1  0.66466  0.33534  0.68858  1
+ Ta  Ta4  1  0.33600  0.66400  0.81096  1

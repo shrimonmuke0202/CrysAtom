@@ -1,0 +1,38 @@
+CIF file written using JARVIS-Tools package.
+data_Li3MnF7
+_symmetry_space_group_name_H-M  'R3m'
+_cell_length_a       5.60335
+_cell_length_b       5.60335
+_cell_length_c       5.60335
+_cell_angle_alpha    65.1753
+_cell_angle_beta     65.1753
+_cell_angle_gamma    65.1754
+
+_symmetry_Int_Tables_number  160
+_chemical_formula_structural  Li3MnF7
+_chemical_formula_sum  Li3MnF7
+_cell_volume  138.4398638268548
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ F  F1  1  0.78376  0.21114  0.78376  1
+ F  F2  1  0.21114  0.78376  0.78376  1
+ F  F3  1  0.78376  0.78376  0.21114  1
+ F  F4  1  0.74393  0.74393  0.74393  1
+ F  F5  1  0.23231  0.79023  0.23231  1
+ F  F6  1  0.23231  0.23231  0.79023  1
+ F  F7  1  0.79023  0.23231  0.23231  1
+ Li  Li1  1  0.62129  0.10046  0.62129  1
+ Li  Li2  1  0.10046  0.62129  0.62129  1
+ Li  Li3  1  0.62129  0.62129  0.10046  1
+ Mn  Mn1  1  0.00263  0.00263  0.00263  1

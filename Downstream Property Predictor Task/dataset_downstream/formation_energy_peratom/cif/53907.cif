@@ -1,0 +1,42 @@
+CIF file written using JARVIS-Tools package.
+data_ZrU4O10
+_symmetry_space_group_name_H-M  'R-3m'
+_cell_length_a       15.5741
+_cell_length_b       15.5741
+_cell_length_c       15.5741
+_cell_angle_alpha    14.0229
+_cell_angle_beta     14.0229
+_cell_angle_gamma    14.0229
+
+_symmetry_Int_Tables_number  166
+_chemical_formula_structural  ZrU4O10
+_chemical_formula_sum  ZrU4O0
+_cell_volume  193.03790240980084
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ O  O1  1  0.04678  0.04678  0.04678  1
+ O  O2  1  0.85031  0.85031  0.85031  1
+ O  O3  1  0.44852  0.44852  0.44852  1
+ O  O4  1  0.65254  0.65254  0.65254  1
+ O  O5  1  0.25215  0.25215  0.25215  1
+ O  O6  1  0.34746  0.34746  0.34746  1
+ O  O7  1  0.14969  0.14969  0.14969  1
+ O  O8  1  0.74785  0.74785  0.74785  1
+ O  O9  1  0.95322  0.95322  0.95322  1
+ O  O10  1  0.55148  0.55148  0.55148  1
+ U  U1  1  0.60235  0.60235  0.60235  1
+ U  U2  1  0.20080  0.20080  0.20080  1
+ U  U3  1  0.79920  0.79920  0.79920  1
+ U  U4  1  0.39765  0.39765  0.39765  1
+ Zr  Zr1  1  0.00000  0.00000  0.00000  1

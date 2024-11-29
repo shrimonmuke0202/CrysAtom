@@ -1,0 +1,45 @@
+CIF file written using JARVIS-Tools package.
+data_TiAsRu
+_symmetry_space_group_name_H-M  'Ima2'
+_cell_length_a       7.4893
+_cell_length_b       7.4893
+_cell_length_c       7.4893
+_cell_angle_alpha    128.104
+_cell_angle_beta     121.132
+_cell_angle_gamma    82.2928
+
+_symmetry_Int_Tables_number  46
+_chemical_formula_structural  TiAsRu
+_chemical_formula_sum  Ti6As6Ru6
+_cell_volume  272.0685587288079
+_cell_formula_units_Z  6
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ As  As1  1  0.33041  0.57916  0.24321  1
+ As  As2  1  0.83596  0.57916  0.74875  1
+ As  As3  1  0.71149  0.21506  0.00357  1
+ As  As4  1  0.28851  0.29208  0.50357  1
+ As  As5  1  0.16404  0.91279  0.74321  1
+ As  As6  1  0.66959  0.91279  0.24875  1
+ Ru  Ru1  1  0.08111  0.49643  0.32861  1
+ Ru  Ru2  1  0.91889  0.24749  0.41532  1
+ Ru  Ru3  1  0.33218  0.24749  0.82861  1
+ Ru  Ru4  1  0.66782  0.49643  0.91532  1
+ Ru  Ru5  1  0.50000  0.99746  0.49746  1
+ Ru  Ru6  1  -0.00000  0.99746  0.99746  1
+ Ti  Ti1  1  0.94317  0.23588  0.79272  1
+ Ti  Ti2  1  0.05683  0.84955  0.29272  1
+ Ti  Ti3  1  0.25013  0.66639  0.91627  1
+ Ti  Ti4  1  0.74987  0.66614  0.41627  1
+ Ti  Ti5  1  0.52976  0.80407  0.77431  1
+ Ti  Ti6  1  0.47024  0.24455  0.27431  1

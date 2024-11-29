@@ -1,0 +1,49 @@
+CIF file written using JARVIS-Tools package.
+data_KGaAs2O7
+_symmetry_space_group_name_H-M  'P-1'
+_cell_length_a       6.34703
+_cell_length_b       6.42583
+_cell_length_c       8.22287
+_cell_angle_alpha    95.7622
+_cell_angle_beta     104.29
+_cell_angle_gamma    103.898
+
+_symmetry_Int_Tables_number  2
+_chemical_formula_structural  KGaAs2O7
+_chemical_formula_sum  K2Ga2As4O4
+_cell_volume  310.9003622598985
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ As  As1  1  0.83029  0.03733  0.69124  1
+ As  As2  1  0.48307  0.74683  0.83518  1
+ As  As3  1  0.16971  0.96267  0.30876  1
+ As  As4  1  0.51693  0.25317  0.16482  1
+ Ga  Ga1  1  0.37826  0.19698  0.72198  1
+ Ga  Ga2  1  0.62174  0.80302  0.27802  1
+ K  K1  1  0.00000  0.50000  0.50000  1
+ K  K2  1  -0.00000  0.50000  -0.00000  1
+ O  O1  1  0.22698  0.10909  0.13986  1
+ O  O2  1  0.30834  0.88008  0.72242  1
+ O  O3  1  0.56025  0.27119  0.97035  1
+ O  O4  1  0.90423  0.79362  0.21823  1
+ O  O5  1  0.69166  0.11992  0.27758  1
+ O  O6  1  0.56828  0.49280  0.29354  1
+ O  O7  1  0.20272  0.15588  0.47562  1
+ O  O8  1  0.43975  0.72881  0.02965  1
+ O  O9  1  0.43172  0.50720  0.70646  1
+ O  O10  1  0.77302  0.89091  0.86014  1
+ O  O11  1  0.79728  0.84412  0.52438  1
+ O  O12  1  0.09577  0.20638  0.78177  1
+ O  O13  1  0.33317  0.78613  0.33595  1
+ O  O14  1  0.66683  0.21387  0.66405  1

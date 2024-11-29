@@ -1,0 +1,65 @@
+CIF file written using JARVIS-Tools package.
+data_Ba2CuSn2F14
+_symmetry_space_group_name_H-M  'C2/c'
+_cell_length_a       5.32149
+_cell_length_b       7.68939
+_cell_length_c       15.4304
+_cell_angle_alpha    92.2782
+_cell_angle_beta     90.0109
+_cell_angle_gamma    110.242
+
+_symmetry_Int_Tables_number  15
+_chemical_formula_structural  Ba2CuSn2F14
+_chemical_formula_sum  Ba4Cu2Sn4F28
+_cell_volume  591.8697189574406
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ba  Ba1  1  0.74383  0.63679  0.37510  1
+ Ba  Ba2  1  0.89264  0.63690  0.87511  1
+ Ba  Ba3  1  0.25471  0.36123  0.62417  1
+ Ba  Ba4  1  0.10641  0.36135  0.12416  1
+ Cu  Cu1  1  0.49955  0.99905  0.99965  1
+ Cu  Cu2  1  0.49909  0.99889  0.49964  1
+ F  F1  1  -0.00508  0.63798  0.22171  1
+ F  F2  1  0.64687  0.49997  0.08422  1
+ F  F3  1  0.55573  0.74096  0.20639  1
+ F  F4  1  0.85278  0.49983  0.58423  1
+ F  F5  1  0.35547  0.36026  0.27768  1
+ F  F6  1  0.91560  0.98008  0.84074  1
+ F  F7  1  0.51798  0.88495  0.39450  1
+ F  F8  1  0.63260  0.11302  0.10478  1
+ F  F9  1  0.44343  0.25730  0.79294  1
+ F  F10  1  0.14551  0.49814  0.41526  1
+ F  F11  1  0.42352  0.28129  0.44725  1
+ F  F12  1  0.57478  0.71665  0.55207  1
+ F  F13  1  0.93444  0.01811  0.65854  1
+ F  F14  1  0.14164  0.71673  0.05209  1
+ F  F15  1  0.85751  0.28149  0.94724  1
+ F  F16  1  0.10537  0.83750  0.51499  1
+ F  F17  1  0.36654  0.88511  0.89452  1
+ F  F18  1  0.18498  0.74088  0.70641  1
+ F  F19  1  0.64282  0.63793  0.72168  1
+ F  F20  1  0.81336  0.25740  0.29297  1
+ F  F21  1  0.48010  0.11282  0.60477  1
+ F  F22  1  0.89280  0.16032  0.48431  1
+ F  F23  1  0.73190  0.83766  0.01500  1
+ F  F24  1  0.06379  0.97999  0.34071  1
+ F  F25  1  0.26723  0.16048  0.98431  1
+ F  F26  1  0.00424  0.36028  0.77764  1
+ F  F27  1  0.08356  0.01819  0.15854  1
+ F  F28  1  0.35230  0.49823  0.91517  1
+ Sn  Sn1  1  0.09380  0.23627  0.37062  1
+ Sn  Sn2  1  0.90448  0.76180  0.62873  1
+ Sn  Sn3  1  0.14202  0.23634  0.87059  1
+ Sn  Sn4  1  0.85715  0.76191  0.12874  1

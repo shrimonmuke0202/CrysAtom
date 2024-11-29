@@ -1,0 +1,49 @@
+CIF file written using JARVIS-Tools package.
+data_Rb6Cl4O
+_symmetry_space_group_name_H-M  'R-3c'
+_cell_length_a       8.94183
+_cell_length_b       8.94183
+_cell_length_c       8.94184
+_cell_angle_alpha    88.7011
+_cell_angle_beta     88.7011
+_cell_angle_gamma    88.7011
+
+_symmetry_Int_Tables_number  167
+_chemical_formula_structural  Rb6Cl4O
+_chemical_formula_sum  Rb2Cl8O2
+_cell_volume  714.4142216881014
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cl  Cl1  1  0.75000  0.75000  0.75000  1
+ Cl  Cl2  1  0.25000  0.25000  0.25000  1
+ Cl  Cl3  1  0.37339  0.75000  0.12661  1
+ Cl  Cl4  1  0.75000  0.12661  0.37339  1
+ Cl  Cl5  1  0.12661  0.37339  0.75000  1
+ Cl  Cl6  1  0.62661  0.25000  0.87339  1
+ Cl  Cl7  1  0.25000  0.87339  0.62661  1
+ Cl  Cl8  1  0.87339  0.62661  0.25000  1
+ O  O1  1  0.50000  0.50000  0.50000  1
+ O  O2  1  0.00000  0.00000  0.00000  1
+ Rb  Rb1  1  0.43032  0.21220  0.55890  1
+ Rb  Rb2  1  0.93032  0.05890  0.71220  1
+ Rb  Rb3  1  0.05890  0.71220  0.93032  1
+ Rb  Rb4  1  0.44110  0.56968  0.78780  1
+ Rb  Rb5  1  0.56968  0.78780  0.44110  1
+ Rb  Rb6  1  0.78780  0.44110  0.56968  1
+ Rb  Rb7  1  0.28780  0.06968  0.94110  1
+ Rb  Rb8  1  0.06968  0.94110  0.28780  1
+ Rb  Rb9  1  0.94110  0.28780  0.06968  1
+ Rb  Rb10  1  0.55890  0.43032  0.21220  1
+ Rb  Rb11  1  0.71220  0.93032  0.05890  1
+ Rb  Rb12  1  0.21220  0.55890  0.43032  1

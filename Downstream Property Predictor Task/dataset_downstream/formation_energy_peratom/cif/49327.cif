@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_Sr3NbCoO7
+_symmetry_space_group_name_H-M  'I4mm'
+_cell_length_a       3.97264
+_cell_length_b       3.97263
+_cell_length_c       10.608
+_cell_angle_alpha    79.2071
+_cell_angle_beta     79.2082
+_cell_angle_gamma    89.999
+
+_symmetry_Int_Tables_number  107
+_chemical_formula_structural  Sr3NbCoO7
+_chemical_formula_sum  Sr3NbCoO7
+_cell_volume  161.43683855552925
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Co  Co1  1  0.10005  0.10008  0.79982  1
+ Nb  Nb1  1  0.90554  0.90549  0.18904  1
+ O  O1  1  0.59514  0.09518  0.80962  1
+ O  O2  1  0.09513  0.59518  0.80962  1
+ O  O3  1  0.40155  0.90151  0.19700  1
+ O  O4  1  0.90160  0.40151  0.19700  1
+ O  O5  1  0.00079  0.00079  -0.00159  1
+ O  O6  1  0.19360  0.19364  0.61269  1
+ O  O7  1  0.80437  0.80436  0.39129  1
+ Sr  Sr1  1  0.30814  0.30809  0.38384  1
+ Sr  Sr2  1  0.67849  0.67853  0.64293  1
+ Sr  Sr3  1  0.51559  0.51563  0.96872  1

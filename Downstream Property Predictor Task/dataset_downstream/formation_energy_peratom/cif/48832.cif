@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_SrGeP2O8
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       4.69795
+_cell_length_b       4.69794
+_cell_length_c       7.37183
+_cell_angle_alpha    86.2907
+_cell_angle_beta     86.2907
+_cell_angle_gamma    66.3634
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  SrGeP2O8
+_chemical_formula_sum  SrGeP2O8
+_cell_volume  148.60562951933125
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ge  Ge1  1  0.00000  0.00000  0.00000  1
+ O  O1  1  0.23482  0.23482  0.95392  1
+ O  O2  1  0.76518  0.76518  0.04608  1
+ O  O3  1  0.30891  0.30891  0.60128  1
+ O  O4  1  0.69109  0.69109  0.39872  1
+ O  O5  1  0.23651  0.73137  0.81032  1
+ O  O6  1  0.73137  0.23651  0.81032  1
+ O  O7  1  0.76349  0.26863  0.18968  1
+ O  O8  1  0.26863  0.76349  0.18968  1
+ P  P1  1  0.36947  0.36947  0.79157  1
+ P  P2  1  0.63053  0.63053  0.20843  1
+ Sr  Sr1  1  -0.00000  -0.00000  0.50000  1

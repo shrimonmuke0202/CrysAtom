@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_NbW3Se8
+_symmetry_space_group_name_H-M  'Pmm2'
+_cell_length_a       3.36952
+_cell_length_b       13.0874
+_cell_length_c       5.83934
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  25
+_chemical_formula_structural  NbW3Se8
+_chemical_formula_sum  NbW3Se8
+_cell_volume  257.5051113809792
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Nb  Nb1  1  0.00003  0.75000  0.67439  1
+ Se  Se1  1  0.00003  0.62316  0.32896  1
+ Se  Se2  1  0.49997  0.12268  0.16680  1
+ Se  Se3  1  0.49997  0.37732  0.16680  1
+ Se  Se4  1  0.00003  0.87684  0.32896  1
+ Se  Se5  1  0.50003  0.61813  0.83729  1
+ Se  Se6  1  0.99997  0.12273  0.66674  1
+ Se  Se7  1  0.99997  0.37727  0.66674  1
+ Se  Se8  1  0.50003  0.88187  0.83729  1
+ W  W1  1  0.99997  0.25000  0.33338  1
+ W  W2  1  0.50003  0.75000  0.15910  1
+ W  W3  1  0.49997  0.25000  0.83354  1

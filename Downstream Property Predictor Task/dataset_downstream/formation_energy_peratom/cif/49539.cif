@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_Li4CoTeO6
+_symmetry_space_group_name_H-M  'C2'
+_cell_length_a       5.18751
+_cell_length_b       5.18751
+_cell_length_c       5.14174
+_cell_angle_alpha    79.8931
+_cell_angle_beta     79.8931
+_cell_angle_gamma    119.542
+
+_symmetry_Int_Tables_number  5
+_chemical_formula_structural  Li4CoTeO6
+_chemical_formula_sum  Li4CoTeO6
+_cell_volume  112.8277176282113
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Co  Co1  1  0.33481  0.66519  -0.00000  1
+ Li  Li1  1  0.82543  0.17457  0.50000  1
+ Li  Li2  1  0.17370  0.82630  0.50000  1
+ Li  Li3  1  0.50156  0.49844  0.50000  1
+ Li  Li4  1  0.66604  0.33396  -0.00000  1
+ O  O1  1  0.08406  0.39333  0.76329  1
+ O  O2  1  0.38636  0.07120  0.76257  1
+ O  O3  1  0.92880  0.61364  0.23743  1
+ O  O4  1  0.60667  0.91594  0.23671  1
+ O  O5  1  0.23059  0.23757  0.22726  1
+ O  O6  1  0.76243  0.76941  0.77274  1
+ Te  Te1  1  -0.00044  0.00044  -0.00000  1

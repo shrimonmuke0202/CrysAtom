@@ -1,0 +1,63 @@
+CIF file written using JARVIS-Tools package.
+data_TiH20C11O4
+_symmetry_space_group_name_H-M  'P1'
+_cell_length_a       4.7937
+_cell_length_b       7.15222
+_cell_length_c       9.14103
+_cell_angle_alpha    80.5897
+_cell_angle_beta     87.0187
+_cell_angle_gamma    90.3301
+
+_symmetry_Int_Tables_number  1
+_chemical_formula_structural  TiH20C11O4
+_chemical_formula_sum  TiH20CO4
+_cell_volume  308.7373272828124
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ C  C1  1  0.56486  0.36616  0.49666  1
+ C  C2  1  0.15375  0.94038  0.31138  1
+ C  C3  1  0.53846  0.33650  0.22642  1
+ C  C4  1  0.68521  0.50978  0.58471  1
+ C  C5  1  0.53098  0.86659  0.02264  1
+ C  C6  1  0.47343  0.46054  0.34155  1
+ C  C7  1  0.60495  0.82830  0.67476  1
+ C  C8  1  0.47194  0.65291  0.62796  1
+ C  C9  1  0.80403  0.78243  0.80121  1
+ C  C10  1  0.65818  0.70665  0.95468  1
+ C  C11  1  0.15566  0.24538  -0.10848  1
+ H  H1  1  0.59364  0.59367  0.30643  1
+ H  H2  1  0.93063  0.90746  0.81117  1
+ H  H3  1  0.95318  0.67561  0.77483  1
+ H  H4  1  0.49577  0.60068  0.94623  1
+ H  H5  1  0.81661  0.64123  0.02891  1
+ H  H6  1  0.72388  0.90784  0.57758  1
+ H  H7  1  0.43961  0.92381  0.70528  1
+ H  H8  1  0.25064  0.49424  0.34221  1
+ H  H9  1  0.37931  0.24114  -0.13943  1
+ H  H10  1  0.72543  0.26051  0.48199  1
+ H  H11  1  0.38553  0.28870  0.55947  1
+ H  H12  1  0.37806  0.91346  0.31610  1
+ H  H13  1  0.77431  0.43165  0.68496  1
+ H  H14  1  0.03215  0.18762  0.81066  1
+ H  H15  1  0.09345  0.39309  -0.10518  1
+ H  H16  1  0.08451  0.01748  0.40166  1
+ H  H17  1  0.03660  0.80543  0.32261  1
+ H  H18  1  0.86208  0.58559  0.51775  1
+ H  H19  1  0.34076  0.70165  0.53441  1
+ H  H20  1  0.33036  0.57888  0.71757  1
+ O  O1  1  0.70601  -0.01971  0.07061  1
+ O  O2  1  0.34849  0.27460  0.15700  1
+ O  O3  1  0.27246  -0.10846  0.02971  1
+ O  O4  1  0.79864  0.29958  0.20297  1
+ Ti  Ti1  1  0.02889  0.11359  0.11242  1

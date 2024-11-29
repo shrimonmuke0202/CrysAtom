@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_MgSi
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       6.15206
+_cell_length_b       6.15206
+_cell_length_c       10.1596
+_cell_angle_alpha    81.1889
+_cell_angle_beta     81.1889
+_cell_angle_gamma    36.9601
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  MgSi
+_chemical_formula_sum  Mg6Si6
+_cell_volume  228.16085311650056
+_cell_formula_units_Z  6
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Mg  Mg1  1  0.07180  0.07180  0.86789  1
+ Mg  Mg2  1  0.92820  0.92820  0.13211  1
+ Mg  Mg3  1  0.49618  0.49618  0.35017  1
+ Mg  Mg4  1  0.50382  0.50382  0.64983  1
+ Mg  Mg5  1  0.21508  0.21508  0.14896  1
+ Mg  Mg6  1  0.78492  0.78492  0.85104  1
+ Si  Si1  1  0.21541  0.21541  0.64282  1
+ Si  Si2  1  0.15029  0.15029  0.42448  1
+ Si  Si3  1  0.41197  0.41197  0.94293  1
+ Si  Si4  1  0.58803  0.58803  0.05707  1
+ Si  Si5  1  0.78459  0.78459  0.35718  1
+ Si  Si6  1  0.84971  0.84971  0.57552  1

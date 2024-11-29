@@ -1,0 +1,55 @@
+CIF file written using JARVIS-Tools package.
+data_CeFe9Si4
+_symmetry_space_group_name_H-M  'I4/mcm'
+_cell_length_a       7.70979
+_cell_length_b       7.70979
+_cell_length_c       7.95645
+_cell_angle_alpha    118.98
+_cell_angle_beta     118.98
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  140
+_chemical_formula_structural  CeFe9Si4
+_chemical_formula_sum  Ce2Fe8Si8
+_cell_volume  344.47352150534806
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ce  Ce1  1  0.75000  0.75000  0.50000  1
+ Ce  Ce2  1  0.25000  0.25000  0.50000  1
+ Fe  Fe1  1  0.43319  0.30214  -0.00000  1
+ Fe  Fe2  1  0.93319  0.19786  0.00000  1
+ Fe  Fe3  1  0.56681  0.69786  0.00000  1
+ Fe  Fe4  1  0.30214  0.56681  -0.00000  1
+ Fe  Fe5  1  0.80214  0.93319  -0.00000  1
+ Fe  Fe6  1  0.19786  0.06681  0.00000  1
+ Fe  Fe7  1  0.55180  0.30335  0.35515  1
+ Fe  Fe8  1  0.06681  0.80214  -0.00000  1
+ Fe  Fe9  1  0.69786  0.43319  0.00000  1
+ Fe  Fe10  1  0.80335  0.05180  0.35515  1
+ Fe  Fe11  1  0.05180  0.55180  0.35515  1
+ Fe  Fe12  1  0.00000  0.50000  -0.00000  1
+ Fe  Fe13  1  0.94820  0.44820  0.64485  1
+ Fe  Fe14  1  0.69665  0.19665  0.64485  1
+ Fe  Fe15  1  0.50000  -0.00000  -0.00000  1
+ Fe  Fe16  1  0.44820  0.69665  0.64485  1
+ Fe  Fe17  1  0.30335  0.80335  0.35515  1
+ Fe  Fe18  1  0.19665  0.94820  0.64485  1
+ Si  Si1  1  0.70589  0.54587  0.75175  1
+ Si  Si2  1  0.20589  0.70589  0.75175  1
+ Si  Si3  1  0.95413  0.79411  0.24825  1
+ Si  Si4  1  0.29411  0.45413  0.24825  1
+ Si  Si5  1  0.79411  0.29411  0.24825  1
+ Si  Si6  1  0.45413  0.95413  0.24825  1
+ Si  Si7  1  0.04587  0.20589  0.75175  1
+ Si  Si8  1  0.54587  0.04587  0.75175  1

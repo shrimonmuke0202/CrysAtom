@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_ErAlAu
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       4.43073
+_cell_length_b       7.12185
+_cell_length_c       7.7606
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  ErAlAu
+_chemical_formula_sum  Er4Al4Au4
+_cell_volume  244.88599780290488
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Al  Al1  1  0.25000  0.17505  0.92100  1
+ Al  Al2  1  0.25000  0.67505  0.57900  1
+ Al  Al3  1  0.75000  0.82495  0.07900  1
+ Al  Al4  1  0.75000  0.32495  0.42100  1
+ Au  Au1  1  0.25000  0.28492  0.59463  1
+ Au  Au2  1  0.25000  0.78492  0.90537  1
+ Au  Au3  1  0.75000  0.71508  0.40537  1
+ Au  Au4  1  0.75000  0.21508  0.09463  1
+ Er  Er1  1  0.25000  0.00871  0.30278  1
+ Er  Er2  1  0.25000  0.50871  0.19722  1
+ Er  Er3  1  0.75000  0.99129  0.69722  1
+ Er  Er4  1  0.75000  0.49129  0.80278  1

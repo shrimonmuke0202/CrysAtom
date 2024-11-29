@@ -1,0 +1,30 @@
+CIF file written using JARVIS-Tools package.
+data_SrPbO
+_symmetry_space_group_name_H-M  'Pm'
+_cell_length_a       3.9811
+_cell_length_b       7.27128
+_cell_length_c       3.74961
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    57.3809
+
+_symmetry_Int_Tables_number  6
+_chemical_formula_structural  SrPbO
+_chemical_formula_sum  SrPbO
+_cell_volume  91.42260205121079
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ O  O1  1  0.32754  0.06501  0.00000  1
+ Pb  Pb1  1  -0.02918  0.42038  0.00000  1
+ Sr  Sr1  1  0.00648  -0.11654  0.00000  1

@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_Dy3Pt
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       6.45191
+_cell_length_b       6.99382
+_cell_length_c       9.47959
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  Dy3Pt
+_chemical_formula_sum  Dy2Pt4
+_cell_volume  427.7521419238609
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Dy  Dy1  1  0.32216  0.68225  0.05870  1
+ Dy  Dy2  1  0.17784  0.18225  0.44130  1
+ Dy  Dy3  1  0.67784  0.31775  0.55870  1
+ Dy  Dy4  1  0.82216  0.81775  0.94130  1
+ Dy  Dy5  1  0.67784  0.31775  0.94130  1
+ Dy  Dy6  1  0.82216  0.81775  0.55870  1
+ Dy  Dy7  1  0.32216  0.68225  0.44130  1
+ Dy  Dy8  1  0.17784  0.18225  0.05870  1
+ Dy  Dy9  1  0.87130  0.52284  0.25000  1
+ Dy  Dy10  1  0.62870  0.02284  0.25000  1
+ Dy  Dy11  1  0.12870  0.47716  0.75000  1
+ Dy  Dy12  1  0.37130  0.97716  0.75000  1
+ Pt  Pt1  1  0.05168  0.88861  0.25000  1
+ Pt  Pt2  1  0.44832  0.38861  0.25000  1
+ Pt  Pt3  1  0.94832  0.11139  0.75000  1
+ Pt  Pt4  1  0.55168  0.61139  0.75000  1

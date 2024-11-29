@@ -1,0 +1,55 @@
+CIF file written using JARVIS-Tools package.
+data_CaYBO4
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       3.57451
+_cell_length_b       9.6413
+_cell_length_c       10.4718
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  CaYBO4
+_chemical_formula_sum  Ca4Y4B4O6
+_cell_volume  360.8875316335994
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ B  B1  1  0.25000  0.13115  0.69991  1
+ B  B2  1  0.25000  0.36885  0.19991  1
+ B  B3  1  0.75000  0.63115  0.80009  1
+ B  B4  1  0.75000  0.86885  0.30009  1
+ Ca  Ca1  1  0.25000  0.66904  0.08350  1
+ Ca  Ca2  1  0.25000  0.83096  0.58350  1
+ Ca  Ca3  1  0.75000  0.16904  0.41650  1
+ Ca  Ca4  1  0.75000  0.33096  0.91650  1
+ O  O1  1  0.75000  0.11476  0.99259  1
+ O  O2  1  0.75000  0.00101  0.24805  1
+ O  O3  1  0.25000  0.99899  0.75195  1
+ O  O4  1  0.25000  0.25004  0.77584  1
+ O  O5  1  0.25000  0.24996  0.27584  1
+ O  O6  1  0.75000  0.75004  0.72416  1
+ O  O7  1  0.75000  0.49899  0.74805  1
+ O  O8  1  0.25000  0.50101  0.25195  1
+ O  O9  1  0.25000  0.35246  0.06720  1
+ O  O10  1  0.25000  0.61476  0.50741  1
+ O  O11  1  0.75000  0.85246  0.43280  1
+ O  O12  1  0.25000  0.14754  0.56720  1
+ O  O13  1  0.75000  0.74996  0.22416  1
+ O  O14  1  0.75000  0.38524  0.49259  1
+ O  O15  1  0.75000  0.64754  0.93280  1
+ O  O16  1  0.25000  0.88524  0.00741  1
+ Y  Y1  1  0.25000  0.41255  0.61245  1
+ Y  Y2  1  0.75000  0.58745  0.38755  1
+ Y  Y3  1  0.75000  0.91255  0.88755  1
+ Y  Y4  1  0.25000  0.08745  0.11245  1

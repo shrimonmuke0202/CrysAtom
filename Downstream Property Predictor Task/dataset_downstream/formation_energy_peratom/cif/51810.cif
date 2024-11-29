@@ -1,0 +1,33 @@
+CIF file written using JARVIS-Tools package.
+data_CuBO4
+_symmetry_space_group_name_H-M  'I-4'
+_cell_length_a       4.30972
+_cell_length_b       4.30972
+_cell_length_c       4.30972
+_cell_angle_alpha    107.275
+_cell_angle_beta     107.275
+_cell_angle_gamma    113.96
+
+_symmetry_Int_Tables_number  82
+_chemical_formula_structural  CuBO4
+_chemical_formula_sum  CuBO4
+_cell_volume  61.334445342915785
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ B  B1  1  0.25000  0.75000  0.50000  1
+ Cu  Cu1  1  0.00000  0.00000  0.00000  1
+ O  O1  1  0.61867  0.08106  0.81206  1
+ O  O2  1  0.19339  0.38133  0.46239  1
+ O  O3  1  0.26900  0.80661  0.18794  1
+ O  O4  1  -0.08106  0.73100  0.53761  1

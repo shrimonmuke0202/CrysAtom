@@ -1,0 +1,59 @@
+CIF file written using JARVIS-Tools package.
+data_Nd2GeO5
+_symmetry_space_group_name_H-M  'P2_1/c'
+_cell_length_a       7.01873
+_cell_length_b       7.32355
+_cell_length_c       10.0573
+_cell_angle_alpha    90
+_cell_angle_beta     106.866
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  14
+_chemical_formula_structural  Nd2GeO5
+_chemical_formula_sum  Nd8Ge4O20
+_cell_volume  494.72654715200787
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ge  Ge1  1  0.98796  0.13644  0.20645  1
+ Ge  Ge2  1  0.51204  0.63644  0.79355  1
+ Ge  Ge3  1  0.01204  0.86356  0.79355  1
+ Ge  Ge4  1  0.48796  0.36356  0.20645  1
+ Nd  Nd1  1  0.42669  0.84719  0.14917  1
+ Nd  Nd2  1  0.07331  0.34719  0.85083  1
+ Nd  Nd3  1  0.74619  0.11856  0.52900  1
+ Nd  Nd4  1  0.92669  0.65281  0.14917  1
+ Nd  Nd5  1  0.24619  0.38144  0.52900  1
+ Nd  Nd6  1  0.25381  0.88144  0.47100  1
+ Nd  Nd7  1  0.75381  0.61856  0.47100  1
+ Nd  Nd8  1  0.57331  0.15281  0.85083  1
+ O  O1  1  0.30867  0.10756  0.97417  1
+ O  O2  1  0.54866  0.88283  0.38970  1
+ O  O3  1  0.95134  0.38283  0.61030  1
+ O  O4  1  0.45134  0.11717  0.61030  1
+ O  O5  1  0.74512  0.46480  0.82382  1
+ O  O6  1  0.80867  0.39244  0.97417  1
+ O  O7  1  0.69133  0.89244  0.02583  1
+ O  O8  1  0.19133  0.60756  0.02583  1
+ O  O9  1  0.04866  0.61717  0.38970  1
+ O  O10  1  0.14333  0.92173  0.21697  1
+ O  O11  1  0.52208  0.35764  0.39798  1
+ O  O12  1  0.64333  0.57827  0.21697  1
+ O  O13  1  0.85667  0.07827  0.78303  1
+ O  O14  1  0.35667  0.42173  0.78303  1
+ O  O15  1  0.02208  0.14236  0.39798  1
+ O  O16  1  0.25488  0.53520  0.17618  1
+ O  O17  1  0.24512  0.03520  0.82382  1
+ O  O18  1  0.97792  0.85764  0.60202  1
+ O  O19  1  0.47792  0.64236  0.60202  1
+ O  O20  1  0.75488  0.96480  0.17618  1

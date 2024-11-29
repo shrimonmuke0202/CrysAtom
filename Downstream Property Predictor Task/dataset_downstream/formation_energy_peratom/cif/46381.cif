@@ -1,0 +1,48 @@
+CIF file written using JARVIS-Tools package.
+data_Zr2Fe12P7
+_symmetry_space_group_name_H-M  'P-6'
+_cell_length_a       8.854
+_cell_length_b       8.854
+_cell_length_c       3.59972
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_symmetry_Int_Tables_number  174
+_chemical_formula_structural  Zr2Fe12P7
+_chemical_formula_sum  Zr2Fe2P7
+_cell_volume  244.38738525380128
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Fe  Fe1  1  0.93815  0.36841  0.00000  1
+ Fe  Fe2  1  0.90276  0.12031  0.50000  1
+ Fe  Fe3  1  0.87969  0.78245  0.50000  1
+ Fe  Fe4  1  0.21755  0.09724  0.50000  1
+ Fe  Fe5  1  0.05238  0.61527  0.50000  1
+ Fe  Fe6  1  0.38473  0.43710  0.50000  1
+ Fe  Fe7  1  0.56290  0.94762  0.50000  1
+ Fe  Fe8  1  0.12009  0.84412  0.00000  1
+ Fe  Fe9  1  0.15588  0.27597  0.00000  1
+ Fe  Fe10  1  0.63159  0.56974  0.00000  1
+ Fe  Fe11  1  0.43026  0.06185  0.00000  1
+ Fe  Fe12  1  0.72403  0.87991  0.00000  1
+ P  P1  1  0.11426  0.40366  0.50000  1
+ P  P2  1  0.70125  0.11441  0.00000  1
+ P  P3  1  0.88559  0.58684  0.00000  1
+ P  P4  1  0.00000  0.00000  0.00000  1
+ P  P5  1  0.59634  0.71059  0.50000  1
+ P  P6  1  0.28941  0.88574  0.50000  1
+ P  P7  1  0.41316  0.29875  0.00000  1
+ Zr  Zr1  1  0.66667  0.33333  0.50000  1
+ Zr  Zr2  1  0.33333  0.66667  0.00000  1

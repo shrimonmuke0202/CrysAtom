@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_Ti3Nb3Sn2
+_symmetry_space_group_name_H-M  'R32'
+_cell_length_a       5.2771
+_cell_length_b       5.2771
+_cell_length_c       5.2771
+_cell_angle_alpha    90.4025
+_cell_angle_beta     90.4025
+_cell_angle_gamma    90.4024
+
+_symmetry_Int_Tables_number  155
+_chemical_formula_structural  Ti3Nb3Sn2
+_chemical_formula_sum  Ti3Nb3Sn2
+_cell_volume  146.94450377843341
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Nb  Nb1  1  0.50000  0.74479  0.25521  1
+ Nb  Nb2  1  0.74479  0.25521  0.50000  1
+ Nb  Nb3  1  0.25521  0.50000  0.74479  1
+ Sn  Sn1  1  0.24170  0.24170  0.24170  1
+ Sn  Sn2  1  0.75830  0.75830  0.75830  1
+ Ti  Ti1  1  0.00000  0.73756  0.26244  1
+ Ti  Ti2  1  0.73756  0.26244  -0.00000  1
+ Ti  Ti3  1  0.26244  -0.00000  0.73756  1

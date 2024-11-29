@@ -1,0 +1,31 @@
+CIF file written using JARVIS-Tools package.
+data_HfSe
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       3.44623
+_cell_length_b       5.14431
+_cell_length_c       5.29162
+_cell_angle_alpha    89.2731
+_cell_angle_beta     108.928
+_cell_angle_gamma    70.4366
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  HfSe
+_chemical_formula_sum  Hf2Se2
+_cell_volume  82.83857855894286
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Hf  Hf1  1  0.08742  -0.03668  0.03508  1
+ Hf  Hf2  1  -0.02751  0.49292  0.33570  1
+ Se  Se1  1  0.29056  0.42582  0.90353  1
+ Se  Se2  1  0.76935  0.03043  0.46725  1

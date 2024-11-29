@@ -1,0 +1,36 @@
+CIF file written using JARVIS-Tools package.
+data_BaCl2
+_symmetry_space_group_name_H-M  'P-62m'
+_cell_length_a       8.11131
+_cell_length_b       8.11131
+_cell_length_c       4.63978
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_symmetry_Int_Tables_number  189
+_chemical_formula_structural  BaCl2
+_chemical_formula_sum  Ba3Cl6
+_cell_volume  264.36847451984517
+_cell_formula_units_Z  3
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ba  Ba1  1  0.00000  0.00000  0.50000  1
+ Ba  Ba2  1  0.66667  0.33333  0.00000  1
+ Ba  Ba3  1  0.33333  0.66667  0.00000  1
+ Cl  Cl1  1  -0.00000  0.74365  0.00000  1
+ Cl  Cl2  1  0.58890  0.58890  0.50000  1
+ Cl  Cl3  1  0.41110  -0.00000  0.50000  1
+ Cl  Cl4  1  0.25635  0.25635  0.00000  1
+ Cl  Cl5  1  -0.00000  0.41110  0.50000  1
+ Cl  Cl6  1  0.74365  -0.00000  0.00000  1

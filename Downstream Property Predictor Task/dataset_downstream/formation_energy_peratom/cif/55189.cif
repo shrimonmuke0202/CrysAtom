@@ -1,0 +1,31 @@
+CIF file written using JARVIS-Tools package.
+data_RuO2F
+_symmetry_space_group_name_H-M  'Pmmm'
+_cell_length_a       3.68346
+_cell_length_b       3.70894
+_cell_length_c       4.07373
+_cell_angle_alpha    91.1622
+_cell_angle_beta     90.2512
+_cell_angle_gamma    90.0939
+
+_symmetry_Int_Tables_number  47
+_chemical_formula_structural  RuO2F
+_chemical_formula_sum  RuO2F
+_cell_volume  55.64231602234421
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ F  F1  1  0.06832  0.01051  0.45590  1
+ O  O1  1  0.06844  0.51030  -0.04407  1
+ O  O2  1  0.56842  0.01028  0.95587  1
+ Ru  Ru1  1  0.06841  0.01030  -0.04411  1

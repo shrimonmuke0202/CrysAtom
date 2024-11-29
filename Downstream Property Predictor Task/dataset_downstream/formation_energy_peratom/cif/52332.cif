@@ -1,0 +1,53 @@
+CIF file written using JARVIS-Tools package.
+data_Li2P2WO8
+_symmetry_space_group_name_H-M  'Pmc2_1'
+_cell_length_a       4.87478
+_cell_length_b       5.82761
+_cell_length_c       10.0979
+_cell_angle_alpha    90.0026
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  26
+_chemical_formula_structural  Li2P2WO8
+_chemical_formula_sum  Li4P4W2O6
+_cell_volume  286.86278398489736
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Li  Li1  1  0.68449  0.73075  0.55627  1
+ Li  Li2  1  0.31551  0.73075  0.05627  1
+ Li  Li3  1  0.27228  0.73071  0.73456  1
+ Li  Li4  1  0.72772  0.73071  0.23456  1
+ O  O1  1  0.54862  0.02526  0.64949  1
+ O  O2  1  0.45138  0.02526  0.14949  1
+ O  O3  1  0.97059  0.93835  0.83220  1
+ O  O4  1  0.44163  0.23079  0.43077  1
+ O  O5  1  0.08633  0.23077  0.61061  1
+ O  O6  1  0.91367  0.23077  0.11061  1
+ O  O7  1  0.55837  0.23079  0.93077  1
+ O  O8  1  0.45142  0.43630  0.14952  1
+ O  O9  1  0.97062  0.52318  0.83221  1
+ O  O10  1  0.02938  0.52318  0.33221  1
+ O  O11  1  0.47958  0.73077  0.39191  1
+ O  O12  1  0.54858  0.43630  0.64952  1
+ O  O13  1  0.07564  0.73079  0.55322  1
+ O  O14  1  0.92436  0.73079  0.05322  1
+ O  O15  1  0.52042  0.73077  0.89191  1
+ O  O16  1  0.02941  0.93835  0.33220  1
+ P  P1  1  0.17248  0.73077  0.41084  1
+ P  P2  1  0.82752  0.73077  0.91084  1
+ P  P3  1  0.60767  0.23078  0.08022  1
+ P  P4  1  0.39233  0.23078  0.58022  1
+ W  W1  1  0.81520  0.23077  0.76817  1
+ W  W2  1  0.18480  0.23077  0.26817  1

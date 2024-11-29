@@ -1,0 +1,49 @@
+CIF file written using JARVIS-Tools package.
+data_Er7Te2Au2
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       9.20317
+_cell_length_b       9.20316
+_cell_length_c       17.0308
+_cell_angle_alpha    76.019
+_cell_angle_beta     76.019
+_cell_angle_gamma    24.9618
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  Er7Te2Au2
+_chemical_formula_sum  Er4Te4Au4
+_cell_volume  589.8141388786933
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Au  Au1  1  0.61840  0.61840  0.60007  1
+ Au  Au2  1  0.16991  0.16991  0.88936  1
+ Au  Au3  1  0.38160  0.38160  0.39993  1
+ Au  Au4  1  0.83009  0.83009  0.11064  1
+ Er  Er1  1  0.33762  0.33762  0.98156  1
+ Er  Er2  1  0.99865  0.99865  0.33366  1
+ Er  Er3  1  0.17603  0.17603  0.46858  1
+ Er  Er4  1  0.18978  0.18978  0.68034  1
+ Er  Er5  1  0.00135  0.00135  0.66634  1
+ Er  Er6  1  0.77857  0.77857  0.80596  1
+ Er  Er7  1  0.66238  0.66238  0.01844  1
+ Er  Er8  1  0.57475  0.57475  0.82823  1
+ Er  Er9  1  0.42525  0.42525  0.17177  1
+ Er  Er10  1  0.22143  0.22143  0.19404  1
+ Er  Er11  1  0.50000  0.50000  0.50000  1
+ Er  Er12  1  0.00000  0.00000  0.00000  1
+ Er  Er13  1  0.81022  0.81022  0.31966  1
+ Er  Er14  1  0.82397  0.82397  0.53142  1
+ Te  Te1  1  0.06613  0.06613  0.15037  1
+ Te  Te2  1  0.93387  0.93387  0.84963  1
+ Te  Te3  1  0.36563  0.36563  0.66274  1
+ Te  Te4  1  0.63437  0.63437  0.33726  1

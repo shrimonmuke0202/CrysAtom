@@ -1,0 +1,47 @@
+CIF file written using JARVIS-Tools package.
+data_ZnNiGe2O6
+_symmetry_space_group_name_H-M  'C2/c'
+_cell_length_a       5.20942
+_cell_length_b       6.62089
+_cell_length_c       6.62091
+_cell_angle_alpha    85.5772
+_cell_angle_beta     81.4134
+_cell_angle_gamma    81.4135
+
+_symmetry_Int_Tables_number  15
+_chemical_formula_structural  ZnNiGe2O6
+_chemical_formula_sum  Zn2Ni2Ge4O2
+_cell_volume  222.91984169341475
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ge  Ge1  1  0.78706  0.39532  0.20528  1
+ Ge  Ge2  1  0.71294  0.79472  0.60468  1
+ Ge  Ge3  1  0.21294  0.60468  0.79472  1
+ Ge  Ge4  1  0.28706  0.20528  0.39532  1
+ Ni  Ni1  1  0.25000  0.09034  0.90965  1
+ Ni  Ni2  1  0.75000  0.90966  0.09034  1
+ O  O1  1  0.87145  0.20157  0.02647  1
+ O  O2  1  0.59136  0.29315  0.43092  1
+ O  O3  1  0.12854  0.79843  0.97353  1
+ O  O4  1  0.40864  0.70685  0.56908  1
+ O  O5  1  0.09136  0.43092  0.29315  1
+ O  O6  1  0.90864  0.56908  0.70685  1
+ O  O7  1  0.37146  0.02647  0.20157  1
+ O  O8  1  0.88296  0.86710  0.36915  1
+ O  O9  1  0.61705  0.63085  0.13290  1
+ O  O10  1  0.11704  0.13290  0.63085  1
+ O  O11  1  0.62854  0.97353  0.79843  1
+ O  O12  1  0.38295  0.36915  0.86710  1
+ Zn  Zn1  1  0.25000  0.73221  0.26779  1
+ Zn  Zn2  1  0.75000  0.26779  0.73221  1

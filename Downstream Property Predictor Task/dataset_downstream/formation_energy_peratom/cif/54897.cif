@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_V10Si3Ge3
+_symmetry_space_group_name_H-M  'Fmm2'
+_cell_length_a       9.47483
+_cell_length_b       7.12935
+_cell_length_c       7.1084
+_cell_angle_alpha    83.437
+_cell_angle_beta     48.3761
+_cell_angle_gamma    48.1869
+
+_symmetry_Int_Tables_number  42
+_chemical_formula_structural  V10Si3Ge3
+_chemical_formula_sum  V0Si3Ge3
+_cell_volume  216.0560842240276
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ge  Ge1  1  0.24978  0.24978  0.25022  1
+ Ge  Ge2  1  0.74978  0.74978  0.75022  1
+ Ge  Ge3  1  0.33481  0.33481  0.66519  1
+ Si  Si1  1  0.66553  0.66553  0.33447  1
+ Si  Si2  1  0.16440  0.83471  0.16529  1
+ Si  Si3  1  0.83471  0.16440  0.83560  1
+ V  V1  1  0.76901  0.42265  0.57735  1
+ V  V2  1  0.22958  0.57950  0.42050  1
+ V  V3  1  0.72964  0.92469  0.07531  1
+ V  V4  1  0.26793  0.07366  0.92634  1
+ V  V5  1  0.92469  0.72964  0.27036  1
+ V  V6  1  0.07366  0.26793  0.73207  1
+ V  V7  1  0.42265  0.76901  0.23099  1
+ V  V8  1  0.57950  0.22958  0.77042  1
+ V  V9  1  0.75416  0.25017  0.24584  1
+ V  V10  1  0.25017  0.75416  0.74983  1

@@ -1,0 +1,57 @@
+CIF file written using JARVIS-Tools package.
+data_NbW9Se20
+_symmetry_space_group_name_H-M  'Amm2'
+_cell_length_a       5.79904
+_cell_length_b       13.1215
+_cell_length_c       8.85858
+_cell_angle_alpha    90
+_cell_angle_beta     109.106
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  38
+_chemical_formula_structural  NbW9Se20
+_chemical_formula_sum  NbW9Se20
+_cell_volume  636.9364786599618
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Nb  Nb1  1  0.73482  0.75000  0.80003  1
+ Se  Se1  1  0.13326  0.37756  0.59999  1
+ Se  Se2  1  0.07525  0.87835  0.80002  1
+ Se  Se3  1  0.86463  0.62250  0.40120  1
+ Se  Se4  1  0.26346  0.87750  0.19884  1
+ Se  Se5  1  0.93318  0.37757  0.20002  1
+ Se  Se6  1  0.86463  0.87750  0.40120  1
+ Se  Se7  1  0.66755  0.62119  0.00467  1
+ Se  Se8  1  0.73324  0.12235  0.79998  1
+ Se  Se9  1  0.73324  0.37765  0.79998  1
+ Se  Se10  1  0.66755  0.87881  0.00467  1
+ Se  Se11  1  0.33324  0.37756  0.99996  1
+ Se  Se12  1  0.33324  0.12244  0.99996  1
+ Se  Se13  1  0.26346  0.62250  0.19884  1
+ Se  Se14  1  0.46291  0.87881  0.59538  1
+ Se  Se15  1  0.53314  0.37757  0.39994  1
+ Se  Se16  1  0.53314  0.12243  0.39994  1
+ Se  Se17  1  0.46291  0.62119  0.59538  1
+ Se  Se18  1  0.13326  0.12244  0.59999  1
+ Se  Se19  1  0.07525  0.62165  0.80002  1
+ Se  Se20  1  0.93318  0.12243  0.20002  1
+ W  W1  1  0.66656  0.25000  0.99997  1
+ W  W2  1  0.93232  0.75000  0.20288  1
+ W  W3  1  0.46657  0.25000  0.59999  1
+ W  W4  1  0.52946  0.75000  0.39716  1
+ W  W5  1  0.26655  0.25000  0.19998  1
+ W  W6  1  0.33636  0.75000  0.00179  1
+ W  W7  1  0.06651  0.25000  0.79998  1
+ W  W8  1  0.13460  0.75000  0.59826  1
+ W  W9  1  0.86655  0.25000  0.39997  1

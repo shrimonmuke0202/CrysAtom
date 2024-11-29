@@ -1,0 +1,46 @@
+CIF file written using JARVIS-Tools package.
+data_Sn7S2Br10
+_symmetry_space_group_name_H-M  'P1'
+_cell_length_a       12.3311
+_cell_length_b       12.328
+_cell_length_c       4.2651
+_cell_angle_alpha    90.007
+_cell_angle_beta     89.9835
+_cell_angle_gamma    119.564
+
+_symmetry_Int_Tables_number  1
+_chemical_formula_structural  Sn7S2Br10
+_chemical_formula_sum  Sn7S2Br0
+_cell_volume  563.957108493593
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Br  Br1  1  0.76444  0.73889  0.25557  1
+ Br  Br2  1  0.63010  0.12519  0.26988  1
+ Br  Br3  1  0.12991  0.52986  0.76925  1
+ Br  Br4  1  0.38719  0.86774  0.76559  1
+ Br  Br5  1  0.02202  0.81094  0.76611  1
+ Br  Br6  1  0.48247  0.63119  0.76350  1
+ Br  Br7  1  0.78934  -0.01148  0.76652  1
+ Br  Br8  1  0.50357  0.37513  0.26681  1
+ Br  Br9  1  0.20863  0.22486  0.76890  1
+ Br  Br10  1  0.85512  0.48641  0.27823  1
+ S  S1  1  0.26967  0.03186  0.26251  1
+ S  S2  1  -0.01234  0.24491  0.26109  1
+ Sn  Sn1  1  0.85241  0.26254  0.74585  1
+ Sn  Sn2  1  0.69592  0.53269  0.68089  1
+ Sn  Sn3  1  0.43329  0.12610  0.75258  1
+ Sn  Sn4  1  0.59397  0.82972  0.27898  1
+ Sn  Sn5  1  0.04754  0.04880  0.27224  1
+ Sn  Sn6  1  0.21428  0.42912  0.26930  1
+ Sn  Sn7  1  0.17597  0.79162  0.26809  1

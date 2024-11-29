@@ -1,0 +1,41 @@
+CIF file written using JARVIS-Tools package.
+data_LuMoClO4
+_symmetry_space_group_name_H-M  'P-1'
+_cell_length_a       5.84887
+_cell_length_b       6.481
+_cell_length_c       6.84188
+_cell_angle_alpha    73.7103
+_cell_angle_beta     77.7968
+_cell_angle_gamma    70.8615
+
+_symmetry_Int_Tables_number  2
+_chemical_formula_structural  LuMoClO4
+_chemical_formula_sum  Lu2Mo2Cl2O8
+_cell_volume  233.13322962656818
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cl  Cl1  1  0.00995  0.02625  0.23139  1
+ Cl  Cl2  1  0.99005  0.97375  0.76861  1
+ Lu  Lu1  1  0.75852  0.80144  0.13026  1
+ Lu  Lu2  1  0.24148  0.19856  0.86974  1
+ Mo  Mo1  1  0.61745  0.64570  0.73179  1
+ Mo  Mo2  1  0.38255  0.35430  0.26821  1
+ O  O1  1  0.09390  0.52285  0.19655  1
+ O  O2  1  0.90610  0.47715  0.80345  1
+ O  O3  1  0.35708  0.24369  0.53456  1
+ O  O4  1  0.58420  0.52160  0.20171  1
+ O  O5  1  0.64292  0.75631  0.46544  1
+ O  O6  1  0.48097  0.13351  0.12524  1
+ O  O7  1  0.51903  0.86649  0.87476  1
+ O  O8  1  0.41580  0.47840  0.79829  1

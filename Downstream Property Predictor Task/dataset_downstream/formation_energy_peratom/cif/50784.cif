@@ -1,0 +1,41 @@
+CIF file written using JARVIS-Tools package.
+data_Mg2In3MoS8
+_symmetry_space_group_name_H-M  'R-3m'
+_cell_length_a       7.60397
+_cell_length_b       7.62293
+_cell_length_c       7.60402
+_cell_angle_alpha    60.0825
+_cell_angle_beta     59.9992
+_cell_angle_gamma    60.0829
+
+_symmetry_Int_Tables_number  166
+_chemical_formula_structural  Mg2In3MoS8
+_chemical_formula_sum  Mg2In3MoS8
+_cell_volume  312.053921494673
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ In  In1  1  0.50000  0.50001  0.49999  1
+ In  In2  1  0.50000  0.49999  0.00000  1
+ In  In3  1  -0.00000  0.50000  0.50000  1
+ Mg  Mg1  1  0.87455  0.87636  0.87455  1
+ Mg  Mg2  1  0.12545  0.12364  0.12545  1
+ Mo  Mo1  1  0.50000  -0.00000  0.50000  1
+ S  S1  1  0.73404  0.75783  0.73404  1
+ S  S2  1  0.26595  0.24218  0.72591  1
+ S  S3  1  0.25640  0.73079  0.25640  1
+ S  S4  1  0.72592  0.24218  0.26595  1
+ S  S5  1  0.74359  0.26921  0.74359  1
+ S  S6  1  0.27409  0.75782  0.73405  1
+ S  S7  1  0.26596  0.24216  0.26597  1
+ S  S8  1  0.73405  0.75783  0.27408  1

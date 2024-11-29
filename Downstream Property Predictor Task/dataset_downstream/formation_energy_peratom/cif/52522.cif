@@ -1,0 +1,32 @@
+CIF file written using JARVIS-Tools package.
+data_TiCdF3
+_symmetry_space_group_name_H-M  'Cm'
+_cell_length_a       3.96561
+_cell_length_b       3.96561
+_cell_length_c       5.25523
+_cell_angle_alpha    78.2349
+_cell_angle_beta     78.2349
+_cell_angle_gamma    99.6802
+
+_symmetry_Int_Tables_number  8
+_chemical_formula_structural  TiCdF3
+_chemical_formula_sum  TiCdF3
+_cell_volume  77.28847400113231
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cd  Cd1  1  0.21067  0.21067  0.72545  1
+ F  F1  1  0.18887  0.75665  0.29217  1
+ F  F2  1  0.61255  0.61255  0.91257  1
+ F  F3  1  0.75665  0.18887  0.29217  1
+ Ti  Ti1  1  0.72125  0.72125  0.21782  1

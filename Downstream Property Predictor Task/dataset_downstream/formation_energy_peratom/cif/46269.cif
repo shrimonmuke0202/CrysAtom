@@ -1,0 +1,37 @@
+CIF file written using JARVIS-Tools package.
+data_Hf2Ga3
+_symmetry_space_group_name_H-M  'Fdd2'
+_cell_length_a       5.45186
+_cell_length_b       5.45186
+_cell_length_c       7.34598
+_cell_angle_alpha    100.833
+_cell_angle_beta     100.832
+_cell_angle_gamma    119.573
+
+_symmetry_Int_Tables_number  43
+_chemical_formula_structural  Hf2Ga3
+_chemical_formula_sum  Hf4Ga6
+_cell_volume  176.15858422468318
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ga  Ga1  1  0.63088  0.63088  -0.00000  1
+ Ga  Ga2  1  0.88088  0.38088  0.50000  1
+ Ga  Ga3  1  0.53603  0.17375  0.72763  1
+ Ga  Ga4  1  0.44611  0.80839  0.27237  1
+ Ga  Ga5  1  0.42375  0.28603  0.22763  1
+ Ga  Ga6  1  0.05839  0.19611  0.77237  1
+ Hf  Hf1  1  0.13503  0.76729  0.89534  1
+ Hf  Hf2  1  0.87195  0.23969  0.10466  1
+ Hf  Hf3  1  0.01729  0.88503  0.39534  1
+ Hf  Hf4  1  0.48969  0.62195  0.60466  1

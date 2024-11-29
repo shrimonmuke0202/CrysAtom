@@ -1,0 +1,51 @@
+CIF file written using JARVIS-Tools package.
+data_HfBi2
+_symmetry_space_group_name_H-M  'Pnnm'
+_cell_length_a       4.04602
+_cell_length_b       10.2786
+_cell_length_c       15.7383
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  58
+_chemical_formula_structural  HfBi2
+_chemical_formula_sum  Hf8Bi6
+_cell_volume  654.5193193632144
+_cell_formula_units_Z  8
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Bi  Bi1  1  0.50000  0.76330  0.80027  1
+ Bi  Bi2  1  0.50000  0.62588  0.44418  1
+ Bi  Bi3  1  0.50000  0.37412  0.55582  1
+ Bi  Bi4  1  0.00000  0.87412  0.94418  1
+ Bi  Bi5  1  0.50000  0.98526  0.60780  1
+ Bi  Bi6  1  0.50000  0.84661  0.14896  1
+ Bi  Bi7  1  0.50000  0.15339  0.85104  1
+ Bi  Bi8  1  0.00000  0.12588  0.05582  1
+ Bi  Bi9  1  0.00000  0.34661  0.35104  1
+ Bi  Bi10  1  0.00000  0.73670  0.30027  1
+ Bi  Bi11  1  0.00000  0.26330  0.69973  1
+ Bi  Bi12  1  0.50000  0.01474  0.39220  1
+ Bi  Bi13  1  0.50000  0.23670  0.19973  1
+ Bi  Bi14  1  0.00000  0.51474  0.10780  1
+ Bi  Bi15  1  0.00000  0.48526  0.89220  1
+ Bi  Bi16  1  0.00000  0.65339  0.64896  1
+ Hf  Hf1  1  0.00000  0.02324  0.24571  1
+ Hf  Hf2  1  0.00000  0.97676  0.75429  1
+ Hf  Hf3  1  0.50000  0.47676  0.74571  1
+ Hf  Hf4  1  0.50000  0.52324  0.25429  1
+ Hf  Hf5  1  0.50000  0.33967  0.00526  1
+ Hf  Hf6  1  0.50000  0.66033  0.99474  1
+ Hf  Hf7  1  0.00000  0.16033  0.50526  1
+ Hf  Hf8  1  0.00000  0.83967  0.49474  1

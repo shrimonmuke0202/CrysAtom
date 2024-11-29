@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_YbGe2Pd
+_symmetry_space_group_name_H-M  'Immm'
+_cell_length_a       9.42407
+_cell_length_b       9.42406
+_cell_length_c       9.42406
+_cell_angle_alpha    153.069
+_cell_angle_beta     123.287
+_cell_angle_gamma    63.8719
+
+_symmetry_Int_Tables_number  71
+_chemical_formula_structural  YbGe2Pd
+_chemical_formula_sum  Yb4Ge8Pd4
+_cell_volume  314.23596086749217
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ge  Ge1  1  0.92148  0.42148  0.50000  1
+ Ge  Ge2  1  0.07852  0.57852  0.50000  1
+ Ge  Ge3  1  0.42466  0.42466  -0.00000  1
+ Ge  Ge4  1  0.57534  0.57534  0.00000  1
+ Ge  Ge5  1  0.04717  0.19458  0.85259  1
+ Ge  Ge6  1  0.95283  0.80542  0.14741  1
+ Ge  Ge7  1  0.34198  0.19458  0.14741  1
+ Ge  Ge8  1  0.65802  0.80542  0.85259  1
+ Pd  Pd1  1  0.10416  0.35201  0.75215  1
+ Pd  Pd2  1  0.89584  0.64799  0.24785  1
+ Pd  Pd3  1  0.59986  0.35201  0.24785  1
+ Pd  Pd4  1  0.40014  0.64799  0.75215  1
+ Yb  Yb1  1  0.26183  -0.00000  0.26183  1
+ Yb  Yb2  1  0.73817  0.00000  0.73817  1
+ Yb  Yb3  1  0.29607  0.79607  0.50000  1
+ Yb  Yb4  1  0.70393  0.20393  0.50000  1

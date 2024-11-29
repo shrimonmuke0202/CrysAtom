@@ -1,0 +1,50 @@
+CIF file written using JARVIS-Tools package.
+data_Li7Sn4O12
+_symmetry_space_group_name_H-M  'C2'
+_cell_length_a       5.37229
+_cell_length_b       5.37229
+_cell_length_c       9.99954
+_cell_angle_alpha    84.8392
+_cell_angle_beta     84.8392
+_cell_angle_gamma    120.102
+
+_symmetry_Int_Tables_number  5
+_chemical_formula_structural  Li7Sn4O12
+_chemical_formula_sum  Li7Sn4O2
+_cell_volume  245.5940100956872
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Li  Li1  1  0.84207  0.69597  0.25254  1
+ Li  Li2  1  0.30403  0.15793  0.74746  1
+ Li  Li3  1  0.14677  0.29650  0.25502  1
+ Li  Li4  1  0.70350  0.85323  0.74498  1
+ Li  Li5  1  0.91505  0.08495  0.00000  1
+ Li  Li6  1  0.00843  0.53723  0.73612  1
+ Li  Li7  1  0.46277  0.99157  0.26388  1
+ O  O1  1  0.22636  0.03898  0.12226  1
+ O  O2  1  0.67050  0.50007  0.62532  1
+ O  O3  1  0.53465  0.69457  0.11559  1
+ O  O4  1  0.30543  0.46535  0.88441  1
+ O  O5  1  0.49993  0.32950  0.37468  1
+ O  O6  1  0.41774  0.87224  0.62492  1
+ O  O7  1  0.88121  0.39354  0.11538  1
+ O  O8  1  0.04214  0.24758  0.62714  1
+ O  O9  1  0.75242  0.95786  0.37286  1
+ O  O10  1  0.12776  0.58226  0.37508  1
+ O  O11  1  0.60646  0.11879  0.88462  1
+ O  O12  1  0.96102  0.77364  0.87774  1
+ Sn  Sn1  1  0.25230  0.74770  0.00000  1
+ Sn  Sn2  1  0.75161  0.24839  0.50000  1
+ Sn  Sn3  1  0.58549  0.41451  0.00000  1
+ Sn  Sn4  1  0.41933  0.58067  0.50000  1

@@ -1,0 +1,40 @@
+CIF file written using JARVIS-Tools package.
+data_TeH6O6
+_symmetry_space_group_name_H-M  'Fmm2'
+_cell_length_a       5.84672
+_cell_length_b       5.77081
+_cell_length_c       5.30117
+_cell_angle_alpha    63.5833
+_cell_angle_beta     62.1233
+_cell_angle_gamma    54.2934
+
+_symmetry_Int_Tables_number  42
+_chemical_formula_structural  TeH6O6
+_chemical_formula_sum  TeH6O6
+_cell_volume  124.64502645049369
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ H  H1  1  0.14404  0.37261  0.85596  1
+ H  H2  1  0.22503  0.77497  0.43408  1
+ H  H3  1  0.54471  0.45529  0.22886  1
+ H  H4  1  0.77114  0.22886  0.45529  1
+ H  H5  1  0.62739  0.85596  0.37261  1
+ H  H6  1  0.56592  0.43408  0.77497  1
+ O  O1  1  0.27261  0.72739  0.72739  1
+ O  O2  1  0.22887  0.20794  0.77113  1
+ O  O3  1  0.26959  0.73041  0.24469  1
+ O  O4  1  0.74033  0.25967  0.25967  1
+ O  O5  1  0.79206  0.77113  0.20794  1
+ O  O6  1  0.75531  0.24469  0.73041  1
+ Te  Te1  1  0.02116  0.97884  0.97884  1

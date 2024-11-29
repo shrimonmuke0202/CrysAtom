@@ -1,0 +1,41 @@
+CIF file written using JARVIS-Tools package.
+data_Nd3Al11
+_symmetry_space_group_name_H-M  'Immm'
+_cell_length_a       8.50759
+_cell_length_b       8.50758
+_cell_length_c       8.50758
+_cell_angle_alpha    150.151
+_cell_angle_beta     107.386
+_cell_angle_gamma    80.4362
+
+_symmetry_Int_Tables_number  71
+_chemical_formula_structural  Nd3Al11
+_chemical_formula_sum  Nd3Al
+_cell_volume  286.8111286699571
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Al  Al1  1  0.50000  0.00000  0.50000  1
+ Al  Al2  1  0.28554  0.50000  0.78554  1
+ Al  Al3  1  0.71446  0.50000  0.21446  1
+ Al  Al4  1  0.96519  0.33519  0.63000  1
+ Al  Al5  1  0.03481  0.66481  0.37000  1
+ Al  Al6  1  0.70519  0.33519  0.37000  1
+ Al  Al7  1  0.29481  0.66481  0.63000  1
+ Al  Al8  1  0.86461  0.13849  0.72612  1
+ Al  Al9  1  0.13539  0.86151  0.27388  1
+ Al  Al10  1  0.41237  0.13849  0.27388  1
+ Al  Al11  1  0.58763  0.86151  0.72612  1
+ Nd  Nd1  1  0.00000  0.00000  0.00000  1
+ Nd  Nd2  1  0.31780  0.31780  -0.00000  1
+ Nd  Nd3  1  0.68220  0.68220  0.00000  1

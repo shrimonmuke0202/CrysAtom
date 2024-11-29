@@ -1,0 +1,51 @@
+CIF file written using JARVIS-Tools package.
+data_Ho4InIr
+_symmetry_space_group_name_H-M  'F-43m'
+_cell_length_a       9.55866
+_cell_length_b       9.55866
+_cell_length_c       9.55865
+_cell_angle_alpha    60
+_cell_angle_beta     60
+_cell_angle_gamma    60
+
+_symmetry_Int_Tables_number  216
+_chemical_formula_structural  Ho4InIr
+_chemical_formula_sum  Ho6In4Ir4
+_cell_volume  617.5544821157605
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ho  Ho1  1  0.56048  0.93952  0.93952  1
+ Ho  Ho2  1  0.34964  0.95107  0.34964  1
+ Ho  Ho3  1  0.34964  0.34964  0.95107  1
+ Ho  Ho4  1  0.80902  0.19098  0.80902  1
+ Ho  Ho5  1  0.93952  0.56048  0.93952  1
+ Ho  Ho6  1  0.93952  0.93952  0.56048  1
+ Ho  Ho7  1  0.19098  0.19098  0.80902  1
+ Ho  Ho8  1  0.56048  0.56048  0.93952  1
+ Ho  Ho9  1  0.80902  0.80902  0.19098  1
+ Ho  Ho10  1  0.80902  0.19098  0.19098  1
+ Ho  Ho11  1  0.95107  0.34964  0.34964  1
+ Ho  Ho12  1  0.93952  0.56048  0.56048  1
+ Ho  Ho13  1  0.34964  0.34964  0.34964  1
+ Ho  Ho14  1  0.19098  0.80902  0.80902  1
+ Ho  Ho15  1  0.56048  0.93952  0.56048  1
+ Ho  Ho16  1  0.19098  0.80902  0.19098  1
+ In  In1  1  0.58369  0.24894  0.58369  1
+ In  In2  1  0.58369  0.58369  0.24894  1
+ In  In3  1  0.58369  0.58369  0.58369  1
+ In  In4  1  0.24894  0.58369  0.58369  1
+ Ir  Ir1  1  0.14155  0.57537  0.14155  1
+ Ir  Ir2  1  0.14155  0.14155  0.14155  1
+ Ir  Ir3  1  0.57537  0.14155  0.14155  1
+ Ir  Ir4  1  0.14155  0.14155  0.57537  1

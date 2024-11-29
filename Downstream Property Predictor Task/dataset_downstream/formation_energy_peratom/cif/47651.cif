@@ -1,0 +1,49 @@
+CIF file written using JARVIS-Tools package.
+data_Cu2Te2Cl2O5
+_symmetry_space_group_name_H-M  'P-4'
+_cell_length_a       7.60232
+_cell_length_b       7.60232
+_cell_length_c       6.38205
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  81
+_chemical_formula_structural  Cu2Te2Cl2O5
+_chemical_formula_sum  Cu4Te4Cl4O0
+_cell_volume  368.852054877472
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cl  Cl1  1  0.78665  0.09325  0.80434  1
+ Cl  Cl2  1  0.21335  0.90675  0.80434  1
+ Cl  Cl3  1  0.90675  0.78665  0.19566  1
+ Cl  Cl4  1  0.09325  0.21335  0.19566  1
+ Cu  Cu1  1  0.45201  0.73539  0.84416  1
+ Cu  Cu2  1  0.26461  0.45201  0.15584  1
+ Cu  Cu3  1  0.73539  0.54799  0.15584  1
+ Cu  Cu4  1  0.54799  0.26461  0.84416  1
+ O  O1  1  0.50000  0.00000  0.21424  1
+ O  O2  1  0.00000  0.50000  0.78576  1
+ O  O3  1  0.40860  0.66805  0.13759  1
+ O  O4  1  0.47015  0.22562  0.55467  1
+ O  O5  1  0.77438  0.47015  0.44533  1
+ O  O6  1  0.52985  0.77438  0.55467  1
+ O  O7  1  0.59140  0.33195  0.13759  1
+ O  O8  1  0.66805  0.59140  0.86241  1
+ O  O9  1  0.22562  0.52985  0.44533  1
+ O  O10  1  0.33195  0.40860  0.86241  1
+ Te  Te1  1  0.65401  0.16990  0.35922  1
+ Te  Te2  1  0.34599  0.83010  0.35922  1
+ Te  Te3  1  0.83010  0.65401  0.64078  1
+ Te  Te4  1  0.16990  0.34599  0.64078  1

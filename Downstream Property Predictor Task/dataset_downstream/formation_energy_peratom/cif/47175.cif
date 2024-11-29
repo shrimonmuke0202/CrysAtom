@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_Sm3Ge5
+_symmetry_space_group_name_H-M  'P-62c'
+_cell_length_a       7.01833
+_cell_length_b       7.01833
+_cell_length_c       8.51576
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_symmetry_Int_Tables_number  190
+_chemical_formula_structural  Sm3Ge5
+_chemical_formula_sum  Sm6Ge0
+_cell_volume  363.26361054477013
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ge  Ge1  1  0.39775  0.33104  0.25000  1
+ Ge  Ge2  1  0.66896  0.06671  0.25000  1
+ Ge  Ge3  1  0.93329  0.60225  0.25000  1
+ Ge  Ge4  1  0.60225  0.93329  0.75000  1
+ Ge  Ge5  1  0.00000  0.00000  0.25000  1
+ Ge  Ge6  1  0.66667  0.33333  0.75000  1
+ Ge  Ge7  1  0.06671  0.66896  0.75000  1
+ Ge  Ge8  1  0.33104  0.39775  0.75000  1
+ Ge  Ge9  1  0.33333  0.66667  0.25000  1
+ Ge  Ge10  1  0.00000  0.00000  0.75000  1
+ Sm  Sm1  1  0.33170  -0.00000  0.00000  1
+ Sm  Sm2  1  0.33170  -0.00000  0.50000  1
+ Sm  Sm3  1  -0.00000  0.33170  0.50000  1
+ Sm  Sm4  1  -0.00000  0.33170  0.00000  1
+ Sm  Sm5  1  0.66830  0.66830  0.00000  1
+ Sm  Sm6  1  0.66830  0.66830  0.50000  1

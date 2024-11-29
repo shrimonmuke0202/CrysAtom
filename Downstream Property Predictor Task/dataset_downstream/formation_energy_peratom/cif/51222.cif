@@ -1,0 +1,37 @@
+CIF file written using JARVIS-Tools package.
+data_LaTiNO2
+_symmetry_space_group_name_H-M  'I2_12_12_1'
+_cell_length_a       5.58042
+_cell_length_b       5.58042
+_cell_length_c       5.58042
+_cell_angle_alpha    119.453
+_cell_angle_beta     119.147
+_cell_angle_gamma    91.2164
+
+_symmetry_Int_Tables_number  24
+_chemical_formula_structural  LaTiNO2
+_chemical_formula_sum  La2Ti2N2O4
+_cell_volume  124.14947742874533
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ La  La1  1  0.99235  0.75000  0.74235  1
+ La  La2  1  0.50765  0.25000  0.75765  1
+ N  N1  1  0.96409  0.71409  0.25000  1
+ N  N2  1  0.53591  0.78591  0.75000  1
+ O  O1  1  0.42437  0.75000  0.17437  1
+ O  O2  1  0.07563  0.25000  0.32563  1
+ O  O3  1  0.95389  0.20389  0.75000  1
+ O  O4  1  0.54611  0.29611  0.25000  1
+ Ti  Ti1  1  0.25000  0.51940  0.26940  1
+ Ti  Ti2  1  0.75000  0.98060  0.23060  1

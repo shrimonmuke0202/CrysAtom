@@ -1,0 +1,61 @@
+CIF file written using JARVIS-Tools package.
+data_Ta9Fe2S6
+_symmetry_space_group_name_H-M  'P-62m'
+_cell_length_a       10.3919
+_cell_length_b       10.3919
+_cell_length_c       6.61577
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_symmetry_Int_Tables_number  189
+_chemical_formula_structural  Ta9Fe2S6
+_chemical_formula_sum  Ta8Fe4S2
+_cell_volume  618.7267493820641
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Fe  Fe1  1  0.33333  0.66667  0.28189  1
+ Fe  Fe2  1  0.33333  0.66667  0.71811  1
+ Fe  Fe3  1  0.66667  0.33333  0.71811  1
+ Fe  Fe4  1  0.66667  0.33333  0.28189  1
+ S  S1  1  0.00000  0.72598  0.00000  1
+ S  S2  1  0.27402  0.27402  0.00000  1
+ S  S3  1  0.00000  0.29744  0.23495  1
+ S  S4  1  0.70256  0.70256  0.76505  1
+ S  S5  1  0.29744  0.00000  0.23495  1
+ S  S6  1  0.70256  0.70256  0.23495  1
+ S  S7  1  0.00000  0.29744  0.76505  1
+ S  S8  1  0.72341  -0.00000  0.50000  1
+ S  S9  1  0.27659  0.27659  0.50000  1
+ S  S10  1  -0.00000  0.72341  0.50000  1
+ S  S11  1  0.29744  0.00000  0.76505  1
+ S  S12  1  0.72598  0.00000  0.00000  1
+ Ta  Ta1  1  0.78381  0.25732  0.00000  1
+ Ta  Ta2  1  0.47350  0.21619  0.00000  1
+ Ta  Ta3  1  0.52650  0.74268  0.00000  1
+ Ta  Ta4  1  0.21619  0.47350  0.00000  1
+ Ta  Ta5  1  0.25732  0.78381  0.00000  1
+ Ta  Ta6  1  0.80905  0.26550  0.50000  1
+ Ta  Ta7  1  0.45645  0.19095  0.50000  1
+ Ta  Ta8  1  0.45855  0.45855  0.24653  1
+ Ta  Ta9  1  0.54355  0.73450  0.50000  1
+ Ta  Ta10  1  0.19095  0.45645  0.50000  1
+ Ta  Ta11  1  0.26550  0.80905  0.50000  1
+ Ta  Ta12  1  0.00000  0.54145  0.24653  1
+ Ta  Ta13  1  0.45855  0.45855  0.75347  1
+ Ta  Ta14  1  0.54145  0.00000  0.75347  1
+ Ta  Ta15  1  0.54145  0.00000  0.24653  1
+ Ta  Ta16  1  0.00000  0.54145  0.75347  1
+ Ta  Ta17  1  0.74268  0.52650  0.00000  1
+ Ta  Ta18  1  0.73450  0.54355  0.50000  1

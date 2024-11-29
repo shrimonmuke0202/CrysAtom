@@ -1,0 +1,45 @@
+CIF file written using JARVIS-Tools package.
+data_Ba2InSbSe5
+_symmetry_space_group_name_H-M  'Cmc2_1'
+_cell_length_a       9.86013
+_cell_length_b       9.86013
+_cell_length_c       13.2312
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    154.522
+
+_symmetry_Int_Tables_number  36
+_chemical_formula_structural  Ba2InSbSe5
+_chemical_formula_sum  Ba4In2Sb2Se0
+_cell_volume  553.3491179913082
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ba  Ba1  1  0.88652  0.11348  0.81207  1
+ Ba  Ba2  1  0.11348  0.88652  0.31207  1
+ Ba  Ba3  1  0.87049  0.12951  0.18951  1
+ Ba  Ba4  1  0.12951  0.87049  0.68951  1
+ In  In1  1  0.56028  0.43972  0.05348  1
+ In  In2  1  0.43972  0.56028  0.55348  1
+ Sb  Sb1  1  0.78232  0.21768  0.47758  1
+ Sb  Sb2  1  0.21768  0.78232  0.97758  1
+ Se  Se1  1  0.49613  0.50387  0.22542  1
+ Se  Se2  1  0.04528  0.95472  0.93970  1
+ Se  Se3  1  0.71671  0.28329  0.83496  1
+ Se  Se4  1  0.95472  0.04528  0.43970  1
+ Se  Se5  1  0.35560  0.64440  0.99843  1
+ Se  Se6  1  0.31025  0.68975  0.63400  1
+ Se  Se7  1  0.64440  0.35560  0.49843  1
+ Se  Se8  1  0.28329  0.71671  0.33496  1
+ Se  Se9  1  0.68975  0.31025  0.13400  1
+ Se  Se10  1  0.50387  0.49613  0.72542  1

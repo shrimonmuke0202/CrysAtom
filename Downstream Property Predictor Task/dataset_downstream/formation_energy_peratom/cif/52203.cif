@@ -1,0 +1,50 @@
+CIF file written using JARVIS-Tools package.
+data_Na2Ni7O14
+_symmetry_space_group_name_H-M  'P-1'
+_cell_length_a       4.90217
+_cell_length_b       6.35221
+_cell_length_c       8.96906
+_cell_angle_alpha    98.405
+_cell_angle_beta     95.2704
+_cell_angle_gamma    104.819
+
+_symmetry_Int_Tables_number  2
+_chemical_formula_structural  Na2Ni7O14
+_chemical_formula_sum  Na2Ni7O4
+_cell_volume  264.6527272127124
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Na  Na1  1  0.14210  0.78380  0.78303  1
+ Na  Na2  1  0.85790  0.21620  0.21697  1
+ Ni  Ni1  1  0.57202  0.14680  0.64117  1
+ Ni  Ni2  1  0.42798  0.85320  0.35883  1
+ Ni  Ni3  1  0.14215  0.28565  0.78540  1
+ Ni  Ni4  1  0.28701  0.57159  0.07196  1
+ Ni  Ni5  1  -0.00000  -0.00000  0.50000  1
+ Ni  Ni6  1  0.85785  0.71435  0.21460  1
+ Ni  Ni7  1  0.71299  0.42841  0.92804  1
+ O  O1  1  0.70005  0.12377  0.44699  1
+ O  O2  1  0.44051  0.15795  0.83397  1
+ O  O3  1  0.01294  0.30240  0.98069  1
+ O  O4  1  0.58811  0.44400  0.12216  1
+ O  O5  1  0.55949  0.84205  0.16603  1
+ O  O6  1  0.41189  0.55600  0.87784  1
+ O  O7  1  0.15444  0.58479  0.26393  1
+ O  O8  1  0.87242  0.01695  0.69323  1
+ O  O9  1  0.84556  0.41521  0.73607  1
+ O  O10  1  0.26926  0.27018  0.59197  1
+ O  O11  1  0.12758  0.98305  0.30677  1
+ O  O12  1  0.73074  0.72982  0.40803  1
+ O  O13  1  0.29995  0.87623  0.55301  1
+ O  O14  1  -0.01294  0.69760  0.01931  1

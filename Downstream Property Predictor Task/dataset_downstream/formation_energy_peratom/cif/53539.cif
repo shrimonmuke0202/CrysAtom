@@ -1,0 +1,49 @@
+CIF file written using JARVIS-Tools package.
+data_Na2Nd2PtO6
+_symmetry_space_group_name_H-M  'C2'
+_cell_length_a       6.60254
+_cell_length_b       6.60254
+_cell_length_c       6.65143
+_cell_angle_alpha    88.763
+_cell_angle_beta     88.7631
+_cell_angle_gamma    88.9774
+
+_symmetry_Int_Tables_number  5
+_chemical_formula_structural  Na2Nd2PtO6
+_chemical_formula_sum  Na4Nd4Pt2O2
+_cell_volume  289.78042737346664
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Na  Na1  1  0.24251  0.75749  0.50000  1
+ Na  Na2  1  0.75436  0.24564  0.00000  1
+ Na  Na3  1  0.89599  0.75442  0.14458  1
+ Na  Na4  1  0.24558  0.10401  0.85542  1
+ Nd  Nd1  1  0.61146  0.38854  0.50000  1
+ Nd  Nd2  1  0.75666  0.88585  0.64716  1
+ Nd  Nd3  1  0.37679  0.62321  0.00000  1
+ Nd  Nd4  1  0.11415  0.24334  0.35284  1
+ O  O1  1  0.29591  0.44555  0.67603  1
+ O  O2  1  0.43138  0.06061  0.53531  1
+ O  O3  1  0.55445  0.70409  0.32397  1
+ O  O4  1  0.91463  0.20290  0.68319  1
+ O  O5  1  0.21636  0.92612  0.19030  1
+ O  O6  1  0.05766  0.42565  0.05430  1
+ O  O7  1  0.07388  0.78364  0.80970  1
+ O  O8  1  0.57435  0.94234  0.94570  1
+ O  O9  1  0.44995  0.30810  0.18704  1
+ O  O10  1  0.69190  0.55005  0.81296  1
+ O  O11  1  0.79710  0.08537  0.31681  1
+ O  O12  1  0.93939  0.56862  0.46469  1
+ Pt  Pt1  1  0.99857  0.49304  0.75633  1
+ Pt  Pt2  1  0.50696  0.00143  0.24367  1

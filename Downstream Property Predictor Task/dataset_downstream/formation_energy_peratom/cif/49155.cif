@@ -1,0 +1,49 @@
+CIF file written using JARVIS-Tools package.
+data_Ba3SmInS6
+_symmetry_space_group_name_H-M  'R-3c'
+_cell_length_a       8.44611
+_cell_length_b       8.44611
+_cell_length_c       8.44611
+_cell_angle_alpha    92.4622
+_cell_angle_beta     92.4622
+_cell_angle_gamma    92.4622
+
+_symmetry_Int_Tables_number  167
+_chemical_formula_structural  Ba3SmInS6
+_chemical_formula_sum  Ba6Sm2In2S2
+_cell_volume  600.7994821731618
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ba  Ba1  1  0.86822  0.63178  0.25000  1
+ Ba  Ba2  1  0.25000  0.86822  0.63178  1
+ Ba  Ba3  1  0.63178  0.25000  0.86822  1
+ Ba  Ba4  1  0.75000  0.13178  0.36822  1
+ Ba  Ba5  1  0.36822  0.75000  0.13178  1
+ Ba  Ba6  1  0.13178  0.36822  0.75000  1
+ In  In1  1  0.50000  0.50000  0.50000  1
+ In  In2  1  0.00000  0.00000  0.00000  1
+ S  S1  1  0.30192  0.08784  0.95881  1
+ S  S2  1  0.41216  0.19808  0.54119  1
+ S  S3  1  0.54119  0.41216  0.19808  1
+ S  S4  1  0.91216  0.04119  0.69808  1
+ S  S5  1  0.19808  0.54119  0.41216  1
+ S  S6  1  0.04119  0.69808  0.91216  1
+ S  S7  1  0.08784  0.95881  0.30192  1
+ S  S8  1  0.58784  0.80192  0.45881  1
+ S  S9  1  0.45881  0.58784  0.80192  1
+ S  S10  1  0.69808  0.91216  0.04119  1
+ S  S11  1  0.80192  0.45881  0.58784  1
+ S  S12  1  0.95881  0.30192  0.08784  1
+ Sm  Sm1  1  0.75000  0.75000  0.75000  1
+ Sm  Sm2  1  0.25000  0.25000  0.25000  1

@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_Yb3Pd
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       6.3769
+_cell_length_b       7.55054
+_cell_length_c       9.38551
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  Yb3Pd
+_chemical_formula_sum  Yb2Pd4
+_cell_volume  451.9032460352196
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Pd  Pd1  1  0.05025  0.87992  0.25000  1
+ Pd  Pd2  1  0.44975  0.37992  0.25000  1
+ Pd  Pd3  1  0.94975  0.12008  0.75000  1
+ Pd  Pd4  1  0.55025  0.62008  0.75000  1
+ Yb  Yb1  1  0.34055  0.67382  0.06385  1
+ Yb  Yb2  1  0.15945  0.17382  0.43615  1
+ Yb  Yb3  1  0.65945  0.32618  0.56385  1
+ Yb  Yb4  1  0.84055  0.82618  0.93615  1
+ Yb  Yb5  1  0.65945  0.32618  0.93615  1
+ Yb  Yb6  1  0.84055  0.82618  0.56385  1
+ Yb  Yb7  1  0.34055  0.67382  0.43615  1
+ Yb  Yb8  1  0.15945  0.17382  0.06385  1
+ Yb  Yb9  1  0.86504  0.53707  0.25000  1
+ Yb  Yb10  1  0.63496  0.03707  0.25000  1
+ Yb  Yb11  1  0.13496  0.46293  0.75000  1
+ Yb  Yb12  1  0.36504  0.96293  0.75000  1

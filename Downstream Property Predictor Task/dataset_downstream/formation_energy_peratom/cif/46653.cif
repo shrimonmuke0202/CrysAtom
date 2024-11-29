@@ -1,0 +1,41 @@
+CIF file written using JARVIS-Tools package.
+data_Tm2FeC4
+_symmetry_space_group_name_H-M  'Ibam'
+_cell_length_a       4.97488
+_cell_length_b       6.47985
+_cell_length_c       6.47985
+_cell_angle_alpha    70.0372
+_cell_angle_beta     67.4261
+_cell_angle_gamma    67.4262
+
+_symmetry_Int_Tables_number  72
+_chemical_formula_structural  Tm2FeC4
+_chemical_formula_sum  Tm4Fe2C8
+_cell_volume  173.4324338244841
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ C  C1  1  0.42147  0.24590  0.91116  1
+ C  C2  1  0.57853  0.75410  0.08884  1
+ C  C3  1  0.07853  0.08884  0.75410  1
+ C  C4  1  0.92147  0.91116  0.24590  1
+ C  C5  1  0.37031  0.46944  0.78993  1
+ C  C6  1  0.62969  0.53056  0.21007  1
+ C  C7  1  0.87031  0.78993  0.46944  1
+ C  C8  1  0.12969  0.21007  0.53056  1
+ Fe  Fe1  1  0.25000  -0.00000  -0.00000  1
+ Fe  Fe2  1  0.75000  -0.00000  -0.00000  1
+ Tm  Tm1  1  0.14510  0.50934  0.20047  1
+ Tm  Tm2  1  0.85490  0.49066  0.79953  1
+ Tm  Tm3  1  0.35490  0.79953  0.49066  1
+ Tm  Tm4  1  0.64510  0.20047  0.50934  1

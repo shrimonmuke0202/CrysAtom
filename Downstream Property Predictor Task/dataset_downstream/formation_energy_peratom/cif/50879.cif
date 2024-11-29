@@ -1,0 +1,47 @@
+CIF file written using JARVIS-Tools package.
+data_BaMn3O6
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       3.95786
+_cell_length_b       5.67634
+_cell_length_c       10.5779
+_cell_angle_alpha    97.7423
+_cell_angle_beta     100.782
+_cell_angle_gamma    90.0002
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  BaMn3O6
+_chemical_formula_sum  Ba2Mn6O2
+_cell_volume  231.24385920770231
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ba  Ba1  1  0.06986  0.28506  0.13970  1
+ Ba  Ba2  1  0.93014  0.71494  0.86030  1
+ Mn  Mn1  1  0.56338  0.78188  0.12675  1
+ Mn  Mn2  1  0.43662  0.21812  0.87325  1
+ Mn  Mn3  1  0.70665  0.85359  0.41326  1
+ Mn  Mn4  1  0.29335  0.14640  0.58674  1
+ Mn  Mn5  1  0.29334  0.64763  0.58672  1
+ Mn  Mn6  1  0.70666  0.35237  0.41328  1
+ O  O1  1  0.50000  0.00000  0.00000  1
+ O  O2  1  0.77369  0.13556  0.54739  1
+ O  O3  1  0.64515  0.57610  0.29025  1
+ O  O4  1  0.35485  0.42390  0.70975  1
+ O  O5  1  0.50000  0.50000  -0.00000  1
+ O  O6  1  0.22452  0.36044  0.44902  1
+ O  O7  1  0.06583  0.78256  0.13163  1
+ O  O8  1  0.93417  0.21745  0.86837  1
+ O  O9  1  0.64451  0.06661  0.28896  1
+ O  O10  1  0.77548  0.63956  0.55098  1
+ O  O11  1  0.35549  0.93339  0.71104  1
+ O  O12  1  0.22631  0.86444  0.45261  1

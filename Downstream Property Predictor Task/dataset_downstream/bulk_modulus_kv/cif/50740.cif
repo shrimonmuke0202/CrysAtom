@@ -1,0 +1,31 @@
+CIF file written using JARVIS-Tools package.
+data_AuS3
+_symmetry_space_group_name_H-M  'P1'
+_cell_length_a       5.26016
+_cell_length_b       5.05209
+_cell_length_c       5.32454
+_cell_angle_alpha    84.5761
+_cell_angle_beta     79.4286
+_cell_angle_gamma    139.578
+
+_symmetry_Int_Tables_number  1
+_chemical_formula_structural  AuS3
+_chemical_formula_sum  AuS3
+_cell_volume  83.88432599894449
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Au  Au1  1  0.06100  0.48745  0.02260  1
+ S  S1  1  0.03411  -0.02075  0.96893  1
+ S  S2  1  0.28309  0.18696  0.54515  1
+ S  S3  1  0.50863  -0.01464  0.50592  1

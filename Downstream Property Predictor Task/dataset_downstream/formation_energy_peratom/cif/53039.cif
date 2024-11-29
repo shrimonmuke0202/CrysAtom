@@ -1,0 +1,44 @@
+CIF file written using JARVIS-Tools package.
+data_Ba4Hf3S10
+_symmetry_space_group_name_H-M  'I4/mmm'
+_cell_length_a       18.1711
+_cell_length_b       18.1711
+_cell_length_c       18.1711
+_cell_angle_alpha    164.239
+_cell_angle_beta     164.239
+_cell_angle_gamma    22.3602
+
+_symmetry_Int_Tables_number  139
+_chemical_formula_structural  Ba4Hf3S10
+_chemical_formula_sum  Ba4Hf3S0
+_cell_volume  442.5649863776183
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ba  Ba1  1  0.43224  0.43224  0.00000  1
+ Ba  Ba2  1  0.56776  0.56776  -0.00000  1
+ Ba  Ba3  1  0.29986  0.29986  0.00000  1
+ Ba  Ba4  1  0.70014  0.70014  0.00000  1
+ Hf  Hf1  1  0.00000  0.00000  0.00000  1
+ Hf  Hf2  1  0.85762  0.85762  0.00000  1
+ Hf  Hf3  1  0.14238  0.14238  0.00000  1
+ S  S1  1  0.92974  0.92974  0.00000  1
+ S  S2  1  0.63870  0.13870  0.50000  1
+ S  S3  1  0.78759  0.78759  0.00000  1
+ S  S4  1  0.07026  0.07026  -0.00000  1
+ S  S5  1  0.36130  0.86130  0.50000  1
+ S  S6  1  -0.00000  0.50000  0.50000  1
+ S  S7  1  0.21241  0.21241  -0.00000  1
+ S  S8  1  0.13870  0.63870  0.50000  1
+ S  S9  1  0.50000  0.00000  0.50000  1
+ S  S10  1  0.86130  0.36130  0.50000  1

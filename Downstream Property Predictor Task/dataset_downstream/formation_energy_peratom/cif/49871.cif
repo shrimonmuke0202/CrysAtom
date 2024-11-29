@@ -1,0 +1,42 @@
+CIF file written using JARVIS-Tools package.
+data_AgMo6S8
+_symmetry_space_group_name_H-M  'R-3'
+_cell_length_a       6.5165
+_cell_length_b       6.51649
+_cell_length_c       6.5165
+_cell_angle_alpha    92.0645
+_cell_angle_beta     92.0645
+_cell_angle_gamma    92.0645
+
+_symmetry_Int_Tables_number  148
+_chemical_formula_structural  AgMo6S8
+_chemical_formula_sum  AgMo6S8
+_cell_volume  276.1692919698597
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ag  Ag1  1  0.00000  0.00000  0.00000  1
+ Mo  Mo1  1  0.21873  0.55243  0.40828  1
+ Mo  Mo2  1  0.55243  0.40828  0.21873  1
+ Mo  Mo3  1  0.40828  0.21873  0.55243  1
+ Mo  Mo4  1  0.59172  0.78127  0.44757  1
+ Mo  Mo5  1  0.44757  0.59172  0.78127  1
+ Mo  Mo6  1  0.78127  0.44757  0.59172  1
+ S  S1  1  0.38219  0.73248  0.13062  1
+ S  S2  1  0.13062  0.38219  0.73248  1
+ S  S3  1  0.73248  0.13062  0.38219  1
+ S  S4  1  0.26752  0.86938  0.61781  1
+ S  S5  1  0.77746  0.77746  0.77746  1
+ S  S6  1  0.86938  0.61781  0.26752  1
+ S  S7  1  0.61781  0.26752  0.86938  1
+ S  S8  1  0.22254  0.22254  0.22254  1

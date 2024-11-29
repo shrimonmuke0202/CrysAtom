@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_NdGaPd
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       4.54793
+_cell_length_b       7.17216
+_cell_length_c       7.74739
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  NdGaPd
+_chemical_formula_sum  Nd4Ga4Pd4
+_cell_volume  252.7077643500262
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ga  Ga1  1  0.25000  0.17718  0.07903  1
+ Ga  Ga2  1  0.25000  0.67718  0.42097  1
+ Ga  Ga3  1  0.75000  0.82282  0.92097  1
+ Ga  Ga4  1  0.75000  0.32282  0.57903  1
+ Nd  Nd1  1  0.25000  0.01870  0.69912  1
+ Nd  Nd2  1  0.25000  0.51870  0.80088  1
+ Nd  Nd3  1  0.75000  0.98130  0.30088  1
+ Nd  Nd4  1  0.75000  0.48130  0.19912  1
+ Pd  Pd1  1  0.25000  0.28880  0.40697  1
+ Pd  Pd2  1  0.25000  0.78880  0.09303  1
+ Pd  Pd3  1  0.75000  0.71120  0.59303  1
+ Pd  Pd4  1  0.75000  0.21120  0.90697  1

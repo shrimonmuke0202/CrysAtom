@@ -1,0 +1,32 @@
+CIF file written using JARVIS-Tools package.
+data_HPbI3
+_symmetry_space_group_name_H-M  'P1'
+_cell_length_a       7.50531
+_cell_length_b       7.76062
+_cell_length_c       6.32576
+_cell_angle_alpha    60.5071
+_cell_angle_beta     111.496
+_cell_angle_gamma    62.8998
+
+_symmetry_Int_Tables_number  1
+_chemical_formula_structural  HPbI3
+_chemical_formula_sum  HPbI3
+_cell_volume  184.76335374410112
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ H  H1  1  0.11253  0.09056  0.11246  1
+ I  I1  1  0.31119  0.66051  -0.34515  1
+ I  I2  1  0.70275  -0.11511  0.76877  1
+ I  I3  1  0.01744  0.30657  0.72402  1
+ Pb  Pb1  1  0.34936  0.56670  0.21995  1

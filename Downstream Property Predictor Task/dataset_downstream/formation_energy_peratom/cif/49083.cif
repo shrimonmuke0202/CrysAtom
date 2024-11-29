@@ -1,0 +1,30 @@
+CIF file written using JARVIS-Tools package.
+data_I2N
+_symmetry_space_group_name_H-M  'Pmm2'
+_cell_length_a       3.90802
+_cell_length_b       3.7116
+_cell_length_c       7.22865
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  25
+_chemical_formula_structural  I2N
+_chemical_formula_sum  I2N
+_cell_volume  104.85168822573542
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ I  I1  1  0.03964  0.00000  0.76077  1
+ I  I2  1  0.03964  0.00000  0.23923  1
+ N  N1  1  0.32071  0.00000  0.00000  1

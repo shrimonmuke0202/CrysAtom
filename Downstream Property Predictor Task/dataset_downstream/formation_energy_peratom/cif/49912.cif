@@ -1,0 +1,53 @@
+CIF file written using JARVIS-Tools package.
+data_NaFe2PbF9
+_symmetry_space_group_name_H-M  'C2/c'
+_cell_length_a       7.13844
+_cell_length_b       7.13844
+_cell_length_c       7.64143
+_cell_angle_alpha    89.0191
+_cell_angle_beta     89.0191
+_cell_angle_gamma    120.216
+
+_symmetry_Int_Tables_number  15
+_chemical_formula_structural  NaFe2PbF9
+_chemical_formula_sum  Na2Fe4Pb2F8
+_cell_volume  336.28382411028974
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ F  F1  1  0.41771  0.72518  0.42487  1
+ F  F2  1  0.20628  0.89718  0.55027  1
+ F  F3  1  0.79372  0.10282  0.44973  1
+ F  F4  1  0.10282  0.79372  0.94973  1
+ F  F5  1  0.89718  0.20628  0.05027  1
+ F  F6  1  0.22354  0.30596  0.48388  1
+ F  F7  1  0.02964  0.97036  0.25000  1
+ F  F8  1  0.52477  0.90746  0.72240  1
+ F  F9  1  0.97036  0.02964  0.75000  1
+ F  F10  1  0.09254  0.47523  0.77760  1
+ F  F11  1  0.90746  0.52477  0.22240  1
+ F  F12  1  0.58229  0.27482  0.57513  1
+ F  F13  1  0.77646  0.69404  0.51612  1
+ F  F14  1  0.72518  0.41771  0.92487  1
+ F  F15  1  0.27482  0.58229  0.07513  1
+ F  F16  1  0.69404  0.77646  0.01612  1
+ F  F17  1  0.30596  0.22354  0.98388  1
+ F  F18  1  0.47523  0.09254  0.27760  1
+ Fe  Fe1  1  -0.00000  0.50000  0.00000  1
+ Fe  Fe2  1  0.50000  -0.00000  0.50000  1
+ Fe  Fe3  1  0.00000  0.00000  0.00000  1
+ Fe  Fe4  1  0.00000  -0.00000  0.50000  1
+ Na  Na1  1  -0.00000  0.50000  0.50000  1
+ Na  Na2  1  0.50000  -0.00000  -0.00000  1
+ Pb  Pb1  1  0.52711  0.47289  0.25000  1
+ Pb  Pb2  1  0.47289  0.52711  0.75000  1

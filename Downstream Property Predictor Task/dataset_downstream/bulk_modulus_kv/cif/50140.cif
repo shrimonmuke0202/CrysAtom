@@ -1,0 +1,38 @@
+CIF file written using JARVIS-Tools package.
+data_Be2BH3O5
+_symmetry_space_group_name_H-M  'P1'
+_cell_length_a       4.43863
+_cell_length_b       4.45567
+_cell_length_c       5.28098
+_cell_angle_alpha    92.3053
+_cell_angle_beta     88.9967
+_cell_angle_gamma    119.936
+
+_symmetry_Int_Tables_number  1
+_chemical_formula_structural  Be2BH3O5
+_chemical_formula_sum  Be2BH3O5
+_cell_volume  90.4344563666584
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ B  B1  1  0.99560  0.99505  0.50142  1
+ Be  Be1  1  0.32683  0.65743  0.39332  1
+ Be  Be2  1  0.66537  0.33495  0.59965  1
+ H  H1  1  0.54285  0.46621  0.99223  1
+ H  H2  1  0.92720  0.46990  0.98969  1
+ H  H3  1  0.43431  0.86924  0.01613  1
+ O  O1  1  0.67859  0.35387  0.91463  1
+ O  O2  1  0.30559  -0.00437  0.50690  1
+ O  O3  1  0.68651  0.68565  0.49899  1
+ O  O4  1  -0.00465  0.30349  0.49877  1
+ O  O5  1  0.31341  0.63718  0.08744  1

@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_LiSiNO
+_symmetry_space_group_name_H-M  'Pca2_1'
+_cell_length_a       4.78531
+_cell_length_b       5.21962
+_cell_length_c       6.36519
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  29
+_chemical_formula_structural  LiSiNO
+_chemical_formula_sum  Li4Si4N4O4
+_cell_volume  158.9865847380947
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Li  Li1  1  0.99721  0.59842  0.38780  1
+ Li  Li2  1  0.49721  0.40158  0.61220  1
+ Li  Li3  1  0.49721  0.90158  0.38780  1
+ Li  Li4  1  0.99721  0.09842  0.61220  1
+ N  N1  1  0.14712  0.39152  0.08677  1
+ N  N2  1  0.64712  0.60848  0.91323  1
+ N  N3  1  0.64712  0.10848  0.08677  1
+ N  N4  1  0.14712  0.89152  0.91323  1
+ O  O1  1  0.59440  0.04237  0.65365  1
+ O  O2  1  0.09440  0.45763  0.65365  1
+ O  O3  1  0.09440  0.95763  0.34635  1
+ O  O4  1  0.59440  0.54237  0.34635  1
+ Si  Si1  1  0.51127  0.41958  0.12172  1
+ Si  Si2  1  0.51127  0.91958  0.87828  1
+ Si  Si3  1  0.01127  0.08042  0.12172  1
+ Si  Si4  1  0.01127  0.58042  0.87828  1

@@ -1,0 +1,45 @@
+CIF file written using JARVIS-Tools package.
+data_K2Pd3S4
+_symmetry_space_group_name_H-M  'Fddd'
+_cell_length_a       6.17198
+_cell_length_b       6.18697
+_cell_length_c       12.9599
+_cell_angle_alpha    83.1788
+_cell_angle_beta     76.2244
+_cell_angle_gamma    60.0801
+
+_symmetry_Int_Tables_number  70
+_chemical_formula_structural  K2Pd3S4
+_chemical_formula_sum  K4Pd6S8
+_cell_volume  416.59008912598284
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ K  K1  1  0.54779  0.75000  0.90442  1
+ K  K2  1  0.70221  0.75000  0.59558  1
+ K  K3  1  0.45221  0.25000  0.09558  1
+ K  K4  1  0.29779  0.25000  0.40442  1
+ Pd  Pd1  1  0.87500  0.25000  0.25000  1
+ Pd  Pd2  1  0.37407  0.75000  0.25186  1
+ Pd  Pd3  1  0.87593  0.75000  0.24814  1
+ Pd  Pd4  1  0.62593  0.25000  0.74814  1
+ Pd  Pd5  1  0.12500  0.75000  0.75000  1
+ Pd  Pd6  1  0.12407  0.25000  0.75186  1
+ S  S1  1  0.76451  0.58330  0.12596  1
+ S  S2  1  0.10953  0.91670  0.12596  1
+ S  S3  1  0.23549  0.41670  0.87404  1
+ S  S4  1  0.02622  0.08330  0.62596  1
+ S  S5  1  0.34782  0.41670  0.62596  1
+ S  S6  1  0.65218  0.58330  0.37404  1
+ S  S7  1  0.97378  0.91670  0.37404  1
+ S  S8  1  0.89047  0.08330  0.87404  1

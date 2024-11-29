@@ -1,0 +1,47 @@
+CIF file written using JARVIS-Tools package.
+data_Sm2Ge5Pt3
+_symmetry_space_group_name_H-M  'Ibam'
+_cell_length_a       8.47279
+_cell_length_b       8.47279
+_cell_length_c       8.4728
+_cell_angle_alpha    135.956
+_cell_angle_beta     105.23
+_cell_angle_gamma    91.0595
+
+_symmetry_Int_Tables_number  72
+_chemical_formula_structural  Sm2Ge5Pt3
+_chemical_formula_sum  Sm4Ge0Pt6
+_cell_volume  388.02978631417153
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ge  Ge1  1  0.77268  0.02268  0.25000  1
+ Ge  Ge2  1  0.74092  0.89572  0.84520  1
+ Ge  Ge3  1  0.25908  0.10428  0.15480  1
+ Ge  Ge4  1  0.05052  0.39572  0.65480  1
+ Ge  Ge5  1  0.94948  0.60428  0.34520  1
+ Ge  Ge6  1  0.22732  0.97732  0.75000  1
+ Ge  Ge7  1  0.22732  0.47732  0.25000  1
+ Ge  Ge8  1  0.50000  0.75000  0.25000  1
+ Ge  Ge9  1  0.50000  0.25000  0.75000  1
+ Ge  Ge10  1  0.77268  0.52268  0.75000  1
+ Pt  Pt1  1  0.52776  0.13956  0.38820  1
+ Pt  Pt2  1  -0.00000  0.25000  0.25000  1
+ Pt  Pt3  1  -0.00000  0.75000  0.75000  1
+ Pt  Pt4  1  0.75137  0.63956  0.11180  1
+ Pt  Pt5  1  0.24863  0.36044  0.88820  1
+ Pt  Pt6  1  0.47224  0.86044  0.61180  1
+ Sm  Sm1  1  0.85955  0.13139  0.72816  1
+ Sm  Sm2  1  0.14045  0.86861  0.27184  1
+ Sm  Sm3  1  0.40323  0.63139  0.77184  1
+ Sm  Sm4  1  0.59677  0.36861  0.22816  1

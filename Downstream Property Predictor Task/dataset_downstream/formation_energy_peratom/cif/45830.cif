@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_TiAsRh
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       3.84826
+_cell_length_b       6.38493
+_cell_length_c       7.45681
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  TiAsRh
+_chemical_formula_sum  Ti4As4Rh4
+_cell_volume  183.22041577896658
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ As  As1  1  0.75000  0.74544  0.12090  1
+ As  As2  1  0.25000  0.25456  0.87910  1
+ As  As3  1  0.75000  0.24544  0.37910  1
+ As  As4  1  0.25000  0.75456  0.62090  1
+ Rh  Rh1  1  0.75000  0.14317  0.06384  1
+ Rh  Rh2  1  0.25000  0.85683  0.93616  1
+ Rh  Rh3  1  0.75000  0.64317  0.43616  1
+ Rh  Rh4  1  0.25000  0.35683  0.56384  1
+ Ti  Ti1  1  0.75000  0.03298  0.68405  1
+ Ti  Ti2  1  0.25000  0.96702  0.31595  1
+ Ti  Ti3  1  0.75000  0.53298  0.81595  1
+ Ti  Ti4  1  0.25000  0.46702  0.18405  1

@@ -1,0 +1,55 @@
+CIF file written using JARVIS-Tools package.
+data_Ba2Co4BrO7
+_symmetry_space_group_name_H-M  'R-3m'
+_cell_length_a       5.75821
+_cell_length_b       5.75822
+_cell_length_c       15.8878
+_cell_angle_alpha    79.5758
+_cell_angle_beta     79.5758
+_cell_angle_gamma    59.9989
+
+_symmetry_Int_Tables_number  166
+_chemical_formula_structural  Ba2Co4BrO7
+_chemical_formula_sum  Ba4Co8Br2O4
+_cell_volume  446.14217610438254
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ba  Ba1  1  0.42998  0.43552  0.70213  1
+ Ba  Ba2  1  0.56448  0.57002  0.29787  1
+ Ba  Ba3  1  0.28325  0.28871  0.14150  1
+ Ba  Ba4  1  0.71129  0.71675  0.85850  1
+ Br  Br1  1  0.35764  0.36308  0.91942  1
+ Br  Br2  1  0.63692  0.64236  0.08058  1
+ Co  Co1  1  0.49717  0.00283  0.50000  1
+ Co  Co2  1  0.10071  0.10622  0.68997  1
+ Co  Co3  1  0.89378  0.89929  0.31003  1
+ Co  Co4  1  0.77962  0.78518  0.65310  1
+ Co  Co5  1  0.21482  0.22038  0.34690  1
+ Co  Co6  1  0.49719  0.50281  0.50000  1
+ Co  Co7  1  -0.00283  0.50283  0.50000  1
+ Co  Co8  1  -0.00283  0.00283  0.50000  1
+ O  O1  1  0.65530  0.66096  0.56817  1
+ O  O2  1  0.65530  0.11852  0.56817  1
+ O  O3  1  0.11288  0.66095  0.56816  1
+ O  O4  1  0.14230  0.14796  0.56472  1
+ O  O5  1  0.85204  0.85770  0.43528  1
+ O  O6  1  0.08284  0.08836  0.27428  1
+ O  O7  1  0.91166  0.44869  0.72571  1
+ O  O8  1  0.55131  0.08834  0.27429  1
+ O  O9  1  0.91164  0.91716  0.72572  1
+ O  O10  1  0.44315  0.91718  0.72572  1
+ O  O11  1  0.33905  0.88712  0.43184  1
+ O  O12  1  0.88148  0.34470  0.43183  1
+ O  O13  1  0.08282  0.55685  0.27428  1
+ O  O14  1  0.33904  0.34470  0.43183  1

@@ -1,0 +1,47 @@
+CIF file written using JARVIS-Tools package.
+data_Na3DyBr6
+_symmetry_space_group_name_H-M  'P2_1/c'
+_cell_length_a       7.69082
+_cell_length_b       7.09308
+_cell_length_c       12.7448
+_cell_angle_alpha    57.0211
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  14
+_chemical_formula_structural  Na3DyBr6
+_chemical_formula_sum  Na6Dy2Br2
+_cell_volume  583.2245323708322
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Br  Br1  1  0.32192  0.60589  0.57150  1
+ Br  Br2  1  0.81209  0.75838  0.57694  1
+ Br  Br3  1  0.82192  0.39411  0.92850  1
+ Br  Br4  1  0.31209  0.24162  0.92306  1
+ Br  Br5  1  0.68791  0.75838  0.07694  1
+ Br  Br6  1  0.18791  0.24162  0.42306  1
+ Br  Br7  1  0.55731  0.09179  0.25809  1
+ Br  Br8  1  0.94269  0.09179  0.75809  1
+ Br  Br9  1  0.05731  0.90821  0.24191  1
+ Br  Br10  1  0.17808  0.60589  0.07150  1
+ Br  Br11  1  0.67808  0.39411  0.42850  1
+ Br  Br12  1  0.44269  0.90821  0.74191  1
+ Dy  Dy1  1  0.00000  0.00000  0.00000  1
+ Dy  Dy2  1  0.50000  0.00000  0.50000  1
+ Na  Na1  1  0.40306  0.70509  0.25599  1
+ Na  Na2  1  0.59694  0.29491  0.74401  1
+ Na  Na3  1  0.90306  0.29491  0.24401  1
+ Na  Na4  1  0.09694  0.70509  0.75599  1
+ Na  Na5  1  0.00000  0.50000  0.50000  1
+ Na  Na6  1  0.50000  0.50000  0.00000  1

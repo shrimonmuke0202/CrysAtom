@@ -1,0 +1,45 @@
+CIF file written using JARVIS-Tools package.
+data_Ca2AlCoO5
+_symmetry_space_group_name_H-M  'Ima2'
+_cell_length_a       5.19633
+_cell_length_b       5.50218
+_cell_length_c       8.30308
+_cell_angle_alpha    109.349
+_cell_angle_beta     108.233
+_cell_angle_gamma    90.006
+
+_symmetry_Int_Tables_number  46
+_chemical_formula_structural  Ca2AlCoO5
+_chemical_formula_sum  Ca4Al2Co2O0
+_cell_volume  211.30856137108006
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Al  Al1  1  0.29389  0.32639  0.50020  1
+ Al  Al2  1  0.79390  0.67753  0.50021  1
+ Ca  Ca1  1  0.11660  0.64154  0.21873  1
+ Ca  Ca2  1  0.39808  0.92300  0.78168  1
+ Ca  Ca3  1  0.89805  0.36235  0.78166  1
+ Ca  Ca4  1  0.61661  0.08090  0.21874  1
+ Co  Co1  1  0.49691  0.50195  0.00020  1
+ Co  Co2  1  0.99692  0.00195  0.00019  1
+ O  O1  1  0.76284  0.26848  0.02561  1
+ O  O2  1  0.13566  0.61706  0.50021  1
+ O  O3  1  0.61670  0.71611  0.29399  1
+ O  O4  1  0.63565  0.38685  0.50020  1
+ O  O5  1  0.26283  0.26083  0.02562  1
+ O  O6  1  0.82292  0.92232  0.70644  1
+ O  O7  1  0.23734  0.74299  0.97478  1
+ O  O8  1  0.32291  0.28780  0.70643  1
+ O  O9  1  0.11668  0.08159  0.29396  1
+ O  O10  1  0.73736  0.73549  0.97480  1

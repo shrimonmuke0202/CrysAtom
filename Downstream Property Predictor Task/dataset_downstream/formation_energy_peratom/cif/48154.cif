@@ -1,0 +1,67 @@
+CIF file written using JARVIS-Tools package.
+data_Nb3GeTe6
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       6.54039
+_cell_length_b       11.705
+_cell_length_c       14.2251
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  Nb3GeTe6
+_chemical_formula_sum  Nb2Ge4Te24
+_cell_volume  1089.0100518569495
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ge  Ge1  1  0.57451  0.42479  0.25000  1
+ Ge  Ge2  1  0.92549  0.92479  0.75000  1
+ Ge  Ge3  1  0.42549  0.57521  0.75000  1
+ Ge  Ge4  1  0.07451  0.07521  0.25000  1
+ Nb  Nb1  1  0.17502  0.83286  0.25000  1
+ Nb  Nb2  1  0.67502  0.66714  0.25000  1
+ Nb  Nb3  1  0.32498  0.33286  0.75000  1
+ Nb  Nb4  1  0.82498  0.16714  0.75000  1
+ Nb  Nb5  1  0.69636  0.96911  0.25000  1
+ Nb  Nb6  1  0.53630  0.81458  0.75000  1
+ Nb  Nb7  1  0.46370  0.18542  0.25000  1
+ Nb  Nb8  1  0.96370  0.31458  0.25000  1
+ Nb  Nb9  1  0.30364  0.03089  0.75000  1
+ Nb  Nb10  1  0.80364  0.46911  0.75000  1
+ Nb  Nb11  1  0.19636  0.53089  0.25000  1
+ Nb  Nb12  1  0.03630  0.68542  0.75000  1
+ Te  Te1  1  0.78493  0.16059  0.11657  1
+ Te  Te2  1  0.85481  0.81904  0.38319  1
+ Te  Te3  1  0.35481  0.68096  0.11681  1
+ Te  Te4  1  0.64519  0.31904  0.61681  1
+ Te  Te5  1  0.35481  0.68096  0.38319  1
+ Te  Te6  1  0.86384  0.50695  0.12012  1
+ Te  Te7  1  0.64519  0.31904  0.88319  1
+ Te  Te8  1  0.85481  0.81904  0.11681  1
+ Te  Te9  1  0.28493  0.33941  0.38343  1
+ Te  Te10  1  0.14519  0.18096  0.88319  1
+ Te  Te11  1  0.14519  0.18096  0.61681  1
+ Te  Te12  1  0.13616  0.49305  0.87988  1
+ Te  Te13  1  0.21507  0.83941  0.88343  1
+ Te  Te14  1  0.71507  0.66059  0.61657  1
+ Te  Te15  1  0.28493  0.33941  0.11657  1
+ Te  Te16  1  0.78493  0.16059  0.38343  1
+ Te  Te17  1  0.36384  0.99305  0.12012  1
+ Te  Te18  1  0.86384  0.50695  0.37988  1
+ Te  Te19  1  0.71507  0.66059  0.88343  1
+ Te  Te20  1  0.63616  0.00695  0.62012  1
+ Te  Te21  1  0.63616  0.00695  0.87988  1
+ Te  Te22  1  0.13616  0.49305  0.62012  1
+ Te  Te23  1  0.21507  0.83941  0.61657  1
+ Te  Te24  1  0.36384  0.99305  0.37988  1

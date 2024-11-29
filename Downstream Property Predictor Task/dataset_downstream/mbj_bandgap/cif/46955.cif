@@ -1,0 +1,41 @@
+CIF file written using JARVIS-Tools package.
+data_AgBi2S3Cl
+_symmetry_space_group_name_H-M  'P2_1/m'
+_cell_length_a       7.81611
+_cell_length_b       4.0263
+_cell_length_c       10.8503
+_cell_angle_alpha    90
+_cell_angle_beta     103.19
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  11
+_chemical_formula_structural  AgBi2S3Cl
+_chemical_formula_sum  Ag2Bi4S6Cl2
+_cell_volume  332.45126865471184
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ag  Ag1  1  0.94132  0.25000  0.59172  1
+ Ag  Ag2  1  0.05868  0.75000  0.40828  1
+ Bi  Bi1  1  0.46216  0.25000  0.65670  1
+ Bi  Bi2  1  0.53784  0.75000  0.34330  1
+ Bi  Bi3  1  0.18717  0.75000  0.92523  1
+ Bi  Bi4  1  0.81283  0.25000  0.07477  1
+ Cl  Cl1  1  0.40641  0.25000  0.10138  1
+ Cl  Cl2  1  0.59359  0.75000  0.89862  1
+ S  S1  1  0.95658  0.25000  0.85133  1
+ S  S2  1  0.68372  0.75000  0.58737  1
+ S  S3  1  0.31628  0.25000  0.41263  1
+ S  S4  1  0.04342  0.75000  0.14867  1
+ S  S5  1  0.19927  0.75000  0.66103  1
+ S  S6  1  0.80073  0.25000  0.33897  1

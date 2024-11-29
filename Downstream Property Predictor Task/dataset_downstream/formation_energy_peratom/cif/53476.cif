@@ -1,0 +1,52 @@
+CIF file written using JARVIS-Tools package.
+data_InGaS3
+_symmetry_space_group_name_H-M  'P1'
+_cell_length_a       6.68471
+_cell_length_b       6.6776
+_cell_length_c       15.3029
+_cell_angle_alpha    82.1843
+_cell_angle_beta     85.9163
+_cell_angle_gamma    60.0206
+
+_symmetry_Int_Tables_number  1
+_chemical_formula_structural  InGaS3
+_chemical_formula_sum  In5Ga5S5
+_cell_volume  586.1962655863568
+_cell_formula_units_Z  5
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ga  Ga1  1  0.33246  0.92565  0.31708  1
+ Ga  Ga2  1  0.01458  0.57452  0.25389  1
+ Ga  Ga3  1  -0.02486  0.84141  0.44780  1
+ Ga  Ga4  1  0.68774  0.48431  0.44779  1
+ Ga  Ga5  1  0.33123  0.74904  0.75395  1
+ In  In1  1  0.65546  0.66891  0.00354  1
+ In  In2  1  0.34041  0.32231  0.01253  1
+ In  In3  1  0.99371  0.01650  0.00382  1
+ In  In4  1  0.00320  0.41657  0.74047  1
+ In  In5  1  0.66589  0.08267  0.74006  1
+ S  S1  1  0.99368  0.49709  0.49765  1
+ S  S2  1  0.67155  0.15885  0.49976  1
+ S  S3  1  0.35653  0.24993  0.27809  1
+ S  S4  1  0.99302  0.64745  0.09157  1
+ S  S5  1  0.66613  0.31139  0.09253  1
+ S  S6  1  0.32916  0.96824  0.09264  1
+ S  S7  1  0.66689  0.03085  0.90338  1
+ S  S8  1  0.33368  0.07438  0.67659  1
+ S  S9  1  0.03024  0.76974  0.67804  1
+ S  S10  1  0.00322  0.37338  0.90335  1
+ S  S11  1  0.63866  0.46506  0.68063  1
+ S  S12  1  0.32421  0.70079  0.90169  1
+ S  S13  1  0.67117  0.57163  0.28964  1
+ S  S14  1  0.33137  0.82786  0.47158  1
+ S  S15  1  -0.00918  0.91534  0.28984  1

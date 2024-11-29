@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_Er3Rh
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       6.2152
+_cell_length_b       7.04907
+_cell_length_c       9.26014
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  Er3Rh
+_chemical_formula_sum  Er2Rh4
+_cell_volume  405.69983453346174
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Er  Er1  1  0.67126  0.17912  0.06192  1
+ Er  Er2  1  0.17126  0.32088  0.93808  1
+ Er  Er3  1  0.82874  0.67912  0.43808  1
+ Er  Er4  1  0.32874  0.82088  0.56192  1
+ Er  Er5  1  0.32874  0.82088  0.93808  1
+ Er  Er6  1  0.82874  0.67912  0.06192  1
+ Er  Er7  1  0.17126  0.32088  0.56192  1
+ Er  Er8  1  0.67126  0.17912  0.43808  1
+ Er  Er9  1  0.86557  0.96675  0.75000  1
+ Er  Er10  1  0.36557  0.53325  0.25000  1
+ Er  Er11  1  0.63443  0.46675  0.75000  1
+ Er  Er12  1  0.13443  0.03325  0.25000  1
+ Rh  Rh1  1  0.05405  0.61586  0.75000  1
+ Rh  Rh2  1  0.55405  0.88414  0.25000  1
+ Rh  Rh3  1  0.44595  0.11586  0.75000  1
+ Rh  Rh4  1  0.94595  0.38414  0.25000  1

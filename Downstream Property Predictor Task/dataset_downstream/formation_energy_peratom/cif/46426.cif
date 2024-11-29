@@ -1,0 +1,49 @@
+CIF file written using JARVIS-Tools package.
+data_Ba3Cu2Cl2O4
+_symmetry_space_group_name_H-M  'Pmma'
+_cell_length_a       6.03376
+_cell_length_b       6.60427
+_cell_length_c       10.6767
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  51
+_chemical_formula_structural  Ba3Cu2Cl2O4
+_chemical_formula_sum  Ba6Cu4Cl4O8
+_cell_volume  425.45066064809566
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ba  Ba1  1  0.50000  0.75000  0.44953  1
+ Ba  Ba2  1  0.00000  0.75000  0.21136  1
+ Ba  Ba3  1  0.00000  0.25000  0.78864  1
+ Ba  Ba4  1  0.50000  0.25000  0.55047  1
+ Ba  Ba5  1  0.50000  0.25000  0.20040  1
+ Ba  Ba6  1  0.50000  0.75000  0.79960  1
+ Cl  Cl1  1  0.50000  0.25000  0.88416  1
+ Cl  Cl2  1  0.00000  0.75000  0.91481  1
+ Cl  Cl3  1  0.50000  0.75000  0.11584  1
+ Cl  Cl4  1  0.00000  0.25000  0.08519  1
+ Cu  Cu1  1  0.00000  0.75000  0.66843  1
+ Cu  Cu2  1  0.00000  0.50000  0.50000  1
+ Cu  Cu3  1  0.00000  0.25000  0.33157  1
+ Cu  Cu4  1  0.00000  0.00000  0.50000  1
+ O  O1  1  0.22315  0.53043  0.63951  1
+ O  O2  1  0.77685  0.03043  0.36049  1
+ O  O3  1  0.22315  0.46957  0.36049  1
+ O  O4  1  0.22315  0.03043  0.36049  1
+ O  O5  1  0.77685  0.96957  0.63951  1
+ O  O6  1  0.22315  0.96957  0.63951  1
+ O  O7  1  0.77685  0.46957  0.36049  1
+ O  O8  1  0.77685  0.53043  0.63951  1

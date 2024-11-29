@@ -1,0 +1,45 @@
+CIF file written using JARVIS-Tools package.
+data_Nd5As2ClO10
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       5.72342
+_cell_length_b       6.88133
+_cell_length_c       8.9047
+_cell_angle_alpha    68.4456
+_cell_angle_beta     71.253
+_cell_angle_gamma    65.4247
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  Nd5As2ClO10
+_chemical_formula_sum  Nd5As2ClO0
+_cell_volume  290.68386626303896
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ As  As1  1  0.21382  0.96826  0.60409  1
+ As  As2  1  0.78618  0.03174  0.39591  1
+ Cl  Cl1  1  0.00000  0.50000  0.50000  1
+ Nd  Nd1  1  0.50074  0.70576  0.29278  1
+ Nd  Nd2  1  0.25342  0.36318  0.13001  1
+ Nd  Nd3  1  0.00000  0.00000  0.00000  1
+ Nd  Nd4  1  0.74658  0.63682  0.86999  1
+ Nd  Nd5  1  0.49926  0.29424  0.70722  1
+ O  O1  1  0.62341  0.03368  0.24822  1
+ O  O2  1  0.90532  0.96632  0.75179  1
+ O  O3  1  0.35911  0.68316  0.59866  1
+ O  O4  1  0.86749  0.67452  0.08420  1
+ O  O5  1  0.13251  0.32548  0.91580  1
+ O  O6  1  0.62622  0.32547  0.91580  1
+ O  O7  1  0.37659  0.96632  0.75178  1
+ O  O8  1  0.64089  0.31684  0.40134  1
+ O  O9  1  0.37378  0.67453  0.08420  1
+ O  O10  1  0.09468  0.03368  0.24821  1

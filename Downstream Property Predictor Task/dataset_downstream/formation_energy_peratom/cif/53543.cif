@@ -1,0 +1,45 @@
+CIF file written using JARVIS-Tools package.
+data_Mn4Ga3Cu2
+_symmetry_space_group_name_H-M  'P-6m2'
+_cell_length_a       4.16852
+_cell_length_b       4.16852
+_cell_length_c       15.7158
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_symmetry_Int_Tables_number  187
+_chemical_formula_structural  Mn4Ga3Cu2
+_chemical_formula_sum  Mn8Ga6Cu4
+_cell_volume  236.50077873306248
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cu  Cu1  1  0.66667  0.33333  0.00000  1
+ Cu  Cu2  1  0.00000  0.00000  0.16249  1
+ Cu  Cu3  1  0.00000  0.00000  0.50000  1
+ Cu  Cu4  1  0.00000  0.00000  0.83751  1
+ Ga  Ga1  1  0.00000  0.00000  0.32928  1
+ Ga  Ga2  1  0.00000  0.00000  0.67072  1
+ Ga  Ga3  1  0.00000  0.00000  0.00000  1
+ Ga  Ga4  1  0.66667  0.33333  0.17747  1
+ Ga  Ga5  1  0.66667  0.33333  0.82253  1
+ Ga  Ga6  1  0.66667  0.33333  0.50000  1
+ Mn  Mn1  1  0.33333  0.66667  0.91348  1
+ Mn  Mn2  1  0.33333  0.66667  0.25569  1
+ Mn  Mn3  1  0.33333  0.66667  0.41482  1
+ Mn  Mn4  1  0.33333  0.66667  0.74431  1
+ Mn  Mn5  1  0.33333  0.66667  0.08652  1
+ Mn  Mn6  1  0.66667  0.33333  0.34221  1
+ Mn  Mn7  1  0.33333  0.66667  0.58518  1
+ Mn  Mn8  1  0.66667  0.33333  0.65779  1

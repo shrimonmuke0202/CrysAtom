@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_NbSiPt
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       3.86869
+_cell_length_b       6.50623
+_cell_length_c       7.4434
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  NbSiPt
+_chemical_formula_sum  Nb4Si4Pt4
+_cell_volume  187.35489687015212
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Nb  Nb1  1  0.75000  0.47388  0.33558  1
+ Nb  Nb2  1  0.25000  0.02612  0.83558  1
+ Nb  Nb3  1  0.75000  0.97388  0.16442  1
+ Nb  Nb4  1  0.25000  0.52612  0.66442  1
+ Pt  Pt1  1  0.25000  0.65289  0.06703  1
+ Pt  Pt2  1  0.25000  0.15289  0.43297  1
+ Pt  Pt3  1  0.75000  0.84711  0.56703  1
+ Pt  Pt4  1  0.75000  0.34711  0.93297  1
+ Si  Si1  1  0.25000  0.27019  0.12486  1
+ Si  Si2  1  0.25000  0.77019  0.37514  1
+ Si  Si3  1  0.75000  0.72981  0.87514  1
+ Si  Si4  1  0.75000  0.22981  0.62486  1

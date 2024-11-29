@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_HoAsPd
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       4.10881
+_cell_length_b       7.04371
+_cell_length_c       7.95636
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  HoAsPd
+_chemical_formula_sum  Ho4As4Pd4
+_cell_volume  230.26716530957444
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ As  As1  1  0.25000  0.74425  0.62054  1
+ As  As2  1  0.75000  0.25575  0.37946  1
+ As  As3  1  0.25000  0.24425  0.87946  1
+ As  As4  1  0.75000  0.75575  0.12054  1
+ Ho  Ho1  1  0.25000  0.03371  0.19259  1
+ Ho  Ho2  1  0.75000  0.96629  0.80741  1
+ Ho  Ho3  1  0.25000  0.53371  0.30741  1
+ Ho  Ho4  1  0.75000  0.46629  0.69259  1
+ Pd  Pd1  1  0.75000  0.35744  0.06289  1
+ Pd  Pd2  1  0.25000  0.64256  0.93711  1
+ Pd  Pd3  1  0.75000  0.85744  0.43711  1
+ Pd  Pd4  1  0.25000  0.14256  0.56289  1

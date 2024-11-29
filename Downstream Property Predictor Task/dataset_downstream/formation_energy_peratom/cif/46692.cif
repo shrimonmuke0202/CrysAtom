@@ -1,0 +1,37 @@
+CIF file written using JARVIS-Tools package.
+data_Sc2CoSi2
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       3.96606
+_cell_length_b       5.31839
+_cell_length_c       8.52462
+_cell_angle_alpha    82.5515
+_cell_angle_beta     76.5484
+_cell_angle_gamma    68.1077
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  Sc2CoSi2
+_chemical_formula_sum  Sc4Co2Si4
+_cell_volume  162.0828179846418
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Co  Co1  1  0.22579  0.92263  0.62578  1
+ Co  Co2  1  0.77421  0.07737  0.37422  1
+ Sc  Sc1  1  0.68370  0.73740  0.89521  1
+ Sc  Sc2  1  0.49963  0.67247  0.32827  1
+ Sc  Sc3  1  0.31630  0.26260  0.10479  1
+ Sc  Sc4  1  0.50037  0.32753  0.67173  1
+ Si  Si1  1  0.01309  0.84881  0.12501  1
+ Si  Si2  1  0.85436  0.72157  0.56972  1
+ Si  Si3  1  0.98691  0.15119  0.87499  1
+ Si  Si4  1  0.14564  0.27843  0.43028  1

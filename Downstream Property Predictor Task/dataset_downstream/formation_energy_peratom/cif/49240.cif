@@ -1,0 +1,41 @@
+CIF file written using JARVIS-Tools package.
+data_Tm3Si3Ni
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       5.4978
+_cell_length_b       5.4978
+_cell_length_c       13.372
+_cell_angle_alpha    71.1522
+_cell_angle_beta     71.1522
+_cell_angle_gamma    44.2988
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  Tm3Si3Ni
+_chemical_formula_sum  Tm6Si6Ni2
+_cell_volume  264.55080316363296
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ni  Ni1  1  0.75117  0.75117  0.40036  1
+ Ni  Ni2  1  0.24883  0.24883  0.59964  1
+ Si  Si1  1  0.95499  0.95499  0.23589  1
+ Si  Si2  1  0.04501  0.04501  0.76411  1
+ Si  Si3  1  0.88329  0.88329  0.07585  1
+ Si  Si4  1  0.11671  0.11671  0.92415  1
+ Si  Si5  1  0.86318  0.86318  0.54324  1
+ Si  Si6  1  0.13682  0.13682  0.45676  1
+ Tm  Tm1  1  0.46880  0.46880  0.38047  1
+ Tm  Tm2  1  0.53120  0.53120  0.61953  1
+ Tm  Tm3  1  0.60114  0.60114  0.07876  1
+ Tm  Tm4  1  0.39886  0.39886  0.92124  1
+ Tm  Tm5  1  0.25217  0.25217  0.22748  1
+ Tm  Tm6  1  0.74783  0.74783  0.77252  1

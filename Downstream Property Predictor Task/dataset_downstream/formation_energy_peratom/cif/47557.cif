@@ -1,0 +1,41 @@
+CIF file written using JARVIS-Tools package.
+data_Ho2HgO4
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       3.59673
+_cell_length_b       7.02749
+_cell_length_c       8.7783
+_cell_angle_alpha    78.5066
+_cell_angle_beta     78.1784
+_cell_angle_gamma    75.1728
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  Ho2HgO4
+_chemical_formula_sum  Ho4Hg2O8
+_cell_volume  207.39972832118173
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Hg  Hg1  1  0.38777  0.06397  0.16049  1
+ Hg  Hg2  1  0.61223  0.93603  0.83951  1
+ Ho  Ho1  1  0.11898  0.22401  0.53804  1
+ Ho  Ho2  1  0.88102  0.77599  0.46196  1
+ Ho  Ho3  1  0.33964  0.52043  0.80029  1
+ Ho  Ho4  1  0.66036  0.47957  0.19971  1
+ O  O1  1  0.91749  0.51288  0.65215  1
+ O  O2  1  0.08251  0.48712  0.34785  1
+ O  O3  1  0.73307  0.14627  0.38759  1
+ O  O4  1  0.26693  0.85373  0.61241  1
+ O  O5  1  0.29773  0.35119  0.05334  1
+ O  O6  1  0.70227  0.64881  0.94666  1
+ O  O7  1  0.46612  0.78522  0.28254  1
+ O  O8  1  0.53388  0.21478  0.71746  1

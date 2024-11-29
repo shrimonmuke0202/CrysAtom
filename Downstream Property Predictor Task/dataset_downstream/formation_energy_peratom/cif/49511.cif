@@ -1,0 +1,47 @@
+CIF file written using JARVIS-Tools package.
+data_NaLaScNbO6
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       5.67505
+_cell_length_b       5.67505
+_cell_length_c       8.06626
+_cell_angle_alpha    89.9266
+_cell_angle_beta     89.9267
+_cell_angle_gamma    90.7705
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  NaLaScNbO6
+_chemical_formula_sum  Na2La2Sc2Nb2O2
+_cell_volume  259.7594294427115
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ La  La1  1  0.74576  0.25424  0.50000  1
+ La  La2  1  0.25424  0.74576  0.50000  1
+ Na  Na1  1  0.74694  0.25306  0.00000  1
+ Na  Na2  1  0.25306  0.74694  0.00000  1
+ Nb  Nb1  1  0.74912  0.74912  0.76481  1
+ Nb  Nb2  1  0.25088  0.25088  0.23519  1
+ O  O1  1  0.49300  0.00403  0.27769  1
+ O  O2  1  0.49370  0.49370  0.19813  1
+ O  O3  1  0.50700  0.99597  0.72231  1
+ O  O4  1  0.99597  0.50700  0.72231  1
+ O  O5  1  0.00403  0.49300  0.27769  1
+ O  O6  1  0.18821  0.18821  0.00641  1
+ O  O7  1  0.68520  0.68520  0.50126  1
+ O  O8  1  0.99511  0.99511  0.68109  1
+ O  O9  1  0.81179  0.81179  0.99359  1
+ O  O10  1  0.31480  0.31480  0.49874  1
+ O  O11  1  0.00489  0.00489  0.31891  1
+ O  O12  1  0.50630  0.50630  0.80187  1
+ Sc  Sc1  1  0.24821  0.24821  0.75453  1
+ Sc  Sc2  1  0.75179  0.75179  0.24547  1

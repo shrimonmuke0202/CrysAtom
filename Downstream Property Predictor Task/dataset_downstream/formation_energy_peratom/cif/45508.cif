@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_AlPO4
+_symmetry_space_group_name_H-M  'P2_1'
+_cell_length_a       4.93893
+_cell_length_b       8.23213
+_cell_length_c       5.1
+_cell_angle_alpha    90
+_cell_angle_beta     118.641
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  4
+_chemical_formula_structural  AlPO4
+_chemical_formula_sum  Al2P2O8
+_cell_volume  181.98364677362176
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Al  Al1  1  0.55616  0.06793  0.32951  1
+ Al  Al2  1  0.44384  0.56793  0.67049  1
+ O  O1  1  0.58946  0.55822  0.41740  1
+ O  O2  1  0.41054  0.05822  0.58260  1
+ O  O3  1  0.11519  0.44473  0.55147  1
+ O  O4  1  0.88481  0.94473  0.44853  1
+ O  O5  1  0.64924  0.26864  0.30199  1
+ O  O6  1  0.35076  0.76864  0.69801  1
+ O  O7  1  0.27040  0.99572  -0.01736  1
+ O  O8  1  0.72960  0.49572  0.01736  1
+ P  P1  1  0.77053  0.44144  0.32265  1
+ P  P2  1  0.22947  0.94144  0.67735  1

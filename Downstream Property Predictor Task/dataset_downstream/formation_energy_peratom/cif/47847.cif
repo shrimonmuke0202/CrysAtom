@@ -1,0 +1,48 @@
+CIF file written using JARVIS-Tools package.
+data_Nd2Fe12P7
+_symmetry_space_group_name_H-M  'P-6'
+_cell_length_a       9.02087
+_cell_length_b       9.02087
+_cell_length_c       3.68764
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_symmetry_Int_Tables_number  174
+_chemical_formula_structural  Nd2Fe12P7
+_chemical_formula_sum  Nd2Fe2P7
+_cell_volume  259.882335889531
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Fe  Fe1  1  0.63280  0.57635  0.00000  1
+ Fe  Fe2  1  0.11971  0.84901  0.00000  1
+ Fe  Fe3  1  0.88597  0.79050  0.50000  1
+ Fe  Fe4  1  0.20950  0.09547  0.50000  1
+ Fe  Fe5  1  0.90453  0.11403  0.50000  1
+ Fe  Fe6  1  0.38228  0.43111  0.50000  1
+ Fe  Fe7  1  0.56889  0.95117  0.50000  1
+ Fe  Fe8  1  0.04883  0.61772  0.50000  1
+ Fe  Fe9  1  0.15099  0.27070  0.00000  1
+ Fe  Fe10  1  0.72930  0.88029  0.00000  1
+ Fe  Fe11  1  0.94355  0.36720  0.00000  1
+ Fe  Fe12  1  0.42365  0.05645  0.00000  1
+ Nd  Nd1  1  0.33333  0.66667  0.00000  1
+ Nd  Nd2  1  0.66667  0.33333  0.50000  1
+ P  P1  1  0.28949  0.89564  0.50000  1
+ P  P2  1  0.69914  0.10552  0.00000  1
+ P  P3  1  0.40638  0.30086  0.00000  1
+ P  P4  1  0.89448  0.59362  0.00000  1
+ P  P5  1  0.60615  0.71051  0.50000  1
+ P  P6  1  0.10436  0.39385  0.50000  1
+ P  P7  1  0.00000  0.00000  0.00000  1

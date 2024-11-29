@@ -1,0 +1,42 @@
+CIF file written using JARVIS-Tools package.
+data_LaMo6Se4S4
+_symmetry_space_group_name_H-M  'P1'
+_cell_length_a       6.68631
+_cell_length_b       6.68728
+_cell_length_c       6.75084
+_cell_angle_alpha    90.6129
+_cell_angle_beta     91.1717
+_cell_angle_gamma    90.3913
+
+_symmetry_Int_Tables_number  1
+_chemical_formula_structural  LaMo6Se4S4
+_chemical_formula_sum  LaMo6Se4S4
+_cell_volume  301.7644417097858
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ La  La1  1  0.99214  0.01557  0.99883  1
+ Mo  Mo1  1  0.23570  0.55494  0.57704  1
+ Mo  Mo2  1  0.56057  0.41830  0.76236  1
+ Mo  Mo3  1  0.41837  0.23163  0.44156  1
+ Mo  Mo4  1  0.76939  0.43833  0.42134  1
+ Mo  Mo5  1  0.44128  0.57566  0.23602  1
+ Mo  Mo6  1  0.58532  0.76778  0.55617  1
+ S  S1  1  0.24313  0.24187  0.75091  1
+ S  S2  1  0.76025  0.75233  0.24670  1
+ S  S3  1  0.74039  0.12920  0.62039  1
+ S  S4  1  0.12646  0.37460  0.26034  1
+ Se  Se1  1  0.38170  0.75792  0.87848  1
+ Se  Se2  1  0.24102  0.87626  0.37227  1
+ Se  Se3  1  0.88593  0.62625  0.75880  1
+ Se  Se4  1  0.61834  0.23935  0.11880  1

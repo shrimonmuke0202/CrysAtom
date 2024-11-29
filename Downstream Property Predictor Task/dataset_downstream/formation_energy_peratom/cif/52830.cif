@@ -1,0 +1,57 @@
+CIF file written using JARVIS-Tools package.
+data_Li6TiNi7O16
+_symmetry_space_group_name_H-M  'P1'
+_cell_length_a       6.41046
+_cell_length_b       6.44012
+_cell_length_c       7.72165
+_cell_angle_alpha    76.4279
+_cell_angle_beta     65.5048
+_cell_angle_gamma    71.7925
+
+_symmetry_Int_Tables_number  1
+_chemical_formula_structural  Li6TiNi7O16
+_chemical_formula_sum  Li6TiNi7O6
+_cell_volume  273.52046981970244
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Li  Li1  1  0.17507  0.31967  0.44011  1
+ Li  Li2  1  0.94564  0.54832  0.19619  1
+ Li  Li3  1  0.55957  0.93415  0.31205  1
+ Li  Li4  1  0.45696  0.04878  0.68223  1
+ Li  Li5  1  0.05562  0.45504  0.80632  1
+ Li  Li6  1  0.67086  0.82487  0.93316  1
+ Ni  Ni1  1  0.61583  0.37046  0.12806  1
+ Ni  Ni2  1  0.24719  0.75057  0.25539  1
+ Ni  Ni3  1  0.87475  0.12061  0.37666  1
+ Ni  Ni4  1  0.50514  0.50119  0.49768  1
+ Ni  Ni5  1  0.11966  0.87108  0.62795  1
+ Ni  Ni6  1  0.74888  0.25143  0.75273  1
+ Ni  Ni7  1  0.37428  0.61970  0.87315  1
+ O  O1  1  0.68880  0.50587  0.86955  1
+ O  O2  1  0.28915  0.49148  0.16077  1
+ O  O3  1  0.19325  0.00496  0.37164  1
+ O  O4  1  0.95406  0.28910  0.08740  1
+ O  O5  1  0.56788  0.64497  0.23893  1
+ O  O6  1  0.55038  0.23460  0.39285  1
+ O  O7  1  0.67748  0.08275  0.03473  1
+ O  O8  1  0.79340  0.98895  0.66041  1
+ O  O9  1  0.92816  0.85853  0.26406  1
+ O  O10  1  0.83053  0.38540  0.46575  1
+ O  O11  1  0.44507  0.77128  0.59308  1
+ O  O12  1  0.43303  0.36386  0.75527  1
+ O  O13  1  0.05140  0.73159  0.88949  1
+ O  O14  1  0.18341  0.59303  0.53184  1
+ O  O15  1  0.08204  0.15211  0.72460  1
+ O  O16  1  0.33984  0.88637  0.95907  1
+ Ti  Ti1  1  0.00654  0.02098  0.00053  1

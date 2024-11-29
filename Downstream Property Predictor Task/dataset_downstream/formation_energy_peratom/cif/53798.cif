@@ -1,0 +1,51 @@
+CIF file written using JARVIS-Tools package.
+data_LuCoB4
+_symmetry_space_group_name_H-M  'Pbam'
+_cell_length_a       3.33618
+_cell_length_b       5.82876
+_cell_length_c       11.2875
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  55
+_chemical_formula_structural  LuCoB4
+_chemical_formula_sum  Lu4Co4B6
+_cell_volume  219.49530898417166
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ B  B1  1  0.00000  0.47764  0.69204  1
+ B  B2  1  0.00000  0.11200  0.04682  1
+ B  B3  1  0.00000  0.88800  0.95318  1
+ B  B4  1  0.00000  0.38800  0.54682  1
+ B  B5  1  0.00000  0.28591  0.81474  1
+ B  B6  1  0.00000  0.13716  0.46818  1
+ B  B7  1  0.00000  0.86284  0.53182  1
+ B  B8  1  0.00000  0.61200  0.45318  1
+ B  B9  1  0.00000  0.63716  0.03182  1
+ B  B10  1  0.00000  0.02236  0.19204  1
+ B  B11  1  0.00000  0.97764  0.80796  1
+ B  B12  1  0.00000  0.71409  0.18526  1
+ B  B13  1  0.00000  0.52236  0.30796  1
+ B  B14  1  0.00000  0.21409  0.31474  1
+ B  B15  1  0.00000  0.78591  0.68526  1
+ B  B16  1  0.00000  0.36284  0.96818  1
+ Co  Co1  1  0.50000  0.86363  0.09033  1
+ Co  Co2  1  0.50000  0.13637  0.90967  1
+ Co  Co3  1  0.50000  0.63637  0.59033  1
+ Co  Co4  1  0.50000  0.36363  0.40967  1
+ Lu  Lu1  1  0.50000  0.87126  0.35013  1
+ Lu  Lu2  1  0.50000  0.12874  0.64987  1
+ Lu  Lu3  1  0.50000  0.62874  0.85013  1
+ Lu  Lu4  1  0.50000  0.37126  0.14987  1

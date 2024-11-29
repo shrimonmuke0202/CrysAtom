@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_ZnH6C5O4
+_symmetry_space_group_name_H-M  'P1'
+_cell_length_a       3.90494
+_cell_length_b       4.73353
+_cell_length_c       8.25698
+_cell_angle_alpha    90.6641
+_cell_angle_beta     97.7262
+_cell_angle_gamma    111.463
+
+_symmetry_Int_Tables_number  1
+_chemical_formula_structural  ZnH6C5O4
+_chemical_formula_sum  ZnH6C5O4
+_cell_volume  140.44424093802024
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ C  C1  1  0.66779  0.00774  0.46212  1
+ C  C2  1  0.70642  0.22921  0.60267  1
+ C  C3  1  0.55670  0.07868  0.75505  1
+ C  C4  1  0.61362  0.32130  0.88996  1
+ C  C5  1  0.47294  0.21213  0.04855  1
+ H  H1  1  -0.00104  0.38323  0.63046  1
+ H  H2  1  0.54863  0.36910  0.55351  1
+ H  H3  1  0.70450  0.93016  0.79973  1
+ H  H4  1  0.90815  0.47068  0.91912  1
+ H  H5  1  0.26095  0.93395  0.72382  1
+ H  H6  1  0.47053  0.47499  0.84666  1
+ O  O1  1  0.92381  0.08120  0.37256  1
+ O  O2  1  0.37951  0.76036  0.43579  1
+ O  O3  1  0.24392  0.93754  0.04936  1
+ O  O4  1  0.56933  0.39705  0.17479  1
+ Zn  Zn1  1  0.00948  0.76418  0.24453  1

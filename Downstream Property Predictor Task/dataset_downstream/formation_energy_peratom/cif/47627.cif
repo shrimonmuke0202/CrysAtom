@@ -1,0 +1,53 @@
+CIF file written using JARVIS-Tools package.
+data_Te3Pd10
+_symmetry_space_group_name_H-M  'Fd-3m'
+_cell_length_a       8.93028
+_cell_length_b       8.93028
+_cell_length_c       8.93028
+_cell_angle_alpha    60
+_cell_angle_beta     60
+_cell_angle_gamma    60
+
+_symmetry_Int_Tables_number  227
+_chemical_formula_structural  Te3Pd10
+_chemical_formula_sum  Te6Pd20
+_cell_volume  503.59313897449647
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Pd  Pd1  1  0.74247  0.25753  0.74247  1
+ Pd  Pd2  1  0.36593  0.36593  0.90220  1
+ Pd  Pd3  1  0.90220  0.36593  0.36593  1
+ Pd  Pd4  1  0.36593  0.90220  0.36593  1
+ Pd  Pd5  1  0.88407  0.88407  0.88407  1
+ Pd  Pd6  1  0.88407  0.88407  0.34780  1
+ Pd  Pd7  1  0.34780  0.88407  0.88407  1
+ Pd  Pd8  1  0.88407  0.34780  0.88407  1
+ Pd  Pd9  1  0.74247  0.25753  0.25753  1
+ Pd  Pd10  1  0.25753  0.25753  0.74247  1
+ Pd  Pd11  1  0.74247  0.74247  0.25753  1
+ Pd  Pd12  1  0.36593  0.36593  0.36593  1
+ Pd  Pd13  1  0.25753  0.74247  0.25753  1
+ Pd  Pd14  1  0.50753  0.99247  0.99247  1
+ Pd  Pd15  1  0.99247  0.99247  0.50753  1
+ Pd  Pd16  1  0.50753  0.50753  0.99247  1
+ Pd  Pd17  1  0.99247  0.50753  0.50753  1
+ Pd  Pd18  1  0.99247  0.50753  0.99247  1
+ Pd  Pd19  1  0.50753  0.99247  0.50753  1
+ Pd  Pd20  1  0.25753  0.74247  0.74247  1
+ Te  Te1  1  0.12500  0.62500  0.62500  1
+ Te  Te2  1  0.00000  0.00000  0.00000  1
+ Te  Te3  1  0.25000  0.25000  0.25000  1
+ Te  Te4  1  0.62500  0.62500  0.62500  1
+ Te  Te5  1  0.62500  0.62500  0.12500  1
+ Te  Te6  1  0.62500  0.12500  0.62500  1

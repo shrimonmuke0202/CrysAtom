@@ -1,0 +1,41 @@
+CIF file written using JARVIS-Tools package.
+data_BiPd2O4
+_symmetry_space_group_name_H-M  'P-1'
+_cell_length_a       5.69406
+_cell_length_b       6.15564
+_cell_length_c       6.45447
+_cell_angle_alpha    114.558
+_cell_angle_beta     95.9775
+_cell_angle_gamma    111.566
+
+_symmetry_Int_Tables_number  2
+_chemical_formula_structural  BiPd2O4
+_chemical_formula_sum  Bi2Pd4O8
+_cell_volume  182.3244176677219
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Bi  Bi1  1  0.86194  0.24285  0.64168  1
+ Bi  Bi2  1  0.13806  0.75715  0.35832  1
+ O  O1  1  0.64695  0.39429  0.22857  1
+ O  O2  1  0.35305  0.60571  0.77143  1
+ O  O3  1  0.84214  0.85859  0.64235  1
+ O  O4  1  0.15786  0.14141  0.35765  1
+ O  O5  1  0.52167  0.87425  0.24748  1
+ O  O6  1  0.47833  0.12575  0.75252  1
+ O  O7  1  0.87879  0.64725  0.98856  1
+ O  O8  1  0.12121  0.35275  0.01144  1
+ Pd  Pd1  1  0.00000  0.00000  0.00000  1
+ Pd  Pd2  1  0.50000  0.50000  -0.00000  1
+ Pd  Pd3  1  0.50000  0.50000  0.50000  1
+ Pd  Pd4  1  0.50000  -0.00000  0.00000  1

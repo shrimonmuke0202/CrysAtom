@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_KPH2O2
+_symmetry_space_group_name_H-M  'C2/c'
+_cell_length_a       5.14543
+_cell_length_b       5.14543
+_cell_length_c       7.0974
+_cell_angle_alpha    70.5356
+_cell_angle_beta     109.464
+_cell_angle_gamma    91.8033
+
+_symmetry_Int_Tables_number  15
+_chemical_formula_structural  KPH2O2
+_chemical_formula_sum  K2P2H4O4
+_cell_volume  166.3720135054337
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ H  H1  1  0.82261  0.08360  0.58694  1
+ H  H2  1  0.08360  0.82261  0.91306  1
+ H  H3  1  0.17739  0.91640  0.41306  1
+ H  H4  1  0.91640  0.17739  0.08694  1
+ K  K1  1  0.35805  0.35805  0.75000  1
+ K  K2  1  0.64195  0.64195  0.25000  1
+ O  O1  1  0.84406  0.59114  0.67023  1
+ O  O2  1  0.59114  0.84406  0.82977  1
+ O  O3  1  0.15594  0.40886  0.32977  1
+ O  O4  1  0.40886  0.15594  0.17023  1
+ P  P1  1  0.82786  0.82786  0.75000  1
+ P  P2  1  0.17214  0.17214  0.25000  1

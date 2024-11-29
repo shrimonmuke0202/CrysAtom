@@ -1,0 +1,30 @@
+CIF file written using JARVIS-Tools package.
+data_CaSiBr
+_symmetry_space_group_name_H-M  'Pm'
+_cell_length_a       5.64283
+_cell_length_b       5.88789
+_cell_length_c       3.55359
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    60.716
+
+_symmetry_Int_Tables_number  6
+_chemical_formula_structural  CaSiBr
+_chemical_formula_sum  CaSiBr
+_cell_volume  102.97781712988137
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Br  Br1  1  -0.01463  -0.13680  0.00000  1
+ Ca  Ca1  1  0.43327  -0.02922  0.00000  1
+ Si  Si1  1  -0.09226  0.45195  0.00000  1

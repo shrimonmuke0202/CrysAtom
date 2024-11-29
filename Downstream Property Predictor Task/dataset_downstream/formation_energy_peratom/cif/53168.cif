@@ -1,0 +1,51 @@
+CIF file written using JARVIS-Tools package.
+data_MnCrO4
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       4.8528
+_cell_length_b       5.97517
+_cell_length_c       10.1597
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  MnCrO4
+_chemical_formula_sum  Mn4Cr4O6
+_cell_volume  294.59257309235403
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cr  Cr1  1  0.36750  0.25000  0.91711  1
+ Cr  Cr2  1  0.13250  0.25000  0.41711  1
+ Cr  Cr3  1  0.86750  0.75000  0.58289  1
+ Cr  Cr4  1  0.63250  0.75000  0.08289  1
+ Mn  Mn1  1  0.92227  0.25000  0.72739  1
+ Mn  Mn2  1  0.57773  0.25000  0.22739  1
+ Mn  Mn3  1  0.42227  0.75000  0.77261  1
+ Mn  Mn4  1  0.07773  0.75000  0.27261  1
+ O  O1  1  0.22225  0.02595  0.83868  1
+ O  O2  1  0.27775  0.02595  0.33868  1
+ O  O3  1  0.17935  0.25000  0.58051  1
+ O  O4  1  0.72225  0.97405  0.66132  1
+ O  O5  1  0.79313  0.25000  0.38770  1
+ O  O6  1  0.32065  0.25000  0.08051  1
+ O  O7  1  0.70687  0.25000  0.88770  1
+ O  O8  1  0.82065  0.75000  0.41949  1
+ O  O9  1  0.77775  0.52595  0.16132  1
+ O  O10  1  0.72225  0.52595  0.66132  1
+ O  O11  1  0.22225  0.47405  0.83868  1
+ O  O12  1  0.67935  0.75000  0.91949  1
+ O  O13  1  0.20687  0.75000  0.61230  1
+ O  O14  1  0.29313  0.75000  0.11230  1
+ O  O15  1  0.27775  0.47405  0.33868  1
+ O  O16  1  0.77775  0.97405  0.16132  1

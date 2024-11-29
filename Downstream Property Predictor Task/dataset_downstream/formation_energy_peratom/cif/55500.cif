@@ -1,0 +1,30 @@
+CIF file written using JARVIS-Tools package.
+data_RbMgO
+_symmetry_space_group_name_H-M  'Pm'
+_cell_length_a       3.2985
+_cell_length_b       7.11001
+_cell_length_c       3.97817
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    77.0096
+
+_symmetry_Int_Tables_number  6
+_chemical_formula_structural  RbMgO
+_chemical_formula_sum  RbMgO
+_cell_volume  90.90977575570766
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Mg  Mg1  1  -0.33011  -0.07316  0.00000  1
+ O  O1  1  0.10187  0.06718  0.00000  1
+ Rb  Rb1  1  0.44925  0.38002  0.00000  1

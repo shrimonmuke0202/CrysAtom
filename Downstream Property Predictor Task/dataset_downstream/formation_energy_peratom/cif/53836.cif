@@ -1,0 +1,51 @@
+CIF file written using JARVIS-Tools package.
+data_TmBr2
+_symmetry_space_group_name_H-M  'Pbca'
+_cell_length_a       6.55016
+_cell_length_b       7.63188
+_cell_length_c       12.7309
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  61
+_chemical_formula_structural  TmBr2
+_chemical_formula_sum  Tm8Br6
+_cell_volume  636.4167278375188
+_cell_formula_units_Z  8
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Br  Br1  1  0.47898  0.20170  0.45438  1
+ Br  Br2  1  0.29317  0.87803  0.79435  1
+ Br  Br3  1  0.70683  0.12197  0.20565  1
+ Br  Br4  1  0.20683  0.37803  0.20565  1
+ Br  Br5  1  0.52102  0.29830  0.95438  1
+ Br  Br6  1  0.79317  0.62197  0.79435  1
+ Br  Br7  1  0.29317  0.37803  0.70565  1
+ Br  Br8  1  0.70683  0.62197  0.29435  1
+ Br  Br9  1  0.20683  0.87803  0.29435  1
+ Br  Br10  1  0.02102  0.70170  0.54562  1
+ Br  Br11  1  0.97898  0.29830  0.45438  1
+ Br  Br12  1  0.47898  0.70170  0.04562  1
+ Br  Br13  1  0.97898  0.79830  0.04562  1
+ Br  Br14  1  0.52102  0.79830  0.54562  1
+ Br  Br15  1  0.02102  0.20170  0.95438  1
+ Br  Br16  1  0.79317  0.12197  0.70565  1
+ Tm  Tm1  1  0.32924  0.54727  0.40432  1
+ Tm  Tm2  1  0.67076  0.45273  0.59568  1
+ Tm  Tm3  1  0.17076  0.04727  0.59568  1
+ Tm  Tm4  1  0.67076  0.95273  0.90432  1
+ Tm  Tm5  1  0.82924  0.95273  0.40432  1
+ Tm  Tm6  1  0.32924  0.04727  0.09568  1
+ Tm  Tm7  1  0.82924  0.45273  0.09568  1
+ Tm  Tm8  1  0.17076  0.54727  0.90432  1

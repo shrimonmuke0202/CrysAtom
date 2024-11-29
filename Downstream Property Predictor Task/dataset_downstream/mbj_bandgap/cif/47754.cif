@@ -1,0 +1,47 @@
+CIF file written using JARVIS-Tools package.
+data_TlCdBr3
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       4.16803
+_cell_length_b       9.3937
+_cell_length_c       15.4547
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  TlCdBr3
+_chemical_formula_sum  Tl4Cd4Br2
+_cell_volume  605.0998953901733
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Br  Br1  1  0.75000  0.70872  0.21501  1
+ Br  Br2  1  0.25000  0.52583  0.39452  1
+ Br  Br3  1  0.75000  0.20872  0.28499  1
+ Br  Br4  1  0.25000  0.02583  0.10548  1
+ Br  Br5  1  0.75000  0.97417  0.89452  1
+ Br  Br6  1  0.75000  0.47417  0.60548  1
+ Br  Br7  1  0.75000  0.33674  0.00663  1
+ Br  Br8  1  0.25000  0.16326  0.50663  1
+ Br  Br9  1  0.75000  0.83674  0.49337  1
+ Br  Br10  1  0.25000  0.79128  0.71501  1
+ Br  Br11  1  0.25000  0.29128  0.78499  1
+ Br  Br12  1  0.25000  0.66326  0.99337  1
+ Cd  Cd1  1  0.75000  0.83268  0.05739  1
+ Cd  Cd2  1  0.25000  0.16732  0.94261  1
+ Cd  Cd3  1  0.75000  0.33268  0.44261  1
+ Cd  Cd4  1  0.25000  0.66732  0.55739  1
+ Tl  Tl1  1  0.75000  0.56675  0.82421  1
+ Tl  Tl2  1  0.25000  0.43325  0.17579  1
+ Tl  Tl3  1  0.75000  0.06675  0.67579  1
+ Tl  Tl4  1  0.25000  0.93325  0.32421  1

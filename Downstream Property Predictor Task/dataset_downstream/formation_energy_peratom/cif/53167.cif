@@ -1,0 +1,48 @@
+CIF file written using JARVIS-Tools package.
+data_Sb8Cl2O11
+_symmetry_space_group_name_H-M  'P-1'
+_cell_length_a       4.18346
+_cell_length_b       8.89716
+_cell_length_c       11.2277
+_cell_angle_alpha    81.299
+_cell_angle_beta     86.7968
+_cell_angle_gamma    78.4977
+
+_symmetry_Int_Tables_number  2
+_chemical_formula_structural  Sb8Cl2O11
+_chemical_formula_sum  Sb8Cl2O
+_cell_volume  404.65509972896683
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cl  Cl1  1  0.90770  0.19326  0.51126  1
+ Cl  Cl2  1  0.09230  0.80674  0.48874  1
+ O  O1  1  0.50000  0.00000  0.00000  1
+ O  O2  1  0.28687  0.24086  0.74473  1
+ O  O3  1  0.28538  0.50952  0.31538  1
+ O  O4  1  0.17773  0.54475  0.80006  1
+ O  O5  1  0.82227  0.45525  0.19994  1
+ O  O6  1  0.71462  0.49048  0.68462  1
+ O  O7  1  0.08584  0.00329  0.21156  1
+ O  O8  1  0.56541  0.75115  0.85701  1
+ O  O9  1  0.43459  0.24885  0.14299  1
+ O  O10  1  0.71313  0.75914  0.25527  1
+ O  O11  1  0.91416  -0.00329  0.78844  1
+ Sb  Sb1  1  0.76614  0.55092  0.35918  1
+ Sb  Sb2  1  0.23386  0.44908  0.64082  1
+ Sb  Sb3  1  0.12995  0.14967  0.06041  1
+ Sb  Sb4  1  0.87005  0.85033  0.93959  1
+ Sb  Sb5  1  0.69992  0.95761  0.31630  1
+ Sb  Sb6  1  0.30008  0.04239  0.68370  1
+ Sb  Sb7  1  0.32900  0.48050  0.14176  1
+ Sb  Sb8  1  0.67100  0.51950  0.85824  1

@@ -1,0 +1,49 @@
+CIF file written using JARVIS-Tools package.
+data_K2Se2O7
+_symmetry_space_group_name_H-M  'C2/c'
+_cell_length_a       7.45988
+_cell_length_b       7.45988
+_cell_length_c       7.50559
+_cell_angle_alpha    86.621
+_cell_angle_beta     86.621
+_cell_angle_gamma    60.5715
+
+_symmetry_Int_Tables_number  15
+_chemical_formula_structural  K2Se2O7
+_chemical_formula_sum  K4Se4O4
+_cell_volume  362.9419060295773
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ K  K1  1  0.79147  0.49646  0.63276  1
+ K  K2  1  0.50354  0.20853  0.86724  1
+ K  K3  1  0.20853  0.50354  0.36724  1
+ K  K4  1  0.49646  0.79147  0.13276  1
+ O  O1  1  0.36089  0.74964  0.47675  1
+ O  O2  1  0.25036  0.63911  0.02325  1
+ O  O3  1  0.06006  0.93994  0.75000  1
+ O  O4  1  0.74964  0.36089  0.97675  1
+ O  O5  1  0.46644  0.86618  0.77080  1
+ O  O6  1  0.63911  0.25036  0.52325  1
+ O  O7  1  0.53356  0.13382  0.22920  1
+ O  O8  1  0.86618  0.46644  0.27080  1
+ O  O9  1  0.83322  0.81647  0.95409  1
+ O  O10  1  0.13382  0.53356  0.72920  1
+ O  O11  1  0.81647  0.83322  0.45409  1
+ O  O12  1  0.16678  0.18353  0.04591  1
+ O  O13  1  0.18353  0.16678  0.54591  1
+ O  O14  1  0.93994  0.06006  0.25000  1
+ Se  Se1  1  0.92920  0.28591  0.12551  1
+ Se  Se2  1  0.71409  0.07080  0.37449  1
+ Se  Se3  1  0.07080  0.71409  0.87449  1
+ Se  Se4  1  0.28591  0.92920  0.62551  1

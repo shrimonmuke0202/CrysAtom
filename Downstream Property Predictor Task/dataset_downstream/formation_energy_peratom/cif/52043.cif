@@ -1,0 +1,41 @@
+CIF file written using JARVIS-Tools package.
+data_Tm3Pt4
+_symmetry_space_group_name_H-M  'R-3'
+_cell_length_a       7.75335
+_cell_length_b       7.75335
+_cell_length_c       7.75335
+_cell_angle_alpha    114.216
+_cell_angle_beta     114.216
+_cell_angle_gamma    114.216
+
+_symmetry_Int_Tables_number  148
+_chemical_formula_structural  Tm3Pt4
+_chemical_formula_sum  Tm6Pt8
+_cell_volume  278.5744353391339
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Pt  Pt1  1  0.00000  0.00000  0.00000  1
+ Pt  Pt2  1  0.50000  0.50000  0.50000  1
+ Pt  Pt3  1  0.22969  0.06414  0.54981  1
+ Pt  Pt4  1  0.06414  0.54981  0.22969  1
+ Pt  Pt5  1  0.54981  0.22969  0.06414  1
+ Pt  Pt6  1  0.77031  0.93586  0.45019  1
+ Pt  Pt7  1  0.93586  0.45019  0.77031  1
+ Pt  Pt8  1  0.45019  0.77031  0.93586  1
+ Tm  Tm1  1  0.40484  0.02468  0.27712  1
+ Tm  Tm2  1  0.02468  0.27712  0.40484  1
+ Tm  Tm3  1  0.27712  0.40484  0.02468  1
+ Tm  Tm4  1  0.59516  0.97532  0.72288  1
+ Tm  Tm5  1  0.97532  0.72288  0.59516  1
+ Tm  Tm6  1  0.72288  0.59516  0.97532  1

@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_LiDy2Cl5
+_symmetry_space_group_name_H-M  'C2/c'
+_cell_length_a       6.32314
+_cell_length_b       7.302
+_cell_length_c       8.13722
+_cell_angle_alpha    93.6963
+_cell_angle_beta     112.863
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  15
+_chemical_formula_structural  LiDy2Cl5
+_chemical_formula_sum  Li2Dy4Cl0
+_cell_volume  345.34239130132875
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cl  Cl1  1  0.49337  0.40722  0.18185  1
+ Cl  Cl2  1  0.87657  0.25000  -0.00000  1
+ Cl  Cl3  1  0.12343  0.75000  0.00000  1
+ Cl  Cl4  1  0.14847  0.32556  0.41682  1
+ Cl  Cl5  1  0.85153  0.67444  0.58318  1
+ Cl  Cl6  1  0.26835  0.82556  0.41682  1
+ Cl  Cl7  1  0.73165  0.17444  0.58318  1
+ Cl  Cl8  1  0.50663  0.59278  0.81815  1
+ Cl  Cl9  1  0.68848  0.90722  0.18185  1
+ Cl  Cl10  1  0.31152  0.09278  0.81815  1
+ Dy  Dy1  1  0.88939  0.57175  0.15752  1
+ Dy  Dy2  1  0.26812  0.07175  0.15752  1
+ Dy  Dy3  1  0.11061  0.42825  0.84248  1
+ Dy  Dy4  1  0.73188  0.92825  0.84248  1
+ Li  Li1  1  -0.00000  -0.00000  0.50000  1
+ Li  Li2  1  0.50000  0.50000  0.50000  1

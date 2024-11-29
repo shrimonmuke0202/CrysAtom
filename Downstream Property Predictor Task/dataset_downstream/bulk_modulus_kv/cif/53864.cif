@@ -1,0 +1,51 @@
+CIF file written using JARVIS-Tools package.
+data_BaPbS2O8
+_symmetry_space_group_name_H-M  'Pmc2_1'
+_cell_length_a       5.48128
+_cell_length_b       7.02214
+_cell_length_c       8.69133
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  26
+_chemical_formula_structural  BaPbS2O8
+_chemical_formula_sum  Ba2Pb2S4O6
+_cell_volume  334.53223713556014
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ba  Ba1  1  0.50000  0.41475  0.32511  1
+ Ba  Ba2  1  0.50000  0.58525  0.82511  1
+ O  O1  1  0.72229  0.94228  0.93092  1
+ O  O2  1  0.27771  0.05772  0.43092  1
+ O  O3  1  0.21807  0.56380  0.08839  1
+ O  O4  1  0.00000  0.35959  0.90994  1
+ O  O5  1  0.78193  0.56380  0.08839  1
+ O  O6  1  0.21807  0.43620  0.58839  1
+ O  O7  1  0.78193  0.43620  0.58839  1
+ O  O8  1  0.72229  0.05772  0.43092  1
+ O  O9  1  0.50000  0.18109  0.78759  1
+ O  O10  1  0.50000  0.81891  0.28759  1
+ O  O11  1  0.00000  0.28857  0.18756  1
+ O  O12  1  0.00000  0.71143  0.68756  1
+ O  O13  1  0.50000  0.18969  0.06858  1
+ O  O14  1  0.50000  0.81031  0.56858  1
+ O  O15  1  0.27771  0.94228  0.93092  1
+ O  O16  1  0.00000  0.64041  0.40994  1
+ Pb  Pb1  1  0.00000  0.90544  0.18307  1
+ Pb  Pb2  1  0.00000  0.09456  0.68307  1
+ S  S1  1  0.00000  0.56147  0.56717  1
+ S  S2  1  0.00000  0.43853  0.06717  1
+ S  S3  1  0.50000  0.93224  0.43235  1
+ S  S4  1  0.50000  0.06776  0.93235  1

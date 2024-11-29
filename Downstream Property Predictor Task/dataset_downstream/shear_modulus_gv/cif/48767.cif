@@ -1,0 +1,30 @@
+CIF file written using JARVIS-Tools package.
+data_SrGeH
+_symmetry_space_group_name_H-M  'Pmm2'
+_cell_length_a       4.22874
+_cell_length_b       6.39331
+_cell_length_c       3.69762
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    48.6235
+
+_symmetry_Int_Tables_number  25
+_chemical_formula_structural  SrGeH
+_chemical_formula_sum  SrGeH
+_cell_volume  75.0141088613387
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ge  Ge1  1  -0.06635  -0.04519  0.00000  1
+ H  H1  1  0.32251  -0.04517  0.00000  1
+ Sr  Sr1  1  -0.05288  0.45482  0.00000  1

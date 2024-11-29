@@ -1,0 +1,56 @@
+CIF file written using JARVIS-Tools package.
+data_Fe2Cu10Sb4S13
+_symmetry_space_group_name_H-M  'I-42m'
+_cell_length_a       8.96897
+_cell_length_b       8.96896
+_cell_length_c       8.96896
+_cell_angle_alpha    109.467
+_cell_angle_beta     109.467
+_cell_angle_gamma    109.479
+
+_symmetry_Int_Tables_number  121
+_chemical_formula_structural  Fe2Cu10Sb4S13
+_chemical_formula_sum  Fe2Cu0Sb4S3
+_cell_volume  555.3983787911089
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cu  Cu1  1  0.77690  -0.00000  0.77690  1
+ Cu  Cu2  1  0.22310  -0.00000  0.22310  1
+ Cu  Cu3  1  0.50000  0.74899  0.24899  1
+ Cu  Cu4  1  0.25101  0.50000  0.75101  1
+ Cu  Cu5  1  0.75000  0.25000  0.50000  1
+ Cu  Cu6  1  0.74899  0.50000  0.24899  1
+ Cu  Cu7  1  0.50000  0.25101  0.75101  1
+ Cu  Cu8  1  0.25000  0.75000  0.50000  1
+ Cu  Cu9  1  -0.00000  0.77690  0.77690  1
+ Cu  Cu10  1  -0.00000  0.22310  0.22310  1
+ Fe  Fe1  1  0.77712  0.77712  0.00000  1
+ Fe  Fe2  1  0.22288  0.22288  -0.00000  1
+ S  S1  1  0.75026  0.23326  0.75155  1
+ S  S2  1  0.99871  0.48170  0.24845  1
+ S  S3  1  0.24997  0.47823  0.00000  1
+ S  S4  1  0.24974  0.00129  0.48300  1
+ S  S5  1  0.00129  0.24974  0.48300  1
+ S  S6  1  0.75003  0.75003  0.22827  1
+ S  S7  1  0.51830  0.76674  0.51700  1
+ S  S8  1  0.48170  0.99871  0.24845  1
+ S  S9  1  0.52177  0.52177  0.77173  1
+ S  S10  1  0.00000  0.00000  0.00000  1
+ S  S11  1  0.23326  0.75026  0.75155  1
+ S  S12  1  0.47823  0.24997  0.00000  1
+ S  S13  1  0.76674  0.51830  0.51700  1
+ Sb  Sb1  1  0.00495  0.00495  0.55332  1
+ Sb  Sb2  1  0.99505  0.54836  -0.00000  1
+ Sb  Sb3  1  0.54836  0.99505  -0.00000  1
+ Sb  Sb4  1  0.45164  0.45164  0.44668  1

@@ -1,0 +1,47 @@
+CIF file written using JARVIS-Tools package.
+data_CdCoO3
+_symmetry_space_group_name_H-M  'C2/c'
+_cell_length_a       5.04283
+_cell_length_b       6.73736
+_cell_length_c       6.73851
+_cell_angle_alpha    95.1038
+_cell_angle_beta     92.8938
+_cell_angle_gamma    87.1045
+
+_symmetry_Int_Tables_number  15
+_chemical_formula_structural  CdCoO3
+_chemical_formula_sum  Cd4Co4O2
+_cell_volume  227.50121720385474
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cd  Cd1  1  0.78923  0.19121  0.60133  1
+ Cd  Cd2  1  0.28926  0.39859  0.80877  1
+ Cd  Cd3  1  0.71075  0.60141  0.19122  1
+ Cd  Cd4  1  0.21078  0.80880  0.39867  1
+ Co  Co1  1  0.24999  0.24573  0.24574  1
+ Co  Co2  1  0.25000  0.92242  0.92242  1
+ Co  Co3  1  0.75001  0.75427  0.75426  1
+ Co  Co4  1  0.75000  0.07758  0.07758  1
+ O  O1  1  0.57014  0.01992  0.82646  1
+ O  O2  1  0.54548  0.31312  0.11040  1
+ O  O3  1  0.92984  0.82643  0.01985  1
+ O  O4  1  0.42985  0.98008  0.17354  1
+ O  O5  1  0.07016  0.17358  0.98014  1
+ O  O6  1  0.95450  0.11034  0.31309  1
+ O  O7  1  0.62927  0.75010  0.49937  1
+ O  O8  1  0.12922  0.50065  0.24999  1
+ O  O9  1  0.87078  0.49935  0.75003  1
+ O  O10  1  0.45451  0.68688  0.88960  1
+ O  O11  1  0.37073  0.24987  0.50063  1
+ O  O12  1  0.04550  0.88966  0.68691  1

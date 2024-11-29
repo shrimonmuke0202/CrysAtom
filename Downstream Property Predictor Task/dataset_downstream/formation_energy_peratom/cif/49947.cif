@@ -1,0 +1,45 @@
+CIF file written using JARVIS-Tools package.
+data_Ho6InCo2
+_symmetry_space_group_name_H-M  'Immm'
+_cell_length_a       8.26193
+_cell_length_b       8.26193
+_cell_length_c       8.26192
+_cell_angle_alpha    112.354
+_cell_angle_beta     109.43
+_cell_angle_gamma    106.679
+
+_symmetry_Int_Tables_number  71
+_chemical_formula_structural  Ho6InCo2
+_chemical_formula_sum  Ho2In2Co4
+_cell_volume  433.0664423543082
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Co  Co1  1  0.65826  -0.00000  0.65826  1
+ Co  Co2  1  0.11428  0.61428  0.50000  1
+ Co  Co3  1  0.34174  0.00000  0.34174  1
+ Co  Co4  1  0.88572  0.38572  0.50000  1
+ Ho  Ho1  1  0.81485  0.71434  0.52920  1
+ Ho  Ho2  1  0.67645  0.36511  0.68866  1
+ Ho  Ho3  1  0.32355  0.01220  0.68866  1
+ Ho  Ho4  1  0.32355  0.63489  0.31134  1
+ Ho  Ho5  1  0.44294  0.23637  0.20657  1
+ Ho  Ho6  1  0.18515  0.71434  0.89949  1
+ Ho  Ho7  1  0.81485  0.28566  0.10051  1
+ Ho  Ho8  1  0.55706  0.76363  0.79343  1
+ Ho  Ho9  1  0.02980  0.23637  0.79343  1
+ Ho  Ho10  1  0.97020  0.76363  0.20657  1
+ Ho  Ho11  1  0.18515  0.28566  0.47080  1
+ Ho  Ho12  1  0.67645  0.98780  0.31134  1
+ In  In1  1  0.50000  0.50000  0.00000  1
+ In  In2  1  0.00000  0.00000  0.00000  1

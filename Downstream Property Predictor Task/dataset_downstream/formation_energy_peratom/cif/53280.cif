@@ -1,0 +1,30 @@
+CIF file written using JARVIS-Tools package.
+data_BaBP
+_symmetry_space_group_name_H-M  'P4mm'
+_cell_length_a       7.51593
+_cell_length_b       7.51593
+_cell_length_c       7.62515
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  99
+_chemical_formula_structural  BaBP
+_chemical_formula_sum  BaBP
+_cell_volume  430.73892559345046
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ B  B1  1  0.00000  0.00000  0.25076  1
+ Ba  Ba1  1  0.00000  0.00000  0.63084  1
+ P  P1  1  0.00000  0.00000  0.02324  1

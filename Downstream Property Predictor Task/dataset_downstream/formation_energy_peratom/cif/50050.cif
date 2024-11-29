@@ -1,0 +1,42 @@
+CIF file written using JARVIS-Tools package.
+data_Li3Mn3NiO8
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       5.72216
+_cell_length_b       5.79983
+_cell_length_c       5.79938
+_cell_angle_alpha    120.717
+_cell_angle_beta     119.129
+_cell_angle_gamma    90.5251
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  Li3Mn3NiO8
+_chemical_formula_sum  Li3Mn3NiO8
+_cell_volume  135.75321401732774
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Li  Li1  1  0.00000  0.50000  0.00000  1
+ Li  Li2  1  0.50000  0.50000  -0.00000  1
+ Li  Li3  1  0.00000  -0.00000  0.50000  1
+ Mn  Mn1  1  0.50000  0.50000  0.50000  1
+ Mn  Mn2  1  0.50000  -0.00000  -0.00000  1
+ Mn  Mn3  1  0.00000  0.50000  0.50000  1
+ Ni  Ni1  1  0.00000  0.00000  0.00000  1
+ O  O1  1  0.72665  0.75057  0.97613  1
+ O  O2  1  0.24251  0.74892  0.96612  1
+ O  O3  1  0.24250  0.27643  0.49362  1
+ O  O4  1  0.74217  0.26197  0.48026  1
+ O  O5  1  0.25783  0.73803  0.51974  1
+ O  O6  1  0.75750  0.72357  0.50638  1
+ O  O7  1  0.75749  0.25108  0.03388  1
+ O  O8  1  0.27335  0.24943  0.02387  1

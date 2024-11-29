@@ -1,0 +1,63 @@
+CIF file written using JARVIS-Tools package.
+data_Rb3ZnBr5
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       9.00355
+_cell_length_b       10.4867
+_cell_length_c       13.2525
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  Rb3ZnBr5
+_chemical_formula_sum  Rb2Zn4Br20
+_cell_volume  1251.264448254915
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Br  Br1  1  0.31348  0.55397  0.56280  1
+ Br  Br2  1  0.81348  0.55397  0.93720  1
+ Br  Br3  1  0.68652  0.44603  0.43720  1
+ Br  Br4  1  0.18652  0.05397  0.06280  1
+ Br  Br5  1  0.33174  0.75000  0.26549  1
+ Br  Br6  1  0.66826  0.25000  0.73451  1
+ Br  Br7  1  0.86620  0.25000  0.21383  1
+ Br  Br8  1  0.31348  0.94603  0.56280  1
+ Br  Br9  1  0.46073  0.75000  0.99074  1
+ Br  Br10  1  0.53927  0.25000  0.00926  1
+ Br  Br11  1  0.03927  0.25000  0.49074  1
+ Br  Br12  1  0.13380  0.75000  0.78617  1
+ Br  Br13  1  0.63380  0.75000  0.71383  1
+ Br  Br14  1  0.18652  0.44603  0.06280  1
+ Br  Br15  1  0.36620  0.25000  0.28617  1
+ Br  Br16  1  0.96073  0.75000  0.50926  1
+ Br  Br17  1  0.81348  0.94603  0.93720  1
+ Br  Br18  1  0.68652  0.05397  0.43720  1
+ Br  Br19  1  0.83174  0.75000  0.23451  1
+ Br  Br20  1  0.16826  0.25000  0.76549  1
+ Rb  Rb1  1  0.91600  0.25000  0.95208  1
+ Rb  Rb2  1  0.58400  0.75000  0.45208  1
+ Rb  Rb3  1  0.08400  0.75000  0.04792  1
+ Rb  Rb4  1  0.41494  0.01713  0.82811  1
+ Rb  Rb5  1  0.91494  0.48287  0.67189  1
+ Rb  Rb6  1  0.58506  0.51713  0.17189  1
+ Rb  Rb7  1  0.08506  0.98287  0.32811  1
+ Rb  Rb8  1  0.58506  0.98287  0.17189  1
+ Rb  Rb9  1  0.41494  0.48287  0.82811  1
+ Rb  Rb10  1  0.91494  0.01713  0.67189  1
+ Rb  Rb11  1  0.08506  0.51713  0.32811  1
+ Rb  Rb12  1  0.41600  0.25000  0.54792  1
+ Zn  Zn1  1  0.18973  0.75000  0.60741  1
+ Zn  Zn2  1  0.68973  0.75000  0.89259  1
+ Zn  Zn3  1  0.31027  0.25000  0.10741  1
+ Zn  Zn4  1  0.81027  0.25000  0.39259  1

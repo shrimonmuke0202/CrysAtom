@@ -1,0 +1,48 @@
+CIF file written using JARVIS-Tools package.
+data_Hf8MgN8O4
+_symmetry_space_group_name_H-M  'P1'
+_cell_length_a       5.489
+_cell_length_b       5.42067
+_cell_length_c       11.5175
+_cell_angle_alpha    78.993
+_cell_angle_beta     64.5148
+_cell_angle_gamma    59.3534
+
+_symmetry_Int_Tables_number  1
+_chemical_formula_structural  Hf8MgN8O4
+_chemical_formula_sum  Hf8MgN8O4
+_cell_volume  265.9620176965355
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Hf  Hf1  1  0.05017  0.44133  0.27945  1
+ Hf  Hf2  1  0.16364  0.06909  0.80407  1
+ Hf  Hf3  1  0.35363  0.42415  0.97773  1
+ Hf  Hf4  1  0.53531  0.05966  0.50788  1
+ Hf  Hf5  1  0.24612  0.77630  0.44980  1
+ Hf  Hf6  1  0.75737  0.12218  0.21678  1
+ Hf  Hf7  1  0.62421  0.76287  0.04939  1
+ Hf  Hf8  1  0.94592  0.70625  0.74497  1
+ Mg  Mg1  1  0.70004  0.40970  0.65661  1
+ N  N1  1  0.64786  0.39752  0.37933  1
+ N  N2  1  0.35241  0.10845  0.36032  1
+ N  N3  1  0.36876  0.31766  0.66847  1
+ N  N4  1  0.49680  0.43384  0.12136  1
+ N  N5  1  0.16508  0.95773  0.62907  1
+ N  N6  1  0.89870  0.73088  0.13025  1
+ N  N7  1  0.74001  0.03176  0.89266  1
+ N  N8  1  0.50092  0.68384  0.83922  1
+ O  O1  1  0.98043  0.81017  0.34788  1
+ O  O2  1  0.02682  0.43340  0.91438  1
+ O  O3  1  0.19097  0.12686  0.13077  1
+ O  O4  1  0.85953  0.70340  0.58112  1

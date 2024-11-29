@@ -1,0 +1,47 @@
+CIF file written using JARVIS-Tools package.
+data_KCaF3
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       6.13895
+_cell_length_b       6.26379
+_cell_length_c       8.74274
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  KCaF3
+_chemical_formula_sum  K4Ca4F2
+_cell_volume  336.1853710741439
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ca  Ca1  1  0.00000  0.00000  0.00000  1
+ Ca  Ca2  1  0.50000  0.50000  0.00000  1
+ Ca  Ca3  1  0.50000  0.50000  0.50000  1
+ Ca  Ca4  1  0.00000  0.00000  0.50000  1
+ F  F1  1  0.91530  0.97195  0.25000  1
+ F  F2  1  0.20598  0.29217  0.45529  1
+ F  F3  1  0.58470  0.47195  0.25000  1
+ F  F4  1  0.29402  0.79217  0.04471  1
+ F  F5  1  0.79402  0.70783  0.95529  1
+ F  F6  1  0.70598  0.20783  0.54471  1
+ F  F7  1  0.29402  0.79217  0.45529  1
+ F  F8  1  0.08470  0.02805  0.75000  1
+ F  F9  1  0.20598  0.29217  0.04471  1
+ F  F10  1  0.79402  0.70783  0.54471  1
+ F  F11  1  0.41530  0.52805  0.75000  1
+ F  F12  1  0.70598  0.20783  0.95529  1
+ K  K1  1  0.51082  0.95665  0.75000  1
+ K  K2  1  0.01082  0.54335  0.25000  1
+ K  K3  1  0.98918  0.45665  0.75000  1
+ K  K4  1  0.48918  0.04335  0.25000  1

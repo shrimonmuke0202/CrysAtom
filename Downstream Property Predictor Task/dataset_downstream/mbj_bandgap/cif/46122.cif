@@ -1,0 +1,49 @@
+CIF file written using JARVIS-Tools package.
+data_Na6MnTe4
+_symmetry_space_group_name_H-M  'P6_3mc'
+_cell_length_a       10.0183
+_cell_length_b       10.0183
+_cell_length_c       7.67273
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_symmetry_Int_Tables_number  186
+_chemical_formula_structural  Na6MnTe4
+_chemical_formula_sum  Na2Mn2Te8
+_cell_volume  666.9152084403079
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Mn  Mn1  1  0.33333  0.66667  0.24813  1
+ Mn  Mn2  1  0.66667  0.33333  0.74813  1
+ Na  Na1  1  0.29852  0.14926  0.45660  1
+ Na  Na2  1  0.70148  0.85074  0.95660  1
+ Na  Na3  1  0.14926  0.29852  0.95660  1
+ Na  Na4  1  0.85074  0.70148  0.45660  1
+ Na  Na5  1  0.85074  0.14926  0.45660  1
+ Na  Na6  1  0.14926  0.85074  0.95660  1
+ Na  Na7  1  0.05309  0.52655  0.62911  1
+ Na  Na8  1  0.52655  0.47345  0.12911  1
+ Na  Na9  1  0.52655  0.05309  0.12911  1
+ Na  Na10  1  0.47345  0.94691  0.62911  1
+ Na  Na11  1  0.94691  0.47345  0.12911  1
+ Na  Na12  1  0.47345  0.52655  0.62911  1
+ Te  Te1  1  0.81528  0.63055  0.85852  1
+ Te  Te2  1  0.81528  0.18472  0.85852  1
+ Te  Te3  1  0.66667  0.33333  0.39246  1
+ Te  Te4  1  0.33333  0.66667  0.89246  1
+ Te  Te5  1  0.36945  0.18472  0.85852  1
+ Te  Te6  1  0.18472  0.81528  0.35852  1
+ Te  Te7  1  0.18472  0.36945  0.35852  1
+ Te  Te8  1  0.63055  0.81528  0.35852  1

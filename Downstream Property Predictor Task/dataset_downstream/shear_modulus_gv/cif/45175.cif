@@ -1,0 +1,31 @@
+CIF file written using JARVIS-Tools package.
+data_PrGe
+_symmetry_space_group_name_H-M  'Cmcm'
+_cell_length_a       4.11712
+_cell_length_b       4.5022
+_cell_length_c       6.02968
+_cell_angle_alpha    111.922
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  63
+_chemical_formula_structural  PrGe
+_chemical_formula_sum  Pr2Ge2
+_cell_volume  103.6855473748569
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ge  Ge1  1  0.75000  0.08153  0.16307  1
+ Ge  Ge2  1  0.25000  0.91847  0.83693  1
+ Pr  Pr1  1  0.75000  0.36172  0.72345  1
+ Pr  Pr2  1  0.25000  0.63828  0.27655  1

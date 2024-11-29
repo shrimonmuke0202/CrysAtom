@@ -1,0 +1,51 @@
+CIF file written using JARVIS-Tools package.
+data_Hf2ScGa3
+_symmetry_space_group_name_H-M  'Imm2'
+_cell_length_a       3.89738
+_cell_length_b       3.84255
+_cell_length_c       30.4734
+_cell_angle_alpha    86.3852
+_cell_angle_beta     86.3336
+_cell_angle_gamma    89.9999
+
+_symmetry_Int_Tables_number  44
+_chemical_formula_structural  Hf2ScGa3
+_chemical_formula_sum  Hf8Sc4Ga2
+_cell_volume  454.52278451064916
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ga  Ga1  1  0.55557  0.55557  0.88887  1
+ Ga  Ga2  1  0.02822  0.52822  0.94357  1
+ Ga  Ga3  1  0.69462  0.19462  0.61076  1
+ Ga  Ga4  1  0.36111  0.86111  0.27778  1
+ Ga  Ga5  1  0.11122  0.11122  0.77755  1
+ Ga  Ga6  1  0.77762  0.77762  0.44477  1
+ Ga  Ga7  1  0.44448  0.44448  0.11103  1
+ Ga  Ga8  1  0.13903  0.63903  0.72195  1
+ Ga  Ga9  1  0.80535  0.30535  0.38930  1
+ Ga  Ga10  1  0.47267  0.97267  0.05466  1
+ Ga  Ga11  1  0.22200  0.22200  0.55600  1
+ Ga  Ga12  1  0.88875  0.88875  0.22250  1
+ Hf  Hf1  1  0.73255  0.73255  0.53490  1
+ Hf  Hf2  1  0.60119  0.60119  0.79763  1
+ Hf  Hf3  1  0.26760  0.26760  0.46480  1
+ Hf  Hf4  1  0.93538  0.93538  0.12923  1
+ Hf  Hf5  1  0.64798  0.14798  0.70404  1
+ Hf  Hf6  1  0.31458  0.81458  0.37084  1
+ Hf  Hf7  1  0.98148  0.48148  0.03705  1
+ Hf  Hf8  1  0.06615  0.06615  0.86770  1
+ Sc  Sc1  1  0.39923  0.39923  0.20153  1
+ Sc  Sc2  1  0.51803  0.01803  0.96393  1
+ Sc  Sc3  1  0.85068  0.35068  0.29863  1
+ Sc  Sc4  1  0.18451  0.68451  0.63098  1

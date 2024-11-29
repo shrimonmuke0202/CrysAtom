@@ -1,0 +1,47 @@
+CIF file written using JARVIS-Tools package.
+data_CaMn2Cu3Ru2O12
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       6.34894
+_cell_length_b       6.34894
+_cell_length_c       7.33975
+_cell_angle_alpha    54.7429
+_cell_angle_beta     54.7428
+_cell_angle_gamma    70.5469
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  CaMn2Cu3Ru2O12
+_chemical_formula_sum  CaMn2Cu3Ru2O2
+_cell_volume  197.27424239300095
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ca  Ca1  1  0.00000  0.00000  0.00000  1
+ Cu  Cu1  1  0.50000  0.50000  -0.00000  1
+ Cu  Cu2  1  -0.00000  0.00000  0.50000  1
+ Cu  Cu3  1  0.50000  0.50000  0.50000  1
+ Mn  Mn1  1  -0.00000  0.50000  0.50000  1
+ Mn  Mn2  1  0.50000  0.00000  0.50000  1
+ O  O1  1  0.68918  0.29703  0.18286  1
+ O  O2  1  0.12894  0.48064  0.68941  1
+ O  O3  1  0.29703  0.68918  0.18286  1
+ O  O4  1  0.31082  0.70297  0.81714  1
+ O  O5  1  0.70297  0.31082  0.81714  1
+ O  O6  1  0.17756  0.17756  0.12905  1
+ O  O7  1  0.51936  0.87106  0.31059  1
+ O  O8  1  0.17599  0.17599  0.51959  1
+ O  O9  1  0.82401  0.82401  0.48041  1
+ O  O10  1  0.87106  0.51936  0.31059  1
+ O  O11  1  0.82244  0.82244  0.87095  1
+ O  O12  1  0.48064  0.12894  0.68941  1
+ Ru  Ru1  1  0.50000  0.00000  0.00000  1
+ Ru  Ru2  1  -0.00000  0.50000  0.00000  1

@@ -1,0 +1,47 @@
+CIF file written using JARVIS-Tools package.
+data_Sr2UNiO6
+_symmetry_space_group_name_H-M  'P2_1/c'
+_cell_length_a       5.79355
+_cell_length_b       5.79204
+_cell_length_c       9.9857
+_cell_angle_alpha    90
+_cell_angle_beta     125.146
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  14
+_chemical_formula_structural  Sr2UNiO6
+_chemical_formula_sum  Sr4U2Ni2O2
+_cell_volume  273.9947502988673
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ni  Ni1  1  0.50000  0.00000  -0.00000  1
+ Ni  Ni2  1  0.50000  0.50000  0.50000  1
+ O  O1  1  0.25447  0.28387  0.53737  1
+ O  O2  1  0.81884  0.48613  0.74884  1
+ O  O3  1  0.25447  0.21613  0.03737  1
+ O  O4  1  0.74553  0.71613  0.46263  1
+ O  O5  1  0.74553  0.78387  0.96263  1
+ O  O6  1  0.31997  0.78290  0.53541  1
+ O  O7  1  0.31997  0.71710  0.03541  1
+ O  O8  1  0.18116  0.51387  0.25116  1
+ O  O9  1  0.18116  0.98613  0.75116  1
+ O  O10  1  0.68003  0.28290  0.96459  1
+ O  O11  1  0.68003  0.21710  0.46459  1
+ O  O12  1  0.81884  0.01387  0.24884  1
+ Sr  Sr1  1  0.25865  0.96965  0.25206  1
+ Sr  Sr2  1  0.25865  0.53035  0.75206  1
+ Sr  Sr3  1  0.74135  0.03035  0.74794  1
+ Sr  Sr4  1  0.74135  0.46965  0.24794  1
+ U  U1  1  0.00000  0.00000  0.50000  1
+ U  U2  1  0.00000  0.50000  0.00000  1

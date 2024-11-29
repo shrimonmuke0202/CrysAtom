@@ -1,0 +1,55 @@
+CIF file written using JARVIS-Tools package.
+data_NaV3F10
+_symmetry_space_group_name_H-M  'Fdd2'
+_cell_length_a       10.1724
+_cell_length_b       8.6917
+_cell_length_c       7.4739
+_cell_angle_alpha    77.5874
+_cell_angle_beta     56.5603
+_cell_angle_gamma    45.8523
+
+_symmetry_Int_Tables_number  43
+_chemical_formula_structural  NaV3F10
+_chemical_formula_sum  Na2V6F20
+_cell_volume  379.6099993219509
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ F  F1  1  0.46372  0.04296  0.83200  1
+ F  F2  1  0.14228  0.12773  0.85754  1
+ F  F3  1  0.87245  0.85754  0.12773  1
+ F  F4  1  0.39246  0.37755  0.10772  1
+ F  F5  1  0.12227  0.10772  0.37755  1
+ F  F6  1  0.80293  0.19766  0.78900  1
+ F  F7  1  0.41800  0.58869  0.78628  1
+ F  F8  1  0.46100  0.03959  0.44707  1
+ F  F9  1  0.05234  0.44707  0.03959  1
+ F  F10  1  0.21041  0.78900  0.19766  1
+ F  F11  1  0.05604  0.45057  0.64818  1
+ F  F12  1  0.88024  0.86745  0.61981  1
+ F  F13  1  0.79943  0.19396  0.40478  1
+ F  F14  1  0.20704  0.78628  0.58869  1
+ F  F15  1  0.63249  0.61981  0.86745  1
+ F  F16  1  0.66131  0.83200  0.04296  1
+ F  F17  1  0.38255  0.36976  0.61751  1
+ F  F18  1  0.63019  0.61751  0.36976  1
+ F  F19  1  0.60182  0.40478  0.19396  1
+ F  F20  1  0.84522  0.64818  0.45057  1
+ Na  Na1  1  0.25590  0.24410  0.24410  1
+ Na  Na2  1  0.00590  -0.00590  -0.00590  1
+ V  V1  1  0.00500  0.99167  0.49501  1
+ V  V2  1  0.50833  0.49501  0.99167  1
+ V  V3  1  0.75499  0.74167  0.24500  1
+ V  V4  1  0.25833  0.24500  0.74167  1
+ V  V5  1  0.75648  0.74352  0.74352  1
+ V  V6  1  0.50648  0.49352  0.49352  1

@@ -1,0 +1,37 @@
+CIF file written using JARVIS-Tools package.
+data_Li2FeTeO6
+_symmetry_space_group_name_H-M  'R3'
+_cell_length_a       5.01401
+_cell_length_b       5.01389
+_cell_length_c       5.24916
+_cell_angle_alpha    118.529
+_cell_angle_beta     89.9984
+_cell_angle_gamma    120.002
+
+_symmetry_Int_Tables_number  146
+_chemical_formula_structural  Li2FeTeO6
+_chemical_formula_sum  Li2FeTeO6
+_cell_volume  95.33155268692904
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Fe  Fe1  1  0.99877  0.99754  0.99630  1
+ Li  Li1  1  0.71344  0.42687  0.14028  1
+ Li  Li2  1  0.20897  0.41792  0.62695  1
+ O  O1  1  0.62701  0.51500  0.77557  1
+ O  O2  1  0.77807  0.15771  0.26978  1
+ O  O3  1  0.88795  0.14849  0.77552  1
+ O  O4  1  0.11211  0.89016  0.26977  1
+ O  O5  1  0.26051  0.88751  0.77551  1
+ O  O6  1  0.37963  0.49171  0.26971  1
+ Te  Te1  1  0.49794  0.99588  0.49382  1

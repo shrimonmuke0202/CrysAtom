@@ -1,0 +1,47 @@
+CIF file written using JARVIS-Tools package.
+data_Pr2Ge5Ir3
+_symmetry_space_group_name_H-M  'Ibam'
+_cell_length_a       8.49351
+_cell_length_b       8.49351
+_cell_length_c       8.49351
+_cell_angle_alpha    137.396
+_cell_angle_beta     105.432
+_cell_angle_gamma    89.8773
+
+_symmetry_Int_Tables_number  72
+_chemical_formula_structural  Pr2Ge5Ir3
+_chemical_formula_sum  Pr4Ge0Ir6
+_cell_volume  381.7905607350494
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ge  Ge1  1  0.77400  0.52400  0.75000  1
+ Ge  Ge2  1  0.25925  0.60019  0.65907  1
+ Ge  Ge3  1  0.74075  0.39981  0.34093  1
+ Ge  Ge4  1  0.94112  0.10019  0.84093  1
+ Ge  Ge5  1  0.05888  0.89981  0.15907  1
+ Ge  Ge6  1  0.22600  0.47600  0.25000  1
+ Ge  Ge7  1  0.22600  0.97600  0.75000  1
+ Ge  Ge8  1  0.50000  0.25000  0.75000  1
+ Ge  Ge9  1  0.50000  0.75000  0.25000  1
+ Ge  Ge10  1  0.77400  0.02400  0.25000  1
+ Ir  Ir1  1  0.24965  0.85936  0.39030  1
+ Ir  Ir2  1  -0.00000  0.25000  0.25000  1
+ Ir  Ir3  1  -0.00000  0.75000  0.75000  1
+ Ir  Ir4  1  0.46906  0.35936  0.10970  1
+ Ir  Ir5  1  0.53094  0.64064  0.89030  1
+ Ir  Ir6  1  0.75035  0.14064  0.60970  1
+ Pr  Pr1  1  0.59745  0.86765  0.72979  1
+ Pr  Pr2  1  0.40255  0.13235  0.27021  1
+ Pr  Pr3  1  0.13786  0.36765  0.77021  1
+ Pr  Pr4  1  0.86214  0.63235  0.22979  1

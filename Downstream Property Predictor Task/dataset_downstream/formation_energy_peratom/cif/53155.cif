@@ -1,0 +1,51 @@
+CIF file written using JARVIS-Tools package.
+data_Co3SbP4O16
+_symmetry_space_group_name_H-M  'Pm'
+_cell_length_a       5.75972
+_cell_length_b       4.73509
+_cell_length_c       9.73267
+_cell_angle_alpha    90.8381
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  6
+_chemical_formula_structural  Co3SbP4O16
+_chemical_formula_sum  Co3SbP4O6
+_cell_volume  265.40870752953134
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Co  Co1  1  0.00000  0.05996  0.26883  1
+ Co  Co2  1  0.00000  0.43358  0.77631  1
+ Co  Co3  1  0.50000  0.58654  0.23390  1
+ O  O1  1  0.50000  0.22523  0.56551  1
+ O  O2  1  0.28473  0.27478  0.33738  1
+ O  O3  1  0.71527  0.27478  0.33738  1
+ O  O4  1  0.20749  0.71783  0.65362  1
+ O  O5  1  0.00000  0.29965  0.11576  1
+ O  O6  1  0.29321  0.20835  0.83829  1
+ O  O7  1  0.00000  0.18837  0.61024  1
+ O  O8  1  0.50000  0.32808  0.06917  1
+ O  O9  1  0.00000  0.67101  0.94129  1
+ O  O10  1  0.20704  0.78358  0.17075  1
+ O  O11  1  0.70679  0.20835  0.83829  1
+ O  O12  1  0.50000  0.68396  0.88211  1
+ O  O13  1  0.50000  0.81473  0.40484  1
+ O  O14  1  0.79251  0.71783  0.65362  1
+ O  O15  1  0.79296  0.78358  0.17075  1
+ O  O16  1  0.00000  0.80696  0.42278  1
+ P  P1  1  0.00000  0.87861  0.57382  1
+ P  P2  1  0.00000  0.61918  0.09611  1
+ P  P3  1  0.50000  0.36643  0.91779  1
+ P  P4  1  0.50000  0.13494  0.40651  1
+ Sb  Sb1  1  0.50000  0.93368  0.71495  1

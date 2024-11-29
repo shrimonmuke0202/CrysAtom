@@ -1,0 +1,51 @@
+CIF file written using JARVIS-Tools package.
+data_K2CuCl3
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       4.10272
+_cell_length_b       11.9443
+_cell_length_c       12.5192
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  K2CuCl3
+_chemical_formula_sum  K8Cu4Cl2
+_cell_volume  613.4957249476763
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cl  Cl1  1  0.75000  0.94143  0.36059  1
+ Cl  Cl2  1  0.75000  0.13338  0.05180  1
+ Cl  Cl3  1  0.75000  0.63338  0.44820  1
+ Cl  Cl4  1  0.25000  0.86662  0.94820  1
+ Cl  Cl5  1  0.75000  0.44143  0.13941  1
+ Cl  Cl6  1  0.25000  0.55857  0.86059  1
+ Cl  Cl7  1  0.75000  0.77732  0.70824  1
+ Cl  Cl8  1  0.75000  0.27732  0.79176  1
+ Cl  Cl9  1  0.25000  0.72268  0.20824  1
+ Cl  Cl10  1  0.25000  0.22268  0.29176  1
+ Cl  Cl11  1  0.25000  0.36662  0.55180  1
+ Cl  Cl12  1  0.25000  0.05857  0.63941  1
+ Cu  Cu1  1  0.25000  0.74537  0.80069  1
+ Cu  Cu2  1  0.75000  0.25463  0.19931  1
+ Cu  Cu3  1  0.25000  0.24537  0.69931  1
+ Cu  Cu4  1  0.75000  0.75463  0.30069  1
+ K  K1  1  0.75000  0.01292  0.82496  1
+ K  K2  1  0.25000  0.32596  0.98237  1
+ K  K3  1  0.25000  0.98708  0.17504  1
+ K  K4  1  0.25000  0.82596  0.51763  1
+ K  K5  1  0.75000  0.51292  0.67504  1
+ K  K6  1  0.75000  0.17404  0.48237  1
+ K  K7  1  0.25000  0.48708  0.32496  1
+ K  K8  1  0.75000  0.67404  0.01763  1

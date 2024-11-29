@@ -1,0 +1,47 @@
+CIF file written using JARVIS-Tools package.
+data_Sr2LuTaO6
+_symmetry_space_group_name_H-M  'Fm-3m'
+_cell_length_a       5.8541
+_cell_length_b       5.85405
+_cell_length_c       8.27895
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  225
+_chemical_formula_structural  Sr2LuTaO6
+_chemical_formula_sum  Sr4Lu2Ta2O2
+_cell_volume  283.7214169572258
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Lu  Lu1  1  0.00332  0.00000  0.00000  1
+ Lu  Lu2  1  0.50332  0.50000  0.50000  1
+ O  O1  1  0.26270  0.25980  0.00003  1
+ O  O2  1  0.50304  0.50005  0.24034  1
+ O  O3  1  0.76270  0.75980  0.49997  1
+ O  O4  1  0.00304  0.00005  0.25966  1
+ O  O5  1  0.00304  0.99995  0.74034  1
+ O  O6  1  0.50304  0.49995  0.75966  1
+ O  O7  1  0.24336  0.75951  0.50000  1
+ O  O8  1  0.74336  0.74049  -0.00000  1
+ O  O9  1  0.76270  0.24020  0.50003  1
+ O  O10  1  0.24336  0.24049  0.50000  1
+ O  O11  1  0.26270  0.74020  -0.00003  1
+ O  O12  1  0.74336  0.25951  0.00000  1
+ Sr  Sr1  1  0.50372  0.00006  0.75000  1
+ Sr  Sr2  1  0.50372  0.99994  0.25000  1
+ Sr  Sr3  1  0.00372  0.50006  0.75000  1
+ Sr  Sr4  1  0.00372  0.49994  0.25000  1
+ Ta  Ta1  1  0.50327  0.50000  0.00000  1
+ Ta  Ta2  1  0.00327  0.00000  0.50000  1

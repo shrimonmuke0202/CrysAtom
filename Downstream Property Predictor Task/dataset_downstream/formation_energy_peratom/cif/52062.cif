@@ -1,0 +1,44 @@
+CIF file written using JARVIS-Tools package.
+data_Tb6NiBr10
+_symmetry_space_group_name_H-M  'P-1'
+_cell_length_a       7.22986
+_cell_length_b       9.04307
+_cell_length_c       9.03975
+_cell_angle_alpha    108.786
+_cell_angle_beta     97.2835
+_cell_angle_gamma    106.204
+
+_symmetry_Int_Tables_number  2
+_chemical_formula_structural  Tb6NiBr10
+_chemical_formula_sum  Tb6NiBr0
+_cell_volume  521.8294376904137
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Br  Br1  1  0.79946  0.27207  0.36249  1
+ Br  Br2  1  0.55131  0.18311  0.91093  1
+ Br  Br3  1  0.08914  0.36953  0.81849  1
+ Br  Br4  1  0.37362  0.47078  0.27699  1
+ Br  Br5  1  0.44869  0.81689  0.08907  1
+ Br  Br6  1  0.26999  0.08488  0.46460  1
+ Br  Br7  1  0.73001  0.91512  0.53540  1
+ Br  Br8  1  0.62638  0.52922  0.72301  1
+ Br  Br9  1  0.91086  0.63047  0.18151  1
+ Br  Br10  1  0.20054  0.72793  0.63751  1
+ Ni  Ni1  1  0.00000  0.00000  0.00000  1
+ Tb  Tb1  1  0.63457  0.86069  0.82033  1
+ Tb  Tb2  1  0.36543  0.13931  0.17967  1
+ Tb  Tb3  1  0.02292  0.69871  0.90453  1
+ Tb  Tb4  1  0.97708  0.30129  0.09547  1
+ Tb  Tb5  1  0.87995  0.96050  0.24961  1
+ Tb  Tb6  1  0.12005  0.03950  0.75039  1

@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_Mg2PN3
+_symmetry_space_group_name_H-M  'Cmc2_1'
+_cell_length_a       4.75694
+_cell_length_b       5.64074
+_cell_length_c       5.64073
+_cell_angle_alpha    119.661
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  36
+_chemical_formula_structural  Mg2PN3
+_chemical_formula_sum  Mg4P2N6
+_cell_volume  131.52282879947276
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Mg  Mg1  1  0.47306  0.82934  0.50239  1
+ Mg  Mg2  1  0.47306  0.50239  0.82934  1
+ Mg  Mg3  1  0.97306  0.17066  0.49761  1
+ Mg  Mg4  1  0.97306  0.49761  0.17066  1
+ N  N1  1  0.34512  0.88937  0.88937  1
+ N  N2  1  0.84512  0.11063  0.11063  1
+ N  N3  1  0.41864  0.16246  0.44383  1
+ N  N4  1  0.91864  0.83754  0.55617  1
+ N  N5  1  0.41864  0.44383  0.16246  1
+ N  N6  1  0.91864  0.55617  0.83754  1
+ P  P1  1  0.49136  0.16202  0.16202  1
+ P  P2  1  0.99136  0.83798  0.83798  1

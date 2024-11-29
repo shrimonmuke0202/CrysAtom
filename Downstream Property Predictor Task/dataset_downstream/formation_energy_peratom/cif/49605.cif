@@ -1,0 +1,61 @@
+CIF file written using JARVIS-Tools package.
+data_H7C8NO
+_symmetry_space_group_name_H-M  'P1'
+_cell_length_a       5.95039
+_cell_length_b       7.6742
+_cell_length_c       7.38891
+_cell_angle_alpha    102.839
+_cell_angle_beta     105.815
+_cell_angle_gamma    107.909
+
+_symmetry_Int_Tables_number  1
+_chemical_formula_structural  H7C8NO
+_chemical_formula_sum  H4C6N2O2
+_cell_volume  291.1424244499913
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ C  C1  1  0.57613  0.46696  0.92902  1
+ C  C2  1  0.23880  0.88161  0.59819  1
+ C  C3  1  0.20706  0.86803  0.09722  1
+ C  C4  1  0.13717  0.86330  0.90072  1
+ C  C5  1  0.31809  0.90771  0.81078  1
+ C  C6  1  0.38766  0.80248  0.48394  1
+ C  C7  1  0.64972  0.98208  0.12779  1
+ C  C8  1  0.57625  0.96697  0.92936  1
+ C  C9  1  0.46631  0.92668  0.21462  1
+ C  C10  1  0.20693  0.36804  0.09689  1
+ C  C11  1  0.46619  0.42669  0.21429  1
+ C  C12  1  0.31796  0.40769  0.81044  1
+ C  C13  1  0.38753  0.30248  0.48360  1
+ C  C14  1  0.64960  0.48209  0.12746  1
+ C  C15  1  0.13705  0.36329  0.90039  1
+ C  C16  1  0.23868  0.38159  0.59786  1
+ H  H1  1  0.84896  0.02979  0.21877  1
+ H  H2  1  0.24274  0.67412  0.35847  1
+ H  H3  1  0.24262  0.17413  0.35812  1
+ H  H4  1  0.50938  0.24985  0.57706  1
+ H  H5  1  0.72160  0.50581  0.86505  1
+ H  H6  1  0.93712  0.31561  0.80925  1
+ H  H7  1  0.84884  0.52981  0.21844  1
+ H  H8  1  0.73393  0.45309  0.46702  1
+ H  H9  1  0.50951  0.74987  0.57742  1
+ H  H10  1  0.72172  0.00583  0.86540  1
+ H  H11  1  0.06348  0.82676  0.16227  1
+ H  H12  1  0.93724  0.81564  0.80960  1
+ H  H13  1  0.73406  0.95307  0.46735  1
+ H  H14  1  0.06336  0.32678  0.16194  1
+ N  N1  1  0.54687  0.93160  0.40936  1
+ N  N2  1  0.54674  0.43162  0.40903  1
+ O  O1  1  0.04522  0.90159  0.50363  1
+ O  O2  1  0.04509  0.40158  0.50331  1

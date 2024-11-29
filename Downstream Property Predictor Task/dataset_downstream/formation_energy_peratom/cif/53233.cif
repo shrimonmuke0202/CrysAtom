@@ -1,0 +1,45 @@
+CIF file written using JARVIS-Tools package.
+data_Mg3Cr2N4
+_symmetry_space_group_name_H-M  'C2/c'
+_cell_length_a       6.1737
+_cell_length_b       7.26352
+_cell_length_c       5.43588
+_cell_angle_alpha    90
+_cell_angle_beta     90.8103
+_cell_angle_gamma    126.034
+
+_symmetry_Int_Tables_number  15
+_chemical_formula_structural  Mg3Cr2N4
+_chemical_formula_sum  Mg6Cr4N8
+_cell_volume  197.0909489173926
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cr  Cr1  1  0.61030  0.17672  0.60252  1
+ Cr  Cr2  1  0.38970  0.56642  0.89748  1
+ Cr  Cr3  1  0.38970  0.82328  0.39748  1
+ Cr  Cr4  1  0.61030  0.43358  0.10252  1
+ Mg  Mg1  1  0.00000  0.40449  0.25000  1
+ Mg  Mg2  1  0.22538  0.99055  0.97452  1
+ Mg  Mg3  1  0.22538  0.23482  0.47452  1
+ Mg  Mg4  1  0.77462  0.00945  0.02548  1
+ Mg  Mg5  1  0.77462  0.76518  0.52548  1
+ Mg  Mg6  1  -0.00000  0.59551  0.75000  1
+ N  N1  1  0.29132  0.55579  0.56388  1
+ N  N2  1  0.29132  0.73553  0.06388  1
+ N  N3  1  0.22004  0.94507  0.56995  1
+ N  N4  1  0.77996  0.72503  0.93005  1
+ N  N5  1  0.77996  0.05493  0.43005  1
+ N  N6  1  0.22004  0.27497  0.06995  1
+ N  N7  1  0.70868  0.26447  0.93612  1
+ N  N8  1  0.70868  0.44421  0.43612  1

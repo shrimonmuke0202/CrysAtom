@@ -1,0 +1,51 @@
+CIF file written using JARVIS-Tools package.
+data_BaCrO4
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       5.54289
+_cell_length_b       7.36466
+_cell_length_c       9.1657
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  BaCrO4
+_chemical_formula_sum  Ba4Cr4O6
+_cell_volume  374.1576322594378
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ba  Ba1  1  0.25000  0.34386  0.68359  1
+ Ba  Ba2  1  0.75000  0.65614  0.31641  1
+ Ba  Ba3  1  0.75000  0.84386  0.81641  1
+ Ba  Ba4  1  0.25000  0.15614  0.18359  1
+ Cr  Cr1  1  0.25000  0.69448  0.05792  1
+ Cr  Cr2  1  0.75000  0.30552  0.94208  1
+ Cr  Cr3  1  0.75000  0.19448  0.44208  1
+ Cr  Cr4  1  0.25000  0.80552  0.55792  1
+ O  O1  1  0.50698  0.17590  0.91865  1
+ O  O2  1  0.00698  0.82410  0.08135  1
+ O  O3  1  0.49302  0.67590  0.58135  1
+ O  O4  1  0.75000  0.46643  0.81627  1
+ O  O5  1  0.49302  0.82410  0.08135  1
+ O  O6  1  0.99302  0.17590  0.91865  1
+ O  O7  1  0.99302  0.32410  0.41865  1
+ O  O8  1  0.75000  0.38606  0.11009  1
+ O  O9  1  0.25000  0.88606  0.38991  1
+ O  O10  1  0.75000  0.11394  0.61009  1
+ O  O11  1  0.50698  0.32410  0.41865  1
+ O  O12  1  0.25000  0.61394  0.88991  1
+ O  O13  1  0.25000  0.96643  0.68373  1
+ O  O14  1  0.75000  0.03357  0.31627  1
+ O  O15  1  0.00698  0.67590  0.58135  1
+ O  O16  1  0.25000  0.53357  0.18373  1

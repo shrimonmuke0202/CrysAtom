@@ -1,0 +1,47 @@
+CIF file written using JARVIS-Tools package.
+data_BH2CO
+_symmetry_space_group_name_H-M  'C2/c'
+_cell_length_a       5.73741
+_cell_length_b       5.73741
+_cell_length_c       10.0364
+_cell_angle_alpha    80.0592
+_cell_angle_beta     99.9408
+_cell_angle_gamma    134.515
+
+_symmetry_Int_Tables_number  15
+_chemical_formula_structural  BH2CO
+_chemical_formula_sum  B4H8C4O4
+_cell_volume  231.41839829061436
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ B  B1  1  0.64296  0.48592  0.48525  1
+ B  B2  1  0.48592  0.64296  0.01475  1
+ B  B3  1  0.35704  0.51408  0.51475  1
+ B  B4  1  0.51408  0.35704  -0.01475  1
+ C  C1  1  0.38163  0.13891  0.11263  1
+ C  C2  1  0.13891  0.38163  0.38737  1
+ C  C3  1  0.61837  0.86109  0.88737  1
+ C  C4  1  0.86109  0.61837  0.61263  1
+ H  H1  1  0.66210  0.80637  0.11049  1
+ H  H2  1  0.19363  0.33790  0.61049  1
+ H  H3  1  0.33790  0.19363  0.88951  1
+ H  H4  1  0.80637  0.66210  0.38951  1
+ H  H5  1  0.48409  0.79446  0.51415  1
+ H  H6  1  0.79446  0.48409  0.98585  1
+ H  H7  1  0.20554  0.51591  0.01415  1
+ H  H8  1  0.51591  0.20554  0.48585  1
+ O  O1  1  -0.01567  0.28106  0.28635  1
+ O  O2  1  0.01567  0.71894  0.71365  1
+ O  O3  1  0.71894  0.01567  0.78635  1
+ O  O4  1  0.28106  -0.01567  0.21365  1

@@ -1,0 +1,47 @@
+CIF file written using JARVIS-Tools package.
+data_Sr4Zr3TiO12
+_symmetry_space_group_name_H-M  'P-1'
+_cell_length_a       5.76267
+_cell_length_b       5.77338
+_cell_length_c       8.17326
+_cell_angle_alpha    89.9494
+_cell_angle_beta     89.9609
+_cell_angle_gamma    89.9399
+
+_symmetry_Int_Tables_number  2
+_chemical_formula_structural  Sr4Zr3TiO12
+_chemical_formula_sum  Sr4Zr3TiO2
+_cell_volume  271.92470119529855
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ O  O1  1  0.27641  0.23762  0.03039  1
+ O  O2  1  0.43964  0.49008  0.75892  1
+ O  O3  1  0.70223  0.79705  0.53255  1
+ O  O4  1  0.56036  0.50992  0.24108  1
+ O  O5  1  0.93353  0.01581  0.24891  1
+ O  O6  1  0.06647  0.98419  0.75109  1
+ O  O7  1  0.79709  0.29754  0.53533  1
+ O  O8  1  0.29777  0.20295  0.46745  1
+ O  O9  1  0.23831  0.72355  0.03228  1
+ O  O10  1  0.76169  0.27645  0.96772  1
+ O  O11  1  0.20291  0.70246  0.46467  1
+ O  O12  1  0.72359  0.76238  0.96961  1
+ Sr  Sr1  1  0.00293  0.47823  0.24195  1
+ Sr  Sr2  1  0.49665  0.97516  0.24239  1
+ Sr  Sr3  1  0.99707  0.52177  0.75805  1
+ Sr  Sr4  1  0.50335  0.02484  0.75761  1
+ Ti  Ti1  1  0.50000  0.50000  0.00000  1
+ Zr  Zr1  1  0.00000  0.00000  0.00000  1
+ Zr  Zr2  1  0.50000  0.50000  0.50000  1
+ Zr  Zr3  1  0.00000  -0.00000  0.50000  1

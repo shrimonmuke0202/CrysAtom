@@ -1,0 +1,29 @@
+CIF file written using JARVIS-Tools package.
+data_HgI
+_symmetry_space_group_name_H-M  'Immm'
+_cell_length_a       4.63475
+_cell_length_b       4.63073
+_cell_length_c       4.6361
+_cell_angle_alpha    79.0449
+_cell_angle_beta     73.6211
+_cell_angle_gamma    121.948
+
+_symmetry_Int_Tables_number  71
+_chemical_formula_structural  HgI
+_chemical_formula_sum  HgI
+_cell_volume  73.63390188883875
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Hg  Hg1  1  0.97930  0.97744  0.01073  1
+ I  I1  1  0.97925  0.47746  0.51080  1

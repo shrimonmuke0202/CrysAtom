@@ -1,0 +1,30 @@
+CIF file written using JARVIS-Tools package.
+data_AlAsO
+_symmetry_space_group_name_H-M  'Pm'
+_cell_length_a       6.35013
+_cell_length_b       6.35013
+_cell_length_c       4.7626
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  6
+_chemical_formula_structural  AlAsO
+_chemical_formula_sum  AlAsO
+_cell_volume  192.04742754606858
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Al  Al1  1  -0.05351  -0.06294  0.00000  1
+ As  As1  1  0.31011  0.00401  0.00000  1
+ O  O1  1  0.04973  0.26282  0.00000  1

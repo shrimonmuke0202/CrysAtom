@@ -1,0 +1,31 @@
+CIF file written using JARVIS-Tools package.
+data_Sb
+_symmetry_space_group_name_H-M  'I4/mmm'
+_cell_length_a       4.44442
+_cell_length_b       4.44414
+_cell_length_c       6.5927
+_cell_angle_alpha    109.728
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  139
+_chemical_formula_structural  Sb
+_chemical_formula_sum  Sb4
+_cell_volume  122.57349185775735
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Sb  Sb1  1  0.75000  0.36759  0.73462  1
+ Sb  Sb2  1  0.25000  0.86765  0.73478  1
+ Sb  Sb3  1  0.75000  0.13235  0.26522  1
+ Sb  Sb4  1  0.25000  0.63241  0.26538  1

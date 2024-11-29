@@ -1,0 +1,47 @@
+CIF file written using JARVIS-Tools package.
+data_TbFe3B4O12
+_symmetry_space_group_name_H-M  'R32'
+_cell_length_a       5.93717
+_cell_length_b       5.93717
+_cell_length_c       5.93717
+_cell_angle_alpha    104.436
+_cell_angle_beta     104.436
+_cell_angle_gamma    104.436
+
+_symmetry_Int_Tables_number  155
+_chemical_formula_structural  TbFe3B4O12
+_chemical_formula_sum  TbFe3B4O2
+_cell_volume  185.13934348879712
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ B  B1  1  0.06128  0.50000  0.93872  1
+ B  B2  1  0.50000  0.50000  0.50000  1
+ B  B3  1  0.93872  0.06128  0.50000  1
+ B  B4  1  0.50000  0.93872  0.06128  1
+ Fe  Fe1  1  0.00000  0.56009  0.43991  1
+ Fe  Fe2  1  0.43991  1.00000  0.56009  1
+ Fe  Fe3  1  0.56009  0.43991  -0.00000  1
+ O  O1  1  0.64798  0.50000  0.35202  1
+ O  O2  1  0.21939  0.36845  0.96865  1
+ O  O3  1  0.03135  0.63155  0.78061  1
+ O  O4  1  0.63155  0.78061  0.03135  1
+ O  O5  1  0.36845  0.96865  0.21939  1
+ O  O6  1  0.96865  0.21939  0.36845  1
+ O  O7  1  0.91273  0.50000  0.08727  1
+ O  O8  1  0.50000  0.08727  0.91273  1
+ O  O9  1  0.35202  0.64798  0.50000  1
+ O  O10  1  0.08727  0.91273  0.50000  1
+ O  O11  1  0.50000  0.35202  0.64798  1
+ O  O12  1  0.78061  0.03135  0.63155  1
+ Tb  Tb1  1  0.00000  0.00000  0.00000  1

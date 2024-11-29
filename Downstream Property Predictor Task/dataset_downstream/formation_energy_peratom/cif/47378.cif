@@ -1,0 +1,47 @@
+CIF file written using JARVIS-Tools package.
+data_MnInBr3
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       3.97734
+_cell_length_b       9.40775
+_cell_length_c       15.1934
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  MnInBr3
+_chemical_formula_sum  Mn4In4Br2
+_cell_volume  568.5056702471373
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Br  Br1  1  0.75000  0.72222  0.28917  1
+ Br  Br2  1  0.75000  0.97608  0.60270  1
+ Br  Br3  1  0.75000  0.22222  0.21083  1
+ Br  Br4  1  0.75000  0.47608  0.89730  1
+ Br  Br5  1  0.25000  0.52392  0.10270  1
+ Br  Br6  1  0.25000  0.02392  0.39730  1
+ Br  Br7  1  0.25000  0.67276  0.50376  1
+ Br  Br8  1  0.75000  0.82724  0.00376  1
+ Br  Br9  1  0.25000  0.17276  0.99624  1
+ Br  Br10  1  0.25000  0.77778  0.78917  1
+ Br  Br11  1  0.25000  0.27778  0.71083  1
+ Br  Br12  1  0.75000  0.32724  0.49624  1
+ In  In1  1  0.75000  0.54997  0.67563  1
+ In  In2  1  0.25000  0.45003  0.32437  1
+ In  In3  1  0.75000  0.04997  0.82437  1
+ In  In4  1  0.25000  0.95003  0.17563  1
+ Mn  Mn1  1  0.75000  0.83773  0.44343  1
+ Mn  Mn2  1  0.25000  0.16227  0.55657  1
+ Mn  Mn3  1  0.75000  0.33773  0.05657  1
+ Mn  Mn4  1  0.25000  0.66227  0.94343  1

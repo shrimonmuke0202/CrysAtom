@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_MgCuN
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       7.67635
+_cell_length_b       3.27937
+_cell_length_c       5.46889
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  MgCuN
+_chemical_formula_sum  Mg4Cu4N4
+_cell_volume  137.67173913744688
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cu  Cu1  1  0.56985  0.25000  0.87375  1
+ Cu  Cu2  1  0.06985  0.25000  0.62625  1
+ Cu  Cu3  1  0.43015  0.75000  0.12625  1
+ Cu  Cu4  1  0.93015  0.75000  0.37375  1
+ Mg  Mg1  1  0.64684  0.25000  0.41373  1
+ Mg  Mg2  1  0.14684  0.25000  0.08627  1
+ Mg  Mg3  1  0.35316  0.75000  0.58627  1
+ Mg  Mg4  1  0.85316  0.75000  0.91373  1
+ N  N1  1  0.86591  0.25000  0.17571  1
+ N  N2  1  0.36591  0.25000  0.32429  1
+ N  N3  1  0.13409  0.75000  0.82429  1
+ N  N4  1  0.63409  0.75000  0.67571  1

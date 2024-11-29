@@ -1,0 +1,56 @@
+CIF file written using JARVIS-Tools package.
+data_Yb6Al7Cu16
+_symmetry_space_group_name_H-M  'Fm-3m'
+_cell_length_a       8.67624
+_cell_length_b       8.67624
+_cell_length_c       8.67624
+_cell_angle_alpha    60
+_cell_angle_beta     60
+_cell_angle_gamma    60
+
+_symmetry_Int_Tables_number  225
+_chemical_formula_structural  Yb6Al7Cu16
+_chemical_formula_sum  Yb6Al7Cu6
+_cell_volume  461.8266948993379
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Al  Al1  1  0.50000  0.50000  -0.00000  1
+ Al  Al2  1  0.00000  0.00000  0.00000  1
+ Al  Al3  1  0.00000  0.00000  0.50000  1
+ Al  Al4  1  0.50000  0.00000  0.50000  1
+ Al  Al5  1  0.50000  0.00000  0.00000  1
+ Al  Al6  1  -0.00000  0.50000  -0.00000  1
+ Al  Al7  1  -0.00000  0.50000  0.50000  1
+ Cu  Cu1  1  0.87781  0.36658  0.87781  1
+ Cu  Cu2  1  0.12219  0.63342  0.12219  1
+ Cu  Cu3  1  0.32914  0.32914  0.01257  1
+ Cu  Cu4  1  0.12219  0.12219  0.63342  1
+ Cu  Cu5  1  0.87781  0.87781  0.87781  1
+ Cu  Cu6  1  0.36658  0.87781  0.87781  1
+ Cu  Cu7  1  0.01257  0.32914  0.32914  1
+ Cu  Cu8  1  0.87781  0.87781  0.36658  1
+ Cu  Cu9  1  0.12219  0.12219  0.12219  1
+ Cu  Cu10  1  0.67086  0.67086  0.98743  1
+ Cu  Cu11  1  0.32914  0.32914  0.32914  1
+ Cu  Cu12  1  0.98743  0.67086  0.67086  1
+ Cu  Cu13  1  0.67086  0.67086  0.67086  1
+ Cu  Cu14  1  0.63342  0.12219  0.12219  1
+ Cu  Cu15  1  0.32914  0.01257  0.32914  1
+ Cu  Cu16  1  0.67086  0.98743  0.67086  1
+ Yb  Yb1  1  0.28328  0.71672  0.71672  1
+ Yb  Yb2  1  0.71672  0.28328  0.71672  1
+ Yb  Yb3  1  0.28328  0.28328  0.71672  1
+ Yb  Yb4  1  0.71672  0.28328  0.28328  1
+ Yb  Yb5  1  0.28328  0.71672  0.28328  1
+ Yb  Yb6  1  0.71672  0.71672  0.28328  1

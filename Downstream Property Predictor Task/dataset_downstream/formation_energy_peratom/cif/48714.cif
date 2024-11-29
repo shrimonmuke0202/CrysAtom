@@ -1,0 +1,30 @@
+CIF file written using JARVIS-Tools package.
+data_P2Cl
+_symmetry_space_group_name_H-M  'Pm'
+_cell_length_a       7.95094
+_cell_length_b       3.32858
+_cell_length_c       9.00748
+_cell_angle_alpha    90
+_cell_angle_beta     95.7057
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  6
+_chemical_formula_structural  P2Cl
+_chemical_formula_sum  P2Cl
+_cell_volume  237.2050738483498
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cl  Cl1  1  0.73753  0.00000  -0.07831  1
+ P  P1  1  -0.33715  0.00000  -0.60310  1
+ P  P2  1  -0.00038  0.00000  0.08141  1

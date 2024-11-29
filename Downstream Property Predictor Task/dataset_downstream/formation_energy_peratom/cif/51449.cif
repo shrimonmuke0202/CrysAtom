@@ -1,0 +1,33 @@
+CIF file written using JARVIS-Tools package.
+data_MgHg2
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       6.86549
+_cell_length_b       6.86549
+_cell_length_c       6.22059
+_cell_angle_alpha    69.3492
+_cell_angle_beta     69.3492
+_cell_angle_gamma    30.406
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  MgHg2
+_chemical_formula_sum  Mg2Hg4
+_cell_volume  138.13396651322046
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Hg  Hg1  1  0.18431  0.18431  0.86066  1
+ Hg  Hg2  1  0.81569  0.81569  0.13934  1
+ Hg  Hg3  1  0.51316  0.51316  0.23481  1
+ Hg  Hg4  1  0.48684  0.48684  0.76519  1
+ Mg  Mg1  1  0.14829  0.14829  0.42139  1
+ Mg  Mg2  1  0.85171  0.85171  0.57861  1

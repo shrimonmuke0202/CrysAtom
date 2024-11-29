@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_Li2CuF5
+_symmetry_space_group_name_H-M  'P-1'
+_cell_length_a       4.96686
+_cell_length_b       5.49026
+_cell_length_c       7.39144
+_cell_angle_alpha    97.961
+_cell_angle_beta     105.945
+_cell_angle_gamma    115.095
+
+_symmetry_Int_Tables_number  2
+_chemical_formula_structural  Li2CuF5
+_chemical_formula_sum  Li4Cu2F0
+_cell_volume  167.8149229093281
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cu  Cu1  1  -0.00000  -0.00000  -0.00000  1
+ Cu  Cu2  1  0.50000  0.50000  0.50000  1
+ F  F1  1  0.68648  0.29217  0.45219  1
+ F  F2  1  0.87710  0.21581  0.84721  1
+ F  F3  1  0.68642  0.71746  0.36121  1
+ F  F4  1  0.98274  0.77080  0.76917  1
+ F  F5  1  0.55470  0.77552  0.95780  1
+ F  F6  1  0.44530  0.22448  0.04220  1
+ F  F7  1  0.01726  0.22920  0.23083  1
+ F  F8  1  0.31358  0.28254  0.63879  1
+ F  F9  1  0.12290  0.78419  0.15279  1
+ F  F10  1  0.31352  0.70783  0.54781  1
+ Li  Li1  1  0.57085  0.95305  0.22056  1
+ Li  Li2  1  0.13575  0.48968  0.75986  1
+ Li  Li3  1  0.86425  0.51032  0.24014  1
+ Li  Li4  1  0.42915  0.04695  0.77944  1

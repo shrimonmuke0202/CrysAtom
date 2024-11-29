@@ -1,0 +1,36 @@
+CIF file written using JARVIS-Tools package.
+data_Zr4S3N2
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       6.29779
+_cell_length_b       3.49038
+_cell_length_c       9.4162
+_cell_angle_alpha    90
+_cell_angle_beta     52.3108
+_cell_angle_gamma    73.9121
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  Zr4S3N2
+_chemical_formula_sum  Zr4S3N2
+_cell_volume  153.42342969874701
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ N  N1  1  0.54687  0.72657  0.36378  1
+ N  N2  1  0.45313  0.27343  0.63622  1
+ S  S1  1  0.00000  0.00000  0.00000  1
+ S  S2  1  0.82610  0.58695  0.73676  1
+ S  S3  1  0.17390  0.41305  0.26324  1
+ Zr  Zr1  1  0.23073  0.88463  0.65250  1
+ Zr  Zr2  1  0.76927  0.11537  0.34750  1
+ Zr  Zr3  1  0.59240  0.70380  0.09996  1
+ Zr  Zr4  1  0.40760  0.29620  0.90004  1

@@ -1,0 +1,69 @@
+CIF file written using JARVIS-Tools package.
+data_Yb11Sb10
+_symmetry_space_group_name_H-M  'I4/mmm'
+_cell_length_a       11.8793
+_cell_length_b       11.8793
+_cell_length_c       12.0231
+_cell_angle_alpha    119.605
+_cell_angle_beta     119.605
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  139
+_chemical_formula_structural  Yb11Sb10
+_chemical_formula_sum  Yb22Sb20
+_cell_volume  1213.9130927777162
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Sb  Sb1  1  0.11846  0.11846  0.64930  1
+ Sb  Sb2  1  0.34959  -0.00000  -0.00000  1
+ Sb  Sb3  1  0.46916  0.46916  0.35070  1
+ Sb  Sb4  1  0.88154  0.88154  0.35070  1
+ Sb  Sb5  1  0.46916  0.88154  0.35070  1
+ Sb  Sb6  1  0.88154  0.46916  0.35070  1
+ Sb  Sb7  1  0.53084  0.11846  0.64930  1
+ Sb  Sb8  1  0.11846  0.53084  0.64930  1
+ Sb  Sb9  1  0.53084  0.53084  0.64930  1
+ Sb  Sb10  1  0.75000  0.25000  0.50000  1
+ Sb  Sb11  1  0.37187  0.62813  0.00000  1
+ Sb  Sb12  1  0.62813  0.37187  -0.00000  1
+ Sb  Sb13  1  0.37187  0.37187  -0.00000  1
+ Sb  Sb14  1  0.87462  0.87462  0.74924  1
+ Sb  Sb15  1  0.12538  0.12538  0.25076  1
+ Sb  Sb16  1  0.65041  0.00000  0.00000  1
+ Sb  Sb17  1  -0.00000  0.65041  -0.00000  1
+ Sb  Sb18  1  0.00000  0.34959  0.00000  1
+ Sb  Sb19  1  0.25000  0.75000  0.50000  1
+ Sb  Sb20  1  0.62813  0.62813  0.00000  1
+ Yb  Yb1  1  0.93793  0.18937  0.37873  1
+ Yb  Yb2  1  0.26531  0.60306  0.20612  1
+ Yb  Yb3  1  0.94081  0.60306  0.20612  1
+ Yb  Yb4  1  0.60306  0.94081  0.20612  1
+ Yb  Yb5  1  0.60306  0.26531  0.20612  1
+ Yb  Yb6  1  0.73469  0.39694  0.79388  1
+ Yb  Yb7  1  0.05919  0.39694  0.79388  1
+ Yb  Yb8  1  0.39694  0.73469  0.79388  1
+ Yb  Yb9  1  0.66308  0.66308  0.32615  1
+ Yb  Yb10  1  0.33692  0.33692  0.67385  1
+ Yb  Yb11  1  0.83443  0.83443  -0.00000  1
+ Yb  Yb12  1  0.16557  0.83443  -0.00000  1
+ Yb  Yb13  1  0.83443  0.16557  0.00000  1
+ Yb  Yb14  1  0.16557  0.16557  0.00000  1
+ Yb  Yb15  1  0.18937  0.93793  0.37873  1
+ Yb  Yb16  1  0.55920  0.81063  0.62127  1
+ Yb  Yb17  1  0.06207  0.81063  0.62127  1
+ Yb  Yb18  1  0.81063  0.06207  0.62127  1
+ Yb  Yb19  1  0.81063  0.55920  0.62127  1
+ Yb  Yb20  1  0.44080  0.18937  0.37873  1
+ Yb  Yb21  1  0.39694  0.05919  0.79388  1
+ Yb  Yb22  1  0.18937  0.44080  0.37873  1

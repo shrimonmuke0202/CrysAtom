@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_Pb4SeS3
+_symmetry_space_group_name_H-M  'R-3m'
+_cell_length_a       14.1746
+_cell_length_b       14.1746
+_cell_length_c       14.1746
+_cell_angle_alpha    17.3387
+_cell_angle_beta     17.3387
+_cell_angle_gamma    17.3387
+
+_symmetry_Int_Tables_number  166
+_chemical_formula_structural  Pb4SeS3
+_chemical_formula_sum  Pb4SeS3
+_cell_volume  220.72622353370184
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Pb  Pb1  1  0.87422  0.87422  0.87422  1
+ Pb  Pb2  1  0.12578  0.12578  0.12578  1
+ Pb  Pb3  1  0.37739  0.37739  0.37739  1
+ Pb  Pb4  1  0.62261  0.62261  0.62261  1
+ S  S1  1  0.24847  0.24847  0.24847  1
+ S  S2  1  0.50000  0.50000  0.50000  1
+ S  S3  1  0.75153  0.75153  0.75153  1
+ Se  Se1  1  0.00000  0.00000  0.00000  1

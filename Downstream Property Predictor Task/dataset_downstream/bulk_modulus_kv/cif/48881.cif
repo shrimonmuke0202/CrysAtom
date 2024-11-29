@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_MnCuO4
+_symmetry_space_group_name_H-M  'Imma'
+_cell_length_a       5.61139
+_cell_length_b       5.61138
+_cell_length_c       5.61139
+_cell_angle_alpha    118.444
+_cell_angle_beta     118.395
+_cell_angle_gamma    92.7599
+
+_symmetry_Int_Tables_number  74
+_chemical_formula_structural  MnCuO4
+_chemical_formula_sum  Mn2Cu2O8
+_cell_volume  127.76238987308733
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cu  Cu1  1  0.12640  0.87640  0.25000  1
+ Cu  Cu2  1  0.87360  0.12360  0.75000  1
+ Mn  Mn1  1  0.00000  0.50000  0.50000  1
+ Mn  Mn2  1  0.50000  0.50000  -0.00000  1
+ O  O1  1  0.27084  0.26998  0.00086  1
+ O  O2  1  0.76913  0.26998  0.49914  1
+ O  O3  1  0.75047  0.71581  0.46534  1
+ O  O4  1  0.75047  0.28512  0.03466  1
+ O  O5  1  0.72916  0.73002  0.99914  1
+ O  O6  1  0.23087  0.73002  0.50086  1
+ O  O7  1  0.24953  0.28419  0.53466  1
+ O  O8  1  0.24953  0.71488  0.96534  1

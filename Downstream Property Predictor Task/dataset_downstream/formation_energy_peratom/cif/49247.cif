@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_Tb5SbPt2
+_symmetry_space_group_name_H-M  'I4/mcm'
+_cell_length_a       8.69252
+_cell_length_b       8.69253
+_cell_length_c       8.69253
+_cell_angle_alpha    126.456
+_cell_angle_beta     126.456
+_cell_angle_gamma    79.1401
+
+_symmetry_Int_Tables_number  140
+_chemical_formula_structural  Tb5SbPt2
+_chemical_formula_sum  Tb0Sb2Pt4
+_cell_volume  410.90687549864384
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Pt  Pt1  1  0.13932  0.63932  0.77864  1
+ Pt  Pt2  1  0.86068  0.36068  0.22136  1
+ Pt  Pt3  1  0.63932  0.86068  0.50000  1
+ Pt  Pt4  1  0.36068  0.13932  0.50000  1
+ Sb  Sb1  1  0.25000  0.25000  0.00000  1
+ Sb  Sb2  1  0.75000  0.75000  0.00000  1
+ Tb  Tb1  1  0.00000  0.00000  0.00000  1
+ Tb  Tb2  1  0.50000  0.50000  0.00000  1
+ Tb  Tb3  1  0.79569  0.29569  0.81238  1
+ Tb  Tb4  1  0.20431  0.70431  0.18762  1
+ Tb  Tb5  1  0.48331  0.98331  0.18762  1
+ Tb  Tb6  1  0.29569  0.48331  0.50000  1
+ Tb  Tb7  1  0.01669  0.20431  0.50000  1
+ Tb  Tb8  1  0.51669  0.01669  0.81238  1
+ Tb  Tb9  1  0.70431  0.51669  0.50000  1
+ Tb  Tb10  1  0.98331  0.79569  0.50000  1

@@ -1,0 +1,51 @@
+CIF file written using JARVIS-Tools package.
+data_TlMo2Cl7O2
+_symmetry_space_group_name_H-M  'Pmmn'
+_cell_length_a       6.94158
+_cell_length_b       8.84563
+_cell_length_c       9.51304
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  59
+_chemical_formula_structural  TlMo2Cl7O2
+_chemical_formula_sum  Tl2Mo4Cl4O4
+_cell_volume  584.1256277197949
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cl  Cl1  1  0.24117  0.30455  0.69423  1
+ Cl  Cl2  1  0.50000  0.59236  0.50000  1
+ Cl  Cl3  1  0.75883  0.30455  0.30577  1
+ Cl  Cl4  1  0.25883  0.69545  0.19423  1
+ Cl  Cl5  1  0.24117  0.30455  0.30577  1
+ Cl  Cl6  1  0.26183  0.90056  0.50000  1
+ Cl  Cl7  1  0.00000  0.40764  0.00000  1
+ Cl  Cl8  1  0.75883  0.30455  0.69423  1
+ Cl  Cl9  1  0.73817  0.90056  0.50000  1
+ Cl  Cl10  1  0.23817  0.09944  0.00000  1
+ Cl  Cl11  1  0.74117  0.69545  0.19423  1
+ Cl  Cl12  1  0.76183  0.09944  0.00000  1
+ Cl  Cl13  1  0.74117  0.69545  0.80577  1
+ Cl  Cl14  1  0.25883  0.69545  0.80577  1
+ Mo  Mo1  1  0.00000  0.17764  0.18440  1
+ Mo  Mo2  1  0.50000  0.82236  0.31560  1
+ Mo  Mo3  1  0.50000  0.82236  0.68440  1
+ Mo  Mo4  1  0.00000  0.17764  0.81560  1
+ O  O1  1  0.50000  0.99212  0.24027  1
+ O  O2  1  0.50000  0.99212  0.75973  1
+ O  O3  1  0.00000  0.00788  0.25973  1
+ O  O4  1  0.00000  0.00788  0.74027  1
+ Tl  Tl1  1  0.00000  0.55426  0.50000  1
+ Tl  Tl2  1  0.50000  0.44574  0.00000  1

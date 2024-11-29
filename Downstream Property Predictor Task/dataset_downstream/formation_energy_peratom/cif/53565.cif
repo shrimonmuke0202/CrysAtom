@@ -1,0 +1,55 @@
+CIF file written using JARVIS-Tools package.
+data_TiCrAgS4
+_symmetry_space_group_name_H-M  'Cmcm'
+_cell_length_a       7.17121
+_cell_length_b       7.27713
+_cell_length_c       10.649
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  63
+_chemical_formula_structural  TiCrAgS4
+_chemical_formula_sum  Ti4Cr4Ag4S6
+_cell_volume  555.7294115349899
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ag  Ag1  1  0.25000  0.75007  0.11226  1
+ Ag  Ag2  1  0.25000  0.25007  0.38774  1
+ Ag  Ag3  1  0.75000  0.24993  0.88774  1
+ Ag  Ag4  1  0.75000  0.74993  0.61226  1
+ Cr  Cr1  1  0.25000  0.25002  0.11012  1
+ Cr  Cr2  1  0.75000  0.74998  0.88988  1
+ Cr  Cr3  1  0.75000  0.24998  0.61012  1
+ Cr  Cr4  1  0.25000  0.75002  0.38988  1
+ S  S1  1  0.51625  0.24999  0.22847  1
+ S  S2  1  0.48375  0.75001  0.77153  1
+ S  S3  1  0.01625  0.75001  0.77153  1
+ S  S4  1  0.75000  0.02639  0.47623  1
+ S  S5  1  0.98375  0.24999  0.22847  1
+ S  S6  1  0.25000  0.47361  0.97623  1
+ S  S7  1  0.01625  0.25001  0.72847  1
+ S  S8  1  0.98375  0.74999  0.27153  1
+ S  S9  1  0.48375  0.25001  0.72847  1
+ S  S10  1  0.75000  0.52639  0.02377  1
+ S  S11  1  0.75000  0.47355  0.47621  1
+ S  S12  1  0.75000  0.97355  0.02379  1
+ S  S13  1  0.25000  0.02645  0.97621  1
+ S  S14  1  0.51625  0.74999  0.27153  1
+ S  S15  1  0.25000  0.97361  0.52377  1
+ S  S16  1  0.25000  0.52645  0.52379  1
+ Ti  Ti1  1  0.75000  0.49996  0.24999  1
+ Ti  Ti2  1  0.25000  0.50004  0.75001  1
+ Ti  Ti3  1  0.25000  0.00004  0.74999  1
+ Ti  Ti4  1  0.75000  -0.00004  0.25001  1

@@ -1,0 +1,33 @@
+CIF file written using JARVIS-Tools package.
+data_YGaAu
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       5.70035
+_cell_length_b       5.70035
+_cell_length_c       7.1325
+_cell_angle_alpha    52.2089
+_cell_angle_beta     52.2089
+_cell_angle_gamma    46.2034
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  YGaAu
+_chemical_formula_sum  Y2Ga2Au2
+_cell_volume  124.7574044160801
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Au  Au1  1  0.82291  0.82291  0.71364  1
+ Au  Au2  1  0.17709  0.17709  0.28636  1
+ Ga  Ga1  1  0.15701  0.15701  0.89576  1
+ Ga  Ga2  1  0.84299  0.84299  0.10424  1
+ Y  Y1  1  0.46284  0.46284  0.29734  1
+ Y  Y2  1  0.53716  0.53716  0.70266  1

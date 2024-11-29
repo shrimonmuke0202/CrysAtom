@@ -1,0 +1,37 @@
+CIF file written using JARVIS-Tools package.
+data_CdH2C3O4
+_symmetry_space_group_name_H-M  'P1'
+_cell_length_a       3.40447
+_cell_length_b       4.77804
+_cell_length_c       6.91535
+_cell_angle_alpha    70.2957
+_cell_angle_beta     82.9378
+_cell_angle_gamma    78.4373
+
+_symmetry_Int_Tables_number  1
+_chemical_formula_structural  CdH2C3O4
+_chemical_formula_sum  CdH2C3O4
+_cell_volume  103.56687755126259
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ C  C1  1  0.24536  0.82253  0.18181  1
+ C  C2  1  0.00744  0.02471  0.82384  1
+ C  C3  1  0.10192  0.05866  0.00353  1
+ Cd  Cd1  1  0.62102  0.15554  0.43912  1
+ H  H1  1  0.12919  0.28431  -0.00390  1
+ H  H2  1  0.74507  0.66794  0.95143  1
+ O  O1  1  0.87787  0.77809  0.81678  1
+ O  O2  1  0.02322  0.23310  0.64531  1
+ O  O3  1  0.41746  0.55896  0.16900  1
+ O  O4  1  0.22916  0.87499  0.35743  1

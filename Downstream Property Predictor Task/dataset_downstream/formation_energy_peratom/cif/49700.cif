@@ -1,0 +1,31 @@
+CIF file written using JARVIS-Tools package.
+data_NCl3
+_symmetry_space_group_name_H-M  'P1'
+_cell_length_a       4.75246
+_cell_length_b       3.62451
+_cell_length_c       6.89679
+_cell_angle_alpha    60.1904
+_cell_angle_beta     102.95
+_cell_angle_gamma    84.1281
+
+_symmetry_Int_Tables_number  1
+_chemical_formula_structural  NCl3
+_chemical_formula_sum  NCl3
+_cell_volume  97.19773101613691
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cl  Cl1  1  0.02035  0.76004  0.01155  1
+ Cl  Cl2  1  0.24446  0.60460  0.58379  1
+ Cl  Cl3  1  0.67858  0.54627  0.13005  1
+ N  N1  1  0.54929  0.73968  0.54712  1

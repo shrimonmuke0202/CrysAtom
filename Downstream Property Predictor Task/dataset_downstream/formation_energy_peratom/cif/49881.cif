@@ -1,0 +1,55 @@
+CIF file written using JARVIS-Tools package.
+data_CaCr2O4
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       3.00403
+_cell_length_b       9.07138
+_cell_length_c       10.6404
+_cell_angle_alpha    90.0001
+_cell_angle_beta     90
+_cell_angle_gamma    90.0001
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  CaCr2O4
+_chemical_formula_sum  Ca4Cr8O6
+_cell_volume  289.95741928709174
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ca  Ca1  1  0.75000  0.24034  0.34071  1
+ Ca  Ca2  1  0.25000  0.75966  0.65929  1
+ Ca  Ca3  1  0.75000  0.74034  0.15929  1
+ Ca  Ca4  1  0.25000  0.25966  0.84070  1
+ Cr  Cr1  1  0.25000  0.41568  0.10103  1
+ Cr  Cr2  1  0.75000  0.06016  0.11294  1
+ Cr  Cr3  1  0.75000  0.58432  0.89897  1
+ Cr  Cr4  1  0.25000  0.93984  0.88706  1
+ Cr  Cr5  1  0.75000  0.56016  0.38706  1
+ Cr  Cr6  1  0.75000  0.08432  0.60103  1
+ Cr  Cr7  1  0.25000  0.91568  0.39897  1
+ Cr  Cr8  1  0.25000  0.43984  0.61294  1
+ O  O1  1  0.25000  0.11721  0.47573  1
+ O  O2  1  0.75000  0.79848  0.83809  1
+ O  O3  1  0.75000  0.08104  0.92655  1
+ O  O4  1  0.75000  0.29848  0.66190  1
+ O  O5  1  0.25000  0.70152  0.33810  1
+ O  O6  1  0.75000  0.88279  0.52427  1
+ O  O7  1  0.25000  0.20152  0.16190  1
+ O  O8  1  0.25000  0.41896  0.42655  1
+ O  O9  1  0.25000  0.52897  0.78591  1
+ O  O10  1  0.75000  0.97103  0.28591  1
+ O  O11  1  0.25000  0.02897  0.71409  1
+ O  O12  1  0.75000  0.58104  0.57345  1
+ O  O13  1  0.75000  0.38279  0.97573  1
+ O  O14  1  0.75000  0.47103  0.21409  1
+ O  O15  1  0.25000  0.61721  0.02427  1
+ O  O16  1  0.25000  0.91896  0.07345  1

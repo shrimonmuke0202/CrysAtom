@@ -1,0 +1,51 @@
+CIF file written using JARVIS-Tools package.
+data_LiPr2C2N4F3
+_symmetry_space_group_name_H-M  'C2/c'
+_cell_length_a       6.59439
+_cell_length_b       6.70027
+_cell_length_c       8.5359
+_cell_angle_alpha    111.647
+_cell_angle_beta     90
+_cell_angle_gamma    119.479
+
+_symmetry_Int_Tables_number  15
+_chemical_formula_structural  LiPr2C2N4F3
+_chemical_formula_sum  Li2Pr4C4N8F6
+_cell_volume  297.39158060534345
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ C  C1  1  0.27411  0.04783  0.95297  1
+ C  C2  1  0.77372  0.04783  0.45297  1
+ C  C3  1  0.22628  0.95217  0.54703  1
+ C  C4  1  0.72589  0.95217  0.04703  1
+ F  F1  1  0.06327  0.37046  0.86538  1
+ F  F2  1  0.60612  0.00000  0.75000  1
+ F  F3  1  0.69282  0.62954  0.63462  1
+ F  F4  1  0.39388  0.00000  0.25000  1
+ F  F5  1  0.30718  0.37046  0.36538  1
+ F  F6  1  0.93673  0.62954  0.13462  1
+ Li  Li1  1  0.90513  0.00000  0.75000  1
+ Li  Li2  1  0.09487  0.00000  0.25000  1
+ N  N1  1  0.88483  0.17275  0.13303  1
+ N  N2  1  0.83663  0.27265  0.53634  1
+ N  N3  1  0.28792  0.17275  0.63303  1
+ N  N4  1  0.56398  0.72735  0.96366  1
+ N  N5  1  0.43602  0.27265  0.03634  1
+ N  N6  1  0.11517  0.82725  0.86697  1
+ N  N7  1  0.71208  0.82725  0.36697  1
+ N  N8  1  0.16337  0.72735  0.46366  1
+ Pr  Pr1  1  0.28239  0.57297  0.16785  1
+ Pr  Pr2  1  0.71761  0.42703  0.83215  1
+ Pr  Pr3  1  0.70942  0.42703  0.33215  1
+ Pr  Pr4  1  0.29058  0.57297  0.66785  1

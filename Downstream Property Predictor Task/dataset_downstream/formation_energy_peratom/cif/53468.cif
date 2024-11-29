@@ -1,0 +1,49 @@
+CIF file written using JARVIS-Tools package.
+data_NdP3H6O12
+_symmetry_space_group_name_H-M  'P-6'
+_cell_length_a       6.57857
+_cell_length_b       6.57857
+_cell_length_c       6.16245
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_symmetry_Int_Tables_number  174
+_chemical_formula_structural  NdP3H6O12
+_chemical_formula_sum  NdP3H6O2
+_cell_volume  230.96578750996974
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ H  H1  1  0.96683  0.45889  0.12554  1
+ H  H2  1  0.54111  0.50794  0.12554  1
+ H  H3  1  0.49206  0.03317  0.12554  1
+ H  H4  1  0.96683  0.45889  0.87446  1
+ H  H5  1  0.54111  0.50794  0.87446  1
+ H  H6  1  0.49206  0.03317  0.87446  1
+ Nd  Nd1  1  0.00000  0.00000  0.00000  1
+ O  O1  1  0.62444  0.60613  0.00000  1
+ O  O2  1  0.53079  0.62449  0.50000  1
+ O  O3  1  0.37551  0.90630  0.50000  1
+ O  O4  1  0.26787  0.26202  0.28966  1
+ O  O5  1  0.09370  0.46921  0.50000  1
+ O  O6  1  -0.00585  0.73213  0.28966  1
+ O  O7  1  0.98170  0.37556  0.00000  1
+ O  O8  1  0.73798  0.00585  0.71034  1
+ O  O9  1  -0.00585  0.73213  0.71034  1
+ O  O10  1  0.73798  0.00585  0.28966  1
+ O  O11  1  0.26787  0.26202  0.71034  1
+ O  O12  1  0.39387  0.01830  0.00000  1
+ P  P1  1  0.09913  0.71699  0.50000  1
+ P  P2  1  0.61786  0.90087  0.50000  1
+ P  P3  1  0.28301  0.38214  0.50000  1

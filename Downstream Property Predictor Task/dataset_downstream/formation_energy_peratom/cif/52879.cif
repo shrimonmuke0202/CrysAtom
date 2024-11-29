@@ -1,0 +1,49 @@
+CIF file written using JARVIS-Tools package.
+data_NaCrCSO7
+_symmetry_space_group_name_H-M  'P2_1'
+_cell_length_a       6.27962
+_cell_length_b       4.80399
+_cell_length_c       9.0504
+_cell_angle_alpha    93.5822
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  4
+_chemical_formula_structural  NaCrCSO7
+_chemical_formula_sum  Na2Cr2C2S2O4
+_cell_volume  272.49193668253935
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ C  C1  1  0.23476  0.44304  0.91747  1
+ C  C2  1  0.73476  0.55696  0.08253  1
+ Cr  Cr1  1  0.24220  0.25991  0.66466  1
+ Cr  Cr2  1  0.74220  0.74009  0.33534  1
+ Na  Na1  1  0.60812  0.97303  0.88861  1
+ Na  Na2  1  0.10812  0.02697  0.11139  1
+ O  O1  1  0.71110  0.46464  0.95209  1
+ O  O2  1  0.24530  0.16949  0.87723  1
+ O  O3  1  0.74530  0.83051  0.12277  1
+ O  O4  1  0.92786  0.23713  0.67487  1
+ O  O5  1  0.55665  0.22796  0.67169  1
+ O  O6  1  0.24808  0.59161  0.80037  1
+ O  O7  1  0.73860  0.59171  0.54182  1
+ O  O8  1  0.05665  0.77204  0.32831  1
+ O  O9  1  0.74572  0.12121  0.43894  1
+ O  O10  1  0.24572  0.87879  0.56106  1
+ O  O11  1  0.42786  0.76287  0.32513  1
+ O  O12  1  0.74808  0.40839  0.19963  1
+ O  O13  1  0.23860  0.40829  0.45818  1
+ O  O14  1  0.21110  0.53536  0.04791  1
+ S  S1  1  0.24378  0.70720  0.42135  1
+ S  S2  1  0.74378  0.29280  0.57865  1

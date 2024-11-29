@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_ZnCu2SnS4
+_symmetry_space_group_name_H-M  'I-4'
+_cell_length_a       5.46654
+_cell_length_b       5.46654
+_cell_length_c       10.9269
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  82
+_chemical_formula_structural  ZnCu2SnS4
+_chemical_formula_sum  Zn2Cu4Sn2S8
+_cell_volume  326.5290641782786
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cu  Cu1  1  0.00000  0.00000  0.00000  1
+ Cu  Cu2  1  0.50000  0.50000  0.50000  1
+ Cu  Cu3  1  0.50000  0.00000  0.25000  1
+ Cu  Cu4  1  0.00000  0.50000  0.75000  1
+ S  S1  1  0.24142  0.23471  0.12947  1
+ S  S2  1  0.75858  0.76529  0.12947  1
+ S  S3  1  0.23471  0.75858  0.87053  1
+ S  S4  1  0.76529  0.24142  0.87053  1
+ S  S5  1  0.74142  0.73471  0.62947  1
+ S  S6  1  0.25858  0.26529  0.62947  1
+ S  S7  1  0.73471  0.25858  0.37053  1
+ S  S8  1  0.26529  0.74142  0.37053  1
+ Sn  Sn1  1  0.00000  0.00000  0.50000  1
+ Sn  Sn2  1  0.50000  0.50000  0.00000  1
+ Zn  Zn1  1  0.00000  0.50000  0.25000  1
+ Zn  Zn2  1  0.50000  0.00000  0.75000  1

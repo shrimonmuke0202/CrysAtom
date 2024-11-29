@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_CrO3
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       5.03409
+_cell_length_b       5.63449
+_cell_length_c       7.89802
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  CrO3
+_chemical_formula_sum  Cr4O2
+_cell_volume  224.02394587045592
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cr  Cr1  1  0.55995  0.26346  0.31129  1
+ Cr  Cr2  1  0.05995  0.23654  0.81129  1
+ Cr  Cr3  1  0.94005  0.76346  0.31129  1
+ Cr  Cr4  1  0.44005  0.73654  0.81129  1
+ O  O1  1  0.87704  0.19856  0.64927  1
+ O  O2  1  0.31655  0.03032  0.81129  1
+ O  O3  1  0.37700  0.30144  0.47330  1
+ O  O4  1  0.87700  0.19856  0.97330  1
+ O  O5  1  0.81655  0.46968  0.31129  1
+ O  O6  1  0.37704  0.30144  0.14927  1
+ O  O7  1  0.62296  0.69856  0.64927  1
+ O  O8  1  0.18345  0.53032  0.81129  1
+ O  O9  1  0.12300  0.80144  0.47330  1
+ O  O10  1  0.62300  0.69856  0.97330  1
+ O  O11  1  0.68345  0.96968  0.31129  1
+ O  O12  1  0.12296  0.80144  0.14927  1

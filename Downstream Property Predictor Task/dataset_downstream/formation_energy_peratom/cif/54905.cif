@@ -1,0 +1,41 @@
+CIF file written using JARVIS-Tools package.
+data_Nd2H5
+_symmetry_space_group_name_H-M  'I4_1/amd'
+_cell_length_a       6.69285
+_cell_length_b       6.69285
+_cell_length_c       6.69284
+_cell_angle_alpha    132.138
+_cell_angle_beta     132.138
+_cell_angle_gamma    70.0103
+
+_symmetry_Int_Tables_number  141
+_chemical_formula_structural  Nd2H5
+_chemical_formula_sum  Nd4H0
+_cell_volume  161.61946042554234
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ H  H1  1  0.37500  0.35484  0.47984  1
+ H  H2  1  0.87500  0.89516  0.52016  1
+ H  H3  1  0.64516  0.12500  0.02016  1
+ H  H4  1  0.10484  0.62500  0.97984  1
+ H  H5  1  0.37500  0.89516  0.02016  1
+ H  H6  1  0.87500  0.35484  0.97984  1
+ H  H7  1  0.64516  0.62500  0.52016  1
+ H  H8  1  0.10484  0.12500  0.47984  1
+ H  H9  1  0.25000  0.75000  0.50000  1
+ H  H10  1  0.50000  0.50000  0.00000  1
+ Nd  Nd1  1  0.49596  0.99596  0.50000  1
+ Nd  Nd2  1  0.74596  0.74596  0.00000  1
+ Nd  Nd3  1  0.00404  0.50404  0.50000  1
+ Nd  Nd4  1  0.25404  0.25404  -0.00000  1

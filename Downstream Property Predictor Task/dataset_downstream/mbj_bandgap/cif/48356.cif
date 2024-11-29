@@ -1,0 +1,33 @@
+CIF file written using JARVIS-Tools package.
+data_TmAlCu
+_symmetry_space_group_name_H-M  'Imma'
+_cell_length_a       5.29994
+_cell_length_b       5.29994
+_cell_length_c       5.29994
+_cell_angle_alpha    119.265
+_cell_angle_beta     118.629
+_cell_angle_gamma    91.8341
+
+_symmetry_Int_Tables_number  74
+_chemical_formula_structural  TmAlCu
+_chemical_formula_sum  Tm2Al2Cu2
+_cell_volume  106.88000150466596
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Al  Al1  1  0.00000  0.50000  0.50000  1
+ Al  Al2  1  0.50000  0.50000  0.00000  1
+ Cu  Cu1  1  0.50000  0.00000  0.00000  1
+ Cu  Cu2  1  0.50000  0.50000  0.50000  1
+ Tm  Tm1  1  0.12777  0.87777  0.25000  1
+ Tm  Tm2  1  0.87223  0.12223  0.75000  1

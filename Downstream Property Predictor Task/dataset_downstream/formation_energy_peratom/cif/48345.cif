@@ -1,0 +1,55 @@
+CIF file written using JARVIS-Tools package.
+data_BaAlF5
+_symmetry_space_group_name_H-M  'P2_12_12_1'
+_cell_length_a       4.88363
+_cell_length_b       5.67106
+_cell_length_c       13.8192
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  19
+_chemical_formula_structural  BaAlF5
+_chemical_formula_sum  Ba4Al4F20
+_cell_volume  382.72682339907635
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Al  Al1  1  0.67560  0.35251  0.41619  1
+ Al  Al2  1  0.17560  0.14749  0.58381  1
+ Al  Al3  1  0.32440  0.85251  0.08381  1
+ Al  Al4  1  0.82440  0.64749  0.91619  1
+ Ba  Ba1  1  0.27247  0.84178  0.34164  1
+ Ba  Ba2  1  0.77247  0.65822  0.65836  1
+ Ba  Ba3  1  0.72753  0.34178  0.15836  1
+ Ba  Ba4  1  0.22753  0.15822  0.84164  1
+ F  F1  1  0.61464  0.85013  0.16775  1
+ F  F2  1  0.29903  0.40117  0.64978  1
+ F  F3  1  0.38536  0.35013  0.33225  1
+ F  F4  1  0.47296  0.15295  0.49890  1
+ F  F5  1  0.52704  0.65295  0.00110  1
+ F  F6  1  0.97296  0.34705  0.50110  1
+ F  F7  1  0.11464  0.64987  0.83225  1
+ F  F8  1  0.02704  0.84705  -0.00110  1
+ F  F9  1  0.88536  0.14987  0.66775  1
+ F  F10  1  0.70097  0.90117  0.85022  1
+ F  F11  1  0.84265  0.55470  0.33312  1
+ F  F12  1  0.54244  0.60019  0.48167  1
+ F  F13  1  0.45756  0.10019  0.01833  1
+ F  F14  1  0.34265  0.94530  0.66688  1
+ F  F15  1  0.20097  0.59883  0.14978  1
+ F  F16  1  0.65735  0.44530  0.83312  1
+ F  F17  1  0.15735  0.05470  0.16688  1
+ F  F18  1  0.04244  0.89981  0.51833  1
+ F  F19  1  0.95756  0.39981  0.98167  1
+ F  F20  1  0.79903  0.09883  0.35022  1

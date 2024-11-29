@@ -1,0 +1,53 @@
+CIF file written using JARVIS-Tools package.
+data_K3SrPCO7
+_symmetry_space_group_name_H-M  'P2_1/m'
+_cell_length_a       5.61955
+_cell_length_b       7.45443
+_cell_length_c       10.0361
+_cell_angle_alpha    90
+_cell_angle_beta     90.9507
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  11
+_chemical_formula_structural  K3SrPCO7
+_chemical_formula_sum  K6Sr2P2C2O4
+_cell_volume  420.36236599259314
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ C  C1  1  0.74787  0.75000  0.07430  1
+ C  C2  1  0.25213  0.25000  0.92570  1
+ K  K1  1  0.75789  0.25000  0.08203  1
+ K  K2  1  0.25190  0.00233  0.24903  1
+ K  K3  1  0.25190  0.49767  0.24903  1
+ K  K4  1  0.74810  0.50233  0.75097  1
+ K  K5  1  0.74810  0.99767  0.75097  1
+ K  K6  1  0.24211  0.75000  0.91797  1
+ O  O1  1  0.04640  0.25000  0.86384  1
+ O  O2  1  0.95360  0.75000  0.13616  1
+ O  O3  1  0.55337  0.75000  0.14359  1
+ O  O4  1  0.78884  0.08032  0.33340  1
+ O  O5  1  0.78884  0.41968  0.33340  1
+ O  O6  1  0.26311  0.25000  0.05490  1
+ O  O7  1  0.20808  0.75000  0.44318  1
+ O  O8  1  0.79192  0.25000  0.55682  1
+ O  O9  1  0.44663  0.25000  0.85641  1
+ O  O10  1  0.21116  0.58032  0.66660  1
+ O  O11  1  0.21116  0.91968  0.66660  1
+ O  O12  1  0.42415  0.25000  0.40887  1
+ O  O13  1  0.57585  0.75000  0.59113  1
+ O  O14  1  0.73689  0.75000  0.94510  1
+ P  P1  1  0.70150  0.25000  0.40891  1
+ P  P2  1  0.29850  0.75000  0.59109  1
+ Sr  Sr1  1  0.22625  0.25000  0.62185  1
+ Sr  Sr2  1  0.77375  0.75000  0.37815  1

@@ -1,0 +1,55 @@
+CIF file written using JARVIS-Tools package.
+data_BaNaVS4
+_symmetry_space_group_name_H-M  'P2_1/c'
+_cell_length_a       9.42896
+_cell_length_b       6.50987
+_cell_length_c       12.1887
+_cell_angle_alpha    70.2849
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  14
+_chemical_formula_structural  BaNaVS4
+_chemical_formula_sum  Ba4Na4V4S6
+_cell_volume  704.300388370506
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ba  Ba1  1  0.88211  0.37710  0.34454  1
+ Ba  Ba2  1  0.61789  0.37710  0.84454  1
+ Ba  Ba3  1  0.11789  0.62290  0.65546  1
+ Ba  Ba4  1  0.38211  0.62290  0.15546  1
+ Na  Na1  1  0.12144  0.22639  0.02207  1
+ Na  Na2  1  0.37856  0.22639  0.52207  1
+ Na  Na3  1  0.87856  0.77361  0.97793  1
+ Na  Na4  1  0.62144  0.77361  0.47793  1
+ S  S1  1  0.70572  0.31941  0.59162  1
+ S  S2  1  0.56787  0.82029  0.92472  1
+ S  S3  1  0.93213  0.82029  0.42472  1
+ S  S4  1  0.79428  0.31941  0.09162  1
+ S  S5  1  0.20572  0.68059  0.90838  1
+ S  S6  1  0.83063  0.78177  0.73349  1
+ S  S7  1  0.43213  0.17971  0.07528  1
+ S  S8  1  0.29428  0.68059  0.40838  1
+ S  S9  1  0.56441  0.20903  0.33594  1
+ S  S10  1  0.16937  0.21823  0.26651  1
+ S  S11  1  0.43559  0.79097  0.66406  1
+ S  S12  1  0.06441  0.79097  0.16406  1
+ S  S13  1  0.06787  0.17971  0.57528  1
+ S  S14  1  0.33063  0.21823  0.76651  1
+ S  S15  1  0.93559  0.20903  0.83594  1
+ S  S16  1  0.66937  0.78177  0.23349  1
+ V  V1  1  0.61743  0.12091  0.18372  1
+ V  V2  1  0.88257  0.12091  0.68372  1
+ V  V3  1  0.38257  0.87909  0.81628  1
+ V  V4  1  0.11743  0.87909  0.31628  1

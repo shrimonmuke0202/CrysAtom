@@ -1,0 +1,54 @@
+CIF file written using JARVIS-Tools package.
+data_Ba2Ru7O18
+_symmetry_space_group_name_H-M  'P-1'
+_cell_length_a       6.79378
+_cell_length_b       7.16977
+_cell_length_c       7.57358
+_cell_angle_alpha    93.3555
+_cell_angle_beta     94.7447
+_cell_angle_gamma    115.613
+
+_symmetry_Int_Tables_number  2
+_chemical_formula_structural  Ba2Ru7O18
+_chemical_formula_sum  Ba2Ru7O8
+_cell_volume  329.6863950115223
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ba  Ba1  1  0.31777  0.68554  0.62392  1
+ Ba  Ba2  1  0.68223  0.31446  0.37608  1
+ O  O1  1  0.91838  0.73028  0.58091  1
+ O  O2  1  0.28506  0.16766  0.11468  1
+ O  O3  1  0.32269  0.51230  0.98489  1
+ O  O4  1  0.47457  0.55811  0.30630  1
+ O  O5  1  0.27542  0.99987  0.42975  1
+ O  O6  1  0.90617  0.40022  0.73056  1
+ O  O7  1  0.71494  0.83234  0.88532  1
+ O  O8  1  0.49121  0.91072  0.16556  1
+ O  O9  1  0.67731  0.48770  0.01511  1
+ O  O10  1  0.09506  0.13073  0.75062  1
+ O  O11  1  0.72458  0.00013  0.57025  1
+ O  O12  1  0.09383  0.59978  0.26944  1
+ O  O13  1  0.90494  0.86927  0.24938  1
+ O  O14  1  0.08477  0.76705  0.94983  1
+ O  O15  1  0.50879  0.08928  0.83444  1
+ O  O16  1  0.08162  0.26972  0.41909  1
+ O  O17  1  0.91523  0.23295  0.05017  1
+ O  O18  1  0.52543  0.44189  0.69370  1
+ Ru  Ru1  1  0.19939  0.87469  0.18462  1
+ Ru  Ru2  1  0.38625  0.27507  0.88451  1
+ Ru  Ru3  1  0.80061  0.12531  0.81538  1
+ Ru  Ru4  1  0.17443  0.38077  0.19925  1
+ Ru  Ru5  1  0.61375  0.72493  0.11549  1
+ Ru  Ru6  1  0.00000  0.00000  0.50000  1
+ Ru  Ru7  1  0.82557  0.61923  0.80075  1

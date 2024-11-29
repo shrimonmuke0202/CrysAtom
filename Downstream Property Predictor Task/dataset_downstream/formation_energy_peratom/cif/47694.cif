@@ -1,0 +1,47 @@
+CIF file written using JARVIS-Tools package.
+data_NaSm2IrO6
+_symmetry_space_group_name_H-M  'P2_1/c'
+_cell_length_a       5.46601
+_cell_length_b       5.94563
+_cell_length_c       9.47809
+_cell_angle_alpha    90
+_cell_angle_beta     123.882
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  14
+_chemical_formula_structural  NaSm2IrO6
+_chemical_formula_sum  Na2Sm4Ir2O2
+_cell_volume  255.71901453314578
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ir  Ir1  1  0.50000  0.50000  0.00000  1
+ Ir  Ir2  1  0.50000  0.00000  0.50000  1
+ Na  Na1  1  0.00000  0.50000  0.50000  1
+ Na  Na2  1  0.00000  0.00000  0.00000  1
+ O  O1  1  0.72967  0.71324  0.56986  1
+ O  O2  1  0.14284  0.67438  0.94419  1
+ O  O3  1  0.27033  0.28676  0.43014  1
+ O  O4  1  0.72967  0.78676  0.06986  1
+ O  O5  1  0.27033  0.21324  0.93014  1
+ O  O6  1  0.39407  0.55133  0.76542  1
+ O  O7  1  0.39407  0.94867  0.26542  1
+ O  O8  1  0.85716  0.32562  0.05581  1
+ O  O9  1  0.60593  0.05133  0.73458  1
+ O  O10  1  0.14284  0.82562  0.44419  1
+ O  O11  1  0.60593  0.44867  0.23458  1
+ O  O12  1  0.85716  0.17438  0.55581  1
+ Sm  Sm1  1  0.22177  0.92134  0.74650  1
+ Sm  Sm2  1  0.77823  0.42134  0.75350  1
+ Sm  Sm3  1  0.22177  0.57866  0.24650  1
+ Sm  Sm4  1  0.77823  0.07866  0.25350  1

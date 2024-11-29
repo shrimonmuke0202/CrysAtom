@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_Sn4TeSe3
+_symmetry_space_group_name_H-M  'Pm'
+_cell_length_a       4.27716
+_cell_length_b       4.63979
+_cell_length_c       11.8947
+_cell_angle_alpha    89.9155
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  6
+_chemical_formula_structural  Sn4TeSe3
+_chemical_formula_sum  Sn4TeSe3
+_cell_volume  236.05173987898715
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Se  Se1  1  0.50000  0.52921  0.85794  1
+ Se  Se2  1  0.50000  0.98050  0.35013  1
+ Se  Se3  1  0.00000  0.48643  0.14166  1
+ Sn  Sn1  1  0.50000  0.57686  0.62438  1
+ Sn  Sn2  1  0.50000  0.88503  0.12015  1
+ Sn  Sn3  1  0.00000  0.37918  0.37344  1
+ Sn  Sn4  1  0.00000  0.13743  0.89080  1
+ Te  Te1  1  0.00000  0.02536  0.64151  1

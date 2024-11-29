@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_FeMoP
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       3.69048
+_cell_length_b       5.90131
+_cell_length_c       6.7239
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  FeMoP
+_chemical_formula_sum  Fe4Mo4P4
+_cell_volume  146.43736824646467
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Fe  Fe1  1  0.25000  0.85988  0.93687  1
+ Fe  Fe2  1  0.25000  0.35988  0.56313  1
+ Fe  Fe3  1  0.75000  0.14012  0.06313  1
+ Fe  Fe4  1  0.75000  0.64012  0.43687  1
+ Mo  Mo1  1  0.25000  0.97262  0.32711  1
+ Mo  Mo2  1  0.25000  0.47262  0.17289  1
+ Mo  Mo3  1  0.75000  0.02738  0.67289  1
+ Mo  Mo4  1  0.75000  0.52738  0.82711  1
+ P  P1  1  0.25000  0.23027  0.87973  1
+ P  P2  1  0.25000  0.73027  0.62027  1
+ P  P3  1  0.75000  0.76973  0.12027  1
+ P  P4  1  0.75000  0.26973  0.37973  1

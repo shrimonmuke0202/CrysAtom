@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_H6PbCI3N
+_symmetry_space_group_name_H-M  'Pm'
+_cell_length_a       6.35541
+_cell_length_b       6.29064
+_cell_length_c       6.38901
+_cell_angle_alpha    90.0036
+_cell_angle_beta     88.2716
+_cell_angle_gamma    89.9972
+
+_symmetry_Int_Tables_number  6
+_chemical_formula_structural  H6PbCI3N
+_chemical_formula_sum  H6PbCI3N
+_cell_volume  255.31393032350942
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ C  C1  1  0.39275  0.49993  0.44687  1
+ H  H1  1  0.42350  0.49986  0.27705  1
+ H  H2  1  0.30516  0.64330  0.49404  1
+ H  H3  1  0.30514  0.35663  0.49415  1
+ H  H4  1  0.68881  0.63401  0.51360  1
+ H  H5  1  0.68880  0.36586  0.51369  1
+ H  H6  1  0.58165  0.50003  0.71544  1
+ I  I1  1  0.91163  0.99994  0.47939  1
+ I  I2  1  0.92274  0.49990  0.01755  1
+ I  I3  1  0.44142  0.99986  0.93998  1
+ N  N1  1  0.59945  0.49996  0.55352  1
+ Pb  Pb1  1  0.95474  0.99991  0.98187  1

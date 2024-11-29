@@ -1,0 +1,41 @@
+CIF file written using JARVIS-Tools package.
+data_Mg2Cr3CoS8
+_symmetry_space_group_name_H-M  'R-3m'
+_cell_length_a       7.1224
+_cell_length_b       7.12238
+_cell_length_c       7.12241
+_cell_angle_alpha    60.1064
+_cell_angle_beta     60.1057
+_cell_angle_gamma    60.1065
+
+_symmetry_Int_Tables_number  166
+_chemical_formula_structural  Mg2Cr3CoS8
+_chemical_formula_sum  Mg2Cr3CoS8
+_cell_volume  256.09859208587136
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Co  Co1  1  0.50000  0.50000  0.49999  1
+ Cr  Cr1  1  0.50000  0.50000  1.00000  1
+ Cr  Cr2  1  1.00000  0.49999  0.50001  1
+ Cr  Cr3  1  0.50001  1.00000  0.50000  1
+ Mg  Mg1  1  0.87485  0.87485  0.87484  1
+ Mg  Mg2  1  0.12516  0.12515  0.12516  1
+ S  S1  1  0.73729  0.73729  0.73729  1
+ S  S2  1  0.26965  0.26965  0.70733  1
+ S  S3  1  0.26965  0.70733  0.26966  1
+ S  S4  1  0.70733  0.26966  0.26964  1
+ S  S5  1  0.73034  0.29268  0.73035  1
+ S  S6  1  0.29267  0.73035  0.73034  1
+ S  S7  1  0.26272  0.26271  0.26272  1
+ S  S8  1  0.73035  0.73034  0.29267  1

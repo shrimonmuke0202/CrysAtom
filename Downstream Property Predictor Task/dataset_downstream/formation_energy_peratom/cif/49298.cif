@@ -1,0 +1,51 @@
+CIF file written using JARVIS-Tools package.
+data_KTmMo2O8
+_symmetry_space_group_name_H-M  'C2/c'
+_cell_length_a       7.33985
+_cell_length_b       7.33985
+_cell_length_c       7.66394
+_cell_angle_alpha    61.7552
+_cell_angle_beta     61.7553
+_cell_angle_gamma    87.8044
+
+_symmetry_Int_Tables_number  15
+_chemical_formula_structural  KTmMo2O8
+_chemical_formula_sum  K2Tm2Mo4O6
+_cell_volume  311.1122712150276
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ K  K1  1  0.19619  0.80381  0.75000  1
+ K  K2  1  0.80381  0.19619  0.25000  1
+ Mo  Mo1  1  0.69465  0.70052  0.75804  1
+ Mo  Mo2  1  0.30535  0.29948  0.24196  1
+ Mo  Mo3  1  0.29948  0.30535  0.74196  1
+ Mo  Mo4  1  0.70052  0.69465  0.25804  1
+ O  O1  1  0.60842  0.77610  0.55981  1
+ O  O2  1  0.39158  0.22390  0.44019  1
+ O  O3  1  0.22390  0.39158  0.94019  1
+ O  O4  1  0.04483  0.20057  0.80915  1
+ O  O5  1  0.38710  0.06947  0.87853  1
+ O  O6  1  0.61290  0.93053  0.12147  1
+ O  O7  1  0.77610  0.60842  0.05981  1
+ O  O8  1  0.06947  0.38710  0.37853  1
+ O  O9  1  0.63482  0.41601  0.53013  1
+ O  O10  1  0.41601  0.63482  0.03013  1
+ O  O11  1  0.93053  0.61290  0.62147  1
+ O  O12  1  0.36518  0.58399  0.46987  1
+ O  O13  1  0.79943  0.95517  0.69085  1
+ O  O14  1  0.20057  0.04483  0.30915  1
+ O  O15  1  0.58399  0.36518  0.96987  1
+ O  O16  1  0.95517  0.79943  0.19085  1
+ Tm  Tm1  1  0.22995  0.77005  0.25000  1
+ Tm  Tm2  1  0.77005  0.22995  0.75000  1

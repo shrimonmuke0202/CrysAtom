@@ -1,0 +1,49 @@
+CIF file written using JARVIS-Tools package.
+data_Sm4Br6O
+_symmetry_space_group_name_H-M  'P6_3mc'
+_cell_length_a       9.39619
+_cell_length_b       9.39619
+_cell_length_c       7.64217
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_symmetry_Int_Tables_number  186
+_chemical_formula_structural  Sm4Br6O
+_chemical_formula_sum  Sm8Br2O2
+_cell_volume  584.3201961882238
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Br  Br1  1  0.86531  0.73062  0.87771  1
+ Br  Br2  1  0.95620  0.47810  0.19229  1
+ Br  Br3  1  0.26938  0.13469  0.87771  1
+ Br  Br4  1  0.04380  0.52190  0.69229  1
+ Br  Br5  1  0.52190  0.47810  0.19229  1
+ Br  Br6  1  0.13469  0.86531  0.37771  1
+ Br  Br7  1  0.13469  0.26938  0.37771  1
+ Br  Br8  1  0.86531  0.13469  0.87771  1
+ Br  Br9  1  0.52190  0.04380  0.19229  1
+ Br  Br10  1  0.47810  0.52190  0.69229  1
+ Br  Br11  1  0.47810  0.95620  0.69229  1
+ Br  Br12  1  0.73062  0.86531  0.37771  1
+ O  O1  1  0.33333  0.66667  0.01449  1
+ O  O2  1  0.66667  0.33333  0.51449  1
+ Sm  Sm1  1  0.60814  0.80407  -0.00256  1
+ Sm  Sm2  1  0.33333  0.66667  0.32838  1
+ Sm  Sm3  1  0.39186  0.19593  0.49744  1
+ Sm  Sm4  1  0.80407  0.60814  0.49744  1
+ Sm  Sm5  1  0.66667  0.33333  0.82838  1
+ Sm  Sm6  1  0.80407  0.19593  0.49744  1
+ Sm  Sm7  1  0.19593  0.80407  -0.00256  1
+ Sm  Sm8  1  0.19593  0.39186  -0.00256  1

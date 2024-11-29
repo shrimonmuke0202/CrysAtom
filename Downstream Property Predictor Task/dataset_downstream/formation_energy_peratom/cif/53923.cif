@@ -1,0 +1,45 @@
+CIF file written using JARVIS-Tools package.
+data_TaSi4Mo
+_symmetry_space_group_name_H-M  'P2'
+_cell_length_a       13.1513
+_cell_length_b       4.73384
+_cell_length_c       4.75312
+_cell_angle_alpha    60.321
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  3
+_chemical_formula_structural  TaSi4Mo
+_chemical_formula_sum  Ta3Si2Mo3
+_cell_volume  257.09163913886476
+_cell_formula_units_Z  3
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Mo  Mo1  1  0.75083  -0.00000  0.50000  1
+ Mo  Mo2  1  0.91629  0.50000  -0.00000  1
+ Mo  Mo3  1  0.41642  0.50000  -0.00000  1
+ Si  Si1  1  0.91583  0.84201  0.32486  1
+ Si  Si2  1  0.41662  0.83784  0.32040  1
+ Si  Si3  1  0.75097  0.32320  0.84112  1
+ Si  Si4  1  0.25114  0.32108  0.84198  1
+ Si  Si5  1  0.58346  0.83820  0.83527  1
+ Si  Si6  1  0.08195  0.83568  0.84382  1
+ Si  Si7  1  0.91583  0.15799  0.67514  1
+ Si  Si8  1  0.75097  0.67680  0.15888  1
+ Si  Si9  1  0.25114  0.67892  0.15802  1
+ Si  Si10  1  0.58346  0.16180  0.16473  1
+ Si  Si11  1  0.08195  0.16432  0.15618  1
+ Si  Si12  1  0.41662  0.16216  0.67960  1
+ Ta  Ta1  1  0.08343  0.50000  0.50000  1
+ Ta  Ta2  1  0.58384  0.50000  0.50000  1
+ Ta  Ta3  1  0.24926  -0.00000  0.50000  1

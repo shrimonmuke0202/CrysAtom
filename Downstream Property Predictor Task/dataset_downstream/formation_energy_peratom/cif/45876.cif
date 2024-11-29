@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_Tl5Te3
+_symmetry_space_group_name_H-M  'I4/mcm'
+_cell_length_a       9.00323
+_cell_length_b       9.00324
+_cell_length_c       9.1167
+_cell_angle_alpha    119.589
+_cell_angle_beta     119.589
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  140
+_chemical_formula_structural  Tl5Te3
+_chemical_formula_sum  Tl0Te6
+_cell_volume  528.9629804888377
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Te  Te1  1  0.15742  0.34258  -0.00000  1
+ Te  Te2  1  0.65742  0.15742  -0.00000  1
+ Te  Te3  1  0.34258  0.84258  0.00000  1
+ Te  Te4  1  0.84258  0.65742  0.00000  1
+ Te  Te5  1  0.75000  0.75000  0.50000  1
+ Te  Te6  1  0.25000  0.25000  0.50000  1
+ Tl  Tl1  1  0.19436  0.99157  0.68593  1
+ Tl  Tl2  1  0.80564  0.00843  0.31407  1
+ Tl  Tl3  1  0.00000  0.00000  0.00000  1
+ Tl  Tl4  1  0.50000  0.50000  -0.00000  1
+ Tl  Tl5  1  0.49157  0.69436  0.68593  1
+ Tl  Tl6  1  0.99157  0.49157  0.68593  1
+ Tl  Tl7  1  0.69436  0.19436  0.68593  1
+ Tl  Tl8  1  0.30564  0.80564  0.31407  1
+ Tl  Tl9  1  0.00843  0.50843  0.31407  1
+ Tl  Tl10  1  0.50843  0.30564  0.31407  1

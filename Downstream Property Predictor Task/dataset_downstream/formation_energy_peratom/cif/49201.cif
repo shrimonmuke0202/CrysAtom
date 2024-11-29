@@ -1,0 +1,31 @@
+CIF file written using JARVIS-Tools package.
+data_MgAlO2
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       3.00422
+_cell_length_b       3.00422
+_cell_length_c       5.37773
+_cell_angle_alpha    89.4982
+_cell_angle_beta     89.4982
+_cell_angle_gamma    63.9023
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  MgAlO2
+_chemical_formula_sum  MgAlO2
+_cell_volume  43.58508719627616
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Al  Al1  1  0.00000  0.00000  0.00000  1
+ Mg  Mg1  1  0.50000  0.50000  0.50000  1
+ O  O1  1  0.15399  0.15399  0.70598  1
+ O  O2  1  0.84601  0.84601  0.29402  1

@@ -1,0 +1,47 @@
+CIF file written using JARVIS-Tools package.
+data_TbScO3
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       5.45588
+_cell_length_b       5.75765
+_cell_length_c       7.94073
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  TbScO3
+_chemical_formula_sum  Tb4Sc4O2
+_cell_volume  249.44241958792378
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ O  O1  1  0.87273  0.55371  0.25000  1
+ O  O2  1  0.69076  0.30610  0.56617  1
+ O  O3  1  0.62727  0.05371  0.25000  1
+ O  O4  1  0.80924  0.80610  0.93383  1
+ O  O5  1  0.30924  0.69390  0.06617  1
+ O  O6  1  0.19076  0.19390  0.43383  1
+ O  O7  1  0.80924  0.80610  0.56617  1
+ O  O8  1  0.19076  0.19390  0.06617  1
+ O  O9  1  0.69076  0.30610  0.93383  1
+ O  O10  1  0.12727  0.44629  0.75000  1
+ O  O11  1  0.37273  0.94629  0.75000  1
+ O  O12  1  0.30924  0.69390  0.43383  1
+ Sc  Sc1  1  0.00000  0.50000  0.00000  1
+ Sc  Sc2  1  0.50000  0.00000  0.00000  1
+ Sc  Sc3  1  0.50000  0.00000  0.50000  1
+ Sc  Sc4  1  0.00000  0.50000  0.50000  1
+ Tb  Tb1  1  0.01939  0.93632  0.25000  1
+ Tb  Tb2  1  0.51939  0.56368  0.75000  1
+ Tb  Tb3  1  0.48061  0.43632  0.25000  1
+ Tb  Tb4  1  0.98061  0.06368  0.75000  1

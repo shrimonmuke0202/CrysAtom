@@ -1,0 +1,31 @@
+CIF file written using JARVIS-Tools package.
+data_NaP
+_symmetry_space_group_name_H-M  'Imm2'
+_cell_length_a       5.61582
+_cell_length_b       3.38609
+_cell_length_c       5.51663
+_cell_angle_alpha    72.1535
+_cell_angle_beta     59.4669
+_cell_angle_gamma    90.0186
+
+_symmetry_Int_Tables_number  44
+_chemical_formula_structural  NaP
+_chemical_formula_sum  Na2P2
+_cell_volume  84.43675237886777
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Na  Na1  1  0.02565  0.05216  0.07835  1
+ Na  Na2  1  0.43254  0.45905  0.26488  1
+ P  P1  1  0.93359  0.75537  0.67156  1
+ P  P2  1  0.66309  0.25510  0.67181  1

@@ -1,0 +1,51 @@
+CIF file written using JARVIS-Tools package.
+data_LiMn2Si2O7
+_symmetry_space_group_name_H-M  'Cc'
+_cell_length_a       4.93787
+_cell_length_b       4.93788
+_cell_length_c       12.9684
+_cell_angle_alpha    92.3976
+_cell_angle_beta     87.6024
+_cell_angle_gamma    65.1994
+
+_symmetry_Int_Tables_number  9
+_chemical_formula_structural  LiMn2Si2O7
+_chemical_formula_sum  Li2Mn4Si4O4
+_cell_volume  286.17479423497156
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Li  Li1  1  0.33441  0.28639  0.91065  1
+ Li  Li2  1  0.71361  0.66559  0.41065  1
+ Mn  Mn1  1  0.02462  0.96437  0.25314  1
+ Mn  Mn2  1  0.03563  -0.02462  0.75314  1
+ Mn  Mn3  1  0.07026  0.93863  0.00947  1
+ Mn  Mn4  1  0.06137  0.92974  0.50947  1
+ O  O1  1  0.27949  0.65679  0.14014  1
+ O  O2  1  0.72125  0.28707  0.86330  1
+ O  O3  1  0.13117  0.66704  0.37596  1
+ O  O4  1  0.33296  0.86883  0.87596  1
+ O  O5  1  0.31254  0.19090  0.24860  1
+ O  O6  1  0.34321  0.72051  0.64014  1
+ O  O7  1  0.82993  0.72067  0.54344  1
+ O  O8  1  0.27933  0.17007  0.04344  1
+ O  O9  1  0.86542  0.22288  0.62679  1
+ O  O10  1  0.31960  0.08478  0.44435  1
+ O  O11  1  0.80910  0.68746  0.74860  1
+ O  O12  1  0.77712  0.13458  0.12679  1
+ O  O13  1  0.91522  0.68040  0.94435  1
+ O  O14  1  0.71293  0.27875  0.36330  1
+ Si  Si1  1  0.41076  0.29507  0.13570  1
+ Si  Si2  1  0.70493  0.58924  0.63570  1
+ Si  Si3  1  0.37058  0.30869  0.36648  1
+ Si  Si4  1  0.69131  0.62942  0.86648  1

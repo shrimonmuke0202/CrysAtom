@@ -1,0 +1,48 @@
+CIF file written using JARVIS-Tools package.
+data_Ce3Se2NO
+_symmetry_space_group_name_H-M  'Cm'
+_cell_length_a       12.4495
+_cell_length_b       12.4494
+_cell_length_c       9.34225
+_cell_angle_alpha    84.7315
+_cell_angle_beta     84.7315
+_cell_angle_gamma    18.5414
+
+_symmetry_Int_Tables_number  8
+_chemical_formula_structural  Ce3Se2NO
+_chemical_formula_sum  Ce9Se6N3O3
+_cell_volume  458.4337327808922
+_cell_formula_units_Z  3
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ce  Ce1  1  0.46172  0.46172  0.67889  1
+ Ce  Ce2  1  0.53907  0.53907  0.32046  1
+ Ce  Ce3  1  0.09005  0.09005  0.64925  1
+ Ce  Ce4  1  0.90770  0.90770  0.35104  1
+ Ce  Ce5  1  0.18763  0.18763  0.00806  1
+ Ce  Ce6  1  0.81272  0.81272  0.99181  1
+ Ce  Ce7  1  0.00035  0.00035  0.99515  1
+ Ce  Ce8  1  0.28014  0.28014  0.66231  1
+ Ce  Ce9  1  0.71977  0.71977  0.33810  1
+ N  N1  1  0.00133  0.00133  0.75582  1
+ N  N2  1  0.72369  0.72369  0.10035  1
+ N  N3  1  0.27703  0.27703  0.90018  1
+ O  O1  1  0.55260  0.55260  0.56323  1
+ O  O2  1  0.99854  0.99854  0.24672  1
+ O  O3  1  0.44740  0.44740  0.42907  1
+ Se  Se1  1  0.41195  0.41195  0.03457  1
+ Se  Se2  1  0.86736  0.86736  0.67120  1
+ Se  Se3  1  0.58883  0.58883  0.97420  1
+ Se  Se4  1  0.68940  0.68940  0.67617  1
+ Se  Se5  1  0.13232  0.13232  0.32705  1
+ Se  Se6  1  0.31043  0.31043  0.32636  1

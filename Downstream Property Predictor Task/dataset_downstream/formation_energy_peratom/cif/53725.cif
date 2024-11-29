@@ -1,0 +1,45 @@
+CIF file written using JARVIS-Tools package.
+data_K2AlOF5
+_symmetry_space_group_name_H-M  'Cmcm'
+_cell_length_a       5.96132
+_cell_length_b       5.96132
+_cell_length_c       7.45345
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    100.147
+
+_symmetry_Int_Tables_number  63
+_chemical_formula_structural  K2AlOF5
+_chemical_formula_sum  K4Al2O2F0
+_cell_volume  260.73310690153636
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Al  Al1  1  0.00000  0.00000  0.50000  1
+ Al  Al2  1  0.00000  0.00000  0.00000  1
+ F  F1  1  0.76327  0.76327  -0.00644  1
+ F  F2  1  -0.00510  -0.00510  0.25000  1
+ F  F3  1  0.80312  0.19688  0.00000  1
+ F  F4  1  0.19688  0.80312  0.50000  1
+ F  F5  1  0.80312  0.19688  0.50000  1
+ F  F6  1  0.23673  0.23673  0.49356  1
+ F  F7  1  0.76327  0.76327  0.50644  1
+ F  F8  1  0.00510  0.00510  0.75000  1
+ F  F9  1  0.19688  0.80312  0.00000  1
+ F  F10  1  0.23673  0.23673  0.00644  1
+ K  K1  1  0.49806  0.03340  0.25000  1
+ K  K2  1  0.96660  0.50194  0.75000  1
+ K  K3  1  0.50194  0.96660  0.75000  1
+ K  K4  1  0.03340  0.49806  0.25000  1
+ O  O1  1  0.44024  0.44024  0.75000  1
+ O  O2  1  0.55976  0.55976  0.25000  1

@@ -1,0 +1,32 @@
+CIF file written using JARVIS-Tools package.
+data_Na2CrN2
+_symmetry_space_group_name_H-M  'P-3m1'
+_cell_length_a       2.9614
+_cell_length_b       2.9614
+_cell_length_c       8.73556
+_cell_angle_alpha    90
+_cell_angle_beta     90.0505
+_cell_angle_gamma    120
+
+_symmetry_Int_Tables_number  164
+_chemical_formula_structural  Na2CrN2
+_chemical_formula_sum  Na2CrN2
+_cell_volume  66.34624802717885
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cr  Cr1  1  0.00000  0.00000  0.00000  1
+ N  N1  1  0.66617  0.33308  0.87978  1
+ N  N2  1  0.33383  0.66692  0.12022  1
+ Na  Na1  1  0.66777  0.33389  0.30254  1
+ Na  Na2  1  0.33223  0.66611  0.69746  1

@@ -1,0 +1,41 @@
+CIF file written using JARVIS-Tools package.
+data_Mg2Al3CrS8
+_symmetry_space_group_name_H-M  'R-3m'
+_cell_length_a       7.20151
+_cell_length_b       7.2252
+_cell_length_c       7.20167
+_cell_angle_alpha    60.1079
+_cell_angle_beta     59.9992
+_cell_angle_gamma    60.109
+
+_symmetry_Int_Tables_number  166
+_chemical_formula_structural  Mg2Al3CrS8
+_chemical_formula_sum  Mg2Al3CrS8
+_cell_volume  265.3983267634522
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Al  Al1  1  0.50000  0.50000  0.50000  1
+ Al  Al2  1  0.50000  0.50000  0.00000  1
+ Al  Al3  1  0.00000  0.50000  0.50000  1
+ Cr  Cr1  1  0.50000  1.00000  0.50000  1
+ Mg  Mg1  1  0.87428  0.87717  0.87428  1
+ Mg  Mg2  1  0.12572  0.12284  0.12572  1
+ S  S1  1  0.73771  0.73856  0.73771  1
+ S  S2  1  0.26229  0.26144  0.71398  1
+ S  S3  1  0.26174  0.71478  0.26174  1
+ S  S4  1  0.71398  0.26145  0.26229  1
+ S  S5  1  0.73826  0.28522  0.73826  1
+ S  S6  1  0.28602  0.73855  0.73771  1
+ S  S7  1  0.26229  0.26144  0.26230  1
+ S  S8  1  0.73771  0.73856  0.28603  1

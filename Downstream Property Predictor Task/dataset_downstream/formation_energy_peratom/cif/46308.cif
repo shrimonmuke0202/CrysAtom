@@ -1,0 +1,47 @@
+CIF file written using JARVIS-Tools package.
+data_Li2ScFeSi4O12
+_symmetry_space_group_name_H-M  'C2'
+_cell_length_a       6.51194
+_cell_length_b       6.51194
+_cell_length_c       5.33297
+_cell_angle_alpha    75.5005
+_cell_angle_beta     104.499
+_cell_angle_gamma    95.7542
+
+_symmetry_Int_Tables_number  5
+_chemical_formula_structural  Li2ScFeSi4O12
+_chemical_formula_sum  Li2ScFeSi4O2
+_cell_volume  211.80027451153606
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Fe  Fe1  1  0.90520  0.90520  0.25000  1
+ Li  Li1  1  0.74560  0.74560  0.75000  1
+ Li  Li2  1  0.24650  0.24650  0.25000  1
+ O  O1  1  0.02484  0.79113  0.63327  1
+ O  O2  1  0.79113  0.02484  0.86673  1
+ O  O3  1  0.11409  0.37409  0.84608  1
+ O  O4  1  0.35307  0.62735  0.54075  1
+ O  O5  1  0.20069  0.96213  0.16478  1
+ O  O6  1  0.36802  0.66435  0.03017  1
+ O  O7  1  0.62735  0.35307  0.95925  1
+ O  O8  1  0.66435  0.36802  0.46983  1
+ O  O9  1  0.63622  0.88756  0.34149  1
+ O  O10  1  0.88756  0.63622  0.15851  1
+ O  O11  1  0.37409  0.11409  0.65392  1
+ O  O12  1  0.96213  0.20069  0.33522  1
+ Sc  Sc1  1  0.09272  0.09272  0.75000  1
+ Si  Si1  1  0.79059  0.39453  0.23311  1
+ Si  Si2  1  0.61163  0.20968  0.74137  1
+ Si  Si3  1  0.39453  0.79059  0.26689  1
+ Si  Si4  1  0.20968  0.61163  0.75863  1

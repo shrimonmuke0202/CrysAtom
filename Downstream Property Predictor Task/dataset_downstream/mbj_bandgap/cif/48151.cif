@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_Te5Mo4S3
+_symmetry_space_group_name_H-M  'Pm'
+_cell_length_a       3.42019
+_cell_length_b       14.1199
+_cell_length_c       5.8796
+_cell_angle_alpha    92.3396
+_cell_angle_beta     90.0001
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  6
+_chemical_formula_structural  Te5Mo4S3
+_chemical_formula_sum  Te5Mo4S3
+_cell_volume  283.7050278575382
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Mo  Mo1  1  0.00000  0.24751  0.30144  1
+ Mo  Mo2  1  0.50000  0.75861  0.19058  1
+ Mo  Mo3  1  0.50000  0.24778  0.80217  1
+ Mo  Mo4  1  -0.00000  0.75683  0.70727  1
+ S  S1  1  0.50000  0.34975  0.14445  1
+ S  S2  1  -0.00000  0.14612  0.62459  1
+ S  S3  1  0.50000  0.86076  0.87339  1
+ Te  Te1  1  0.00000  0.62720  0.35186  1
+ Te  Te2  1  0.50000  0.11066  0.12111  1
+ Te  Te3  1  0.00000  0.89064  0.38172  1
+ Te  Te4  1  0.50000  0.62044  0.85274  1
+ Te  Te5  1  -0.00000  0.38372  0.64868  1

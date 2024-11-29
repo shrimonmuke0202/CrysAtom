@@ -1,0 +1,45 @@
+CIF file written using JARVIS-Tools package.
+data_BaSr2I6
+_symmetry_space_group_name_H-M  'C2/c'
+_cell_length_a       12.7079
+_cell_length_b       12.7079
+_cell_length_c       8.24827
+_cell_angle_alpha    81.023
+_cell_angle_beta     81.023
+_cell_angle_gamma    37.3315
+
+_symmetry_Int_Tables_number  15
+_chemical_formula_structural  BaSr2I6
+_chemical_formula_sum  Ba2Sr4I2
+_cell_volume  796.7425865059206
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ba  Ba1  1  0.75308  0.24692  0.25000  1
+ Ba  Ba2  1  0.24692  0.75308  0.75000  1
+ I  I1  1  0.35570  0.49678  0.11071  1
+ I  I2  1  0.49678  0.35570  0.61071  1
+ I  I3  1  0.50322  0.64430  0.38929  1
+ I  I4  1  0.84578  0.97023  0.98766  1
+ I  I5  1  0.97023  0.84578  0.48766  1
+ I  I6  1  0.26028  0.27584  0.98269  1
+ I  I7  1  0.73972  0.72416  0.01731  1
+ I  I8  1  0.72416  0.73972  0.51731  1
+ I  I9  1  0.15422  0.02977  0.01234  1
+ I  I10  1  0.02977  0.15422  0.51234  1
+ I  I11  1  0.27584  0.26028  0.48269  1
+ I  I12  1  0.64430  0.50322  0.88929  1
+ Sr  Sr1  1  0.98173  0.37300  0.76928  1
+ Sr  Sr2  1  0.37300  0.98173  0.26928  1
+ Sr  Sr3  1  0.62700  0.01827  0.73072  1
+ Sr  Sr4  1  0.01827  0.62700  0.23072  1

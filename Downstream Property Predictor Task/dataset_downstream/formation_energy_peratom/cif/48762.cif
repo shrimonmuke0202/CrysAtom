@@ -1,0 +1,33 @@
+CIF file written using JARVIS-Tools package.
+data_LiCoF4
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       4.50724
+_cell_length_b       4.50724
+_cell_length_c       3.06007
+_cell_angle_alpha    92.0386
+_cell_angle_beta     92.0386
+_cell_angle_gamma    87.0392
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  LiCoF4
+_chemical_formula_sum  LiCoF4
+_cell_volume  62.00821840989653
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Co  Co1  1  0.00000  0.00000  0.00000  1
+ F  F1  1  0.29084  0.70916  0.00000  1
+ F  F2  1  0.80924  0.80924  0.52343  1
+ F  F3  1  0.19076  0.19076  0.47657  1
+ F  F4  1  0.70916  0.29084  0.00000  1
+ Li  Li1  1  0.50000  0.50000  0.50000  1

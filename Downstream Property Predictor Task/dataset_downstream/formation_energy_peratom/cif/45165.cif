@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_TiZnSiO5
+_symmetry_space_group_name_H-M  'Cc'
+_cell_length_a       5.43
+_cell_length_b       5.43001
+_cell_length_c       7.32651
+_cell_angle_alpha    106.692
+_cell_angle_beta     106.697
+_cell_angle_gamma    97.7241
+
+_symmetry_Int_Tables_number  9
+_chemical_formula_structural  TiZnSiO5
+_chemical_formula_sum  Ti2Zn2Si2O0
+_cell_volume  192.5753863624135
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ O  O1  1  0.27255  0.32189  0.08601  1
+ O  O2  1  0.13556  0.18696  0.37123  1
+ O  O3  1  0.68497  0.63797  0.87131  1
+ O  O4  1  0.82006  0.77493  0.58610  1
+ O  O5  1  0.32406  0.73758  0.58425  1
+ O  O6  1  0.69661  0.14129  0.86692  1
+ O  O7  1  0.63909  0.19892  0.36713  1
+ O  O8  1  0.23574  0.82606  0.08457  1
+ O  O9  1  0.06989  0.39649  0.73189  1
+ O  O10  1  0.89402  0.57192  0.23178  1
+ Si  Si1  1  0.32529  0.13740  0.23090  1
+ Si  Si2  1  0.63533  0.82749  0.73080  1
+ Ti  Ti1  1  0.00650  0.49368  0.50638  1
+ Ti  Ti2  1  0.99151  0.50862  0.00640  1
+ Zn  Zn1  1  0.82290  0.91252  0.35558  1
+ Zn  Zn2  1  0.41045  0.32531  0.85573  1

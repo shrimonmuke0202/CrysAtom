@@ -1,0 +1,51 @@
+CIF file written using JARVIS-Tools package.
+data_InPt2
+_symmetry_space_group_name_H-M  'P2/m'
+_cell_length_a       4.14599
+_cell_length_b       5.75551
+_cell_length_c       17.2792
+_cell_angle_alpha    87.4044
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  10
+_chemical_formula_structural  InPt2
+_chemical_formula_sum  In8Pt6
+_cell_volume  411.89761598599694
+_cell_formula_units_Z  8
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ In  In1  1  0.50000  0.70449  0.23843  1
+ In  In2  1  0.50000  0.72534  0.57496  1
+ In  In3  1  0.50000  0.76027  0.91613  1
+ In  In4  1  0.50000  0.23973  0.08387  1
+ In  In5  1  0.50000  0.27466  0.42504  1
+ In  In6  1  0.50000  0.29551  0.76157  1
+ In  In7  1  0.00000  0.99007  0.33080  1
+ In  In8  1  0.00000  0.00993  0.66920  1
+ Pt  Pt1  1  0.00000  0.97812  0.16771  1
+ Pt  Pt2  1  0.00000  0.00000  0.50000  1
+ Pt  Pt3  1  0.00000  0.02188  0.83229  1
+ Pt  Pt4  1  0.50000  0.78195  0.74512  1
+ Pt  Pt5  1  0.00000  0.48955  0.33312  1
+ Pt  Pt6  1  0.00000  0.51045  0.66688  1
+ Pt  Pt7  1  0.00000  0.50000  0.00000  1
+ Pt  Pt8  1  0.50000  0.23077  0.59084  1
+ Pt  Pt9  1  0.00000  0.52672  0.83545  1
+ Pt  Pt10  1  0.50000  0.21805  0.25488  1
+ Pt  Pt11  1  0.00000  0.47328  0.16455  1
+ Pt  Pt12  1  0.50000  0.25571  0.92067  1
+ Pt  Pt13  1  0.50000  0.74429  0.07933  1
+ Pt  Pt14  1  0.50000  0.76923  0.40916  1
+ Pt  Pt15  1  0.00000  0.50000  0.50000  1
+ Pt  Pt16  1  0.00000  0.00000  0.00000  1

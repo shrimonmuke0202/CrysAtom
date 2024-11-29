@@ -1,0 +1,63 @@
+CIF file written using JARVIS-Tools package.
+data_TlSnF7
+_symmetry_space_group_name_H-M  'P2_1/c'
+_cell_length_a       8.75378
+_cell_length_b       5.40909
+_cell_length_c       12.1176
+_cell_angle_alpha    90
+_cell_angle_beta     117.476
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  14
+_chemical_formula_structural  TlSnF7
+_chemical_formula_sum  Tl4Sn4F28
+_cell_volume  509.04855412879226
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ F  F1  1  0.95705  0.11592  0.77206  1
+ F  F2  1  0.98526  0.25341  0.54758  1
+ F  F3  1  0.47444  0.17389  0.37581  1
+ F  F4  1  0.52556  0.82611  0.62419  1
+ F  F5  1  0.47444  0.32611  0.87581  1
+ F  F6  1  0.04295  0.88408  0.22794  1
+ F  F7  1  0.52556  0.67389  0.12419  1
+ F  F8  1  0.29726  0.03527  0.14448  1
+ F  F9  1  0.70228  0.42778  0.58840  1
+ F  F10  1  0.29772  0.57222  0.41160  1
+ F  F11  1  0.70228  0.07222  0.08840  1
+ F  F12  1  0.75553  0.59176  0.04374  1
+ F  F13  1  0.24447  0.09176  0.45626  1
+ F  F14  1  0.24447  0.40824  0.95626  1
+ F  F15  1  0.75553  0.90824  0.54374  1
+ F  F16  1  0.29772  0.92778  0.91160  1
+ F  F17  1  0.04295  0.61592  0.72794  1
+ F  F18  1  0.95705  0.38408  0.27206  1
+ F  F19  1  0.98526  0.24659  0.04758  1
+ F  F20  1  0.01474  0.75341  0.95242  1
+ F  F21  1  0.72849  0.04895  0.31383  1
+ F  F22  1  0.27151  0.54895  0.18617  1
+ F  F23  1  0.27151  0.95105  0.68617  1
+ F  F24  1  0.01474  0.74659  0.45242  1
+ F  F25  1  0.29726  0.46473  0.64448  1
+ F  F26  1  0.70274  0.53527  0.35552  1
+ F  F27  1  0.70274  0.96473  0.85552  1
+ F  F28  1  0.72849  0.45105  0.81383  1
+ Sn  Sn1  1  0.72872  0.26463  0.95856  1
+ Sn  Sn2  1  0.27128  0.76463  0.54144  1
+ Sn  Sn3  1  0.27128  0.73537  0.04144  1
+ Sn  Sn4  1  0.72872  0.23537  0.45856  1
+ Tl  Tl1  1  0.81364  0.73763  0.23671  1
+ Tl  Tl2  1  0.18636  0.23763  0.26329  1
+ Tl  Tl3  1  0.18636  0.26237  0.76329  1
+ Tl  Tl4  1  0.81364  0.76237  0.73671  1

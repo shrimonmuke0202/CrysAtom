@@ -1,0 +1,51 @@
+CIF file written using JARVIS-Tools package.
+data_Ba2NaNi3O6
+_symmetry_space_group_name_H-M  'Fmmm'
+_cell_length_a       7.00292
+_cell_length_b       7.00292
+_cell_length_c       8.37772
+_cell_angle_alpha    107.168
+_cell_angle_beta     107.168
+_cell_angle_gamma    107.083
+
+_symmetry_Int_Tables_number  69
+_chemical_formula_structural  Ba2NaNi3O6
+_chemical_formula_sum  Ba4Na2Ni6O2
+_cell_volume  340.8486430736206
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ba  Ba1  1  0.77094  0.22906  0.00000  1
+ Ba  Ba2  1  0.75000  0.25000  0.50000  1
+ Ba  Ba3  1  0.25000  0.75000  0.50000  1
+ Ba  Ba4  1  0.22906  0.77094  0.00000  1
+ Na  Na1  1  0.33031  0.33031  0.66062  1
+ Na  Na2  1  0.66969  0.66969  0.33938  1
+ Ni  Ni1  1  0.70636  0.70636  0.71268  1
+ Ni  Ni2  1  0.29364  0.29364  0.28732  1
+ Ni  Ni3  1  0.99368  0.99368  0.28732  1
+ Ni  Ni4  1  0.30566  0.30566  0.00000  1
+ Ni  Ni5  1  0.69434  0.69434  0.00000  1
+ Ni  Ni6  1  0.00632  0.00632  0.71268  1
+ O  O1  1  0.92648  0.70227  0.62875  1
+ O  O2  1  0.49905  0.27681  0.18943  1
+ O  O3  1  0.70227  0.92648  0.62875  1
+ O  O4  1  0.29773  0.07352  0.37125  1
+ O  O5  1  0.30962  0.08738  0.81057  1
+ O  O6  1  0.27681  0.49905  0.18943  1
+ O  O7  1  0.91262  0.69038  0.18943  1
+ O  O8  1  0.50095  0.72319  0.81057  1
+ O  O9  1  0.69038  0.91262  0.18943  1
+ O  O10  1  0.72319  0.50095  0.81057  1
+ O  O11  1  0.08738  0.30962  0.81057  1
+ O  O12  1  0.07352  0.29774  0.37125  1

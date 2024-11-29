@@ -1,0 +1,47 @@
+CIF file written using JARVIS-Tools package.
+data_DyBO3
+_symmetry_space_group_name_H-M  'P-1'
+_cell_length_a       6.1307
+_cell_length_b       6.39126
+_cell_length_c       6.38791
+_cell_angle_alpha    92.2566
+_cell_angle_beta     108.743
+_cell_angle_gamma    108.089
+
+_symmetry_Int_Tables_number  2
+_chemical_formula_structural  DyBO3
+_chemical_formula_sum  Dy4B4O2
+_cell_volume  222.60092444928802
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ B  B1  1  0.99039  0.28151  0.76925  1
+ B  B2  1  0.00961  0.71849  0.23075  1
+ B  B3  1  0.47430  0.76099  0.71063  1
+ B  B4  1  0.52570  0.23901  0.28937  1
+ Dy  Dy1  1  0.55813  0.27318  0.84812  1
+ Dy  Dy2  1  0.44187  0.72682  0.15188  1
+ Dy  Dy3  1  0.93856  0.81905  0.71954  1
+ Dy  Dy4  1  0.06144  0.18095  0.28046  1
+ O  O1  1  0.41080  0.35506  0.13349  1
+ O  O2  1  0.04165  0.51830  0.23293  1
+ O  O3  1  0.47131  0.22916  0.47999  1
+ O  O4  1  0.52869  0.77084  0.52001  1
+ O  O5  1  0.58920  0.64494  0.86651  1
+ O  O6  1  0.12850  0.87158  0.11639  1
+ O  O7  1  0.65240  0.12254  0.21906  1
+ O  O8  1  0.34760  0.87746  0.78094  1
+ O  O9  1  0.87931  0.79547  0.33861  1
+ O  O10  1  0.87150  0.12842  0.88361  1
+ O  O11  1  0.12069  0.20453  0.66139  1
+ O  O12  1  0.95835  0.48170  0.76707  1

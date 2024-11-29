@@ -1,0 +1,51 @@
+CIF file written using JARVIS-Tools package.
+data_InTeClO3
+_symmetry_space_group_name_H-M  'P2_1/c'
+_cell_length_a       7.18198
+_cell_length_b       6.93188
+_cell_length_c       8.34975
+_cell_angle_alpha    90
+_cell_angle_beta     103.349
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  14
+_chemical_formula_structural  InTeClO3
+_chemical_formula_sum  In4Te4Cl4O2
+_cell_volume  404.45870010853656
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cl  Cl1  1  0.38853  0.29305  0.08975  1
+ Cl  Cl2  1  0.61147  0.70695  0.91025  1
+ Cl  Cl3  1  0.88853  0.20695  0.08975  1
+ Cl  Cl4  1  0.11147  0.79305  0.91025  1
+ In  In1  1  0.79813  0.75015  0.67839  1
+ In  In2  1  0.29813  0.74985  0.67839  1
+ In  In3  1  0.70187  0.25015  0.32161  1
+ In  In4  1  0.20187  0.24985  0.32161  1
+ O  O1  1  0.25661  0.44478  0.68523  1
+ O  O2  1  0.50760  0.71638  0.52776  1
+ O  O3  1  0.74339  0.55522  0.31477  1
+ O  O4  1  0.84515  0.44523  0.68984  1
+ O  O5  1  0.34515  0.05477  0.68984  1
+ O  O6  1  0.65485  0.94523  0.31016  1
+ O  O7  1  0.15485  0.55477  0.31016  1
+ O  O8  1  0.24339  0.94478  0.31477  1
+ O  O9  1  0.00760  0.78362  0.52776  1
+ O  O10  1  0.49240  0.28362  0.47224  1
+ O  O11  1  0.99240  0.21638  0.47224  1
+ O  O12  1  0.75661  0.05522  0.68523  1
+ Te  Te1  1  0.94346  0.73180  0.29167  1
+ Te  Te2  1  0.05654  0.26820  0.70833  1
+ Te  Te3  1  0.44346  0.76820  0.29167  1
+ Te  Te4  1  0.55654  0.23180  0.70833  1

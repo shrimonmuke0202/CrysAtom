@@ -1,0 +1,41 @@
+CIF file written using JARVIS-Tools package.
+data_Pd2PbO4
+_symmetry_space_group_name_H-M  'I4_1/a'
+_cell_length_a       6.58465
+_cell_length_b       6.58465
+_cell_length_c       6.58465
+_cell_angle_alpha    126.665
+_cell_angle_beta     126.665
+_cell_angle_gamma    78.7984
+
+_symmetry_Int_Tables_number  88
+_chemical_formula_structural  Pd2PbO4
+_chemical_formula_sum  Pd4Pb2O8
+_cell_volume  177.75701202486928
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ O  O1  1  0.75080  0.61044  0.45739  1
+ O  O2  1  0.15304  0.29341  0.54261  1
+ O  O3  1  0.59696  0.95659  0.95739  1
+ O  O4  1  0.99920  0.63956  0.04261  1
+ O  O5  1  0.70659  0.24920  0.85963  1
+ O  O6  1  0.38956  0.84696  0.14037  1
+ O  O7  1  0.36044  0.40304  0.35963  1
+ O  O8  1  0.04341  0.00080  0.64037  1
+ Pb  Pb1  1  0.00000  0.00000  0.00000  1
+ Pb  Pb2  1  0.75000  0.25000  0.50000  1
+ Pd  Pd1  1  0.37500  0.12500  0.75000  1
+ Pd  Pd2  1  0.37500  0.62500  0.25000  1
+ Pd  Pd3  1  0.37500  0.62500  0.75000  1
+ Pd  Pd4  1  0.87500  0.62500  0.25000  1

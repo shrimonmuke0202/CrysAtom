@@ -1,0 +1,41 @@
+CIF file written using JARVIS-Tools package.
+data_Tb2MgS4
+_symmetry_space_group_name_H-M  'I-42d'
+_cell_length_a       7.18627
+_cell_length_b       7.18627
+_cell_length_c       7.18626
+_cell_angle_alpha    110.733
+_cell_angle_beta     110.733
+_cell_angle_gamma    106.976
+
+_symmetry_Int_Tables_number  122
+_chemical_formula_structural  Tb2MgS4
+_chemical_formula_sum  Tb4Mg2S8
+_cell_volume  285.2809720833713
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Mg  Mg1  1  0.00000  0.00000  0.00000  1
+ Mg  Mg2  1  0.75000  0.25000  0.50000  1
+ S  S1  1  0.50748  0.37836  0.26366  1
+ S  S2  1  0.75618  0.49252  0.87088  1
+ S  S3  1  0.11469  0.24382  0.73634  1
+ S  S4  1  0.62164  0.88531  0.12912  1
+ S  S5  1  0.24252  0.00618  0.37088  1
+ S  S6  1  0.99382  0.36469  0.23634  1
+ S  S7  1  0.63531  0.87164  0.62912  1
+ S  S8  1  0.12836  0.75748  0.76366  1
+ Tb  Tb1  1  0.87500  0.75523  0.38023  1
+ Tb  Tb2  1  0.50523  0.12500  0.88023  1
+ Tb  Tb3  1  0.37500  0.49477  0.61977  1
+ Tb  Tb4  1  0.24477  0.62500  0.11977  1

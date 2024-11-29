@@ -1,0 +1,51 @@
+CIF file written using JARVIS-Tools package.
+data_Rb3CoO2
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       6.16463
+_cell_length_b       7.67076
+_cell_length_c       12.2742
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  Rb3CoO2
+_chemical_formula_sum  Rb2Co4O8
+_cell_volume  580.4130834944802
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Co  Co1  1  0.30640  0.75000  0.38161  1
+ Co  Co2  1  0.80640  0.25000  0.11839  1
+ Co  Co3  1  0.69360  0.25000  0.61839  1
+ Co  Co4  1  0.19360  0.75000  0.88161  1
+ O  O1  1  0.98338  0.75000  0.78542  1
+ O  O2  1  0.01662  0.25000  0.21458  1
+ O  O3  1  0.91255  0.25000  0.52752  1
+ O  O4  1  0.41255  0.75000  0.97248  1
+ O  O5  1  0.08745  0.75000  0.47248  1
+ O  O6  1  0.58745  0.25000  0.02752  1
+ O  O7  1  0.51662  0.75000  0.28542  1
+ O  O8  1  0.48338  0.25000  0.71458  1
+ Rb  Rb1  1  0.79200  0.75000  0.10009  1
+ Rb  Rb2  1  0.20800  0.25000  0.89991  1
+ Rb  Rb3  1  0.70800  0.75000  0.60009  1
+ Rb  Rb4  1  0.32080  0.50089  0.13825  1
+ Rb  Rb5  1  0.82080  0.00089  0.36175  1
+ Rb  Rb6  1  0.67920  0.00089  0.86175  1
+ Rb  Rb7  1  0.17920  0.99911  0.63825  1
+ Rb  Rb8  1  0.67920  0.49911  0.86175  1
+ Rb  Rb9  1  0.17920  0.50089  0.63825  1
+ Rb  Rb10  1  0.32080  0.99911  0.13825  1
+ Rb  Rb11  1  0.29200  0.25000  0.39991  1
+ Rb  Rb12  1  0.82080  0.49911  0.36175  1

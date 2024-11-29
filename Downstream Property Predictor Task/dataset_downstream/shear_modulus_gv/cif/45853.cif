@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_YAl2Co
+_symmetry_space_group_name_H-M  'Cmcm'
+_cell_length_a       4.02296
+_cell_length_b       5.42314
+_cell_length_c       7.01745
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    111.772
+
+_symmetry_Int_Tables_number  63
+_chemical_formula_structural  YAl2Co
+_chemical_formula_sum  Y2Al4Co2
+_cell_volume  142.17966292545663
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Al  Al1  1  0.33952  0.67904  0.94429  1
+ Al  Al2  1  0.66048  0.32096  0.05571  1
+ Al  Al3  1  0.66048  0.32096  0.44429  1
+ Al  Al4  1  0.33952  0.67904  0.55571  1
+ Co  Co1  1  0.78353  0.56707  0.75000  1
+ Co  Co2  1  0.21647  0.43293  0.25000  1
+ Y  Y1  1  0.05923  0.11846  0.75000  1
+ Y  Y2  1  0.94077  0.88154  0.25000  1

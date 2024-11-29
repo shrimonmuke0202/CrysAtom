@@ -1,0 +1,41 @@
+CIF file written using JARVIS-Tools package.
+data_La2CeS4
+_symmetry_space_group_name_H-M  'I-42d'
+_cell_length_a       7.53146
+_cell_length_b       7.53146
+_cell_length_c       7.53147
+_cell_angle_alpha    109.45
+_cell_angle_beta     109.45
+_cell_angle_gamma    109.514
+
+_symmetry_Int_Tables_number  122
+_chemical_formula_structural  La2CeS4
+_chemical_formula_sum  La4Ce2S8
+_cell_volume  328.8639122332527
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ce  Ce1  1  0.50000  0.50000  -0.00000  1
+ Ce  Ce2  1  0.75000  0.25000  0.50000  1
+ La  La1  1  0.00041  0.87500  0.62541  1
+ La  La2  1  0.24959  0.37500  0.37459  1
+ La  La3  1  0.12500  0.75041  0.12541  1
+ La  La4  1  0.62500  -0.00041  0.87459  1
+ S  S1  1  0.02568  0.27640  0.89875  1
+ S  S2  1  0.37765  0.12693  0.10125  1
+ S  S3  1  0.22432  0.62307  0.75072  1
+ S  S4  1  0.87235  0.47360  0.24928  1
+ S  S5  1  0.37693  0.12765  0.60125  1
+ S  S6  1  0.52640  0.77568  0.39875  1
+ S  S7  1  0.72360  0.62235  0.74928  1
+ S  S8  1  0.87307  0.97432  0.25072  1

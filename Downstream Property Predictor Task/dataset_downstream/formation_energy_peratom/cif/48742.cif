@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_FeRh3
+_symmetry_space_group_name_H-M  'P6_3/mmc'
+_cell_length_a       5.3539
+_cell_length_b       5.3539
+_cell_length_c       4.25781
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_symmetry_Int_Tables_number  194
+_chemical_formula_structural  FeRh3
+_chemical_formula_sum  Fe2Rh6
+_cell_volume  105.69557588041054
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Fe  Fe1  1  0.33333  0.66667  0.75000  1
+ Fe  Fe2  1  0.66667  0.33333  0.25000  1
+ Rh  Rh1  1  0.16965  0.33929  0.25000  1
+ Rh  Rh2  1  0.66071  0.83035  0.25000  1
+ Rh  Rh3  1  0.16965  0.83035  0.25000  1
+ Rh  Rh4  1  0.83035  0.66071  0.75000  1
+ Rh  Rh5  1  0.33929  0.16965  0.75000  1
+ Rh  Rh6  1  0.83035  0.16965  0.75000  1

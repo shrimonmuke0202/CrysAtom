@@ -1,0 +1,47 @@
+CIF file written using JARVIS-Tools package.
+data_TiNb3O6
+_symmetry_space_group_name_H-M  'R-3'
+_cell_length_a       6.70081
+_cell_length_b       6.7008
+_cell_length_c       6.7008
+_cell_angle_alpha    73.3187
+_cell_angle_beta     73.3187
+_cell_angle_gamma    73.3187
+
+_symmetry_Int_Tables_number  148
+_chemical_formula_structural  TiNb3O6
+_chemical_formula_sum  Ti2Nb6O2
+_cell_volume  269.12638768984056
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Nb  Nb1  1  0.29639  0.88139  0.05593  1
+ Nb  Nb2  1  0.88139  0.05593  0.29639  1
+ Nb  Nb3  1  0.70361  0.11861  0.94407  1
+ Nb  Nb4  1  0.94407  0.70361  0.11861  1
+ Nb  Nb5  1  0.11861  0.94407  0.70361  1
+ Nb  Nb6  1  0.05593  0.29639  0.88139  1
+ O  O1  1  0.96622  0.35214  0.20175  1
+ O  O2  1  0.17112  0.26058  0.56968  1
+ O  O3  1  0.26058  0.56968  0.17112  1
+ O  O4  1  0.43032  0.82888  0.73942  1
+ O  O5  1  0.82888  0.73942  0.43032  1
+ O  O6  1  0.73942  0.43032  0.82888  1
+ O  O7  1  0.35214  0.20175  0.96622  1
+ O  O8  1  0.64786  0.79825  0.03378  1
+ O  O9  1  0.56968  0.17112  0.26058  1
+ O  O10  1  0.20175  0.96622  0.35214  1
+ O  O11  1  0.79825  0.03378  0.64786  1
+ O  O12  1  0.03378  0.64786  0.79825  1
+ Ti  Ti1  1  0.27367  0.27367  0.27367  1
+ Ti  Ti2  1  0.72633  0.72633  0.72633  1

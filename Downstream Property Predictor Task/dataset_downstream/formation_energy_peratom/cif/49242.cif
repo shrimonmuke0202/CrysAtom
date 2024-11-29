@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_Tm3Fe2Ge3
+_symmetry_space_group_name_H-M  'Cmcm'
+_cell_length_a       5.62782
+_cell_length_b       5.62782
+_cell_length_c       13.6139
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    137.146
+
+_symmetry_Int_Tables_number  63
+_chemical_formula_structural  Tm3Fe2Ge3
+_chemical_formula_sum  Tm6Fe4Ge6
+_cell_volume  293.26145575603584
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Fe  Fe1  1  0.78500  0.21500  0.58383  1
+ Fe  Fe2  1  0.21500  0.78500  0.41617  1
+ Fe  Fe3  1  0.21500  0.78500  0.08383  1
+ Fe  Fe4  1  0.78500  0.21500  0.91617  1
+ Ge  Ge1  1  0.33394  0.66606  0.25000  1
+ Ge  Ge2  1  0.66606  0.33394  0.75000  1
+ Ge  Ge3  1  0.62219  0.37781  0.04162  1
+ Ge  Ge4  1  0.37781  0.62219  0.95838  1
+ Ge  Ge5  1  0.37781  0.62219  0.54162  1
+ Ge  Ge6  1  0.62219  0.37781  0.45838  1
+ Tm  Tm1  1  0.64119  0.35881  0.25000  1
+ Tm  Tm2  1  0.35881  0.64119  0.75000  1
+ Tm  Tm3  1  0.91943  0.08057  0.11121  1
+ Tm  Tm4  1  0.08057  0.91943  0.88879  1
+ Tm  Tm5  1  0.08057  0.91943  0.61121  1
+ Tm  Tm6  1  0.91943  0.08057  0.38879  1

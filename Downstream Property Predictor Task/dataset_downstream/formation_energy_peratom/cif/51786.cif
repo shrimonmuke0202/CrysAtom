@@ -1,0 +1,40 @@
+CIF file written using JARVIS-Tools package.
+data_Al5S8
+_symmetry_space_group_name_H-M  'F-43m'
+_cell_length_a       7.00972
+_cell_length_b       7.00973
+_cell_length_c       7.00973
+_cell_angle_alpha    60
+_cell_angle_beta     60
+_cell_angle_gamma    60.0001
+
+_symmetry_Int_Tables_number  216
+_chemical_formula_structural  Al5S8
+_chemical_formula_sum  Al5S8
+_cell_volume  243.55008540732618
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Al  Al1  1  0.63324  0.63324  0.10027  1
+ Al  Al2  1  0.63324  0.10027  0.63324  1
+ Al  Al3  1  0.10027  0.63324  0.63324  1
+ Al  Al4  1  0.63324  0.63324  0.63324  1
+ Al  Al5  1  0.25000  0.25000  0.25000  1
+ S  S1  1  0.87179  0.87179  0.38464  1
+ S  S2  1  0.87179  0.38464  0.87179  1
+ S  S3  1  0.38464  0.87179  0.87179  1
+ S  S4  1  0.87179  0.87179  0.87179  1
+ S  S5  1  0.38349  0.38349  0.84954  1
+ S  S6  1  0.38349  0.84954  0.38349  1
+ S  S7  1  0.84954  0.38349  0.38349  1
+ S  S8  1  0.38349  0.38349  0.38349  1

@@ -1,0 +1,36 @@
+CIF file written using JARVIS-Tools package.
+data_TiSi6Mo2
+_symmetry_space_group_name_H-M  'C222'
+_cell_length_a       4.70693
+_cell_length_b       4.70694
+_cell_length_c       6.50319
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    119.718
+
+_symmetry_Int_Tables_number  21
+_chemical_formula_structural  TiSi6Mo2
+_chemical_formula_sum  TiSi6Mo2
+_cell_volume  125.1289902447311
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Mo  Mo1  1  0.50000  0.00000  0.16822  1
+ Mo  Mo2  1  -0.00000  0.50000  0.83178  1
+ Si  Si1  1  0.15714  0.84286  0.50000  1
+ Si  Si2  1  0.16158  0.32702  0.16811  1
+ Si  Si3  1  0.67298  0.83842  0.83189  1
+ Si  Si4  1  0.84286  0.15714  0.50000  1
+ Si  Si5  1  0.83842  0.67298  0.16811  1
+ Si  Si6  1  0.32702  0.16158  0.83189  1
+ Ti  Ti1  1  0.50000  0.50000  0.50000  1

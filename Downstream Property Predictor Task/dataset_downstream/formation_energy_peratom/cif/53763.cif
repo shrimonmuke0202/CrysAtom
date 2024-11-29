@@ -1,0 +1,55 @@
+CIF file written using JARVIS-Tools package.
+data_DyMoBrO4
+_symmetry_space_group_name_H-M  'P-1'
+_cell_length_a       6.87349
+_cell_length_b       7.19997
+_cell_length_c       10.878
+_cell_angle_alpha    104.35
+_cell_angle_beta     107.475
+_cell_angle_gamma    93.6518
+
+_symmetry_Int_Tables_number  2
+_chemical_formula_structural  DyMoBrO4
+_chemical_formula_sum  Dy4Mo4Br4O6
+_cell_volume  491.8888287127385
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Br  Br1  1  0.18502  0.71042  0.97773  1
+ Br  Br2  1  0.25764  0.98942  0.51878  1
+ Br  Br3  1  0.74236  0.01058  0.48122  1
+ Br  Br4  1  0.81498  0.28958  0.02227  1
+ Dy  Dy1  1  0.64793  0.12198  0.73275  1
+ Dy  Dy2  1  0.61238  0.34279  0.23300  1
+ Dy  Dy3  1  0.38762  0.65721  0.76700  1
+ Dy  Dy4  1  0.35207  0.87802  0.26725  1
+ Mo  Mo1  1  0.26832  0.18807  0.86717  1
+ Mo  Mo2  1  0.77610  0.59753  0.62741  1
+ Mo  Mo3  1  0.22390  0.40247  0.37259  1
+ Mo  Mo4  1  0.73168  0.81193  0.13283  1
+ O  O1  1  0.37588  0.35461  0.79752  1
+ O  O2  1  0.66849  0.72608  0.95787  1
+ O  O3  1  0.65552  0.79454  0.70214  1
+ O  O4  1  0.00023  0.87145  0.20637  1
+ O  O5  1  -0.00023  0.12855  0.79363  1
+ O  O6  1  0.62412  0.64539  0.20248  1
+ O  O7  1  0.33151  0.27392  0.04213  1
+ O  O8  1  0.66953  0.51166  0.45051  1
+ O  O9  1  0.04302  0.65997  0.66875  1
+ O  O10  1  0.95698  0.34003  0.33125  1
+ O  O11  1  0.72664  0.41389  0.70041  1
+ O  O12  1  0.27336  0.58611  0.29959  1
+ O  O13  1  0.40065  0.98585  0.82313  1
+ O  O14  1  0.33047  0.48834  0.54949  1
+ O  O15  1  0.59935  0.01415  0.17687  1
+ O  O16  1  0.34448  0.20546  0.29786  1

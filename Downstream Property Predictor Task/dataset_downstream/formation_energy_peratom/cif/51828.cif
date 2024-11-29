@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_VNi2N3
+_symmetry_space_group_name_H-M  'Cmcm'
+_cell_length_a       5.62736
+_cell_length_b       6.18136
+_cell_length_c       4.01108
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    123.314
+
+_symmetry_Int_Tables_number  63
+_chemical_formula_structural  VNi2N3
+_chemical_formula_sum  V2Ni4N6
+_cell_volume  116.59721683433803
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ N  N1  1  0.33970  0.33314  0.92869  1
+ N  N2  1  0.66030  0.99344  0.92869  1
+ N  N3  1  0.66030  0.66686  0.42869  1
+ N  N4  1  0.33970  0.00656  0.42869  1
+ N  N5  1  -0.00000  0.63619  0.92871  1
+ N  N6  1  0.00000  0.36381  0.42871  1
+ Ni  Ni1  1  0.30186  0.30249  0.42861  1
+ Ni  Ni2  1  0.69814  0.00063  0.42861  1
+ Ni  Ni3  1  0.69814  0.69751  0.92861  1
+ Ni  Ni4  1  0.30186  0.99937  0.92861  1
+ V  V1  1  0.00000  0.68287  0.42869  1
+ V  V2  1  -0.00000  0.31713  0.92869  1

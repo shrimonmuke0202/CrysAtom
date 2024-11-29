@@ -1,0 +1,49 @@
+CIF file written using JARVIS-Tools package.
+data_Rb2MnP2S6
+_symmetry_space_group_name_H-M  'P2_1/c'
+_cell_length_a       6.15346
+_cell_length_b       12.2857
+_cell_length_c       8.992
+_cell_angle_alpha    90
+_cell_angle_beta     124.591
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  14
+_chemical_formula_structural  Rb2MnP2S6
+_chemical_formula_sum  Rb4Mn2P4S2
+_cell_volume  559.623716644856
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Mn  Mn1  1  0.50000  0.50000  -0.00000  1
+ Mn  Mn2  1  0.50000  0.00000  0.50000  1
+ P  P1  1  0.84147  0.45904  0.87161  1
+ P  P2  1  0.84147  0.04096  0.37161  1
+ P  P3  1  0.15853  0.95904  0.62839  1
+ P  P4  1  0.15853  0.54096  0.12839  1
+ Rb  Rb1  1  0.20354  0.32467  0.47390  1
+ Rb  Rb2  1  0.79646  0.67533  0.52610  1
+ Rb  Rb3  1  0.79646  0.82467  0.02610  1
+ Rb  Rb4  1  0.20354  0.17533  0.97390  1
+ S  S1  1  0.54197  0.93020  0.24412  1
+ S  S2  1  0.27774  0.66943  0.04724  1
+ S  S3  1  0.45803  0.06980  0.75588  1
+ S  S4  1  0.97121  0.92345  0.74911  1
+ S  S5  1  0.02879  0.07655  0.25089  1
+ S  S6  1  0.72226  0.16943  0.45276  1
+ S  S7  1  0.45803  0.43020  0.25588  1
+ S  S8  1  0.54197  0.56980  0.74412  1
+ S  S9  1  0.97121  0.57655  0.24911  1
+ S  S10  1  0.02879  0.42345  0.75089  1
+ S  S11  1  0.72226  0.33057  0.95276  1
+ S  S12  1  0.27774  0.83057  0.54724  1

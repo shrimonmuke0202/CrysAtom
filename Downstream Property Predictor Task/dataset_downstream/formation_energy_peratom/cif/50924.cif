@@ -1,0 +1,55 @@
+CIF file written using JARVIS-Tools package.
+data_LiMnF5
+_symmetry_space_group_name_H-M  'P2_1/c'
+_cell_length_a       9.7706
+_cell_length_b       4.49234
+_cell_length_c       7.37698
+_cell_angle_alpha    82.5404
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  14
+_chemical_formula_structural  LiMnF5
+_chemical_formula_sum  Li4Mn4F20
+_cell_volume  321.05594968758305
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ F  F1  1  0.05894  0.29930  0.24185  1
+ F  F2  1  0.70611  0.30939  0.73737  1
+ F  F3  1  0.07139  0.20764  0.87520  1
+ F  F4  1  0.30090  0.24333  0.07928  1
+ F  F5  1  0.94106  0.70070  0.75815  1
+ F  F6  1  0.43467  0.73137  0.94567  1
+ F  F7  1  0.92861  0.79236  0.12480  1
+ F  F8  1  0.44106  0.29930  0.74185  1
+ F  F9  1  0.79389  0.30939  0.23737  1
+ F  F10  1  0.93467  0.26863  0.55433  1
+ F  F11  1  0.42861  0.20764  0.37520  1
+ F  F12  1  0.06533  0.73137  0.44567  1
+ F  F13  1  0.57139  0.79236  0.62480  1
+ F  F14  1  0.29389  0.69061  0.26263  1
+ F  F15  1  0.56533  0.26863  0.05433  1
+ F  F16  1  0.69910  0.75667  0.92072  1
+ F  F17  1  0.55894  0.70070  0.25815  1
+ F  F18  1  0.20611  0.69061  0.76263  1
+ F  F19  1  0.19910  0.24333  0.57928  1
+ F  F20  1  0.80090  0.75667  0.42072  1
+ Li  Li1  1  0.71667  0.93651  0.15708  1
+ Li  Li2  1  0.78333  0.93651  0.65708  1
+ Li  Li3  1  0.21667  0.06349  0.34292  1
+ Li  Li4  1  0.28333  0.06349  0.84292  1
+ Mn  Mn1  1  0.42682  0.47539  0.17967  1
+ Mn  Mn2  1  0.92682  0.52461  0.32033  1
+ Mn  Mn3  1  0.07318  0.47539  0.67967  1
+ Mn  Mn4  1  0.57318  0.52461  0.82033  1

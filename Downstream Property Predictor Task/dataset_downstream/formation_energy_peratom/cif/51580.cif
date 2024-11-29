@@ -1,0 +1,36 @@
+CIF file written using JARVIS-Tools package.
+data_Mn2CrI6
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       4.10868
+_cell_length_b       4.10868
+_cell_length_c       20.427
+_cell_angle_alpha    89.9742
+_cell_angle_beta     89.9742
+_cell_angle_gamma    59.9704
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  Mn2CrI6
+_chemical_formula_sum  Mn2CrI6
+_cell_volume  298.5451469788754
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cr  Cr1  1  0.00000  0.00000  0.00000  1
+ I  I1  1  0.99842  0.99842  0.74972  1
+ I  I2  1  0.33379  0.33379  0.07901  1
+ I  I3  1  0.66793  0.66793  0.41385  1
+ I  I4  1  0.66621  0.66621  0.92099  1
+ I  I5  1  0.00158  0.00158  0.25028  1
+ I  I6  1  0.33207  0.33207  0.58615  1
+ Mn  Mn1  1  0.33485  0.33485  0.33225  1
+ Mn  Mn2  1  0.66515  0.66515  0.66775  1

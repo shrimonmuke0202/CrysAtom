@@ -1,0 +1,51 @@
+CIF file written using JARVIS-Tools package.
+data_Mo3Pt2N
+_symmetry_space_group_name_H-M  'P4_132'
+_cell_length_a       6.89541
+_cell_length_b       6.89541
+_cell_length_c       6.89541
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  213
+_chemical_formula_structural  Mo3Pt2N
+_chemical_formula_sum  Mo2Pt8N4
+_cell_volume  327.8543945125028
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Mo  Mo1  1  0.62500  0.70056  0.95056  1
+ Mo  Mo2  1  0.45056  0.87500  0.29944  1
+ Mo  Mo3  1  0.70056  0.95056  0.62500  1
+ Mo  Mo4  1  0.54944  0.37500  0.20056  1
+ Mo  Mo5  1  0.37500  0.20056  0.54944  1
+ Mo  Mo6  1  0.95056  0.62500  0.70056  1
+ Mo  Mo7  1  0.20056  0.54944  0.37500  1
+ Mo  Mo8  1  0.04944  0.12500  0.79944  1
+ Mo  Mo9  1  0.29944  0.45056  0.87500  1
+ Mo  Mo10  1  0.12500  0.79944  0.04944  1
+ Mo  Mo11  1  0.79944  0.04944  0.12500  1
+ Mo  Mo12  1  0.87500  0.29944  0.45056  1
+ N  N1  1  0.37500  0.62500  0.12500  1
+ N  N2  1  0.12500  0.37500  0.62500  1
+ N  N3  1  0.62500  0.12500  0.37500  1
+ N  N4  1  0.87500  0.87500  0.87500  1
+ Pt  Pt1  1  0.05657  0.94343  0.44343  1
+ Pt  Pt2  1  0.80657  0.69343  0.30657  1
+ Pt  Pt3  1  0.30657  0.80657  0.69343  1
+ Pt  Pt4  1  0.19343  0.19343  0.19343  1
+ Pt  Pt5  1  0.44343  0.05657  0.94343  1
+ Pt  Pt6  1  0.94343  0.44343  0.05657  1
+ Pt  Pt7  1  0.55657  0.55657  0.55657  1
+ Pt  Pt8  1  0.69343  0.30657  0.80657  1

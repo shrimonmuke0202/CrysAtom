@@ -1,0 +1,51 @@
+CIF file written using JARVIS-Tools package.
+data_ZrCrO4
+_symmetry_space_group_name_H-M  'Pbcn'
+_cell_length_a       4.71309
+_cell_length_b       11.6437
+_cell_length_c       4.89315
+_cell_angle_alpha    89.9967
+_cell_angle_beta     90.0001
+_cell_angle_gamma    90.0044
+
+_symmetry_Int_Tables_number  60
+_chemical_formula_structural  ZrCrO4
+_chemical_formula_sum  Zr4Cr4O6
+_cell_volume  268.52622372833804
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cr  Cr1  1  0.00003  0.56580  0.75003  1
+ Cr  Cr2  1  0.49999  0.06580  0.74996  1
+ Cr  Cr3  1  0.00001  0.43420  0.25004  1
+ Cr  Cr4  1  0.49998  0.93420  0.24998  1
+ O  O1  1  0.22503  0.44772  0.93053  1
+ O  O2  1  0.22310  0.31587  0.40866  1
+ O  O3  1  0.22310  0.68414  0.90866  1
+ O  O4  1  0.27689  0.18412  0.90864  1
+ O  O5  1  0.72499  0.05229  0.06947  1
+ O  O6  1  0.72308  0.18414  0.59134  1
+ O  O7  1  0.72311  0.81588  0.09134  1
+ O  O8  1  0.27691  0.81586  0.40864  1
+ O  O9  1  0.77691  0.31587  0.09136  1
+ O  O10  1  0.72500  0.94773  0.56947  1
+ O  O11  1  0.27498  0.94771  0.93048  1
+ O  O12  1  0.77691  0.68413  0.59136  1
+ O  O13  1  0.22502  0.55228  0.43053  1
+ O  O14  1  0.77501  0.44771  0.56953  1
+ O  O15  1  0.77500  0.55228  0.06952  1
+ O  O16  1  0.27497  0.05227  0.43048  1
+ Zr  Zr1  1  0.49998  0.32965  0.75003  1
+ Zr  Zr2  1  0.50003  0.67035  0.25000  1
+ Zr  Zr3  1  0.99998  0.82966  0.74997  1
+ Zr  Zr4  1  -0.00002  0.17035  0.24999  1

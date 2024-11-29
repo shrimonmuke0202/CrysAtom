@@ -1,0 +1,31 @@
+CIF file written using JARVIS-Tools package.
+data_NaSi
+_symmetry_space_group_name_H-M  'P2_1/m'
+_cell_length_a       6.02755
+_cell_length_b       5.81941
+_cell_length_c       3.8104
+_cell_angle_alpha    90.0077
+_cell_angle_beta     50.7011
+_cell_angle_gamma    108.162
+
+_symmetry_Int_Tables_number  11
+_chemical_formula_structural  NaSi
+_chemical_formula_sum  Na2Si2
+_cell_volume  94.6738466324504
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Na  Na1  1  0.14385  0.18345  -0.09649  1
+ Na  Na2  1  0.84497  0.58713  0.70282  1
+ Si  Si1  1  0.55724  0.01263  -0.00975  1
+ Si  Si2  1  0.43166  0.75800  0.61604  1

@@ -1,0 +1,40 @@
+CIF file written using JARVIS-Tools package.
+data_CaBi4O8
+_symmetry_space_group_name_H-M  'Cm'
+_cell_length_a       3.4895
+_cell_length_b       7.11363
+_cell_length_c       9.55798
+_cell_angle_alpha    68.2565
+_cell_angle_beta     79.482
+_cell_angle_gamma    75.802
+
+_symmetry_Int_Tables_number  8
+_chemical_formula_structural  CaBi4O8
+_chemical_formula_sum  CaBi4O8
+_cell_volume  212.53559842900398
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Bi  Bi1  1  0.39068  0.75430  0.47634  1
+ Bi  Bi2  1  0.90392  0.35028  0.85386  1
+ Bi  Bi3  1  0.13519  0.61155  0.13004  1
+ Bi  Bi4  1  0.66805  0.22735  0.44855  1
+ Ca  Ca1  1  0.67526  0.87218  0.78926  1
+ O  O1  1  0.06245  0.51724  0.36985  1
+ O  O2  1  0.55841  0.82619  0.06897  1
+ O  O3  1  0.51186  0.23146  0.75679  1
+ O  O4  1  0.86045  0.62863  0.66246  1
+ O  O5  1  0.83951  -0.03038  0.36335  1
+ O  O6  1  0.24251  0.62476  0.90219  1
+ O  O7  1  0.20751  0.00237  0.59461  1
+ O  O8  1  0.72181  0.39344  0.17493  1

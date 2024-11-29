@@ -1,0 +1,47 @@
+CIF file written using JARVIS-Tools package.
+data_MnGeO3
+_symmetry_space_group_name_H-M  'C2/c'
+_cell_length_a       5.31273
+_cell_length_b       6.80446
+_cell_length_c       6.80446
+_cell_angle_alpha    85.8422
+_cell_angle_beta     81.516
+_cell_angle_gamma    81.516
+
+_symmetry_Int_Tables_number  15
+_chemical_formula_structural  MnGeO3
+_chemical_formula_sum  Mn4Ge4O2
+_cell_volume  240.30501999118917
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ge  Ge1  1  0.71693  0.60840  0.79406  1
+ Ge  Ge2  1  0.78307  0.20594  0.39160  1
+ Ge  Ge3  1  0.28307  0.39160  0.20594  1
+ Ge  Ge4  1  0.21693  0.79406  0.60840  1
+ Mn  Mn1  1  0.25000  0.90532  0.09468  1
+ Mn  Mn2  1  0.25000  0.27618  0.72382  1
+ Mn  Mn3  1  0.75000  0.09468  0.90532  1
+ Mn  Mn4  1  0.75000  0.72382  0.27618  1
+ O  O1  1  0.63764  0.79102  0.97449  1
+ O  O2  1  0.58446  0.42414  0.29254  1
+ O  O3  1  0.36236  0.20898  0.02551  1
+ O  O4  1  0.13764  0.97449  0.79102  1
+ O  O5  1  0.86236  0.02551  0.20898  1
+ O  O6  1  0.41554  0.57587  0.70746  1
+ O  O7  1  0.11847  0.62299  0.14119  1
+ O  O8  1  0.38153  0.85881  0.37701  1
+ O  O9  1  0.88153  0.37701  0.85881  1
+ O  O10  1  0.08446  0.29254  0.42413  1
+ O  O11  1  0.61847  0.14119  0.62299  1
+ O  O12  1  0.91554  0.70746  0.57586  1

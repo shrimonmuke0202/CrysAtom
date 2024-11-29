@@ -1,0 +1,57 @@
+CIF file written using JARVIS-Tools package.
+data_Li3SiNi3O8
+_symmetry_space_group_name_H-M  'P2/m'
+_cell_length_a       5.02904
+_cell_length_b       9.55247
+_cell_length_c       5.55177
+_cell_angle_alpha    89.9999
+_cell_angle_beta     90
+_cell_angle_gamma    97.9732
+
+_symmetry_Int_Tables_number  10
+_chemical_formula_structural  Li3SiNi3O8
+_chemical_formula_sum  Li6Si2Ni6O6
+_cell_volume  264.1275475376833
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Li  Li1  1  0.00000  0.00000  0.50000  1
+ Li  Li2  1  0.50000  0.50000  0.50000  1
+ Li  Li3  1  0.50000  0.00000  0.24412  1
+ Li  Li4  1  -0.00000  0.50000  0.24412  1
+ Li  Li5  1  0.50000  0.00000  0.75588  1
+ Li  Li6  1  -0.00000  0.50000  0.75588  1
+ Ni  Ni1  1  0.75000  0.25000  0.50000  1
+ Ni  Ni2  1  0.75000  0.75000  0.24608  1
+ Ni  Ni3  1  0.75000  0.75000  0.75392  1
+ Ni  Ni4  1  0.25000  0.75000  0.50000  1
+ Ni  Ni5  1  0.25000  0.25000  0.24608  1
+ Ni  Ni6  1  0.25000  0.25000  0.75392  1
+ O  O1  1  0.92024  0.64846  0.00000  1
+ O  O2  1  0.85929  0.14186  0.76014  1
+ O  O3  1  0.07976  0.35153  -0.00000  1
+ O  O4  1  0.57976  0.85153  -0.00000  1
+ O  O5  1  0.37650  0.13967  0.50000  1
+ O  O6  1  0.87651  0.63967  0.50000  1
+ O  O7  1  0.42024  0.14847  0.00000  1
+ O  O8  1  0.62349  0.86033  0.50000  1
+ O  O9  1  0.14071  0.85814  0.76014  1
+ O  O10  1  0.14071  0.85814  0.23986  1
+ O  O11  1  0.85929  0.14186  0.23986  1
+ O  O12  1  0.35929  0.64186  0.23986  1
+ O  O13  1  0.64071  0.35814  0.76014  1
+ O  O14  1  0.12350  0.36033  0.50000  1
+ O  O15  1  0.64071  0.35814  0.23986  1
+ O  O16  1  0.35929  0.64186  0.76014  1
+ Si  Si1  1  0.25000  0.75000  0.00000  1
+ Si  Si2  1  0.75000  0.25000  0.00000  1

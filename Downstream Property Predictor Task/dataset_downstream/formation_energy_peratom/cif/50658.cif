@@ -1,0 +1,50 @@
+CIF file written using JARVIS-Tools package.
+data_Pr6MgGe2S14
+_symmetry_space_group_name_H-M  'P3'
+_cell_length_a       10.2829
+_cell_length_b       10.2829
+_cell_length_c       5.80878
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_symmetry_Int_Tables_number  143
+_chemical_formula_structural  Pr6MgGe2S14
+_chemical_formula_sum  Pr6MgGe2S4
+_cell_volume  531.9181441903393
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ge  Ge1  1  0.33333  0.66667  0.82235  1
+ Ge  Ge2  1  0.66667  0.33333  0.33237  1
+ Mg  Mg1  1  0.00000  0.00000  0.48125  1
+ Pr  Pr1  1  0.23028  0.35777  0.24194  1
+ Pr  Pr2  1  0.12749  0.76972  0.24194  1
+ Pr  Pr3  1  0.64223  0.87251  0.24194  1
+ Pr  Pr4  1  0.77096  0.64268  0.75049  1
+ Pr  Pr5  1  0.87172  0.22904  0.75049  1
+ Pr  Pr6  1  0.35732  0.12828  0.75049  1
+ S  S1  1  0.91244  0.16013  0.24059  1
+ S  S2  1  0.24769  0.08756  0.24059  1
+ S  S3  1  0.51976  0.41627  0.48402  1
+ S  S4  1  0.08997  0.84231  0.71878  1
+ S  S5  1  0.75233  0.91003  0.71878  1
+ S  S6  1  0.83987  0.75231  0.24059  1
+ S  S7  1  0.48060  0.58467  0.97706  1
+ S  S8  1  0.66667  0.33333  0.95356  1
+ S  S9  1  0.41533  0.89594  0.97706  1
+ S  S10  1  0.15769  0.24767  0.71878  1
+ S  S11  1  0.10406  0.51940  0.97706  1
+ S  S12  1  0.58373  0.10349  0.48402  1
+ S  S13  1  0.33333  0.66667  0.44450  1
+ S  S14  1  0.89651  0.48024  0.48402  1

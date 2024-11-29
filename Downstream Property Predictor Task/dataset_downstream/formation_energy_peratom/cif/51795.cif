@@ -1,0 +1,55 @@
+CIF file written using JARVIS-Tools package.
+data_Pr2MgSe4
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       6.98711
+_cell_length_b       8.59561
+_cell_length_c       14.5434
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  Pr2MgSe4
+_chemical_formula_sum  Pr8Mg4Se6
+_cell_volume  873.4533279738553
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Mg  Mg1  1  0.41161  0.75000  0.40464  1
+ Mg  Mg2  1  0.91161  0.25000  0.09536  1
+ Mg  Mg3  1  0.08839  0.75000  0.90464  1
+ Mg  Mg4  1  0.58839  0.25000  0.59536  1
+ Pr  Pr1  1  0.51445  0.75000  0.73054  1
+ Pr  Pr2  1  0.48555  0.25000  0.26946  1
+ Pr  Pr3  1  0.50000  0.00000  0.00000  1
+ Pr  Pr4  1  -0.01445  0.75000  0.23054  1
+ Pr  Pr5  1  0.50000  0.50000  0.00000  1
+ Pr  Pr6  1  0.00000  0.50000  0.50000  1
+ Pr  Pr7  1  0.00000  0.00000  0.50000  1
+ Pr  Pr8  1  0.01445  0.25000  0.76946  1
+ Se  Se1  1  0.23833  0.51548  0.32837  1
+ Se  Se2  1  0.73833  0.01548  0.17163  1
+ Se  Se3  1  0.77370  0.75000  0.41066  1
+ Se  Se4  1  0.23833  0.98452  0.32837  1
+ Se  Se5  1  0.76167  0.01548  0.67163  1
+ Se  Se6  1  0.76167  0.48452  0.67163  1
+ Se  Se7  1  0.26167  0.98452  0.82837  1
+ Se  Se8  1  0.27370  0.25000  0.08934  1
+ Se  Se9  1  0.24203  0.75000  0.06867  1
+ Se  Se10  1  0.75797  0.25000  0.93133  1
+ Se  Se11  1  0.74203  0.25000  0.43133  1
+ Se  Se12  1  0.25797  0.75000  0.56867  1
+ Se  Se13  1  0.26167  0.51548  0.82837  1
+ Se  Se14  1  0.72630  0.75000  0.91066  1
+ Se  Se15  1  0.73833  0.48452  0.17163  1
+ Se  Se16  1  0.22630  0.25000  0.58934  1

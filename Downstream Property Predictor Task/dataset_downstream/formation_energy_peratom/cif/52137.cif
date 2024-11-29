@@ -1,0 +1,41 @@
+CIF file written using JARVIS-Tools package.
+data_HoCu3S3
+_symmetry_space_group_name_H-M  'R-3'
+_cell_length_a       7.41156
+_cell_length_b       7.41156
+_cell_length_c       7.41157
+_cell_angle_alpha    53.5622
+_cell_angle_beta     53.5623
+_cell_angle_gamma    53.5622
+
+_symmetry_Int_Tables_number  148
+_chemical_formula_structural  HoCu3S3
+_chemical_formula_sum  Ho2Cu6S6
+_cell_volume  244.52499846679345
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cu  Cu1  1  0.28058  0.96531  0.62279  1
+ Cu  Cu2  1  0.62279  0.28058  0.96531  1
+ Cu  Cu3  1  0.96531  0.62279  0.28058  1
+ Cu  Cu4  1  0.03469  0.37721  0.71942  1
+ Cu  Cu5  1  0.37721  0.71942  0.03469  1
+ Cu  Cu6  1  0.71942  0.03469  0.37721  1
+ Ho  Ho1  1  0.83353  0.83353  0.83353  1
+ Ho  Ho2  1  0.16647  0.16647  0.16647  1
+ S  S1  1  0.08742  0.74714  0.41856  1
+ S  S2  1  0.74714  0.41856  0.08742  1
+ S  S3  1  0.41856  0.08742  0.74714  1
+ S  S4  1  0.58144  0.91258  0.25286  1
+ S  S5  1  0.25286  0.58144  0.91258  1
+ S  S6  1  0.91258  0.25286  0.58144  1

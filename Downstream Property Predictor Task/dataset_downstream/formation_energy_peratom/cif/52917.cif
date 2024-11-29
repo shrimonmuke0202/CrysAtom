@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_Sc5Ga3
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       8.03565
+_cell_length_b       8.03564
+_cell_length_c       5.9277
+_cell_angle_alpha    89.3796
+_cell_angle_beta     89.3795
+_cell_angle_gamma    119.979
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  Sc5Ga3
+_chemical_formula_sum  Sc0Ga6
+_cell_volume  331.47274900273123
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ga  Ga1  1  0.09560  0.09560  0.30131  1
+ Ga  Ga2  1  0.90440  0.90440  0.69869  1
+ Ga  Ga3  1  0.90033  0.49882  0.21941  1
+ Ga  Ga4  1  0.49882  0.90033  0.21941  1
+ Ga  Ga5  1  0.09967  0.50118  0.78059  1
+ Ga  Ga6  1  0.50118  0.09967  0.78059  1
+ Sc  Sc1  1  0.81752  0.18248  0.50000  1
+ Sc  Sc2  1  0.18248  0.81752  0.50000  1
+ Sc  Sc3  1  0.25766  0.49646  0.24304  1
+ Sc  Sc4  1  0.49646  0.25766  0.24304  1
+ Sc  Sc5  1  0.74234  0.50354  0.75696  1
+ Sc  Sc6  1  0.50354  0.74234  0.75696  1
+ Sc  Sc7  1  0.26728  0.26728  0.73819  1
+ Sc  Sc8  1  0.73272  0.73272  0.26181  1
+ Sc  Sc9  1  0.85085  0.14915  -0.00000  1
+ Sc  Sc10  1  0.14915  0.85085  -0.00000  1

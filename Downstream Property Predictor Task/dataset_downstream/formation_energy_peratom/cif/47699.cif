@@ -1,0 +1,51 @@
+CIF file written using JARVIS-Tools package.
+data_KTl
+_symmetry_space_group_name_H-M  'Cmce'
+_cell_length_a       10.8651
+_cell_length_b       10.8651
+_cell_length_c       8.02995
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    91.0888
+
+_symmetry_Int_Tables_number  64
+_chemical_formula_structural  KTl
+_chemical_formula_sum  K2Tl2
+_cell_volume  947.7717887080802
+_cell_formula_units_Z  12
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ K  K1  1  0.96833  0.46834  0.25000  1
+ K  K2  1  0.53166  0.03166  0.75000  1
+ K  K3  1  0.03166  0.53166  0.75000  1
+ K  K4  1  0.46834  0.96833  0.25000  1
+ K  K5  1  0.32237  0.67763  0.50000  1
+ K  K6  1  0.29786  0.29786  0.42769  1
+ K  K7  1  0.17763  0.82237  0.00000  1
+ K  K8  1  0.82237  0.17763  0.00000  1
+ K  K9  1  0.70214  0.70214  0.57231  1
+ K  K10  1  0.79786  0.79786  0.07231  1
+ K  K11  1  0.20214  0.20214  0.92769  1
+ K  K12  1  0.67763  0.32237  0.50000  1
+ Tl  Tl1  1  0.99029  0.22442  0.57572  1
+ Tl  Tl2  1  0.04441  0.04441  0.28101  1
+ Tl  Tl3  1  0.45559  0.45559  0.78101  1
+ Tl  Tl4  1  0.95559  0.95559  0.71899  1
+ Tl  Tl5  1  0.54441  0.54441  0.21900  1
+ Tl  Tl6  1  0.00971  0.77558  0.42428  1
+ Tl  Tl7  1  0.49029  0.72442  0.92428  1
+ Tl  Tl8  1  0.77558  0.00971  0.42428  1
+ Tl  Tl9  1  0.72442  0.49029  0.92428  1
+ Tl  Tl10  1  0.22442  0.99029  0.57572  1
+ Tl  Tl11  1  0.27558  0.50971  0.07572  1
+ Tl  Tl12  1  0.50971  0.27558  0.07572  1

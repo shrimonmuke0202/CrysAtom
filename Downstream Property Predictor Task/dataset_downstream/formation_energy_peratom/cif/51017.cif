@@ -1,0 +1,51 @@
+CIF file written using JARVIS-Tools package.
+data_Ni2ClO3
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       5.68399
+_cell_length_b       6.15767
+_cell_length_c       8.17931
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  Ni2ClO3
+_chemical_formula_sum  Ni8Cl4O2
+_cell_volume  286.276456213107
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cl  Cl1  1  0.82946  0.75000  0.46744  1
+ Cl  Cl2  1  0.32946  0.75000  0.03256  1
+ Cl  Cl3  1  0.17054  0.25000  0.53256  1
+ Cl  Cl4  1  0.67054  0.25000  0.96744  1
+ Ni  Ni1  1  0.19289  0.25000  0.25573  1
+ Ni  Ni2  1  0.69289  0.25000  0.24427  1
+ Ni  Ni3  1  0.50000  0.00000  0.50000  1
+ Ni  Ni4  1  0.30711  0.75000  0.75573  1
+ Ni  Ni5  1  0.00000  0.00000  0.00000  1
+ Ni  Ni6  1  0.50000  0.50000  0.50000  1
+ Ni  Ni7  1  0.00000  0.50000  0.00000  1
+ Ni  Ni8  1  0.80711  0.75000  0.74427  1
+ O  O1  1  0.94535  0.04858  0.22388  1
+ O  O2  1  0.44535  0.04858  0.27612  1
+ O  O3  1  0.94535  0.45142  0.22388  1
+ O  O4  1  0.55465  0.54858  0.72388  1
+ O  O5  1  0.05465  0.95142  0.77612  1
+ O  O6  1  0.68720  0.25000  0.47725  1
+ O  O7  1  0.81280  0.75000  0.97725  1
+ O  O8  1  0.31280  0.75000  0.52275  1
+ O  O9  1  0.05465  0.54858  0.77612  1
+ O  O10  1  0.44535  0.45142  0.27612  1
+ O  O11  1  0.18720  0.25000  0.02275  1
+ O  O12  1  0.55465  0.95142  0.72388  1

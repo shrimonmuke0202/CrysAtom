@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_KCoO2
+_symmetry_space_group_name_H-M  'Immm'
+_cell_length_a       6.39459
+_cell_length_b       5.94607
+_cell_length_c       7.0134
+_cell_angle_alpha    65.0053
+_cell_angle_beta     76.8802
+_cell_angle_gamma    90.2142
+
+_symmetry_Int_Tables_number  71
+_chemical_formula_structural  KCoO2
+_chemical_formula_sum  K4Co4O8
+_cell_volume  233.880545749935
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Co  Co1  1  0.94935  0.89867  0.20277  1
+ Co  Co2  1  0.55065  0.10133  0.79723  1
+ Co  Co3  1  0.44935  0.89868  0.20277  1
+ Co  Co4  1  0.05065  0.10132  0.79723  1
+ K  K1  1  0.81686  0.63374  0.73234  1
+ K  K2  1  0.31686  0.63373  0.73234  1
+ K  K3  1  0.18314  0.36626  0.26766  1
+ K  K4  1  0.68314  0.36626  0.26766  1
+ O  O1  1  0.00000  0.23814  0.00008  1
+ O  O2  1  0.50000  0.23814  0.00008  1
+ O  O3  1  -0.00000  0.76186  0.99992  1
+ O  O4  1  0.50000  0.76186  0.99992  1
+ O  O5  1  0.84082  0.18146  0.63704  1
+ O  O6  1  0.34081  0.18146  0.63704  1
+ O  O7  1  0.15919  0.81854  0.36296  1
+ O  O8  1  0.65918  0.81854  0.36296  1

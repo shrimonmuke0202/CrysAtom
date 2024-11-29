@@ -1,0 +1,38 @@
+CIF file written using JARVIS-Tools package.
+data_Ca2As2O7
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       4.9584
+_cell_length_b       5.88355
+_cell_length_c       5.88355
+_cell_angle_alpha    105.432
+_cell_angle_beta     96.9171
+_cell_angle_gamma    96.9171
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  Ca2As2O7
+_chemical_formula_sum  Ca2As2O7
+_cell_volume  162.14969809530564
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ As  As1  1  0.09018  0.77181  0.77181  1
+ As  As2  1  0.90982  0.22819  0.22819  1
+ Ca  Ca1  1  0.50000  0.69438  0.30562  1
+ Ca  Ca2  1  0.50000  0.30562  0.69438  1
+ O  O1  1  0.27662  0.91577  0.61244  1
+ O  O2  1  0.72338  0.38756  0.08423  1
+ O  O3  1  0.72338  0.08423  0.38756  1
+ O  O4  1  0.27662  0.61244  0.91577  1
+ O  O5  1  0.00000  0.00000  0.00000  1
+ O  O6  1  0.78319  0.61607  0.61607  1
+ O  O7  1  0.21681  0.38393  0.38393  1

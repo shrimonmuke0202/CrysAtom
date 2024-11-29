@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_Ce2NCl3
+_symmetry_space_group_name_H-M  'Ibam'
+_cell_length_a       8.21396
+_cell_length_b       8.21396
+_cell_length_c       8.21396
+_cell_angle_alpha    136.757
+_cell_angle_beta     131.182
+_cell_angle_gamma    67.2374
+
+_symmetry_Int_Tables_number  72
+_chemical_formula_structural  Ce2NCl3
+_chemical_formula_sum  Ce4N2Cl6
+_cell_volume  281.08538237697036
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ce  Ce1  1  0.91739  0.59477  0.32262  1
+ Ce  Ce2  1  0.08261  0.40523  0.67738  1
+ Ce  Ce3  1  0.72784  0.90523  0.82262  1
+ Ce  Ce4  1  0.27216  0.09477  0.17738  1
+ Cl  Cl1  1  0.50000  0.25000  0.75000  1
+ Cl  Cl2  1  0.50000  0.75000  0.25000  1
+ Cl  Cl3  1  0.99883  0.80426  0.19457  1
+ Cl  Cl4  1  0.00117  0.19574  0.80543  1
+ Cl  Cl5  1  0.39032  0.69574  0.69457  1
+ Cl  Cl6  1  0.60968  0.30426  0.30543  1
+ N  N1  1  0.00000  0.25000  0.25000  1
+ N  N2  1  0.00000  0.75000  0.75000  1

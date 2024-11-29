@@ -1,0 +1,45 @@
+CIF file written using JARVIS-Tools package.
+data_HfAsRu
+_symmetry_space_group_name_H-M  'Ima2'
+_cell_length_a       7.68633
+_cell_length_b       7.68633
+_cell_length_c       7.68633
+_cell_angle_alpha    128.258
+_cell_angle_beta     120.56
+_cell_angle_gamma    82.6662
+
+_symmetry_Int_Tables_number  46
+_chemical_formula_structural  HfAsRu
+_chemical_formula_sum  Hf6As6Ru6
+_cell_volume  295.04697542767445
+_cell_formula_units_Z  6
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ As  As1  1  0.67024  0.92050  0.25732  1
+ As  As2  1  0.27609  0.27632  0.50023  1
+ As  As3  1  0.72391  0.22414  0.00023  1
+ As  As4  1  0.32976  0.58708  0.25026  1
+ As  As5  1  0.16317  0.92050  0.75026  1
+ As  As6  1  0.83683  0.58708  0.75732  1
+ Hf  Hf1  1  0.46611  0.68783  0.72171  1
+ Hf  Hf2  1  0.05239  0.25858  0.70619  1
+ Hf  Hf3  1  0.25042  0.83511  0.08469  1
+ Hf  Hf4  1  0.74958  0.83427  0.58469  1
+ Hf  Hf5  1  0.53389  0.25560  0.22171  1
+ Hf  Hf6  1  0.94761  0.65380  0.20619  1
+ Ru  Ru1  1  0.34853  0.00706  0.60107  1
+ Ru  Ru2  1  0.50000  0.49980  0.99980  1
+ Ru  Ru3  1  0.00000  0.49980  0.49980  1
+ Ru  Ru4  1  0.09402  0.25254  0.10107  1
+ Ru  Ru5  1  0.90598  0.00706  0.15852  1
+ Ru  Ru6  1  0.65147  0.25254  0.65852  1

@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_ScTaO4
+_symmetry_space_group_name_H-M  'P2/c'
+_cell_length_a       4.82815
+_cell_length_b       5.73201
+_cell_length_c       5.14457
+_cell_angle_alpha    90
+_cell_angle_beta     91.2804
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  13
+_chemical_formula_structural  ScTaO4
+_chemical_formula_sum  Sc2Ta2O8
+_cell_volume  142.34083366832826
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ O  O1  1  0.78156  0.10696  0.56565  1
+ O  O2  1  0.73559  0.61530  0.59368  1
+ O  O3  1  0.21844  0.10696  0.93435  1
+ O  O4  1  0.26441  0.38470  0.40632  1
+ O  O5  1  0.26441  0.61530  0.90632  1
+ O  O6  1  0.78156  0.89304  0.06565  1
+ O  O7  1  0.73559  0.38470  0.09368  1
+ O  O8  1  0.21844  0.89304  0.43435  1
+ Sc  Sc1  1  0.50000  0.32361  0.75000  1
+ Sc  Sc2  1  0.50000  0.67639  0.25000  1
+ Ta  Ta1  1  -0.00000  0.82233  0.75000  1
+ Ta  Ta2  1  -0.00000  0.17767  0.25000  1

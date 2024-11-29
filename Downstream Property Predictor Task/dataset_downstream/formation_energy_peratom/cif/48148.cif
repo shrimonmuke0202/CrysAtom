@@ -1,0 +1,37 @@
+CIF file written using JARVIS-Tools package.
+data_TiFe3O6
+_symmetry_space_group_name_H-M  'R3'
+_cell_length_a       5.33792
+_cell_length_b       5.33793
+_cell_length_c       5.33792
+_cell_angle_alpha    53.3976
+_cell_angle_beta     53.3976
+_cell_angle_gamma    53.3976
+
+_symmetry_Int_Tables_number  146
+_chemical_formula_structural  TiFe3O6
+_chemical_formula_sum  TiFe3O6
+_cell_volume  90.92678045934016
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Fe  Fe1  1  0.65659  0.65659  0.65659  1
+ Fe  Fe2  1  0.34101  0.34101  0.34101  1
+ Fe  Fe3  1  0.84733  0.84733  0.84733  1
+ O  O1  1  0.74246  0.06462  0.43929  1
+ O  O2  1  0.43929  0.74246  0.06462  1
+ O  O3  1  0.06462  0.43929  0.74246  1
+ O  O4  1  0.25656  0.92978  0.57031  1
+ O  O5  1  0.57031  0.25656  0.92978  1
+ O  O6  1  0.92978  0.57031  0.25656  1
+ Ti  Ti1  1  0.15205  0.15205  0.15205  1

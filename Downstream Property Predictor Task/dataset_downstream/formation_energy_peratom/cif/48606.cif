@@ -1,0 +1,31 @@
+CIF file written using JARVIS-Tools package.
+data_CaO3
+_symmetry_space_group_name_H-M  'P1'
+_cell_length_a       5.07109
+_cell_length_b       3.31189
+_cell_length_c       4.47741
+_cell_angle_alpha    118.487
+_cell_angle_beta     78.8543
+_cell_angle_gamma    132.091
+
+_symmetry_Int_Tables_number  1
+_chemical_formula_structural  CaO3
+_chemical_formula_sum  CaO3
+_cell_volume  48.11656350213169
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ca  Ca1  1  0.62052  -0.14578  -0.06857  1
+ O  O1  1  0.69828  0.72635  0.36509  1
+ O  O2  1  0.07048  0.32507  0.45444  1
+ O  O3  1  0.12134  0.75805  0.81895  1

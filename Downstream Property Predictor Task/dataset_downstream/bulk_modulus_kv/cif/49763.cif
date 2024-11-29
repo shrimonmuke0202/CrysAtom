@@ -1,0 +1,49 @@
+CIF file written using JARVIS-Tools package.
+data_PtN4Cl4O2
+_symmetry_space_group_name_H-M  'P2_1/c'
+_cell_length_a       7.91523
+_cell_length_b       7.6178
+_cell_length_c       7.86109
+_cell_angle_alpha    94.6934
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  14
+_chemical_formula_structural  PtN4Cl4O2
+_chemical_formula_sum  Pt2N8Cl8O4
+_cell_volume  472.4084675893589
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cl  Cl1  1  0.71094  0.48103  0.00990  1
+ Cl  Cl2  1  0.20785  -0.02241  0.49995  1
+ Cl  Cl3  1  0.79215  0.02241  0.50005  1
+ Cl  Cl4  1  0.78906  0.48103  0.50990  1
+ Cl  Cl5  1  0.28906  0.51897  -0.00990  1
+ Cl  Cl6  1  0.21094  0.51897  0.49010  1
+ Cl  Cl7  1  0.29215  -0.02241  -0.00005  1
+ Cl  Cl8  1  0.70785  0.02241  0.00005  1
+ N  N1  1  0.48372  0.28588  0.25328  1
+ N  N2  1  0.01628  0.28588  0.75328  1
+ N  N3  1  0.01182  0.18339  0.84648  1
+ N  N4  1  0.51182  0.81661  0.65352  1
+ N  N5  1  -0.01182  0.81661  0.15352  1
+ N  N6  1  0.48818  0.18339  0.34648  1
+ N  N7  1  0.98372  0.71412  0.24672  1
+ N  N8  1  0.51628  0.71412  0.74672  1
+ O  O1  1  0.67794  0.58260  0.38214  1
+ O  O2  1  0.32206  0.41740  0.61786  1
+ O  O3  1  0.17794  0.41740  0.11786  1
+ O  O4  1  0.82206  0.58260  0.88214  1
+ Pt  Pt1  1  0.00000  0.00000  0.00000  1
+ Pt  Pt2  1  0.50000  0.00000  0.50000  1

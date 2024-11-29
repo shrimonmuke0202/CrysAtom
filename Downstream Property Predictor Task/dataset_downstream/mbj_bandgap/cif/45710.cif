@@ -1,0 +1,61 @@
+CIF file written using JARVIS-Tools package.
+data_SrBi2B4O10
+_symmetry_space_group_name_H-M  'P-1'
+_cell_length_a       6.83343
+_cell_length_b       6.79687
+_cell_length_c       9.90906
+_cell_angle_alpha    95.9488
+_cell_angle_beta     108.983
+_cell_angle_gamma    103.191
+
+_symmetry_Int_Tables_number  2
+_chemical_formula_structural  SrBi2B4O10
+_chemical_formula_sum  Sr2Bi4B8O20
+_cell_volume  415.7394406889917
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ B  B1  1  0.84496  0.59579  0.36895  1
+ B  B2  1  0.59092  0.26401  0.90357  1
+ B  B3  1  0.79973  0.28780  0.17128  1
+ B  B4  1  0.40908  0.73599  0.09643  1
+ B  B5  1  0.20027  0.71220  0.82872  1
+ B  B6  1  0.60259  0.79168  0.93030  1
+ B  B7  1  0.39741  0.20832  0.06970  1
+ B  B8  1  0.15504  0.40421  0.63105  1
+ Bi  Bi1  1  0.72712  0.63255  0.66671  1
+ Bi  Bi2  1  0.27288  0.36745  0.33329  1
+ Bi  Bi3  1  0.70128  0.02899  0.40353  1
+ Bi  Bi4  1  0.29872  0.97101  0.59647  1
+ O  O1  1  0.21120  0.18111  0.09356  1
+ O  O2  1  0.35806  0.10082  0.40890  1
+ O  O3  1  0.58281  0.19821  0.17326  1
+ O  O4  1  0.41719  0.80179  0.82674  1
+ O  O5  1  0.06220  0.82998  0.75316  1
+ O  O6  1  0.64194  0.89918  0.59110  1
+ O  O7  1  0.78361  0.28809  0.01629  1
+ O  O8  1  0.07571  0.19142  0.59743  1
+ O  O9  1  0.41721  0.75303  0.23622  1
+ O  O10  1  0.59831  0.75215  0.06575  1
+ O  O11  1  0.40169  0.24785  0.93425  1
+ O  O12  1  0.93780  0.17002  0.24684  1
+ O  O13  1  0.58279  0.24697  0.76378  1
+ O  O14  1  0.78880  0.81889  0.90644  1
+ O  O15  1  0.11416  0.49339  0.75026  1
+ O  O16  1  0.26188  0.51624  0.55620  1
+ O  O17  1  0.21639  0.71191  0.98371  1
+ O  O18  1  0.92429  0.80858  0.40257  1
+ O  O19  1  0.88584  0.50661  0.24974  1
+ O  O20  1  0.73812  0.48376  0.44380  1
+ Sr  Sr1  1  0.96438  0.15781  0.83247  1
+ Sr  Sr2  1  0.03562  0.84219  0.16753  1

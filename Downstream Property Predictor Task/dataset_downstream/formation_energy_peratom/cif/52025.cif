@@ -1,0 +1,37 @@
+CIF file written using JARVIS-Tools package.
+data_FeP2O7
+_symmetry_space_group_name_H-M  'C2'
+_cell_length_a       5.06337
+_cell_length_b       5.06336
+_cell_length_c       4.47871
+_cell_angle_alpha    81.8091
+_cell_angle_beta     81.8091
+_cell_angle_gamma    100.203
+
+_symmetry_Int_Tables_number  5
+_chemical_formula_structural  FeP2O7
+_chemical_formula_sum  FeP2O7
+_cell_volume  110.18483724335863
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Fe  Fe1  1  0.88780  0.11220  0.00000  1
+ O  O1  1  0.44815  0.55185  0.50000  1
+ O  O2  1  0.14636  0.33947  0.17982  1
+ O  O3  1  0.56930  0.14469  0.27269  1
+ O  O4  1  0.66053  0.85364  0.82018  1
+ O  O5  1  0.85531  0.43070  0.72731  1
+ O  O6  1  0.92846  0.81134  0.29372  1
+ O  O7  1  0.18866  0.07154  0.70628  1
+ P  P1  1  0.73629  0.66759  0.59290  1
+ P  P2  1  0.33241  0.26371  0.40710  1

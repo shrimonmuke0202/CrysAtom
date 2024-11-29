@@ -1,0 +1,55 @@
+CIF file written using JARVIS-Tools package.
+data_Mo2RuSe4
+_symmetry_space_group_name_H-M  'P-1'
+_cell_length_a       6.69732
+_cell_length_b       9.26198
+_cell_length_c       9.79038
+_cell_angle_alpha    90.0223
+_cell_angle_beta     90.8485
+_cell_angle_gamma    95.3322
+
+_symmetry_Int_Tables_number  2
+_chemical_formula_structural  Mo2RuSe4
+_chemical_formula_sum  Mo8Ru4Se6
+_cell_volume  604.6060368371179
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Mo  Mo1  1  0.76653  0.51957  0.06707  1
+ Mo  Mo2  1  0.76653  0.02139  0.56655  1
+ Mo  Mo3  1  0.58316  0.10811  0.34650  1
+ Mo  Mo4  1  0.54090  0.32532  0.91293  1
+ Mo  Mo5  1  0.45910  0.67468  0.08707  1
+ Mo  Mo6  1  0.41684  0.89189  0.65350  1
+ Mo  Mo7  1  0.23347  0.97861  0.43345  1
+ Mo  Mo8  1  0.23347  0.48043  0.93293  1
+ Ru  Ru1  1  0.54867  0.81912  0.40874  1
+ Ru  Ru2  1  0.58891  0.60870  0.83746  1
+ Ru  Ru3  1  0.41109  0.39130  0.16254  1
+ Ru  Ru4  1  0.45133  0.18088  0.59126  1
+ Se  Se1  1  0.86848  0.94645  0.31870  1
+ Se  Se2  1  0.13085  0.55217  0.18110  1
+ Se  Se3  1  0.72029  0.25122  0.13008  1
+ Se  Se4  1  0.73817  0.74741  0.61859  1
+ Se  Se5  1  0.78166  0.28826  0.50496  1
+ Se  Se6  1  0.79069  0.78476  0.99140  1
+ Se  Se7  1  0.86915  0.44783  0.81890  1
+ Se  Se8  1  0.20931  0.21524  0.00859  1
+ Se  Se9  1  0.37359  0.92154  0.19931  1
+ Se  Se10  1  0.36733  0.43131  0.69514  1
+ Se  Se11  1  0.21834  0.71174  0.49504  1
+ Se  Se12  1  0.26183  0.25259  0.38141  1
+ Se  Se13  1  0.63267  0.56869  0.30486  1
+ Se  Se14  1  0.27971  0.74878  0.86992  1
+ Se  Se15  1  0.62641  0.07846  0.80069  1
+ Se  Se16  1  0.13152  0.05355  0.68130  1

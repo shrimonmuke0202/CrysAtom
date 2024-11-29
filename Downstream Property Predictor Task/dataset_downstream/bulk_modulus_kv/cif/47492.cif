@@ -1,0 +1,45 @@
+CIF file written using JARVIS-Tools package.
+data_Si2SnO6
+_symmetry_space_group_name_H-M  'C2/c'
+_cell_length_a       5.39873
+_cell_length_b       6.64587
+_cell_length_c       6.64587
+_cell_angle_alpha    85.1018
+_cell_angle_beta     75.6019
+_cell_angle_gamma    75.6019
+
+_symmetry_Int_Tables_number  15
+_chemical_formula_structural  Si2SnO6
+_chemical_formula_sum  Si4Sn2O2
+_cell_volume  223.6350217791501
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ O  O1  1  0.69263  0.60815  0.09614  1
+ O  O2  1  0.45939  0.34997  0.36587  1
+ O  O3  1  0.04062  0.63414  0.65002  1
+ O  O4  1  0.35179  0.04998  0.18962  1
+ O  O5  1  0.95939  0.36587  0.34997  1
+ O  O6  1  0.54062  0.65002  0.63414  1
+ O  O7  1  0.30735  0.39185  0.90387  1
+ O  O8  1  0.80735  0.90387  0.39185  1
+ O  O9  1  0.14821  0.81038  0.95002  1
+ O  O10  1  0.85179  0.18962  0.04998  1
+ O  O11  1  0.64821  0.95002  0.81038  1
+ O  O12  1  0.19263  0.09614  0.60815  1
+ Si  Si1  1  0.76491  0.78157  0.61352  1
+ Si  Si2  1  0.73509  0.38648  0.21843  1
+ Si  Si3  1  0.26491  0.61352  0.78157  1
+ Si  Si4  1  0.23509  0.21843  0.38648  1
+ Sn  Sn1  1  0.75000  0.89095  0.10905  1
+ Sn  Sn2  1  0.25000  0.10905  0.89095  1

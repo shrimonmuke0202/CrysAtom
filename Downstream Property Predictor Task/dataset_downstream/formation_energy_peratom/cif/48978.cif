@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_Zr3Fe2Si3
+_symmetry_space_group_name_H-M  'Cmcm'
+_cell_length_a       5.38714
+_cell_length_b       5.38714
+_cell_length_c       12.9917
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    138.117
+
+_symmetry_Int_Tables_number  63
+_chemical_formula_structural  Zr3Fe2Si3
+_chemical_formula_sum  Zr6Fe4Si6
+_cell_volume  251.71474577734233
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Fe  Fe1  1  0.77861  0.22139  0.91892  1
+ Fe  Fe2  1  0.22139  0.77861  0.08108  1
+ Fe  Fe3  1  0.77861  0.22139  0.58108  1
+ Fe  Fe4  1  0.22139  0.77861  0.41892  1
+ Si  Si1  1  0.61333  0.38667  0.45744  1
+ Si  Si2  1  0.38667  0.61333  0.54256  1
+ Si  Si3  1  0.61333  0.38667  0.04256  1
+ Si  Si4  1  0.38667  0.61333  0.95744  1
+ Si  Si5  1  0.33206  0.66794  0.25000  1
+ Si  Si6  1  0.66794  0.33206  0.75000  1
+ Zr  Zr1  1  0.92203  0.07797  0.38555  1
+ Zr  Zr2  1  0.07797  0.92203  0.61445  1
+ Zr  Zr3  1  0.92203  0.07797  0.11445  1
+ Zr  Zr4  1  0.07797  0.92203  0.88555  1
+ Zr  Zr5  1  0.63489  0.36511  0.25000  1
+ Zr  Zr6  1  0.36511  0.63489  0.75000  1

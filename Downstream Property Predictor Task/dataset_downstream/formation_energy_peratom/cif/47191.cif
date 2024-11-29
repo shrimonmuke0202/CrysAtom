@@ -1,0 +1,59 @@
+CIF file written using JARVIS-Tools package.
+data_Li2MgSiO4
+_symmetry_space_group_name_H-M  'P2_1/c'
+_cell_length_a       5.01972
+_cell_length_b       10.7436
+_cell_length_c       8.00786
+_cell_angle_alpha    90
+_cell_angle_beta     128.22
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  14
+_chemical_formula_structural  Li2MgSiO4
+_chemical_formula_sum  Li8Mg4Si4O6
+_cell_volume  339.2919833049732
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Li  Li1  1  0.68765  0.83773  0.99740  1
+ Li  Li2  1  0.31235  0.33773  0.50260  1
+ Li  Li3  1  0.31235  0.16227  0.00260  1
+ Li  Li4  1  0.68765  0.66227  0.49740  1
+ Li  Li5  1  0.53560  0.92549  0.23811  1
+ Li  Li6  1  0.46440  0.42549  0.26189  1
+ Li  Li7  1  0.46440  0.07451  0.76189  1
+ Li  Li8  1  0.53560  0.57451  0.73811  1
+ Mg  Mg1  1  0.80910  0.33422  -0.00068  1
+ Mg  Mg2  1  0.19090  0.66578  0.00068  1
+ Mg  Mg3  1  0.19090  0.83422  0.50068  1
+ Mg  Mg4  1  0.80910  0.16578  0.49932  1
+ O  O1  1  0.17285  0.15967  0.46690  1
+ O  O2  1  0.95670  0.55879  0.74907  1
+ O  O3  1  0.74385  0.16020  0.03700  1
+ O  O4  1  0.25615  0.83980  0.96300  1
+ O  O5  1  0.74385  0.33980  0.53700  1
+ O  O6  1  0.60432  0.58961  0.24841  1
+ O  O7  1  0.25615  0.66020  0.46300  1
+ O  O8  1  0.17285  0.34033  0.96690  1
+ O  O9  1  0.04330  0.44121  0.25093  1
+ O  O10  1  0.82715  0.65967  0.03310  1
+ O  O11  1  0.39568  0.41039  0.75159  1
+ O  O12  1  0.60432  0.91039  0.74841  1
+ O  O13  1  0.04330  0.05879  0.75093  1
+ O  O14  1  0.95670  0.94121  0.24907  1
+ O  O15  1  0.82715  0.84033  0.53310  1
+ O  O16  1  0.39568  0.08961  0.25159  1
+ Si  Si1  1  0.06468  0.08608  0.25022  1
+ Si  Si2  1  0.93532  0.58608  0.24978  1
+ Si  Si3  1  0.93532  0.91392  0.74978  1
+ Si  Si4  1  0.06468  0.41392  0.75022  1

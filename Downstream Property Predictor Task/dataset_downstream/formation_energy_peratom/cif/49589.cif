@@ -1,0 +1,46 @@
+CIF file written using JARVIS-Tools package.
+data_CeYCo17
+_symmetry_space_group_name_H-M  'R3m'
+_cell_length_a       6.24084
+_cell_length_b       6.24084
+_cell_length_c       6.24084
+_cell_angle_alpha    82.9805
+_cell_angle_beta     82.9806
+_cell_angle_gamma    82.9805
+
+_symmetry_Int_Tables_number  160
+_chemical_formula_structural  CeYCo17
+_chemical_formula_sum  CeYCo7
+_cell_volume  238.0147462304754
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ce  Ce1  1  0.65314  0.65314  0.65314  1
+ Co  Co1  1  0.71313  0.28960  -0.00034  1
+ Co  Co2  1  -0.00034  0.71313  0.28960  1
+ Co  Co3  1  0.28960  -0.00034  0.71313  1
+ Co  Co4  1  -0.00034  0.28960  0.71313  1
+ Co  Co5  1  0.71313  -0.00034  0.28960  1
+ Co  Co6  1  0.28960  0.71313  -0.00034  1
+ Co  Co7  1  0.34715  0.34715  0.84633  1
+ Co  Co8  1  0.90260  0.90260  0.90260  1
+ Co  Co9  1  0.84633  0.34715  0.34715  1
+ Co  Co10  1  0.65417  0.65417  0.14363  1
+ Co  Co11  1  0.14363  0.65417  0.65417  1
+ Co  Co12  1  0.65417  0.14363  0.65417  1
+ Co  Co13  1  0.00460  0.00460  0.49856  1
+ Co  Co14  1  0.49856  0.00460  0.00460  1
+ Co  Co15  1  0.00460  0.49856  0.00460  1
+ Co  Co16  1  0.34715  0.84633  0.34715  1
+ Co  Co17  1  0.09691  0.09691  0.09691  1
+ Y  Y1  1  0.34217  0.34217  0.34217  1

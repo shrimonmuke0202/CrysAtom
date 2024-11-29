@@ -1,0 +1,59 @@
+CIF file written using JARVIS-Tools package.
+data_YAlGeO5
+_symmetry_space_group_name_H-M  'Pbam'
+_cell_length_a       5.66775
+_cell_length_b       7.28939
+_cell_length_c       8.40122
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  55
+_chemical_formula_structural  YAlGeO5
+_chemical_formula_sum  Y4Al4Ge4O20
+_cell_volume  347.0918299286865
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Al  Al1  1  0.24904  0.50000  0.00000  1
+ Al  Al2  1  0.75096  0.00000  0.50000  1
+ Al  Al3  1  0.75096  0.50000  0.00000  1
+ Al  Al4  1  0.24904  0.00000  0.50000  1
+ Ge  Ge1  1  0.50000  0.61987  0.35488  1
+ Ge  Ge2  1  0.50000  0.38013  0.64512  1
+ Ge  Ge3  1  0.50000  0.11987  0.14512  1
+ Ge  Ge4  1  0.50000  0.88013  0.85488  1
+ O  O1  1  0.50000  0.15256  0.56969  1
+ O  O2  1  0.50000  0.84744  0.43031  1
+ O  O3  1  0.50000  0.65256  0.93031  1
+ O  O4  1  0.50000  0.34744  0.06969  1
+ O  O5  1  0.25208  0.60662  0.21176  1
+ O  O6  1  0.00000  0.16194  0.55388  1
+ O  O7  1  0.00000  0.83806  0.44612  1
+ O  O8  1  0.00000  0.66194  0.94612  1
+ O  O9  1  0.00000  0.33806  0.05388  1
+ O  O10  1  0.71571  0.00000  0.00000  1
+ O  O11  1  0.25208  0.89338  0.71176  1
+ O  O12  1  0.28429  0.50000  0.50000  1
+ O  O13  1  0.74792  0.89338  0.71176  1
+ O  O14  1  0.74792  0.10662  0.28824  1
+ O  O15  1  0.25208  0.39338  0.78824  1
+ O  O16  1  0.25208  0.10662  0.28824  1
+ O  O17  1  0.28429  0.00000  0.00000  1
+ O  O18  1  0.71571  0.50000  0.50000  1
+ O  O19  1  0.74792  0.60662  0.21176  1
+ O  O20  1  0.74792  0.39338  0.78824  1
+ Y  Y1  1  0.00000  0.14184  0.82642  1
+ Y  Y2  1  0.00000  0.85816  0.17358  1
+ Y  Y3  1  0.00000  0.64184  0.67358  1
+ Y  Y4  1  0.00000  0.35816  0.32642  1

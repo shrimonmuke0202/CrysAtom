@@ -1,0 +1,45 @@
+CIF file written using JARVIS-Tools package.
+data_VSi2O6
+_symmetry_space_group_name_H-M  'C2/c'
+_cell_length_a       6.46632
+_cell_length_b       6.46632
+_cell_length_c       5.34514
+_cell_angle_alpha    75.2468
+_cell_angle_beta     104.753
+_cell_angle_gamma    95.514
+
+_symmetry_Int_Tables_number  15
+_chemical_formula_structural  VSi2O6
+_chemical_formula_sum  V2Si4O2
+_cell_volume  208.88755216778108
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ O  O1  1  0.90145  0.62287  0.22329  1
+ O  O2  1  0.18463  0.95671  0.13376  1
+ O  O3  1  0.09855  0.37713  0.77671  1
+ O  O4  1  0.36833  0.65051  0.54712  1
+ O  O5  1  0.62287  0.90145  0.27671  1
+ O  O6  1  0.34949  0.63167  0.04712  1
+ O  O7  1  0.65051  0.36833  0.95288  1
+ O  O8  1  0.04329  0.81537  0.63376  1
+ O  O9  1  0.63167  0.34949  0.45288  1
+ O  O10  1  0.81537  0.04329  0.86624  1
+ O  O11  1  0.95671  0.18463  0.36624  1
+ O  O12  1  0.37713  0.09855  0.72329  1
+ Si  Si1  1  0.21361  0.61479  0.75253  1
+ Si  Si2  1  0.38521  0.78639  0.25253  1
+ Si  Si3  1  0.61479  0.21361  0.74747  1
+ Si  Si4  1  0.78639  0.38521  0.24747  1
+ V  V1  1  0.10055  0.10055  0.75000  1
+ V  V2  1  0.89945  0.89945  0.25000  1

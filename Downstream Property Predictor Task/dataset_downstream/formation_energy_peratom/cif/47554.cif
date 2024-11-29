@@ -1,0 +1,45 @@
+CIF file written using JARVIS-Tools package.
+data_Ba3Si2As4
+_symmetry_space_group_name_H-M  'C2/c'
+_cell_length_a       7.76389
+_cell_length_b       8.5334
+_cell_length_c       10.043
+_cell_angle_alpha    107.936
+_cell_angle_beta     104.955
+_cell_angle_gamma    107.603
+
+_symmetry_Int_Tables_number  15
+_chemical_formula_structural  Ba3Si2As4
+_chemical_formula_sum  Ba6Si4As8
+_cell_volume  556.318299465424
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ As  As1  1  0.55724  0.81099  0.14191  1
+ As  As2  1  0.65147  0.44308  0.39554  1
+ As  As3  1  0.34853  0.55692  0.60446  1
+ As  As4  1  0.75593  0.04754  0.60446  1
+ As  As5  1  0.08467  0.33093  0.14191  1
+ As  As6  1  0.24407  0.95246  0.39554  1
+ As  As7  1  0.91533  0.66907  0.85809  1
+ As  As8  1  0.44276  0.18901  0.85809  1
+ Ba  Ba1  1  0.93957  0.18957  0.37913  1
+ Ba  Ba2  1  0.06043  0.81043  0.62087  1
+ Ba  Ba3  1  0.69317  0.94317  0.88633  1
+ Ba  Ba4  1  0.30683  0.05683  0.11367  1
+ Ba  Ba5  1  0.81615  0.56615  0.13230  1
+ Ba  Ba6  1  0.18385  0.43385  0.86770  1
+ Si  Si1  1  0.51422  0.17106  0.63856  1
+ Si  Si2  1  0.62433  0.46750  0.63856  1
+ Si  Si3  1  0.48578  0.82894  0.36144  1
+ Si  Si4  1  0.37567  0.53250  0.36144  1

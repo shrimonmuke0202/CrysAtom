@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_Ta6MnC3S6
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       5.71664
+_cell_length_b       5.71664
+_cell_length_c       8.52929
+_cell_angle_alpha    83.5802
+_cell_angle_beta     83.5801
+_cell_angle_gamma    120.002
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  Ta6MnC3S6
+_chemical_formula_sum  Ta6MnC3S6
+_cell_volume  235.27476865963737
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ C  C1  1  0.16861  0.83139  0.50000  1
+ C  C2  1  0.50000  0.50000  0.50000  1
+ C  C3  1  0.83139  0.16861  0.50000  1
+ Mn  Mn1  1  0.00000  0.00000  0.00000  1
+ S  S1  1  0.27947  0.27947  0.15892  1
+ S  S2  1  0.61431  0.94639  0.16068  1
+ S  S3  1  0.94639  0.61431  0.16068  1
+ S  S4  1  0.05361  0.38569  0.83932  1
+ S  S5  1  0.38569  0.05361  0.83932  1
+ S  S6  1  0.72053  0.72053  0.84108  1
+ Ta  Ta1  1  0.11944  0.11944  0.63849  1
+ Ta  Ta2  1  0.45448  0.78626  0.63999  1
+ Ta  Ta3  1  0.78626  0.45448  0.63999  1
+ Ta  Ta4  1  0.21374  0.54552  0.36001  1
+ Ta  Ta5  1  0.54552  0.21374  0.36001  1
+ Ta  Ta6  1  0.88056  0.88056  0.36151  1

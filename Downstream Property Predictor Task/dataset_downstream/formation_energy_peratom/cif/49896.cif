@@ -1,0 +1,45 @@
+CIF file written using JARVIS-Tools package.
+data_Nb5Si3N
+_symmetry_space_group_name_H-M  'P6_3/mcm'
+_cell_length_a       7.54335
+_cell_length_b       7.54335
+_cell_length_c       5.43818
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_symmetry_Int_Tables_number  193
+_chemical_formula_structural  Nb5Si3N
+_chemical_formula_sum  Nb0Si6N2
+_cell_volume  267.98643816550083
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ N  N1  1  0.00000  0.00000  0.50000  1
+ N  N2  1  0.00000  0.00000  0.00000  1
+ Nb  Nb1  1  0.76671  0.76671  0.25000  1
+ Nb  Nb2  1  0.00000  0.23329  0.25000  1
+ Nb  Nb3  1  -0.00000  0.76671  0.75000  1
+ Nb  Nb4  1  0.23329  0.00000  0.25000  1
+ Nb  Nb5  1  0.23329  0.23329  0.75000  1
+ Nb  Nb6  1  0.33333  0.66667  0.00000  1
+ Nb  Nb7  1  0.66667  0.33333  0.00000  1
+ Nb  Nb8  1  0.33333  0.66667  0.50000  1
+ Nb  Nb9  1  0.66667  0.33333  0.50000  1
+ Nb  Nb10  1  0.76671  -0.00000  0.75000  1
+ Si  Si1  1  0.59401  -0.00000  0.25000  1
+ Si  Si2  1  0.40599  0.00000  0.75000  1
+ Si  Si3  1  -0.00000  0.59401  0.25000  1
+ Si  Si4  1  0.00000  0.40599  0.75000  1
+ Si  Si5  1  0.40599  0.40599  0.25000  1
+ Si  Si6  1  0.59401  0.59401  0.75000  1

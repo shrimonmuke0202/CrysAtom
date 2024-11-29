@@ -1,0 +1,40 @@
+CIF file written using JARVIS-Tools package.
+data_Na2CrH2F8
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       5.38684
+_cell_length_b       5.4117
+_cell_length_c       5.4117
+_cell_angle_alpha    94.1265
+_cell_angle_beta     106.664
+_cell_angle_gamma    106.664
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  Na2CrH2F8
+_chemical_formula_sum  Na2CrH2F8
+_cell_volume  142.73155684995666
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cr  Cr1  1  0.00000  0.00000  0.00000  1
+ F  F1  1  0.77678  0.67423  0.00102  1
+ F  F2  1  0.77691  0.14088  0.14088  1
+ F  F3  1  0.22322  0.99898  0.32577  1
+ F  F4  1  0.73317  0.45944  0.45944  1
+ F  F5  1  0.26683  0.54056  0.54056  1
+ F  F6  1  0.77678  0.00102  0.67423  1
+ F  F7  1  0.22309  0.85912  0.85912  1
+ F  F8  1  0.22322  0.32577  0.99898  1
+ H  H1  1  0.78053  0.34427  0.34427  1
+ H  H2  1  0.21947  0.65573  0.65573  1
+ Na  Na1  1  0.50000  0.73538  0.26462  1
+ Na  Na2  1  0.50000  0.26462  0.73538  1

@@ -1,0 +1,46 @@
+CIF file written using JARVIS-Tools package.
+data_Sr4Fe4O11
+_symmetry_space_group_name_H-M  'Cmmm'
+_cell_length_a       6.65706
+_cell_length_b       6.65706
+_cell_length_c       5.45022
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    110.572
+
+_symmetry_Int_Tables_number  65
+_chemical_formula_structural  Sr4Fe4O11
+_chemical_formula_sum  Sr4Fe4O
+_cell_volume  226.13204758367368
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Fe  Fe1  1  0.00000  0.50000  0.50000  1
+ Fe  Fe2  1  0.50000  0.00000  0.50000  1
+ Fe  Fe3  1  0.74613  0.74613  0.00000  1
+ Fe  Fe4  1  0.25387  0.25387  0.00000  1
+ O  O1  1  0.35046  0.10780  0.24127  1
+ O  O2  1  0.10780  0.35046  0.24127  1
+ O  O3  1  0.73318  0.26682  0.50000  1
+ O  O4  1  0.35046  0.10780  0.75873  1
+ O  O5  1  0.64954  0.89220  0.75873  1
+ O  O6  1  0.89220  0.64954  0.24127  1
+ O  O7  1  0.10780  0.35046  0.75873  1
+ O  O8  1  0.26682  0.73318  0.50000  1
+ O  O9  1  0.89220  0.64954  0.75873  1
+ O  O10  1  0.50000  0.50000  0.00000  1
+ O  O11  1  0.64954  0.89220  0.24127  1
+ Sr  Sr1  1  0.50000  0.50000  0.50000  1
+ Sr  Sr2  1  0.00000  0.00000  0.50000  1
+ Sr  Sr3  1  0.74151  0.25849  0.00000  1
+ Sr  Sr4  1  0.25849  0.74151  0.00000  1

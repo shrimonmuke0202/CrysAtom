@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_ThCoGe2
+_symmetry_space_group_name_H-M  'Cmcm'
+_cell_length_a       8.62419
+_cell_length_b       8.6242
+_cell_length_c       4.26142
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    151.795
+
+_symmetry_Int_Tables_number  63
+_chemical_formula_structural  ThCoGe2
+_chemical_formula_sum  Th2Co2Ge4
+_cell_volume  149.7999794692281
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Co  Co1  1  0.81928  0.18072  0.25000  1
+ Co  Co2  1  0.18072  0.81928  0.75000  1
+ Ge  Ge1  1  0.95707  0.04293  0.25000  1
+ Ge  Ge2  1  0.04293  0.95707  0.75000  1
+ Ge  Ge3  1  0.25009  0.74991  0.25000  1
+ Ge  Ge4  1  0.74991  0.25009  0.75000  1
+ Th  Th1  1  0.60962  0.39038  0.25000  1
+ Th  Th2  1  0.39038  0.60962  0.75000  1

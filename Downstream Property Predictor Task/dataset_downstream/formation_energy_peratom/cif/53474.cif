@@ -1,0 +1,48 @@
+CIF file written using JARVIS-Tools package.
+data_Ce2Mn3Cu9As7
+_symmetry_space_group_name_H-M  'P-6'
+_cell_length_a       9.75478
+_cell_length_b       9.75477
+_cell_length_c       3.87247
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_symmetry_Int_Tables_number  174
+_chemical_formula_structural  Ce2Mn3Cu9As7
+_chemical_formula_sum  Ce2Mn3Cu9As7
+_cell_volume  319.1194113981804
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ As  As1  1  0.66667  0.33333  0.00000  1
+ As  As2  1  0.36302  0.92069  0.50000  1
+ As  As3  1  0.28433  0.18339  0.00000  1
+ As  As4  1  0.89907  0.71567  0.00000  1
+ As  As5  1  0.81661  0.10093  0.00000  1
+ As  As6  1  0.55767  0.63698  0.50000  1
+ As  As7  1  0.07931  0.44233  0.50000  1
+ Ce  Ce1  1  0.33333  0.66667  0.00000  1
+ Ce  Ce2  1  0.00000  0.00000  0.50000  1
+ Cu  Cu1  1  0.94846  0.48519  0.00000  1
+ Cu  Cu2  1  0.51481  0.46327  0.00000  1
+ Cu  Cu3  1  0.06466  0.69654  0.50000  1
+ Cu  Cu4  1  0.70411  0.80883  0.00000  1
+ Cu  Cu5  1  0.10472  0.29589  0.00000  1
+ Cu  Cu6  1  0.53673  0.05154  0.00000  1
+ Cu  Cu7  1  0.30346  0.36812  0.50000  1
+ Cu  Cu8  1  0.63188  0.93534  0.50000  1
+ Cu  Cu9  1  0.19117  0.89528  0.00000  1
+ Mn  Mn1  1  0.47094  0.21599  0.50000  1
+ Mn  Mn2  1  0.74505  0.52906  0.50000  1
+ Mn  Mn3  1  0.78401  0.25495  0.50000  1

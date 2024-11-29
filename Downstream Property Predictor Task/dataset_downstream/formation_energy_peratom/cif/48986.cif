@@ -1,0 +1,45 @@
+CIF file written using JARVIS-Tools package.
+data_Zr5CuSn3
+_symmetry_space_group_name_H-M  'P6_3/mcm'
+_cell_length_a       8.65819
+_cell_length_b       8.6582
+_cell_length_c       5.87717
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_symmetry_Int_Tables_number  193
+_chemical_formula_structural  Zr5CuSn3
+_chemical_formula_sum  Zr0Cu2Sn6
+_cell_volume  381.55187469941916
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cu  Cu1  1  0.00000  0.00000  0.00000  1
+ Cu  Cu2  1  0.00000  0.00000  0.50000  1
+ Sn  Sn1  1  0.00000  0.38512  0.75000  1
+ Sn  Sn2  1  -0.00000  0.61488  0.25000  1
+ Sn  Sn3  1  0.61488  -0.00000  0.25000  1
+ Sn  Sn4  1  0.38512  0.38512  0.25000  1
+ Sn  Sn5  1  0.38512  0.00000  0.75000  1
+ Sn  Sn6  1  0.61488  0.61488  0.75000  1
+ Zr  Zr1  1  0.73611  0.73611  0.25000  1
+ Zr  Zr2  1  0.66667  0.33333  0.50000  1
+ Zr  Zr3  1  0.66667  0.33333  0.00000  1
+ Zr  Zr4  1  0.73611  0.00000  0.75000  1
+ Zr  Zr5  1  0.26389  -0.00000  0.25000  1
+ Zr  Zr6  1  -0.00000  0.26389  0.25000  1
+ Zr  Zr7  1  0.26389  0.26389  0.75000  1
+ Zr  Zr8  1  0.00000  0.73611  0.75000  1
+ Zr  Zr9  1  0.33333  0.66667  0.00000  1
+ Zr  Zr10  1  0.33333  0.66667  0.50000  1

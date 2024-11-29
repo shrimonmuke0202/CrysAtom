@@ -1,0 +1,41 @@
+CIF file written using JARVIS-Tools package.
+data_ZrSi3Pd3
+_symmetry_space_group_name_H-M  'Cmcm'
+_cell_length_a       8.11248
+_cell_length_b       8.11248
+_cell_length_c       7.18481
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    152.768
+
+_symmetry_Int_Tables_number  63
+_chemical_formula_structural  ZrSi3Pd3
+_chemical_formula_sum  Zr2Si6Pd6
+_cell_volume  216.36932509942503
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Pd  Pd1  1  0.34259  0.65741  0.25000  1
+ Pd  Pd2  1  0.65741  0.34259  0.75000  1
+ Pd  Pd3  1  0.82363  0.17637  0.55427  1
+ Pd  Pd4  1  0.17637  0.82363  0.44573  1
+ Pd  Pd5  1  0.17637  0.82363  0.05427  1
+ Pd  Pd6  1  0.82363  0.17637  0.94573  1
+ Si  Si1  1  0.57334  0.42666  0.03052  1
+ Si  Si2  1  0.42666  0.57334  0.96948  1
+ Si  Si3  1  0.42666  0.57334  0.53052  1
+ Si  Si4  1  0.57334  0.42666  0.46948  1
+ Si  Si5  1  0.73988  0.26012  0.25000  1
+ Si  Si6  1  0.26012  0.73988  0.75000  1
+ Zr  Zr1  1  0.99148  0.00852  0.25000  1
+ Zr  Zr2  1  0.00852  0.99148  0.75000  1

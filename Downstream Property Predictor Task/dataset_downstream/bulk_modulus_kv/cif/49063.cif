@@ -1,0 +1,30 @@
+CIF file written using JARVIS-Tools package.
+data_Hg2Cl
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       4.24524
+_cell_length_b       4.19056
+_cell_length_c       5.34507
+_cell_angle_alpha    90.2015
+_cell_angle_beta     90.1659
+_cell_angle_gamma    120.477
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  Hg2Cl
+_chemical_formula_sum  Hg2Cl
+_cell_volume  81.94870650334587
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cl  Cl1  1  0.51953  0.58874  0.76538  1
+ Hg  Hg1  1  0.85101  0.25268  0.11250  1
+ Hg  Hg2  1  0.18790  -0.07505  0.41822  1

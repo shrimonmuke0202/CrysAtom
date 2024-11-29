@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_LiAlPO5
+_symmetry_space_group_name_H-M  'P-1'
+_cell_length_a       5.12521
+_cell_length_b       5.18262
+_cell_length_c       6.95865
+_cell_angle_alpha    106.914
+_cell_angle_beta     106.52
+_cell_angle_gamma    98.5443
+
+_symmetry_Int_Tables_number  2
+_chemical_formula_structural  LiAlPO5
+_chemical_formula_sum  Li2Al2P2O0
+_cell_volume  164.06143039330883
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Al  Al1  1  0.00000  0.50000  0.50000  1
+ Al  Al2  1  0.00000  0.50000  -0.00000  1
+ Li  Li1  1  0.25928  0.12872  0.74506  1
+ Li  Li2  1  0.74072  0.87128  0.25494  1
+ O  O1  1  0.14386  0.18050  0.38760  1
+ O  O2  1  0.85614  0.81950  0.61240  1
+ O  O3  1  0.07251  0.42816  0.74916  1
+ O  O4  1  0.92749  0.57184  0.25084  1
+ O  O5  1  0.64293  0.25506  0.37801  1
+ O  O6  1  0.35707  0.74494  0.62199  1
+ O  O7  1  0.24205  0.25689  0.06522  1
+ O  O8  1  0.75795  0.74311  0.93478  1
+ O  O9  1  0.30804  0.81729  0.14877  1
+ O  O10  1  0.69196  0.18271  0.85123  1
+ P  P1  1  0.32549  0.13546  0.24391  1
+ P  P2  1  0.67451  0.86454  0.75609  1

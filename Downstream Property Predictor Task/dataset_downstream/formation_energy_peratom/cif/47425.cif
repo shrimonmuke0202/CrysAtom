@@ -1,0 +1,37 @@
+CIF file written using JARVIS-Tools package.
+data_VHgO3
+_symmetry_space_group_name_H-M  'P-1'
+_cell_length_a       3.60539
+_cell_length_b       4.83933
+_cell_length_c       8.72419
+_cell_angle_alpha    92.9071
+_cell_angle_beta     101.545
+_cell_angle_gamma    90.9488
+
+_symmetry_Int_Tables_number  2
+_chemical_formula_structural  VHgO3
+_chemical_formula_sum  V2Hg2O6
+_cell_volume  148.89009624785382
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Hg  Hg1  1  0.13949  0.18418  0.42334  1
+ Hg  Hg2  1  0.86051  0.81582  0.57666  1
+ O  O1  1  0.60310  0.47887  0.67199  1
+ O  O2  1  0.39690  0.52113  0.32801  1
+ O  O3  1  0.65868  0.03856  0.84673  1
+ O  O4  1  0.34132  0.96144  0.15327  1
+ O  O5  1  0.20480  0.47773  0.91021  1
+ O  O6  1  0.79520  0.52227  0.08979  1
+ V  V1  1  0.67653  0.37668  0.86453  1
+ V  V2  1  0.32347  0.62332  0.13547  1

@@ -1,0 +1,55 @@
+CIF file written using JARVIS-Tools package.
+data_BaEr2S4
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       4.00542
+_cell_length_b       12.2166
+_cell_length_c       14.4198
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  BaEr2S4
+_chemical_formula_sum  Ba4Er8S6
+_cell_volume  705.5986373997965
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ba  Ba1  1  0.25000  0.24188  0.33753  1
+ Ba  Ba2  1  0.25000  0.74188  0.16247  1
+ Ba  Ba3  1  0.75000  0.75812  0.66247  1
+ Ba  Ba4  1  0.75000  0.25812  0.83753  1
+ Er  Er1  1  0.75000  0.42125  0.10133  1
+ Er  Er2  1  0.25000  0.07875  0.60133  1
+ Er  Er3  1  0.75000  0.92125  0.39867  1
+ Er  Er4  1  0.25000  0.57875  0.89867  1
+ Er  Er5  1  0.25000  0.56648  0.39168  1
+ Er  Er6  1  0.75000  0.43352  0.60832  1
+ Er  Er7  1  0.75000  0.93352  0.89168  1
+ Er  Er8  1  0.25000  0.06648  0.10832  1
+ S  S1  1  0.25000  0.79288  0.83947  1
+ S  S2  1  0.25000  0.08146  0.92331  1
+ S  S3  1  0.75000  0.52285  0.78290  1
+ S  S4  1  0.75000  0.91854  0.07669  1
+ S  S5  1  0.75000  0.41854  0.42331  1
+ S  S6  1  0.25000  0.29288  0.66053  1
+ S  S7  1  0.25000  0.58146  0.57669  1
+ S  S8  1  0.25000  0.97715  0.28290  1
+ S  S9  1  0.25000  0.87659  0.52312  1
+ S  S10  1  0.75000  0.62341  0.02312  1
+ S  S11  1  0.75000  0.12341  0.47688  1
+ S  S12  1  0.25000  0.47715  0.21710  1
+ S  S13  1  0.75000  0.70712  0.33947  1
+ S  S14  1  0.25000  0.37659  0.97688  1
+ S  S15  1  0.75000  0.20712  0.16053  1
+ S  S16  1  0.75000  0.02285  0.71710  1

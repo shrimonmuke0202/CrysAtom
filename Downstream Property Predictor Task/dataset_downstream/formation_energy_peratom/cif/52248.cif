@@ -1,0 +1,46 @@
+CIF file written using JARVIS-Tools package.
+data_Mg9Mn2N8
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       8.19534
+_cell_length_b       4.30319
+_cell_length_c       7.07693
+_cell_angle_alpha    90
+_cell_angle_beta     72.2686
+_cell_angle_gamma    74.7793
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  Mg9Mn2N8
+_chemical_formula_sum  Mg9Mn2N8
+_cell_volume  228.51146131305953
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Mg  Mg1  1  0.00000  0.50000  0.50000  1
+ Mg  Mg2  1  0.07779  0.96110  0.78738  1
+ Mg  Mg3  1  0.92221  0.03890  0.21262  1
+ Mg  Mg4  1  0.66157  0.66922  0.42829  1
+ Mg  Mg5  1  0.33843  0.33078  0.57171  1
+ Mg  Mg6  1  0.81145  0.59427  0.95292  1
+ Mg  Mg7  1  0.18855  0.40573  0.04708  1
+ Mg  Mg8  1  0.34150  0.82925  0.25445  1
+ Mg  Mg9  1  0.65850  0.17075  0.74555  1
+ Mn  Mn1  1  0.41742  0.79129  0.79717  1
+ Mn  Mn2  1  0.58258  0.20871  0.20283  1
+ N  N1  1  0.21958  0.89021  0.01596  1
+ N  N2  1  0.78042  0.10979  0.98404  1
+ N  N3  1  0.35807  0.82097  0.58053  1
+ N  N4  1  0.64193  0.17903  0.41947  1
+ N  N5  1  0.65606  0.67197  0.74023  1
+ N  N6  1  0.34394  0.32803  0.25977  1
+ N  N7  1  0.93155  0.53422  0.25269  1
+ N  N8  1  0.06845  0.46578  0.74731  1

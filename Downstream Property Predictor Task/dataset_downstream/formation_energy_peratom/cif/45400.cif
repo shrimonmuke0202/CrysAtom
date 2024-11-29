@@ -1,0 +1,59 @@
+CIF file written using JARVIS-Tools package.
+data_Sm3Ti3Se2O8
+_symmetry_space_group_name_H-M  'P2_1/m'
+_cell_length_a       9.79337
+_cell_length_b       3.9106
+_cell_length_c       13.4187
+_cell_angle_alpha    90
+_cell_angle_beta     110.91
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  11
+_chemical_formula_structural  Sm3Ti3Se2O8
+_chemical_formula_sum  Sm6Ti6Se4O6
+_cell_volume  480.06309081898934
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ O  O1  1  0.00267  0.75000  0.57421  1
+ O  O2  1  0.35809  0.75000  0.76267  1
+ O  O3  1  0.39036  0.25000  0.47031  1
+ O  O4  1  0.60964  0.75000  0.52969  1
+ O  O5  1  0.17655  0.75000  0.42800  1
+ O  O6  1  0.82345  0.25000  0.57200  1
+ O  O7  1  0.24964  0.25000  0.60724  1
+ O  O8  1  0.12049  0.25000  0.74910  1
+ O  O9  1  0.87951  0.75000  0.25090  1
+ O  O10  1  0.44288  0.25000  0.91692  1
+ O  O11  1  0.55712  0.75000  0.08308  1
+ O  O12  1  0.64191  0.25000  0.23733  1
+ O  O13  1  -0.00267  0.25000  0.42579  1
+ O  O14  1  0.12178  0.25000  0.25411  1
+ O  O15  1  0.87822  0.75000  0.74589  1
+ O  O16  1  0.75036  0.75000  0.39276  1
+ Se  Se1  1  0.39129  0.75000  0.25472  1
+ Se  Se2  1  0.16399  0.75000  0.98178  1
+ Se  Se3  1  0.83601  0.25000  0.01822  1
+ Se  Se4  1  0.60871  0.25000  0.74528  1
+ Sm  Sm1  1  0.05047  0.75000  0.16051  1
+ Sm  Sm2  1  0.94953  0.25000  0.83949  1
+ Sm  Sm3  1  0.59189  0.25000  0.41231  1
+ Sm  Sm4  1  0.40811  0.75000  0.58769  1
+ Sm  Sm5  1  0.58450  0.75000  0.91496  1
+ Sm  Sm6  1  0.41550  0.25000  0.08504  1
+ Ti  Ti1  1  0.31681  0.25000  0.76981  1
+ Ti  Ti2  1  0.81165  0.75000  0.60185  1
+ Ti  Ti3  1  0.95522  0.75000  0.40907  1
+ Ti  Ti4  1  0.04478  0.25000  0.59093  1
+ Ti  Ti5  1  0.68319  0.75000  0.23019  1
+ Ti  Ti6  1  0.18835  0.25000  0.39815  1

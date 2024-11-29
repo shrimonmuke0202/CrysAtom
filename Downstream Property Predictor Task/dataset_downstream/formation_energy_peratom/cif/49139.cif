@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_BaHfF6
+_symmetry_space_group_name_H-M  'Cmme'
+_cell_length_a       6.94012
+_cell_length_b       6.94012
+_cell_length_c       5.42668
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    113.489
+
+_symmetry_Int_Tables_number  67
+_chemical_formula_structural  BaHfF6
+_chemical_formula_sum  Ba2Hf2F2
+_cell_volume  239.72007456972884
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ba  Ba1  1  0.25000  0.75000  0.43307  1
+ Ba  Ba2  1  0.75000  0.25000  0.56693  1
+ F  F1  1  0.68125  0.93417  0.24594  1
+ F  F2  1  0.31875  0.06583  0.75406  1
+ F  F3  1  0.81875  0.56583  0.24594  1
+ F  F4  1  0.56583  0.81875  0.75406  1
+ F  F5  1  0.18125  0.43417  0.75406  1
+ F  F6  1  0.43417  0.18125  0.24594  1
+ F  F7  1  0.93417  0.68125  0.75406  1
+ F  F8  1  0.06583  0.31875  0.24594  1
+ F  F9  1  0.43729  0.56271  0.16272  1
+ F  F10  1  0.56271  0.43729  0.83728  1
+ F  F11  1  0.06271  0.93729  0.16272  1
+ F  F12  1  0.93729  0.06271  0.83728  1
+ Hf  Hf1  1  0.75000  0.75000  0.00000  1
+ Hf  Hf2  1  0.25000  0.25000  0.00000  1

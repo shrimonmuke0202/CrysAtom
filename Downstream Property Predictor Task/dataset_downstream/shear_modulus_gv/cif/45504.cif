@@ -1,0 +1,37 @@
+CIF file written using JARVIS-Tools package.
+data_KSO2F
+_symmetry_space_group_name_H-M  'P2_1'
+_cell_length_a       5.60006
+_cell_length_b       4.63653
+_cell_length_c       6.76491
+_cell_angle_alpha    73.1986
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  4
+_chemical_formula_structural  KSO2F
+_chemical_formula_sum  K2S2O4F2
+_cell_volume  168.1517808925583
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ F  F1  1  0.98788  0.82390  0.32787  1
+ F  F2  1  0.48788  0.17610  0.67213  1
+ K  K1  1  0.24545  0.34787  0.29446  1
+ K  K2  1  0.74545  0.65213  0.70554  1
+ O  O1  1  0.03442  0.16517  0.69117  1
+ O  O2  1  0.53442  0.83483  0.30883  1
+ O  O3  1  0.75662  0.28339  0.11942  1
+ O  O4  1  0.25662  0.71661  0.88058  1
+ S  S1  1  0.72563  0.95526  0.15717  1
+ S  S2  1  0.22563  0.04474  0.84283  1

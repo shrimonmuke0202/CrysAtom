@@ -1,0 +1,63 @@
+CIF file written using JARVIS-Tools package.
+data_RbNaSi2O5
+_symmetry_space_group_name_H-M  'P2_1/c'
+_cell_length_a       4.91069
+_cell_length_b       13.7089
+_cell_length_c       7.70765
+_cell_angle_alpha    90
+_cell_angle_beta     90.9752
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  14
+_chemical_formula_structural  RbNaSi2O5
+_chemical_formula_sum  Rb4Na4Si8O20
+_cell_volume  518.8058649681376
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Na  Na1  1  0.22762  0.09263  0.03303  1
+ Na  Na2  1  0.22762  0.40737  0.53303  1
+ Na  Na3  1  0.77238  0.90737  0.96697  1
+ Na  Na4  1  0.77238  0.59263  0.46697  1
+ O  O1  1  0.24429  0.93132  0.91298  1
+ O  O2  1  0.25194  0.42820  0.16993  1
+ O  O3  1  0.37542  0.42982  0.83143  1
+ O  O4  1  0.12208  0.88843  0.57207  1
+ O  O5  1  0.75571  0.06868  0.08702  1
+ O  O6  1  0.74806  0.92820  0.33007  1
+ O  O7  1  0.74806  0.57180  0.83007  1
+ O  O8  1  0.24429  0.56868  0.41298  1
+ O  O9  1  0.12208  0.61157  0.07207  1
+ O  O10  1  0.87792  0.11157  0.42793  1
+ O  O11  1  0.62458  0.57018  0.16857  1
+ O  O12  1  0.87792  0.38843  0.92793  1
+ O  O13  1  0.62458  0.92982  0.66857  1
+ O  O14  1  0.37542  0.07018  0.33143  1
+ O  O15  1  0.27070  0.25669  0.00067  1
+ O  O16  1  0.27070  0.24331  0.50067  1
+ O  O17  1  0.72930  0.75669  0.49933  1
+ O  O18  1  0.72930  0.74331  -0.00067  1
+ O  O19  1  0.25194  0.07180  0.66993  1
+ O  O20  1  0.75571  0.43132  0.58702  1
+ Rb  Rb1  1  0.72169  0.19720  0.78290  1
+ Rb  Rb2  1  0.72169  0.30280  0.28290  1
+ Rb  Rb3  1  0.27831  0.69720  0.71710  1
+ Rb  Rb4  1  0.27831  0.80280  0.21710  1
+ Si  Si1  1  0.69881  0.04598  0.28561  1
+ Si  Si2  1  0.30119  0.54598  0.21439  1
+ Si  Si3  1  0.79647  0.63101  0.01870  1
+ Si  Si4  1  0.20353  0.13101  0.48130  1
+ Si  Si5  1  0.20353  0.36899  0.98130  1
+ Si  Si6  1  0.69881  0.45402  0.78561  1
+ Si  Si7  1  0.30119  0.95402  0.71439  1
+ Si  Si8  1  0.79647  0.86899  0.51870  1

@@ -1,0 +1,30 @@
+CIF file written using JARVIS-Tools package.
+data_KSe2
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       4.99127
+_cell_length_b       4.21491
+_cell_length_c       4.85462
+_cell_angle_alpha    90
+_cell_angle_beta     100.855
+_cell_angle_gamma    114.975
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  KSe2
+_chemical_formula_sum  KSe2
+_cell_volume  90.56044904065294
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ K  K1  1  -0.00000  0.33344  0.16667  1
+ Se  Se1  1  0.72824  0.69740  0.61447  1
+ Se  Se2  1  0.27176  -0.03084  0.71886  1

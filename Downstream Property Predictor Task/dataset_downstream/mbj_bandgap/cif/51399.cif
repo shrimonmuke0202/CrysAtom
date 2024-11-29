@@ -1,0 +1,31 @@
+CIF file written using JARVIS-Tools package.
+data_CdNO2
+_symmetry_space_group_name_H-M  'C2'
+_cell_length_a       4.23411
+_cell_length_b       4.23411
+_cell_length_c       3.18476
+_cell_angle_alpha    72.4014
+_cell_angle_beta     72.4014
+_cell_angle_gamma    61.0797
+
+_symmetry_Int_Tables_number  5
+_chemical_formula_structural  CdNO2
+_chemical_formula_sum  CdNO2
+_cell_volume  46.79479646575792
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cd  Cd1  1  0.04206  0.95794  0.50000  1
+ N  N1  1  0.61169  0.38832  -0.00000  1
+ O  O1  1  0.26681  0.42050  0.16215  1
+ O  O2  1  0.57950  0.73319  0.83786  1

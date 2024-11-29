@@ -1,0 +1,41 @@
+CIF file written using JARVIS-Tools package.
+data_MgFeF5
+_symmetry_space_group_name_H-M  'P-1'
+_cell_length_a       5.16934
+_cell_length_b       5.36841
+_cell_length_c       7.52341
+_cell_angle_alpha    79.9292
+_cell_angle_beta     69.6872
+_cell_angle_gamma    108.625
+
+_symmetry_Int_Tables_number  2
+_chemical_formula_structural  MgFeF5
+_chemical_formula_sum  Mg2Fe2F0
+_cell_volume  175.69328376732756
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ F  F1  1  0.62484  0.86478  0.25830  1
+ F  F2  1  0.37922  0.13825  0.73994  1
+ F  F3  1  0.46587  0.29520  0.34328  1
+ F  F4  1  0.15841  0.78091  0.12137  1
+ F  F5  1  0.25670  0.31703  0.03867  1
+ F  F6  1  0.90226  0.26475  0.43867  1
+ F  F7  1  0.74731  0.68604  -0.04044  1
+ F  F8  1  0.10179  0.73830  0.55955  1
+ F  F9  1  0.84557  0.22213  0.87689  1
+ F  F10  1  0.53814  0.70780  0.65494  1
+ Fe  Fe1  1  0.00203  0.00154  -0.00089  1
+ Fe  Fe2  1  0.50203  0.00151  0.49911  1
+ Mg  Mg1  1  0.69722  0.47513  0.76945  1
+ Mg  Mg2  1  0.30684  0.52793  0.22877  1

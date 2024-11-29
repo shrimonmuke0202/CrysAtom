@@ -1,0 +1,51 @@
+CIF file written using JARVIS-Tools package.
+data_CaWO4
+_symmetry_space_group_name_H-M  'Cmce'
+_cell_length_a       7.69671
+_cell_length_b       7.6967
+_cell_length_c       5.29487
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    119.754
+
+_symmetry_Int_Tables_number  64
+_chemical_formula_structural  CaWO4
+_chemical_formula_sum  Ca4W4O6
+_cell_volume  272.3131385071627
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ca  Ca1  1  0.58865  0.91135  0.75000  1
+ Ca  Ca2  1  0.91135  0.58865  0.25000  1
+ Ca  Ca3  1  0.41135  0.08865  0.25000  1
+ Ca  Ca4  1  0.08865  0.41135  0.75000  1
+ O  O1  1  0.39913  0.10087  0.75000  1
+ O  O2  1  0.10087  0.39913  0.25000  1
+ O  O3  1  0.60087  0.89913  0.25000  1
+ O  O4  1  0.40798  0.59202  0.55446  1
+ O  O5  1  0.20062  0.79938  0.49875  1
+ O  O6  1  0.79938  0.20062  0.50125  1
+ O  O7  1  0.89913  0.60087  0.75000  1
+ O  O8  1  0.70062  0.29938  0.00125  1
+ O  O9  1  0.14956  0.14956  0.50000  1
+ O  O10  1  0.85044  0.85044  0.50000  1
+ O  O11  1  0.29938  0.70062  -0.00125  1
+ O  O12  1  0.35044  0.35044  0.00000  1
+ O  O13  1  0.09202  0.90798  0.05446  1
+ O  O14  1  0.90798  0.09202  0.94554  1
+ O  O15  1  0.64956  0.64956  0.00000  1
+ O  O16  1  0.59202  0.40798  0.44554  1
+ W  W1  1  0.90828  0.09172  0.29241  1
+ W  W2  1  0.09172  0.90828  0.70759  1
+ W  W3  1  0.59172  0.40828  0.79241  1
+ W  W4  1  0.40828  0.59172  0.20759  1

@@ -1,0 +1,42 @@
+CIF file written using JARVIS-Tools package.
+data_Li3MnV3O8
+_symmetry_space_group_name_H-M  'R3m'
+_cell_length_a       5.74964
+_cell_length_b       5.852
+_cell_length_c       5.74936
+_cell_angle_alpha    60.5664
+_cell_angle_beta     59.9992
+_cell_angle_gamma    89.9999
+
+_symmetry_Int_Tables_number  160
+_chemical_formula_structural  Li3MnV3O8
+_chemical_formula_sum  Li3MnV3O8
+_cell_volume  137.94647101293123
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Li  Li1  1  0.50146  0.49374  0.50239  1
+ Li  Li2  1  -0.00386  0.49375  0.50237  1
+ Li  Li3  1  0.99620  0.49360  0.00760  1
+ Mn  Mn1  1  0.50359  0.51080  -0.00718  1
+ O  O1  1  0.74033  0.22092  0.51935  1
+ O  O2  1  0.25009  0.75035  0.49982  1
+ O  O3  1  0.26575  0.25703  0.46849  1
+ O  O4  1  0.26582  0.25710  0.00869  1
+ O  O5  1  0.72550  0.25710  0.00869  1
+ O  O6  1  0.27768  0.75620  0.98309  1
+ O  O7  1  0.73923  0.75619  0.98310  1
+ O  O8  1  0.73928  0.75629  0.52145  1
+ V  V1  1  0.49280  -0.00104  0.49390  1
+ V  V2  1  0.01330  -0.00104  0.49390  1
+ V  V3  1  0.49284  0.99898  0.01433  1

@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_Er5Ga2As
+_symmetry_space_group_name_H-M  'Amm2'
+_cell_length_a       8.40103
+_cell_length_b       8.40103
+_cell_length_c       6.37267
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120.064
+
+_symmetry_Int_Tables_number  38
+_chemical_formula_structural  Er5Ga2As
+_chemical_formula_sum  Er0Ga4As2
+_cell_volume  389.25842574824225
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ As  As1  1  0.60830  0.99988  0.50000  1
+ As  As2  1  0.99988  0.60830  0.50000  1
+ Er  Er1  1  0.66483  0.33101  0.24607  1
+ Er  Er2  1  0.33101  0.66483  0.24607  1
+ Er  Er3  1  0.33101  0.66483  0.75393  1
+ Er  Er4  1  0.66483  0.33101  0.75393  1
+ Er  Er5  1  0.24372  0.00538  0.50000  1
+ Er  Er6  1  0.00538  0.24372  0.50000  1
+ Er  Er7  1  0.75878  0.75878  0.50000  1
+ Er  Er8  1  0.76040  0.99874  0.00000  1
+ Er  Er9  1  0.99874  0.76040  0.00000  1
+ Er  Er10  1  0.23872  0.23872  0.00000  1
+ Ga  Ga1  1  0.40110  0.40110  0.50000  1
+ Ga  Ga2  1  0.39592  0.99771  0.00000  1
+ Ga  Ga3  1  0.99771  0.39592  0.00000  1
+ Ga  Ga4  1  0.59955  0.59955  0.00000  1

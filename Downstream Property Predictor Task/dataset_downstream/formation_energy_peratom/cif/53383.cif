@@ -1,0 +1,46 @@
+CIF file written using JARVIS-Tools package.
+data_Sm2Co16Ag
+_symmetry_space_group_name_H-M  'R3m'
+_cell_length_a       6.31081
+_cell_length_b       6.31082
+_cell_length_c       6.31081
+_cell_angle_alpha    83.4931
+_cell_angle_beta     83.493
+_cell_angle_gamma    83.4931
+
+_symmetry_Int_Tables_number  160
+_chemical_formula_structural  Sm2Co16Ag
+_chemical_formula_sum  Sm2Co6Ag
+_cell_volume  246.8205051863398
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ag  Ag1  1  0.89783  0.89783  0.89783  1
+ Co  Co1  1  0.71055  0.00061  0.29043  1
+ Co  Co2  1  0.00061  0.29043  0.71055  1
+ Co  Co3  1  0.29043  0.71055  0.00061  1
+ Co  Co4  1  0.00061  0.71055  0.29043  1
+ Co  Co5  1  0.71055  0.29043  0.00061  1
+ Co  Co6  1  0.29043  0.00061  0.71055  1
+ Co  Co7  1  0.34496  0.84691  0.34496  1
+ Co  Co8  1  0.10835  0.10835  0.10835  1
+ Co  Co9  1  0.84691  0.34496  0.34496  1
+ Co  Co10  1  0.64909  0.15806  0.64909  1
+ Co  Co11  1  0.15806  0.64909  0.64909  1
+ Co  Co12  1  0.64909  0.64909  0.15806  1
+ Co  Co13  1  0.00664  0.48803  0.00664  1
+ Co  Co14  1  0.48803  0.00664  0.00664  1
+ Co  Co15  1  0.00664  0.00664  0.48803  1
+ Co  Co16  1  0.34496  0.34496  0.84691  1
+ Sm  Sm1  1  0.34392  0.34392  0.34392  1
+ Sm  Sm2  1  0.65233  0.65233  0.65233  1

@@ -1,0 +1,47 @@
+CIF file written using JARVIS-Tools package.
+data_NdMn5Cu2O12
+_symmetry_space_group_name_H-M  'Immm'
+_cell_length_a       6.35912
+_cell_length_b       6.35913
+_cell_length_c       6.35913
+_cell_angle_alpha    109.025
+_cell_angle_beta     109.816
+_cell_angle_gamma    109.574
+
+_symmetry_Int_Tables_number  71
+_chemical_formula_structural  NdMn5Cu2O12
+_chemical_formula_sum  NdMn5Cu2O2
+_cell_volume  197.94692064653242
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cu  Cu1  1  0.50000  0.00000  0.50000  1
+ Cu  Cu2  1  -0.00000  0.50000  0.50000  1
+ Mn  Mn1  1  -0.00000  0.50000  0.00000  1
+ Mn  Mn2  1  0.50000  0.50000  0.50000  1
+ Mn  Mn3  1  0.00000  0.00000  0.50000  1
+ Mn  Mn4  1  0.50000  0.00000  -0.00000  1
+ Mn  Mn5  1  0.50000  0.50000  -0.00000  1
+ Nd  Nd1  1  0.00000  0.00000  0.00000  1
+ O  O1  1  0.30347  0.81860  0.12207  1
+ O  O2  1  0.87287  0.69586  0.17701  1
+ O  O3  1  0.69653  0.81860  0.51513  1
+ O  O4  1  0.69653  0.18140  0.87793  1
+ O  O5  1  0.30347  0.18140  0.48487  1
+ O  O6  1  0.48116  0.30414  0.17701  1
+ O  O7  1  0.17872  0.47802  0.29930  1
+ O  O8  1  0.82128  0.12059  0.29930  1
+ O  O9  1  0.17872  0.87941  0.70070  1
+ O  O10  1  0.12713  0.30414  0.82299  1
+ O  O11  1  0.82128  0.52198  0.70070  1
+ O  O12  1  0.51884  0.69586  0.82299  1

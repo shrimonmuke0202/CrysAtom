@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_SiNiN2
+_symmetry_space_group_name_H-M  'Pna2_1'
+_cell_length_a       5.1516
+_cell_length_b       6.30559
+_cell_length_c       4.96036
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  33
+_chemical_formula_structural  SiNiN2
+_chemical_formula_sum  Si4Ni4N8
+_cell_volume  161.13165804836044
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ N  N1  1  0.56021  0.40001  0.35698  1
+ N  N2  1  0.43979  0.59999  0.85698  1
+ N  N3  1  0.93979  0.90001  0.85698  1
+ N  N4  1  0.06021  0.09999  0.35698  1
+ N  N5  1  0.60289  0.84785  0.40578  1
+ N  N6  1  0.39711  0.15215  0.90578  1
+ N  N7  1  0.89711  0.34785  0.90578  1
+ N  N8  1  0.10289  0.65215  0.40578  1
+ Ni  Ni1  1  0.57024  0.87638  0.00168  1
+ Ni  Ni2  1  0.42976  0.12362  0.50168  1
+ Ni  Ni3  1  0.92976  0.37638  0.50168  1
+ Ni  Ni4  1  0.07024  0.62362  0.00168  1
+ Si  Si1  1  0.57380  0.37568  0.00557  1
+ Si  Si2  1  0.42620  0.62432  0.50557  1
+ Si  Si3  1  0.92620  0.87568  0.50557  1
+ Si  Si4  1  0.07380  0.12432  0.00557  1

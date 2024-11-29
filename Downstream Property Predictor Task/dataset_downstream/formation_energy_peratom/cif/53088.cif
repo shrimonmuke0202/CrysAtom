@@ -1,0 +1,51 @@
+CIF file written using JARVIS-Tools package.
+data_VNiP2O8
+_symmetry_space_group_name_H-M  'P2_1/m'
+_cell_length_a       4.76068
+_cell_length_b       9.72521
+_cell_length_c       5.7229
+_cell_angle_alpha    89.9999
+_cell_angle_beta     90.0005
+_cell_angle_gamma    89.0821
+
+_symmetry_Int_Tables_number  11
+_chemical_formula_structural  VNiP2O8
+_chemical_formula_sum  V2Ni2P4O6
+_cell_volume  264.9283201839708
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ni  Ni1  1  0.94045  0.26963  0.25000  1
+ Ni  Ni2  1  0.05955  0.73037  0.75000  1
+ O  O1  1  0.73692  0.83578  0.53626  1
+ O  O2  1  0.66818  0.06474  0.75000  1
+ O  O3  1  0.33182  0.93526  0.25000  1
+ O  O4  1  0.72550  0.10112  0.25000  1
+ O  O5  1  0.28227  0.66737  0.04362  1
+ O  O6  1  0.18663  0.37146  0.75000  1
+ O  O7  1  0.81337  0.62854  0.25000  1
+ O  O8  1  0.27450  0.89888  0.75000  1
+ O  O9  1  0.82604  0.56282  0.75001  1
+ O  O10  1  0.26308  0.16422  0.03625  1
+ O  O11  1  0.28227  0.66737  0.45638  1
+ O  O12  1  0.17396  0.43718  0.25000  1
+ O  O13  1  0.73692  0.83578  0.96375  1
+ O  O14  1  0.71774  0.33263  0.95638  1
+ O  O15  1  0.71773  0.33264  0.54362  1
+ O  O16  1  0.26308  0.16422  0.46374  1
+ P  P1  1  0.12804  0.58959  0.25000  1
+ P  P2  1  0.87196  0.41040  0.75000  1
+ P  P3  1  0.58971  0.90975  0.75000  1
+ P  P4  1  0.41029  0.09025  0.25000  1
+ V  V1  1  0.45419  0.22959  0.75000  1
+ V  V2  1  0.54581  0.77041  0.25000  1

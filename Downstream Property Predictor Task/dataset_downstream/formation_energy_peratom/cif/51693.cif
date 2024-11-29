@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_Li2VFeS4
+_symmetry_space_group_name_H-M  'P-3m1'
+_cell_length_a       3.37586
+_cell_length_b       3.37586
+_cell_length_c       11.7993
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_symmetry_Int_Tables_number  164
+_chemical_formula_structural  Li2VFeS4
+_chemical_formula_sum  Li2VFeS4
+_cell_volume  116.4549943794061
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Fe  Fe1  1  0.00000  0.00000  0.00000  1
+ Li  Li1  1  0.00000  0.00000  0.75964  1
+ Li  Li2  1  0.00000  0.00000  0.24036  1
+ S  S1  1  0.66667  0.33333  0.89673  1
+ S  S2  1  0.66667  0.33333  0.37983  1
+ S  S3  1  0.33333  0.66667  0.62017  1
+ S  S4  1  0.33333  0.66667  0.10327  1
+ V  V1  1  0.00000  0.00000  0.50000  1

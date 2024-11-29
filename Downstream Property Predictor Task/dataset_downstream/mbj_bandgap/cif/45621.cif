@@ -1,0 +1,37 @@
+CIF file written using JARVIS-Tools package.
+data_TbBaO3
+_symmetry_space_group_name_H-M  'Imma'
+_cell_length_a       6.24193
+_cell_length_b       6.24192
+_cell_length_c       6.24192
+_cell_angle_alpha    90.2278
+_cell_angle_beta     119.334
+_cell_angle_gamma    120.406
+
+_symmetry_Int_Tables_number  74
+_chemical_formula_structural  TbBaO3
+_chemical_formula_sum  Tb2Ba2O6
+_cell_volume  172.2829047802693
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ba  Ba1  1  0.49071  0.75000  0.24071  1
+ Ba  Ba2  1  0.50929  0.25000  0.75929  1
+ O  O1  1  -0.00000  0.70390  0.20390  1
+ O  O2  1  0.50000  0.79610  0.79610  1
+ O  O3  1  0.00000  0.29610  0.79610  1
+ O  O4  1  0.50000  0.20390  0.20390  1
+ O  O5  1  0.08122  0.25000  0.33122  1
+ O  O6  1  0.91878  0.75000  0.66878  1
+ Tb  Tb1  1  0.00000  0.50000  0.50000  1
+ Tb  Tb2  1  0.00000  0.00000  0.00000  1

@@ -1,0 +1,44 @@
+CIF file written using JARVIS-Tools package.
+data_Y6NiI10
+_symmetry_space_group_name_H-M  'P-1'
+_cell_length_a       7.58214
+_cell_length_b       9.52437
+_cell_length_c       9.5347
+_cell_angle_alpha    107.575
+_cell_angle_beta     97.1277
+_cell_angle_gamma    105.145
+
+_symmetry_Int_Tables_number  2
+_chemical_formula_structural  Y6NiI10
+_chemical_formula_sum  Y6NiI0
+_cell_volume  618.0068204653797
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ I  I1  1  0.45118  0.80983  0.09499  1
+ I  I2  1  0.63492  0.53753  0.72264  1
+ I  I3  1  0.21357  0.73243  0.64243  1
+ I  I4  1  0.72942  0.90954  0.53168  1
+ I  I5  1  0.36508  0.46247  0.27736  1
+ I  I6  1  0.08775  0.37322  0.81345  1
+ I  I7  1  0.91225  0.62678  0.18655  1
+ I  I8  1  0.27058  0.09046  0.46832  1
+ I  I9  1  0.78643  0.26757  0.35757  1
+ I  I10  1  0.54882  0.19017  0.90501  1
+ Ni  Ni1  1  0.00000  0.00000  0.00000  1
+ Y  Y1  1  0.34833  0.12502  0.16447  1
+ Y  Y2  1  0.65167  0.87498  0.83553  1
+ Y  Y3  1  0.97269  0.28528  0.08601  1
+ Y  Y4  1  0.02731  0.71472  0.91399  1
+ Y  Y5  1  0.11169  0.03770  0.75909  1
+ Y  Y6  1  0.88831  0.96230  0.24091  1

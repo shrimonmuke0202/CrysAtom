@@ -1,0 +1,55 @@
+CIF file written using JARVIS-Tools package.
+data_BaNaPO4
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       5.42786
+_cell_length_b       7.85817
+_cell_length_c       10.0533
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  BaNaPO4
+_chemical_formula_sum  Ba4Na4P4O6
+_cell_volume  428.8050871016174
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ba  Ba1  1  0.25000  0.97363  0.18943  1
+ Ba  Ba2  1  0.75000  0.02637  0.81057  1
+ Ba  Ba3  1  0.75000  0.52637  0.68943  1
+ Ba  Ba4  1  0.25000  0.47363  0.31057  1
+ Na  Na1  1  0.25000  0.61775  0.94431  1
+ Na  Na2  1  0.75000  0.38225  0.05569  1
+ Na  Na3  1  0.75000  0.88225  0.44431  1
+ Na  Na4  1  0.25000  0.11775  0.55569  1
+ O  O1  1  0.98476  0.16392  0.37045  1
+ O  O2  1  0.48476  0.83608  0.62955  1
+ O  O3  1  0.01524  0.33608  0.87045  1
+ O  O4  1  0.01524  0.83608  0.62955  1
+ O  O5  1  0.98476  0.66392  0.12955  1
+ O  O6  1  0.75000  0.21017  0.58319  1
+ O  O7  1  0.51524  0.66392  0.12955  1
+ O  O8  1  0.51524  0.16392  0.37045  1
+ O  O9  1  0.25000  0.55781  0.59514  1
+ O  O10  1  0.25000  0.28983  0.08319  1
+ O  O11  1  0.75000  0.94219  0.09514  1
+ O  O12  1  0.25000  0.05781  0.90486  1
+ O  O13  1  0.48476  0.33608  0.87045  1
+ O  O14  1  0.75000  0.71017  0.91681  1
+ O  O15  1  0.75000  0.44219  0.40486  1
+ O  O16  1  0.25000  0.78983  0.41681  1
+ P  P1  1  0.25000  0.75346  0.56986  1
+ P  P2  1  0.75000  0.24654  0.43014  1
+ P  P3  1  0.75000  0.74654  0.06986  1
+ P  P4  1  0.25000  0.25346  0.93014  1

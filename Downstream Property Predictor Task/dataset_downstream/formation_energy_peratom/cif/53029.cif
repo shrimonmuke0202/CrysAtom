@@ -1,0 +1,51 @@
+CIF file written using JARVIS-Tools package.
+data_LiFe6Ge5
+_symmetry_space_group_name_H-M  'R-3m'
+_cell_length_a       5.0145
+_cell_length_b       5.0145
+_cell_length_c       14.6389
+_cell_angle_alpha    80.1379
+_cell_angle_beta     80.1379
+_cell_angle_gamma    59.9984
+
+_symmetry_Int_Tables_number  166
+_chemical_formula_structural  LiFe6Ge5
+_chemical_formula_sum  Li2Fe2Ge0
+_cell_volume  312.4816980132265
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Fe  Fe1  1  0.54696  0.04541  0.86075  1
+ Fe  Fe2  1  0.63530  0.14730  0.58205  1
+ Fe  Fe3  1  0.04541  0.54696  0.86075  1
+ Fe  Fe4  1  0.95459  0.45304  0.13925  1
+ Fe  Fe5  1  0.45304  0.95459  0.13925  1
+ Fe  Fe6  1  0.63531  0.63531  0.58203  1
+ Fe  Fe7  1  0.14730  0.63530  0.58205  1
+ Fe  Fe8  1  0.36470  0.85270  0.41795  1
+ Fe  Fe9  1  0.36469  0.36469  0.41797  1
+ Fe  Fe10  1  0.45304  0.45304  0.13925  1
+ Fe  Fe11  1  0.54696  0.54696  0.86075  1
+ Fe  Fe12  1  0.85270  0.36470  0.41795  1
+ Ge  Ge1  1  0.97011  0.97011  0.08967  1
+ Ge  Ge2  1  0.57455  0.57455  0.27625  1
+ Ge  Ge3  1  0.14751  0.14751  0.55743  1
+ Ge  Ge4  1  0.42545  0.42545  0.72375  1
+ Ge  Ge5  1  0.02989  0.02989  0.91033  1
+ Ge  Ge6  1  0.75953  0.75953  0.72152  1
+ Ge  Ge7  1  0.33348  0.33348  0.99957  1
+ Ge  Ge8  1  0.24047  0.24047  0.27848  1
+ Ge  Ge9  1  0.85249  0.85249  0.44257  1
+ Ge  Ge10  1  0.66652  0.66652  0.00043  1
+ Li  Li1  1  0.91189  0.91189  0.26415  1
+ Li  Li2  1  0.08811  0.08811  0.73585  1

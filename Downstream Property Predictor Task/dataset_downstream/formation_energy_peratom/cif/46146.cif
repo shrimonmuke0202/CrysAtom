@@ -1,0 +1,51 @@
+CIF file written using JARVIS-Tools package.
+data_Ag2BiO3
+_symmetry_space_group_name_H-M  'Pc'
+_cell_length_a       6.15009
+_cell_length_b       6.30189
+_cell_length_c       11.4929
+_cell_angle_alpha    90
+_cell_angle_beta     122.208
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  7
+_chemical_formula_structural  Ag2BiO3
+_chemical_formula_sum  Ag8Bi4O2
+_cell_volume  376.88643834794055
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ag  Ag1  1  0.24271  0.24955  0.49535  1
+ Ag  Ag2  1  0.22599  0.49768  0.25326  1
+ Ag  Ag3  1  0.28304  -0.00189  0.75217  1
+ Ag  Ag4  1  0.75090  0.24934  0.49627  1
+ Ag  Ag5  1  0.75090  0.75066  -0.00373  1
+ Ag  Ag6  1  0.28304  0.00189  0.25217  1
+ Ag  Ag7  1  0.22599  0.50232  0.75326  1
+ Ag  Ag8  1  0.24271  0.75045  0.99535  1
+ Bi  Bi1  1  0.60612  0.25070  0.10506  1
+ Bi  Bi2  1  0.60612  0.74930  0.60506  1
+ Bi  Bi3  1  0.89782  0.74996  0.39629  1
+ Bi  Bi4  1  0.89782  0.25004  0.89629  1
+ O  O1  1  0.23868  0.06594  0.93147  1
+ O  O2  1  0.62725  0.43493  0.93130  1
+ O  O3  1  0.85812  0.52870  0.24220  1
+ O  O4  1  0.88471  0.06382  0.06024  1
+ O  O5  1  0.62725  0.56507  0.43130  1
+ O  O6  1  0.63224  -0.02578  0.24426  1
+ O  O7  1  0.85812  0.47130  0.74220  1
+ O  O8  1  0.23672  0.43779  0.05922  1
+ O  O9  1  0.88471  0.93618  0.56024  1
+ O  O10  1  0.23868  0.93406  0.43147  1
+ O  O11  1  0.23672  0.56221  0.55922  1
+ O  O12  1  0.63224  0.02578  0.74426  1

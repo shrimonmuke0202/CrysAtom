@@ -1,0 +1,49 @@
+CIF file written using JARVIS-Tools package.
+data_AgHg3SbO6
+_symmetry_space_group_name_H-M  'R-3c'
+_cell_length_a       7.04196
+_cell_length_b       7.04196
+_cell_length_c       7.04196
+_cell_angle_alpha    87.6553
+_cell_angle_beta     87.6552
+_cell_angle_gamma    87.6553
+
+_symmetry_Int_Tables_number  167
+_chemical_formula_structural  AgHg3SbO6
+_chemical_formula_sum  Ag2Hg6Sb2O2
+_cell_volume  348.35183340313455
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ag  Ag1  1  0.75000  0.75000  0.75000  1
+ Ag  Ag2  1  0.25000  0.25000  0.25000  1
+ Hg  Hg1  1  0.90886  0.25000  0.59114  1
+ Hg  Hg2  1  0.59114  0.90886  0.25000  1
+ Hg  Hg3  1  0.25000  0.59114  0.90886  1
+ Hg  Hg4  1  0.40886  0.09114  0.75000  1
+ Hg  Hg5  1  0.75000  0.40886  0.09114  1
+ Hg  Hg6  1  0.09114  0.75000  0.40886  1
+ O  O1  1  0.50475  0.49158  0.78826  1
+ O  O2  1  0.49158  0.78826  0.50475  1
+ O  O3  1  0.00842  0.99525  0.71174  1
+ O  O4  1  0.99525  0.71174  0.00842  1
+ O  O5  1  0.71174  0.00842  0.99525  1
+ O  O6  1  0.21174  0.49525  0.50842  1
+ O  O7  1  0.00475  0.28826  0.99158  1
+ O  O8  1  0.50842  0.21174  0.49525  1
+ O  O9  1  0.78826  0.50475  0.49158  1
+ O  O10  1  0.99158  0.00475  0.28826  1
+ O  O11  1  0.49525  0.50842  0.21174  1
+ O  O12  1  0.28826  0.99158  0.00475  1
+ Sb  Sb1  1  0.00000  0.00000  0.00000  1
+ Sb  Sb2  1  0.50000  0.50000  0.50000  1

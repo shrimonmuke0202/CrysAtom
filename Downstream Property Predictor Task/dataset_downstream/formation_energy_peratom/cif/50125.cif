@@ -1,0 +1,64 @@
+CIF file written using JARVIS-Tools package.
+data_CdH20C12O4
+_symmetry_space_group_name_H-M  'P-1'
+_cell_length_a       4.00793
+_cell_length_b       4.18822
+_cell_length_c       17.3908
+_cell_angle_alpha    90.3924
+_cell_angle_beta     89.5596
+_cell_angle_gamma    76.6381
+
+_symmetry_Int_Tables_number  2
+_chemical_formula_structural  CdH20C12O4
+_chemical_formula_sum  CdH20C2O4
+_cell_volume  284.00150608044
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ C  C1  1  0.22526  0.65440  0.38922  1
+ C  C2  1  0.64262  0.41996  0.74357  1
+ C  C3  1  0.57747  0.61772  0.67046  1
+ C  C4  1  0.41076  0.62722  0.52985  1
+ C  C5  1  0.32836  0.43819  0.45965  1
+ C  C6  1  0.50337  0.41503  0.60129  1
+ C  C7  1  0.14071  0.46734  0.31889  1
+ C  C8  1  0.03763  0.68356  0.24846  1
+ C  C9  1  0.95528  0.49455  0.17825  1
+ C  C10  1  0.86281  0.70675  0.10681  1
+ C  C11  1  0.78883  0.50408  0.03762  1
+ C  C12  1  0.72384  0.70183  0.96451  1
+ Cd  Cd1  1  0.18318  0.06079  0.85404  1
+ H  H1  1  0.18783  0.82967  0.54354  1
+ H  H2  1  0.36026  0.82716  0.68058  1
+ H  H3  1  0.00114  0.85358  0.40423  1
+ H  H4  1  0.80568  0.71349  0.65854  1
+ H  H5  1  0.81322  0.88279  0.26322  1
+ H  H6  1  0.62243  0.74469  0.51552  1
+ H  H7  1  0.72841  0.21359  0.58914  1
+ H  H8  1  0.56058  0.40833  0.04952  1
+ H  H9  1  0.17821  0.29207  0.16457  1
+ H  H10  1  0.74356  0.37713  0.19257  1
+ H  H11  1  0.36482  0.26815  0.30389  1
+ H  H12  1  0.43301  0.77605  0.37431  1
+ H  H13  1  0.93294  0.34570  0.33380  1
+ H  H14  1  0.12037  0.31679  0.47452  1
+ H  H15  1  0.00604  0.29462  0.02752  1
+ H  H16  1  0.29087  0.30003  0.61604  1
+ H  H17  1  0.07536  0.82174  0.09208  1
+ H  H18  1  0.63777  0.90820  0.11894  1
+ H  H19  1  0.24563  0.80496  0.23360  1
+ H  H20  1  0.55276  0.23896  0.44489  1
+ O  O1  1  0.90143  0.17446  0.74438  1
+ O  O2  1  0.46507  0.94738  0.96368  1
+ O  O3  1  0.43737  0.49824  0.80080  1
+ O  O4  1  0.92918  0.62350  0.90730  1

@@ -1,0 +1,41 @@
+CIF file written using JARVIS-Tools package.
+data_Al2Co3GeO8
+_symmetry_space_group_name_H-M  'Imm2'
+_cell_length_a       5.85245
+_cell_length_b       5.85245
+_cell_length_c       5.85245
+_cell_angle_alpha    122.151
+_cell_angle_beta     119.929
+_cell_angle_gamma    88.2188
+
+_symmetry_Int_Tables_number  44
+_chemical_formula_structural  Al2Co3GeO8
+_chemical_formula_sum  Al2Co3GeO8
+_cell_volume  139.37214022162914
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Al  Al1  1  0.61755  0.37607  0.24148  1
+ Al  Al2  1  0.13459  0.37607  0.75852  1
+ Co  Co1  1  0.24577  0.74577  0.50000  1
+ Co  Co2  1  0.62478  0.39494  0.77016  1
+ Co  Co3  1  0.62478  0.85462  0.22984  1
+ Ge  Ge1  1  0.01372  0.01372  0.00000  1
+ O  O1  1  0.87676  0.13893  0.26217  1
+ O  O2  1  0.87676  0.61459  0.73783  1
+ O  O3  1  0.88916  0.14272  0.74644  1
+ O  O4  1  0.39628  0.14272  0.25356  1
+ O  O5  1  0.37767  0.59860  0.22093  1
+ O  O6  1  0.37767  0.15674  0.77907  1
+ O  O7  1  0.34498  0.59725  0.74773  1
+ O  O8  1  0.84952  0.59725  0.25227  1

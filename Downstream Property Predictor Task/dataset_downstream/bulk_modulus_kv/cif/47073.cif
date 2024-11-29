@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_RbH3O2
+_symmetry_space_group_name_H-M  'Cmc2_1'
+_cell_length_a       4.22478
+_cell_length_b       5.90924
+_cell_length_c       5.92908
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    110.945
+
+_symmetry_Int_Tables_number  36
+_chemical_formula_structural  RbH3O2
+_chemical_formula_sum  Rb2H6O4
+_cell_volume  138.23995682818017
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ H  H1  1  0.48979  0.97957  0.02017  1
+ H  H2  1  0.51021  0.02043  0.52017  1
+ H  H3  1  0.30376  0.21727  0.29885  1
+ H  H4  1  0.69624  0.78273  0.79885  1
+ H  H5  1  0.08648  0.78273  0.79885  1
+ H  H6  1  0.91352  0.21727  0.29885  1
+ O  O1  1  0.83944  0.67888  0.75895  1
+ O  O2  1  0.46825  0.93650  0.85927  1
+ O  O3  1  0.16056  0.32112  0.25895  1
+ O  O4  1  0.53175  0.06350  0.35927  1
+ Rb  Rb1  1  0.84555  0.69109  0.26802  1
+ Rb  Rb2  1  0.15445  0.30891  0.76802  1

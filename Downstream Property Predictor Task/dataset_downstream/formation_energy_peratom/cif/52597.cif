@@ -1,0 +1,55 @@
+CIF file written using JARVIS-Tools package.
+data_RbCrF5
+_symmetry_space_group_name_H-M  'Pmc2_1'
+_cell_length_a       5.54061
+_cell_length_b       7.79661
+_cell_length_c       9.65823
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  26
+_chemical_formula_structural  RbCrF5
+_chemical_formula_sum  Rb4Cr4F20
+_cell_volume  417.2157679429742
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cr  Cr1  1  0.00000  0.86270  0.22953  1
+ Cr  Cr2  1  0.50000  0.57752  0.34485  1
+ Cr  Cr3  1  0.50000  0.42248  0.84485  1
+ Cr  Cr4  1  0.00000  0.13730  0.72953  1
+ F  F1  1  0.00000  0.14955  0.91417  1
+ F  F2  1  0.26462  0.52868  0.93994  1
+ F  F3  1  0.74720  0.68545  0.22846  1
+ F  F4  1  0.23307  0.02479  0.22296  1
+ F  F5  1  0.74720  0.31455  0.72846  1
+ F  F6  1  0.50000  0.23636  0.95306  1
+ F  F7  1  0.50000  0.76364  0.45306  1
+ F  F8  1  0.50000  0.59615  0.71953  1
+ F  F9  1  0.23307  0.97521  0.72296  1
+ F  F10  1  0.76693  0.97521  0.72296  1
+ F  F11  1  0.76693  0.02479  0.22296  1
+ F  F12  1  0.73538  0.52868  0.93994  1
+ F  F13  1  0.50000  0.40385  0.21953  1
+ F  F14  1  0.00000  0.83474  0.04415  1
+ F  F15  1  0.25280  0.31455  0.72846  1
+ F  F16  1  0.26462  0.47132  0.43994  1
+ F  F17  1  0.00000  0.85045  0.41417  1
+ F  F18  1  0.25280  0.68545  0.22846  1
+ F  F19  1  0.73538  0.47132  0.43994  1
+ F  F20  1  0.00000  0.16526  0.54415  1
+ Rb  Rb1  1  0.00000  0.64860  0.65316  1
+ Rb  Rb2  1  0.00000  0.35140  0.15316  1
+ Rb  Rb3  1  0.50000  0.12252  0.47034  1
+ Rb  Rb4  1  0.50000  0.87748  0.97034  1

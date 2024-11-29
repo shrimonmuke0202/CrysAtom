@@ -1,0 +1,47 @@
+CIF file written using JARVIS-Tools package.
+data_Ho2VFeO6
+_symmetry_space_group_name_H-M  'P2_1/c'
+_cell_length_a       5.57882
+_cell_length_b       5.14473
+_cell_length_c       9.10042
+_cell_angle_alpha    54.6617
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  14
+_chemical_formula_structural  Ho2VFeO6
+_chemical_formula_sum  Ho4V2Fe2O2
+_cell_volume  213.07070148243287
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Fe  Fe1  1  0.00000  0.00000  0.50000  1
+ Fe  Fe2  1  0.50000  0.00000  0.00000  1
+ Ho  Ho1  1  0.57582  0.72737  0.74951  1
+ Ho  Ho2  1  0.07582  0.27263  0.75049  1
+ Ho  Ho3  1  0.42418  0.27263  0.25049  1
+ Ho  Ho4  1  0.92418  0.72737  0.24951  1
+ O  O1  1  0.96653  0.85637  0.75053  1
+ O  O2  1  0.79994  0.63325  0.55333  1
+ O  O3  1  0.03347  0.14363  0.24947  1
+ O  O4  1  0.53347  0.85637  0.25053  1
+ O  O5  1  0.46653  0.14363  0.74947  1
+ O  O6  1  0.30553  0.75783  0.55167  1
+ O  O7  1  0.19447  0.75783  0.05167  1
+ O  O8  1  0.70006  0.63325  0.05333  1
+ O  O9  1  0.80553  0.24217  0.94833  1
+ O  O10  1  0.69447  0.24217  0.44833  1
+ O  O11  1  0.20006  0.36675  0.44667  1
+ O  O12  1  0.29994  0.36675  0.94667  1
+ V  V1  1  0.50000  0.50000  0.50000  1
+ V  V2  1  0.00000  0.50000  -0.00000  1

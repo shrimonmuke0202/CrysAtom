@@ -1,0 +1,51 @@
+CIF file written using JARVIS-Tools package.
+data_NdSbO4
+_symmetry_space_group_name_H-M  'P2_1/c'
+_cell_length_a       7.72731
+_cell_length_b       5.55948
+_cell_length_c       7.71907
+_cell_angle_alpha    90
+_cell_angle_beta     99.9156
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  14
+_chemical_formula_structural  NdSbO4
+_chemical_formula_sum  Nd4Sb4O6
+_cell_volume  326.6562111055103
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Nd  Nd1  1  0.10141  0.27299  0.85074  1
+ Nd  Nd2  1  0.39859  0.77299  0.14926  1
+ Nd  Nd3  1  0.89859  0.72701  0.14926  1
+ Nd  Nd4  1  0.60141  0.22701  0.85074  1
+ O  O1  1  0.32736  0.97856  0.88086  1
+ O  O2  1  0.17264  0.47856  0.11914  1
+ O  O3  1  0.67264  0.02144  0.11914  1
+ O  O4  1  0.19915  0.09193  0.56333  1
+ O  O5  1  0.05682  0.63537  0.66749  1
+ O  O6  1  0.44318  0.13537  0.33251  1
+ O  O7  1  0.82736  0.52144  0.88086  1
+ O  O8  1  0.55682  0.86463  0.66749  1
+ O  O9  1  0.87192  0.99628  0.82885  1
+ O  O10  1  0.12808  0.00372  0.17115  1
+ O  O11  1  0.94318  0.36463  0.33251  1
+ O  O12  1  0.37192  0.50372  0.82885  1
+ O  O13  1  0.80085  0.90807  0.43667  1
+ O  O14  1  0.69915  0.40807  0.56333  1
+ O  O15  1  0.62808  0.49628  0.17115  1
+ O  O16  1  0.30085  0.59193  0.43667  1
+ Sb  Sb1  1  0.80304  0.73091  0.66326  1
+ Sb  Sb2  1  0.69696  0.23091  0.33674  1
+ Sb  Sb3  1  0.19696  0.26909  0.33674  1
+ Sb  Sb4  1  0.30304  0.76909  0.66326  1

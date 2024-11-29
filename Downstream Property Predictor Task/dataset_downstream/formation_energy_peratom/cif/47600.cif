@@ -1,0 +1,37 @@
+CIF file written using JARVIS-Tools package.
+data_Te2Pd3
+_symmetry_space_group_name_H-M  'Cmcm'
+_cell_length_a       3.9414
+_cell_length_b       6.7135
+_cell_length_c       8.02111
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    107.07
+
+_symmetry_Int_Tables_number  63
+_chemical_formula_structural  Te2Pd3
+_chemical_formula_sum  Te4Pd6
+_cell_volume  202.89299691762324
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Pd  Pd1  1  0.46643  0.93287  0.75000  1
+ Pd  Pd2  1  0.53357  0.06713  0.25000  1
+ Pd  Pd3  1  0.33808  0.67615  0.06772  1
+ Pd  Pd4  1  0.66192  0.32385  0.93228  1
+ Pd  Pd5  1  0.66192  0.32385  0.56772  1
+ Pd  Pd6  1  0.33808  0.67615  0.43228  1
+ Te  Te1  1  0.00000  0.00000  0.00000  1
+ Te  Te2  1  0.00000  0.00000  0.50000  1
+ Te  Te3  1  0.25793  0.51586  0.75000  1
+ Te  Te4  1  0.74207  0.48414  0.25000  1

@@ -1,0 +1,53 @@
+CIF file written using JARVIS-Tools package.
+data_HgP2Pd2O8
+_symmetry_space_group_name_H-M  'Fddd'
+_cell_length_a       9.83194
+_cell_length_b       8.73311
+_cell_length_c       6.71652
+_cell_angle_alpha    77.8395
+_cell_angle_beta     60.2626
+_cell_angle_gamma    41.8979
+
+_symmetry_Int_Tables_number  70
+_chemical_formula_structural  HgP2Pd2O8
+_chemical_formula_sum  Hg2P4Pd4O6
+_cell_volume  321.6624225377968
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Hg  Hg1  1  0.75000  0.75000  0.75000  1
+ Hg  Hg2  1  0.50000  0.50000  0.50000  1
+ O  O1  1  0.71729  0.07858  0.77872  1
+ O  O2  1  0.42541  0.77872  0.07858  1
+ O  O3  1  0.64929  0.87239  0.12615  1
+ O  O4  1  0.07858  0.71729  0.42541  1
+ O  O5  1  0.53271  0.17142  0.47128  1
+ O  O6  1  0.82459  0.47128  0.17142  1
+ O  O7  1  0.77872  0.42541  0.71729  1
+ O  O8  1  0.17142  0.53271  0.82459  1
+ O  O9  1  0.37761  0.60071  0.89783  1
+ O  O10  1  0.60071  0.37761  0.12385  1
+ O  O11  1  0.89783  0.12385  0.37761  1
+ O  O12  1  0.12615  0.35217  0.64929  1
+ O  O13  1  0.87239  0.64929  0.35217  1
+ O  O14  1  0.12385  0.89783  0.60071  1
+ O  O15  1  0.47128  0.82459  0.53271  1
+ O  O16  1  0.35217  0.12615  0.87239  1
+ P  P1  1  0.70503  0.70503  0.29497  1
+ P  P2  1  0.29497  0.29497  0.70503  1
+ P  P3  1  0.54497  0.54497  0.95503  1
+ P  P4  1  0.95503  0.95503  0.54497  1
+ Pd  Pd1  1  0.12500  0.12500  0.62500  1
+ Pd  Pd2  1  0.12500  0.62500  0.12500  1
+ Pd  Pd3  1  0.12500  0.12500  0.12500  1
+ Pd  Pd4  1  0.62500  0.12500  0.12500  1

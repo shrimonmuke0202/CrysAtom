@@ -1,0 +1,41 @@
+CIF file written using JARVIS-Tools package.
+data_In5CuTe8
+_symmetry_space_group_name_H-M  'C2'
+_cell_length_a       7.66668
+_cell_length_b       7.66668
+_cell_length_c       8.8302
+_cell_angle_alpha    90.0708
+_cell_angle_beta     90.0708
+_cell_angle_gamma    109.645
+
+_symmetry_Int_Tables_number  5
+_chemical_formula_structural  In5CuTe8
+_chemical_formula_sum  In5CuTe8
+_cell_volume  488.81030227156475
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cu  Cu1  1  0.99804  0.00196  0.00000  1
+ In  In1  1  0.51041  0.48959  0.00000  1
+ In  In2  1  0.99068  0.00932  0.50000  1
+ In  In3  1  0.50106  0.49894  0.50000  1
+ In  In4  1  0.51109  0.01079  0.24212  1
+ In  In5  1  0.98921  0.48891  0.75788  1
+ Te  Te1  1  0.89893  0.64211  0.02624  1
+ Te  Te2  1  0.38795  0.10692  0.53128  1
+ Te  Te3  1  0.35789  0.10107  0.97376  1
+ Te  Te4  1  0.89308  0.61205  0.46872  1
+ Te  Te5  1  0.83946  0.09885  0.76839  1
+ Te  Te6  1  0.33232  0.61126  0.24743  1
+ Te  Te7  1  0.90115  0.16054  0.23161  1
+ Te  Te8  1  0.38874  0.66768  0.75257  1

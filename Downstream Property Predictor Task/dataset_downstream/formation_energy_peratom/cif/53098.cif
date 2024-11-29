@@ -1,0 +1,47 @@
+CIF file written using JARVIS-Tools package.
+data_Na3Pd5F12
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       7.3858
+_cell_length_b       7.38581
+_cell_length_c       6.78388
+_cell_angle_alpha    72.1387
+_cell_angle_beta     72.1387
+_cell_angle_gamma    56.2345
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  Na3Pd5F12
+_chemical_formula_sum  Na3Pd5F2
+_cell_volume  288.4389021551695
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ F  F1  1  0.21954  0.63724  0.88396  1
+ F  F2  1  0.60881  0.60881  0.53303  1
+ F  F3  1  0.24324  0.24324  0.22975  1
+ F  F4  1  0.79532  0.79532  0.15600  1
+ F  F5  1  0.20468  0.20468  0.84400  1
+ F  F6  1  0.39119  0.39119  0.46697  1
+ F  F7  1  0.06812  0.06812  0.61979  1
+ F  F8  1  0.36276  0.78046  0.11604  1
+ F  F9  1  0.63724  0.21954  0.88396  1
+ F  F10  1  0.75676  0.75676  0.77025  1
+ F  F11  1  0.78046  0.36276  0.11604  1
+ F  F12  1  0.93188  0.93188  0.38021  1
+ Na  Na1  1  0.25887  0.74113  0.50000  1
+ Na  Na2  1  0.74113  0.25887  0.50000  1
+ Na  Na3  1  0.00000  0.00000  0.00000  1
+ Pd  Pd1  1  0.00000  0.50000  -0.00000  1
+ Pd  Pd2  1  0.50000  -0.00000  -0.00000  1
+ Pd  Pd3  1  0.50000  0.50000  -0.00000  1
+ Pd  Pd4  1  0.23041  0.23041  0.53295  1
+ Pd  Pd5  1  0.76959  0.76959  0.46705  1

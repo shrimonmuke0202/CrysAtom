@@ -1,0 +1,49 @@
+CIF file written using JARVIS-Tools package.
+data_Sr3CoRuO6
+_symmetry_space_group_name_H-M  'P-1'
+_cell_length_a       6.79022
+_cell_length_b       6.66078
+_cell_length_c       6.61651
+_cell_angle_alpha    92.8654
+_cell_angle_beta     92.3448
+_cell_angle_gamma    91.6652
+
+_symmetry_Int_Tables_number  2
+_chemical_formula_structural  Sr3CoRuO6
+_chemical_formula_sum  Sr6Co2Ru2O2
+_cell_volume  298.4825066368448
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Co  Co1  1  0.73317  0.73442  0.75976  1
+ Co  Co2  1  0.26683  0.26558  0.24023  1
+ O  O1  1  0.93971  0.07847  0.28211  1
+ O  O2  1  0.09402  0.28833  0.96995  1
+ O  O3  1  0.21405  0.40075  0.52770  1
+ O  O4  1  0.40783  0.53637  0.20741  1
+ O  O5  1  0.06029  0.92152  0.71789  1
+ O  O6  1  0.54674  0.21476  0.40949  1
+ O  O7  1  0.71596  0.02807  0.89876  1
+ O  O8  1  0.45326  0.78524  0.59051  1
+ O  O9  1  0.78595  0.59925  0.47230  1
+ O  O10  1  0.28405  0.97193  0.10123  1
+ O  O11  1  0.90599  0.71166  0.03006  1
+ O  O12  1  0.59217  0.46364  0.79260  1
+ Ru  Ru1  1  0.00000  0.00000  -0.00000  1
+ Ru  Ru2  1  0.49999  0.50000  0.50000  1
+ Sr  Sr1  1  0.38985  0.11735  0.74900  1
+ Sr  Sr2  1  0.75321  0.38320  0.11834  1
+ Sr  Sr3  1  0.11186  0.75236  0.38665  1
+ Sr  Sr4  1  0.24679  0.61680  0.88166  1
+ Sr  Sr5  1  0.88814  0.24763  0.61335  1
+ Sr  Sr6  1  0.61015  0.88265  0.25100  1

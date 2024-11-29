@@ -1,0 +1,30 @@
+CIF file written using JARVIS-Tools package.
+data_AlBN
+_symmetry_space_group_name_H-M  'Pm'
+_cell_length_a       5.13333
+_cell_length_b       4.26804
+_cell_length_c       3.33855
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    145.821
+
+_symmetry_Int_Tables_number  6
+_chemical_formula_structural  AlBN
+_chemical_formula_sum  AlBN
+_cell_volume  41.09201895918295
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Al  Al1  1  0.33495  0.04462  0.00000  1
+ B  B1  1  0.83207  0.13354  0.00000  1
+ N  N1  1  0.83298  0.82184  0.00000  1

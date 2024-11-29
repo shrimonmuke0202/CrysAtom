@@ -1,0 +1,47 @@
+CIF file written using JARVIS-Tools package.
+data_BaAg2Te2
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       4.65855
+_cell_length_b       10.9341
+_cell_length_c       11.9055
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  BaAg2Te2
+_chemical_formula_sum  Ba4Ag8Te8
+_cell_volume  606.4319140436135
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ag  Ag1  1  0.75000  0.94102  0.54692  1
+ Ag  Ag2  1  0.25000  0.55898  0.04692  1
+ Ag  Ag3  1  0.25000  0.05898  0.45308  1
+ Ag  Ag4  1  0.75000  0.44102  0.95308  1
+ Ag  Ag5  1  0.25000  0.56411  0.58774  1
+ Ag  Ag6  1  0.75000  0.43589  0.41226  1
+ Ag  Ag7  1  0.75000  0.93589  0.08774  1
+ Ag  Ag8  1  0.25000  0.06411  0.91226  1
+ Ba  Ba1  1  0.75000  0.74195  0.80521  1
+ Ba  Ba2  1  0.75000  0.24195  0.69479  1
+ Ba  Ba3  1  0.25000  0.25805  0.19479  1
+ Ba  Ba4  1  0.25000  0.75805  0.30521  1
+ Te  Te1  1  0.25000  0.47434  0.81148  1
+ Te  Te2  1  0.75000  0.02566  0.31148  1
+ Te  Te3  1  0.25000  0.81704  0.01622  1
+ Te  Te4  1  0.75000  0.18296  0.98378  1
+ Te  Te5  1  0.75000  0.68296  0.51622  1
+ Te  Te6  1  0.25000  0.31704  0.48378  1
+ Te  Te7  1  0.75000  0.52566  0.18852  1
+ Te  Te8  1  0.25000  0.97434  0.68852  1

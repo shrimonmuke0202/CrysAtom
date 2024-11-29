@@ -1,0 +1,45 @@
+CIF file written using JARVIS-Tools package.
+data_Pb3SeO5
+_symmetry_space_group_name_H-M  'Cmc2_1'
+_cell_length_a       5.81914
+_cell_length_b       7.59379
+_cell_length_c       7.59379
+_cell_angle_alpha    90.299
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  36
+_chemical_formula_structural  Pb3SeO5
+_chemical_formula_sum  Pb6Se2O0
+_cell_volume  335.5591677185862
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ O  O1  1  0.78742  0.44010  0.30339  1
+ O  O2  1  0.28742  0.30339  0.44010  1
+ O  O3  1  0.45170  0.86894  0.86366  1
+ O  O4  1  0.95170  0.86366  0.86894  1
+ O  O5  1  0.95170  0.13106  0.13634  1
+ O  O6  1  0.22234  0.22083  0.77917  1
+ O  O7  1  0.72234  0.77917  0.22083  1
+ O  O8  1  0.28742  0.55990  0.69661  1
+ O  O9  1  0.78742  0.69661  0.55990  1
+ O  O10  1  0.45170  0.13634  0.13106  1
+ Pb  Pb1  1  0.68863  0.13237  0.36028  1
+ Pb  Pb2  1  0.18863  0.86763  0.63972  1
+ Pb  Pb3  1  0.68863  0.63972  0.86763  1
+ Pb  Pb4  1  0.18863  0.36028  0.13237  1
+ Pb  Pb5  1  0.68742  0.11768  0.88232  1
+ Pb  Pb6  1  0.18742  0.88232  0.11768  1
+ Se  Se1  1  0.63773  0.62605  0.37395  1
+ Se  Se2  1  0.13773  0.37395  0.62605  1

@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_FeCu2GeS4
+_symmetry_space_group_name_H-M  'I-4'
+_cell_length_a       6.50705
+_cell_length_b       6.50704
+_cell_length_c       6.50705
+_cell_angle_alpha    131.898
+_cell_angle_beta     131.898
+_cell_angle_gamma    70.3909
+
+_symmetry_Int_Tables_number  82
+_chemical_formula_structural  FeCu2GeS4
+_chemical_formula_sum  FeCu2GeS4
+_cell_volume  149.59054163971737
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cu  Cu1  1  0.25000  0.75000  0.50000  1
+ Cu  Cu2  1  0.00000  0.00000  0.00000  1
+ Fe  Fe1  1  0.75000  0.25000  0.50000  1
+ Ge  Ge1  1  0.50000  0.50000  -0.00000  1
+ S  S1  1  0.12067  0.12501  0.49950  1
+ S  S2  1  0.62551  0.62117  0.50050  1
+ S  S3  1  0.37883  0.87933  0.00434  1
+ S  S4  1  0.87499  0.37449  0.99566  1

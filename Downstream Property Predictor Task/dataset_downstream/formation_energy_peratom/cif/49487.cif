@@ -1,0 +1,51 @@
+CIF file written using JARVIS-Tools package.
+data_TiNi3P4O16
+_symmetry_space_group_name_H-M  'Pm'
+_cell_length_a       5.69137
+_cell_length_b       4.71468
+_cell_length_c       9.67995
+_cell_angle_alpha    89.7362
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  6
+_chemical_formula_structural  TiNi3P4O16
+_chemical_formula_sum  TiNi3P4O6
+_cell_volume  259.7387609067029
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ni  Ni1  1  0.00000  0.06247  0.27127  1
+ Ni  Ni2  1  0.00000  0.43700  0.77447  1
+ Ni  Ni3  1  0.50000  0.56670  0.22875  1
+ O  O1  1  0.21159  0.77165  0.16562  1
+ O  O2  1  0.50000  0.16458  0.56222  1
+ O  O3  1  0.28728  0.27045  0.33435  1
+ O  O4  1  0.71272  0.27045  0.33435  1
+ O  O5  1  0.21247  0.75215  0.66453  1
+ O  O6  1  0.00000  0.29136  0.11108  1
+ O  O7  1  0.29254  0.21672  0.83980  1
+ O  O8  1  0.00000  0.21906  0.60661  1
+ O  O9  1  0.50000  0.32089  0.07182  1
+ O  O10  1  0.00000  0.67429  0.93700  1
+ O  O11  1  0.00000  0.82252  0.43251  1
+ O  O12  1  0.70746  0.21672  0.83980  1
+ O  O13  1  0.50000  0.68592  0.88000  1
+ O  O14  1  0.50000  0.79125  0.38891  1
+ O  O15  1  0.78753  0.75215  0.66453  1
+ O  O16  1  0.78841  0.77165  0.16562  1
+ P  P1  1  0.00000  0.90107  0.58486  1
+ P  P2  1  0.00000  0.61423  0.09183  1
+ P  P3  1  0.50000  0.37084  0.91798  1
+ P  P4  1  0.50000  0.11301  0.40376  1
+ Ti  Ti1  1  0.50000  0.94289  0.72832  1

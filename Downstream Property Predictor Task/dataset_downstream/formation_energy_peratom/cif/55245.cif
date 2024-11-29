@@ -1,0 +1,31 @@
+CIF file written using JARVIS-Tools package.
+data_LiP3
+_symmetry_space_group_name_H-M  'Cm'
+_cell_length_a       3.14092
+_cell_length_b       3.78985
+_cell_length_c       6.28134
+_cell_angle_alpha    87.3967
+_cell_angle_beta     104.479
+_cell_angle_gamma    90.0001
+
+_symmetry_Int_Tables_number  8
+_chemical_formula_structural  LiP3
+_chemical_formula_sum  LiP3
+_cell_volume  72.31624995662521
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Li  Li1  1  0.34373  0.00979  0.68746  1
+ P  P1  1  0.65152  0.06583  0.30304  1
+ P  P2  1  0.09123  0.42310  0.18246  1
+ P  P3  1  0.91352  0.50128  0.82704  1

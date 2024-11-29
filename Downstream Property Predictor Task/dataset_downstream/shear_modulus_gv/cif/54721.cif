@@ -1,0 +1,30 @@
+CIF file written using JARVIS-Tools package.
+data_SrHCl
+_symmetry_space_group_name_H-M  'Pmmm'
+_cell_length_a       7.19064
+_cell_length_b       5.58621
+_cell_length_c       5.29248
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    39.8538
+
+_symmetry_Int_Tables_number  47
+_chemical_formula_structural  SrHCl
+_chemical_formula_sum  SrHCl
+_cell_volume  136.23433032152116
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cl  Cl1  1  -0.11136  -0.05978  0.00000  1
+ H  H1  1  0.38794  -0.05894  0.00000  1
+ Sr  Sr1  1  -0.11208  0.44093  0.00000  1

@@ -1,0 +1,51 @@
+CIF file written using JARVIS-Tools package.
+data_Sr6MgMo3O14
+_symmetry_space_group_name_H-M  'Amm2'
+_cell_length_a       10.7637
+_cell_length_b       10.7637
+_cell_length_c       5.57201
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    149.998
+
+_symmetry_Int_Tables_number  38
+_chemical_formula_structural  Sr6MgMo3O14
+_chemical_formula_sum  Sr6MgMo3O4
+_cell_volume  322.80041010383275
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Mg  Mg1  1  0.39960  0.60040  0.50000  1
+ Mo  Mo1  1  0.90456  0.09544  0.00000  1
+ Mo  Mo2  1  0.09722  0.90278  0.00000  1
+ Mo  Mo3  1  0.59553  0.40447  0.50000  1
+ O  O1  1  0.69576  0.30424  0.50000  1
+ O  O2  1  0.66078  0.85096  0.75597  1
+ O  O3  1  0.50179  0.49821  0.50000  1
+ O  O4  1  0.14904  0.33922  0.75597  1
+ O  O5  1  0.66078  0.85096  0.24403  1
+ O  O6  1  0.84557  0.65222  0.75011  1
+ O  O7  1  0.14904  0.33922  0.24403  1
+ O  O8  1  0.34778  0.15443  0.75011  1
+ O  O9  1  0.84557  0.65222  0.24989  1
+ O  O10  1  0.99959  0.00041  0.00000  1
+ O  O11  1  0.30074  0.69926  0.50000  1
+ O  O12  1  0.34778  0.15443  0.24989  1
+ O  O13  1  0.19557  0.80443  0.00000  1
+ O  O14  1  0.80672  0.19328  0.00000  1
+ Sr  Sr1  1  0.31556  0.68444  0.00000  1
+ Sr  Sr2  1  0.81529  0.18471  0.50000  1
+ Sr  Sr3  1  0.18832  0.81168  0.50000  1
+ Sr  Sr4  1  0.68791  0.31209  0.00000  1
+ Sr  Sr5  1  0.99474  0.00526  0.50000  1
+ Sr  Sr6  1  0.49475  0.50525  0.00000  1

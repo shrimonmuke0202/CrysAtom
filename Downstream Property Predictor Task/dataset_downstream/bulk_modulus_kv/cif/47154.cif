@@ -1,0 +1,37 @@
+CIF file written using JARVIS-Tools package.
+data_KGeCl3
+_symmetry_space_group_name_H-M  'R3c'
+_cell_length_a       7.22699
+_cell_length_b       7.22698
+_cell_length_c       7.22698
+_cell_angle_alpha    63.3169
+_cell_angle_beta     63.3169
+_cell_angle_gamma    63.317
+
+_symmetry_Int_Tables_number  161
+_chemical_formula_structural  KGeCl3
+_chemical_formula_sum  K2Ge2Cl6
+_cell_volume  286.50991994614407
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cl  Cl1  1  0.21760  0.86288  0.68390  1
+ Cl  Cl2  1  0.86288  0.68390  0.21760  1
+ Cl  Cl3  1  0.68390  0.21760  0.86288  1
+ Cl  Cl4  1  0.18390  0.36288  0.71760  1
+ Cl  Cl5  1  0.71760  0.18390  0.36288  1
+ Cl  Cl6  1  0.36288  0.71760  0.18390  1
+ Ge  Ge1  1  0.99980  0.99980  0.99980  1
+ Ge  Ge2  1  0.49980  0.49980  0.49980  1
+ K  K1  1  0.26433  0.26433  0.26433  1
+ K  K2  1  0.76433  0.76433  0.76433  1

@@ -1,0 +1,49 @@
+CIF file written using JARVIS-Tools package.
+data_Ga9Rh2
+_symmetry_space_group_name_H-M  'P2_1/c'
+_cell_length_a       6.46556
+_cell_length_b       6.48568
+_cell_length_c       8.9176
+_cell_angle_alpha    87.3324
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  14
+_chemical_formula_structural  Ga9Rh2
+_chemical_formula_sum  Ga8Rh4
+_cell_volume  373.54082706313585
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ga  Ga1  1  0.50000  0.00000  0.50000  1
+ Ga  Ga2  1  0.78443  0.89824  0.72718  1
+ Ga  Ga3  1  0.00000  0.00000  0.00000  1
+ Ga  Ga4  1  0.50950  0.39861  0.22774  1
+ Ga  Ga5  1  0.00950  0.60139  0.27226  1
+ Ga  Ga6  1  0.49050  0.60139  0.77226  1
+ Ga  Ga7  1  0.99050  0.39861  0.72774  1
+ Ga  Ga8  1  0.21557  0.10176  0.27282  1
+ Ga  Ga9  1  0.30241  0.39651  0.50488  1
+ Ga  Ga10  1  0.71557  0.89824  0.22718  1
+ Ga  Ga11  1  0.80241  0.60349  0.99512  1
+ Ga  Ga12  1  0.69759  0.60349  0.49512  1
+ Ga  Ga13  1  0.19759  0.39651  0.00488  1
+ Ga  Ga14  1  0.89515  0.20276  0.45758  1
+ Ga  Ga15  1  0.39515  0.79724  0.04242  1
+ Ga  Ga16  1  0.10485  0.79724  0.54242  1
+ Ga  Ga17  1  0.60485  0.20276  0.95758  1
+ Ga  Ga18  1  0.28443  0.10176  0.77282  1
+ Rh  Rh1  1  0.37169  0.73959  0.33111  1
+ Rh  Rh2  1  0.12831  0.73959  0.83111  1
+ Rh  Rh3  1  0.87169  0.26041  0.16889  1
+ Rh  Rh4  1  0.62831  0.26041  0.66889  1

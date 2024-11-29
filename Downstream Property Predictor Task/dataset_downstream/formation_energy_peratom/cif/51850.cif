@@ -1,0 +1,55 @@
+CIF file written using JARVIS-Tools package.
+data_Li2TiFe3O8
+_symmetry_space_group_name_H-M  'R-3m'
+_cell_length_a       5.72488
+_cell_length_b       5.745
+_cell_length_c       9.91528
+_cell_angle_alpha    106.714
+_cell_angle_beta     89.9915
+_cell_angle_gamma    60.1125
+
+_symmetry_Int_Tables_number  166
+_chemical_formula_structural  Li2TiFe3O8
+_chemical_formula_sum  Li4Ti2Fe6O6
+_cell_volume  266.7205980956293
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Fe  Fe1  1  0.74994  0.00002  0.75000  1
+ Fe  Fe2  1  -0.00002  -0.00001  0.50000  1
+ Fe  Fe3  1  0.24991  0.00003  0.75000  1
+ Fe  Fe4  1  0.75009  0.99996  0.25000  1
+ Fe  Fe5  1  0.25005  0.99999  0.25000  1
+ Fe  Fe6  1  0.50001  0.00000  0.00000  1
+ Li  Li1  1  0.31474  0.37040  0.56174  1
+ Li  Li2  1  0.68523  0.62957  0.43826  1
+ Li  Li3  1  0.18517  0.62960  0.93826  1
+ Li  Li4  1  0.81486  0.37043  0.06175  1
+ O  O1  1  0.10425  0.79144  0.63190  1
+ O  O2  1  0.60437  0.79143  0.13191  1
+ O  O3  1  0.39562  0.20857  0.86810  1
+ O  O4  1  0.89574  0.20856  0.36809  1
+ O  O5  1  0.88391  0.23200  0.85833  1
+ O  O6  1  0.38407  0.23192  0.35832  1
+ O  O7  1  0.61592  0.76808  0.64168  1
+ O  O8  1  0.15454  0.23200  0.12885  1
+ O  O9  1  0.34552  0.76801  0.37117  1
+ O  O10  1  0.38641  0.76811  0.87120  1
+ O  O11  1  0.88653  0.76801  0.37117  1
+ O  O12  1  0.84548  0.76800  0.87115  1
+ O  O13  1  0.65446  0.23200  0.62883  1
+ O  O14  1  0.11346  0.23196  0.62881  1
+ O  O15  1  0.61362  0.23190  0.12881  1
+ O  O16  1  0.11609  0.76801  0.14167  1
+ Ti  Ti1  1  0.25012  0.49996  0.25000  1
+ Ti  Ti2  1  0.74990  0.50004  0.74999  1

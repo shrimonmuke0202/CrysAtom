@@ -1,0 +1,45 @@
+CIF file written using JARVIS-Tools package.
+data_TiV4FeO12
+_symmetry_space_group_name_H-M  'C2'
+_cell_length_a       6.74419
+_cell_length_b       6.7442
+_cell_length_c       5.70862
+_cell_angle_alpha    75.0319
+_cell_angle_beta     75.0318
+_cell_angle_gamma    83.9072
+
+_symmetry_Int_Tables_number  5
+_chemical_formula_structural  TiV4FeO12
+_chemical_formula_sum  TiV4FeO2
+_cell_volume  242.1145913374908
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Fe  Fe1  1  0.90997  0.09003  -0.00000  1
+ O  O1  1  0.36413  0.91192  0.51780  1
+ O  O2  1  0.96944  0.81603  0.87514  1
+ O  O3  1  0.91534  0.37363  0.01551  1
+ O  O4  1  0.08808  0.63587  0.48220  1
+ O  O5  1  0.61918  0.65385  0.81409  1
+ O  O6  1  0.81187  0.96636  0.39567  1
+ O  O7  1  0.66446  0.62472  0.31275  1
+ O  O8  1  0.34615  0.38082  0.18591  1
+ O  O9  1  0.03364  0.18813  0.60433  1
+ O  O10  1  0.37528  0.33554  0.68725  1
+ O  O11  1  0.18397  0.03056  0.12486  1
+ O  O12  1  0.62637  0.08466  0.98449  1
+ Ti  Ti1  1  0.08893  0.91107  0.50000  1
+ V  V1  1  0.20345  0.38938  0.48904  1
+ V  V2  1  0.38926  0.20015  -0.00528  1
+ V  V3  1  0.61062  0.79655  0.51096  1
+ V  V4  1  0.79985  0.61074  0.00528  1

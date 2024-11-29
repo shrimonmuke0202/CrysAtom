@@ -1,0 +1,47 @@
+CIF file written using JARVIS-Tools package.
+data_YFe4Cu3O12
+_symmetry_space_group_name_H-M  'Im-3'
+_cell_length_a       6.23989
+_cell_length_b       6.23987
+_cell_length_c       6.23987
+_cell_angle_alpha    70.5286
+_cell_angle_beta     70.5351
+_cell_angle_gamma    109.478
+
+_symmetry_Int_Tables_number  204
+_chemical_formula_structural  YFe4Cu3O12
+_chemical_formula_sum  YFe4Cu3O2
+_cell_volume  187.02652252473598
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cu  Cu1  1  0.50000  0.00000  0.50000  1
+ Cu  Cu2  1  0.50000  0.50000  0.00000  1
+ Cu  Cu3  1  0.00000  0.50000  0.50000  1
+ Fe  Fe1  1  0.50000  -0.00000  -0.00000  1
+ Fe  Fe2  1  -0.00000  -0.00000  0.50000  1
+ Fe  Fe3  1  -0.00000  0.50000  0.00000  1
+ Fe  Fe4  1  0.50000  0.50000  0.50000  1
+ O  O1  1  0.47732  0.17733  0.70000  1
+ O  O2  1  0.69997  0.52265  0.17733  1
+ O  O3  1  0.12267  0.82267  0.70000  1
+ O  O4  1  0.69998  0.87730  0.82268  1
+ O  O5  1  0.30002  0.12270  0.17732  1
+ O  O6  1  0.30002  0.47735  0.82267  1
+ O  O7  1  0.87733  0.17733  0.30000  1
+ O  O8  1  0.17729  0.29997  0.52274  1
+ O  O9  1  0.82271  0.70003  0.47726  1
+ O  O10  1  0.82270  0.29997  0.87732  1
+ O  O11  1  0.52268  0.82267  0.30000  1
+ O  O12  1  0.17730  0.70003  0.12268  1
+ Y  Y1  1  0.00000  -0.00000  1.00000  1

@@ -1,0 +1,47 @@
+CIF file written using JARVIS-Tools package.
+data_Zn2CuSbO6
+_symmetry_space_group_name_H-M  'P2_1/m'
+_cell_length_a       5.34944
+_cell_length_b       7.54132
+_cell_length_c       5.41497
+_cell_angle_alpha    90
+_cell_angle_beta     98.1011
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  11
+_chemical_formula_structural  Zn2CuSbO6
+_chemical_formula_sum  Zn4Cu2Sb2O2
+_cell_volume  216.26957454522503
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cu  Cu1  1  -0.00000  0.50000  0.50000  1
+ Cu  Cu2  1  -0.00000  0.00000  0.50000  1
+ O  O1  1  0.91473  0.25000  0.40782  1
+ O  O2  1  0.67555  0.55886  0.34507  1
+ O  O3  1  0.40511  0.25000  0.12648  1
+ O  O4  1  0.32445  0.05886  0.65493  1
+ O  O5  1  0.79949  0.42552  0.85769  1
+ O  O6  1  0.20051  0.92552  0.14231  1
+ O  O7  1  0.79949  0.07448  0.85769  1
+ O  O8  1  0.59489  0.75000  0.87352  1
+ O  O9  1  0.08527  0.75000  0.59218  1
+ O  O10  1  0.20051  0.57448  0.14231  1
+ O  O11  1  0.32445  0.44114  0.65493  1
+ O  O12  1  0.67555  0.94114  0.34507  1
+ Sb  Sb1  1  0.50000  0.00000  -0.00000  1
+ Sb  Sb2  1  0.50000  0.50000  -0.00000  1
+ Zn  Zn1  1  0.98210  0.75000  0.93801  1
+ Zn  Zn2  1  0.01790  0.25000  0.06199  1
+ Zn  Zn3  1  0.43830  0.75000  0.47003  1
+ Zn  Zn4  1  0.56170  0.25000  0.52997  1

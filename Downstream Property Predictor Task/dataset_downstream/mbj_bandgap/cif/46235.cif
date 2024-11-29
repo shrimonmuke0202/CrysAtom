@@ -1,0 +1,42 @@
+CIF file written using JARVIS-Tools package.
+data_Ho2O3
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       3.47455
+_cell_length_b       7.17631
+_cell_length_c       8.58776
+_cell_angle_alpha    99.8248
+_cell_angle_beta     90
+_cell_angle_gamma    104.01
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  Ho2O3
+_chemical_formula_sum  Ho6O9
+_cell_volume  204.52331054316147
+_cell_formula_units_Z  3
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ho  Ho1  1  0.03290  0.06579  0.81347  1
+ Ho  Ho2  1  0.69070  0.38140  0.13729  1
+ Ho  Ho3  1  0.36486  0.72973  0.51303  1
+ Ho  Ho4  1  0.30930  0.61860  0.86271  1
+ Ho  Ho5  1  0.63514  0.27027  0.48697  1
+ Ho  Ho6  1  0.96710  0.93421  0.18653  1
+ O  O1  1  0.17469  0.34939  0.96926  1
+ O  O2  1  0.50000  0.00000  0.00000  1
+ O  O3  1  0.82531  0.65061  0.03074  1
+ O  O4  1  0.87213  0.74427  0.71776  1
+ O  O5  1  0.20646  0.41293  0.62363  1
+ O  O6  1  0.79354  0.58707  0.37637  1
+ O  O7  1  0.12787  0.25573  0.28224  1
+ O  O8  1  0.52906  0.05811  0.65636  1
+ O  O9  1  0.47094  0.94189  0.34364  1

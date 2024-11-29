@@ -1,0 +1,45 @@
+CIF file written using JARVIS-Tools package.
+data_Mn6O7F5
+_symmetry_space_group_name_H-M  'P1'
+_cell_length_a       4.52458
+_cell_length_b       5.51773
+_cell_length_c       7.61139
+_cell_angle_alpha    86.0993
+_cell_angle_beta     88.6546
+_cell_angle_gamma    89.2259
+
+_symmetry_Int_Tables_number  1
+_chemical_formula_structural  Mn6O7F5
+_chemical_formula_sum  Mn6O7F5
+_cell_volume  189.51578051862478
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ F  F1  1  0.21667  0.96174  0.20701  1
+ F  F2  1  0.72170  0.19931  0.12797  1
+ F  F3  1  0.80821  0.36165  0.45871  1
+ F  F4  1  0.20164  0.62422  0.56200  1
+ F  F5  1  0.28797  0.80653  0.87564  1
+ Mn  Mn1  1  0.49868  0.50055  0.99912  1
+ Mn  Mn2  1  0.97957  0.65802  0.31448  1
+ Mn  Mn3  1  0.00945  0.32853  0.69066  1
+ Mn  Mn4  1  0.47755  0.17039  0.34861  1
+ Mn  Mn5  1  0.53529  0.84019  0.65704  1
+ Mn  Mn6  1  0.98268  0.99689  0.98936  1
+ O  O1  1  0.19445  0.29220  0.90507  1
+ O  O2  1  0.30385  0.45910  0.23071  1
+ O  O3  1  0.69699  0.54333  0.77055  1
+ O  O4  1  0.79418  0.71381  0.08813  1
+ O  O5  1  0.79414  0.04791  0.77361  1
+ O  O6  1  0.70077  0.87292  0.42936  1
+ O  O7  1  0.29621  0.12272  0.57198  1

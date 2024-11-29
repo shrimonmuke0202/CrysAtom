@@ -1,0 +1,55 @@
+CIF file written using JARVIS-Tools package.
+data_Li2AlCr2SbO8
+_symmetry_space_group_name_H-M  'Cm'
+_cell_length_a       5.84716
+_cell_length_b       5.84717
+_cell_length_c       9.5427
+_cell_angle_alpha    89.7813
+_cell_angle_beta     89.7813
+_cell_angle_gamma    59.6852
+
+_symmetry_Int_Tables_number  8
+_chemical_formula_structural  Li2AlCr2SbO8
+_chemical_formula_sum  Li4Al2Cr4Sb2O6
+_cell_volume  281.644916797926
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Al  Al1  1  0.34028  0.83014  0.78568  1
+ Al  Al2  1  0.83014  0.34028  0.78568  1
+ Cr  Cr1  1  0.16880  0.16880  0.28563  1
+ Cr  Cr2  1  0.66060  0.16848  0.28598  1
+ Cr  Cr3  1  0.83007  0.83007  0.78581  1
+ Cr  Cr4  1  0.16848  0.66060  0.28598  1
+ Li  Li1  1  0.33420  0.33420  0.59824  1
+ Li  Li2  1  0.00158  0.00158  0.00703  1
+ Li  Li3  1  0.66557  0.66557  0.09315  1
+ Li  Li4  1  0.99824  0.99824  0.51358  1
+ O  O1  1  0.00810  0.00810  0.70053  1
+ O  O2  1  0.00005  0.00005  0.19095  1
+ O  O3  1  0.96548  0.51311  0.66172  1
+ O  O4  1  0.16512  0.16512  0.89832  1
+ O  O5  1  0.67659  0.16969  0.90028  1
+ O  O6  1  0.16969  0.67659  0.90028  1
+ O  O7  1  0.83653  0.83653  0.40596  1
+ O  O8  1  0.83647  0.32356  0.40500  1
+ O  O9  1  0.51706  0.51706  0.66273  1
+ O  O10  1  0.48309  0.48309  0.15943  1
+ O  O11  1  0.03210  0.48476  0.15858  1
+ O  O12  1  0.48476  0.03210  0.15858  1
+ O  O13  1  0.32356  0.83647  0.40500  1
+ O  O14  1  0.33175  0.33175  0.39276  1
+ O  O15  1  0.65983  0.65983  0.88723  1
+ O  O16  1  0.51311  0.96548  0.66172  1
+ Sb  Sb1  1  0.66479  0.66479  0.51418  1
+ Sb  Sb2  1  0.33397  0.33397  0.00940  1

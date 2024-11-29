@@ -1,0 +1,41 @@
+CIF file written using JARVIS-Tools package.
+data_KLiSO4
+_symmetry_space_group_name_H-M  'P31c'
+_cell_length_a       5.11424
+_cell_length_b       5.11424
+_cell_length_c       8.70099
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_symmetry_Int_Tables_number  159
+_chemical_formula_structural  KLiSO4
+_chemical_formula_sum  K2Li2S2O8
+_cell_volume  197.0884336292527
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ K  K1  1  0.00000  0.00000  0.81950  1
+ K  K2  1  0.00000  0.00000  0.31950  1
+ Li  Li1  1  0.33333  0.66667  0.50616  1
+ Li  Li2  1  0.66667  0.33333  0.00616  1
+ O  O1  1  0.94329  0.60579  0.56177  1
+ O  O2  1  0.60579  0.94329  0.06177  1
+ O  O3  1  0.66250  0.05671  0.56177  1
+ O  O4  1  0.39421  0.33750  0.56177  1
+ O  O5  1  0.33333  0.66667  0.28752  1
+ O  O6  1  0.66667  0.33333  0.78752  1
+ O  O7  1  0.33750  0.39421  0.06177  1
+ O  O8  1  0.05671  0.66250  0.06177  1
+ S  S1  1  0.33333  0.66667  0.11699  1
+ S  S2  1  0.66667  0.33333  0.61699  1

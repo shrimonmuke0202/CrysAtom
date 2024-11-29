@@ -1,0 +1,37 @@
+CIF file written using JARVIS-Tools package.
+data_Sc2Si2Ru
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       4.08396
+_cell_length_b       5.44335
+_cell_length_c       8.67416
+_cell_angle_alpha    81.4597
+_cell_angle_beta     76.3842
+_cell_angle_gamma    67.9675
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  Sc2Si2Ru
+_chemical_formula_sum  Sc4Si4Ru2
+_cell_volume  173.33611190207756
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ru  Ru1  1  0.72920  0.91136  0.63025  1
+ Ru  Ru2  1  0.27080  0.08864  0.36975  1
+ Sc  Sc1  1  0.81732  0.25762  0.10775  1
+ Sc  Sc2  1  0.00533  0.66650  0.32285  1
+ Sc  Sc3  1  0.18268  0.74238  0.89225  1
+ Sc  Sc4  1  0.99467  0.33350  0.67715  1
+ Si  Si1  1  0.48588  0.14942  0.87882  1
+ Si  Si2  1  0.36022  0.71415  0.56541  1
+ Si  Si3  1  0.51412  0.85058  0.12118  1
+ Si  Si4  1  0.63978  0.28585  0.43459  1

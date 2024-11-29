@@ -1,0 +1,30 @@
+CIF file written using JARVIS-Tools package.
+data_HgPb2
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       3.56499
+_cell_length_b       3.56499
+_cell_length_c       8.13842
+_cell_angle_alpha    90.3189
+_cell_angle_beta     90.3189
+_cell_angle_gamma    59.6809
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  HgPb2
+_chemical_formula_sum  HgPb2
+_cell_volume  89.28357114461998
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Hg  Hg1  1  0.00000  0.00000  0.00000  1
+ Pb  Pb1  1  0.66747  0.66747  0.67408  1
+ Pb  Pb2  1  0.33253  0.33253  0.32592  1

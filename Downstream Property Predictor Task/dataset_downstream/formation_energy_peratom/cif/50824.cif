@@ -1,0 +1,53 @@
+CIF file written using JARVIS-Tools package.
+data_Mn2Te3O8
+_symmetry_space_group_name_H-M  'C2/c'
+_cell_length_a       6.93919
+_cell_length_b       6.93919
+_cell_length_c       11.8593
+_cell_angle_alpha    82.5189
+_cell_angle_beta     82.5188
+_cell_angle_gamma    45.4344
+
+_symmetry_Int_Tables_number  15
+_chemical_formula_structural  Mn2Te3O8
+_chemical_formula_sum  Mn4Te6O6
+_cell_volume  402.7742748321112
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Mn  Mn1  1  0.97190  0.56842  0.85057  1
+ Mn  Mn2  1  0.43158  0.02810  0.64943  1
+ Mn  Mn3  1  0.02810  0.43158  0.14943  1
+ Mn  Mn4  1  0.56842  0.97190  0.35057  1
+ O  O1  1  0.17222  0.44132  0.68972  1
+ O  O2  1  0.55868  0.82778  0.81028  1
+ O  O3  1  0.24058  -0.01114  0.36255  1
+ O  O4  1  0.44132  0.17222  0.18972  1
+ O  O5  1  0.75143  0.72040  0.53018  1
+ O  O6  1  0.27960  0.24857  0.96982  1
+ O  O7  1  0.82778  0.55868  0.31028  1
+ O  O8  1  0.72040  0.75143  0.03018  1
+ O  O9  1  0.75942  0.01114  0.63745  1
+ O  O10  1  0.85705  -0.01679  0.35493  1
+ O  O11  1  0.14295  0.01679  0.64507  1
+ O  O12  1  0.24857  0.27960  0.46982  1
+ O  O13  1  -0.01679  0.85705  0.85493  1
+ O  O14  1  -0.01114  0.24058  0.86255  1
+ O  O15  1  0.01679  0.14295  0.14507  1
+ O  O16  1  0.01114  0.75942  0.13745  1
+ Te  Te1  1  0.94183  0.32653  0.44581  1
+ Te  Te2  1  0.05817  0.67347  0.55419  1
+ Te  Te3  1  0.32653  0.94183  0.94581  1
+ Te  Te4  1  0.84090  0.15910  0.75000  1
+ Te  Te5  1  0.67347  0.05817  0.05419  1
+ Te  Te6  1  0.15910  0.84090  0.25000  1

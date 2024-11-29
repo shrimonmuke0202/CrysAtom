@@ -1,0 +1,53 @@
+CIF file written using JARVIS-Tools package.
+data_Mg2Ta2SnO8
+_symmetry_space_group_name_H-M  'P-1'
+_cell_length_a       5.29362
+_cell_length_b       6.0295
+_cell_length_c       10.8422
+_cell_angle_alpha    106.165
+_cell_angle_beta     91.6145
+_cell_angle_gamma    90.0071
+
+_symmetry_Int_Tables_number  2
+_chemical_formula_structural  Mg2Ta2SnO8
+_chemical_formula_sum  Mg4Ta4Sn2O6
+_cell_volume  332.23499774647274
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Mg  Mg1  1  0.24348  0.87022  0.45974  1
+ Mg  Mg2  1  0.25552  0.41062  0.54024  1
+ Mg  Mg3  1  0.75556  0.12894  0.54020  1
+ Mg  Mg4  1  0.74352  0.58853  0.45970  1
+ O  O1  1  0.96179  0.00001  0.83163  1
+ O  O2  1  0.53751  0.16806  0.16834  1
+ O  O3  1  0.05177  0.69771  0.61678  1
+ O  O4  1  0.46156  0.83109  0.83161  1
+ O  O5  1  0.38417  0.31323  0.86029  1
+ O  O6  1  0.11455  0.45206  0.13971  1
+ O  O7  1  0.03728  0.99911  0.16833  1
+ O  O8  1  0.88450  0.54703  0.86022  1
+ O  O9  1  0.55184  0.91862  0.61690  1
+ O  O10  1  0.94729  0.30145  0.38317  1
+ O  O11  1  0.87924  0.84182  0.39294  1
+ O  O12  1  0.61487  0.68591  0.13966  1
+ O  O13  1  0.37926  0.55012  0.39295  1
+ O  O14  1  0.11980  0.15733  0.60701  1
+ O  O15  1  0.61978  0.44904  0.60699  1
+ O  O16  1  0.44721  0.08054  0.38305  1
+ Sn  Sn1  1  0.24954  0.69319  0.99941  1
+ Sn  Sn2  1  0.74952  0.30591  0.00053  1
+ Ta  Ta1  1  0.76905  0.70287  0.74538  1
+ Ta  Ta2  1  0.73003  0.95686  0.25450  1
+ Ta  Ta3  1  0.23001  0.29626  0.25456  1
+ Ta  Ta4  1  0.26902  0.04227  0.74544  1

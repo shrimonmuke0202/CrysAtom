@@ -1,0 +1,45 @@
+CIF file written using JARVIS-Tools package.
+data_Ca2Mn2O5
+_symmetry_space_group_name_H-M  'Pbam'
+_cell_length_a       3.80307
+_cell_length_b       5.40096
+_cell_length_c       10.1854
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  55
+_chemical_formula_structural  Ca2Mn2O5
+_chemical_formula_sum  Ca4Mn4O0
+_cell_volume  209.21022521061846
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ca  Ca1  1  0.50000  0.68928  0.86733  1
+ Ca  Ca2  1  0.50000  0.31072  0.13267  1
+ Ca  Ca3  1  0.50000  0.18928  0.63267  1
+ Ca  Ca4  1  0.50000  0.81072  0.36733  1
+ Mn  Mn1  1  0.00000  0.71669  0.61916  1
+ Mn  Mn2  1  0.00000  0.28331  0.38084  1
+ Mn  Mn3  1  0.00000  0.78331  0.11916  1
+ Mn  Mn4  1  0.00000  0.21669  0.88084  1
+ O  O1  1  0.00000  0.50000  0.00000  1
+ O  O2  1  0.00000  0.58264  0.28548  1
+ O  O3  1  0.00000  0.08264  0.21452  1
+ O  O4  1  0.00000  0.00000  0.50000  1
+ O  O5  1  0.50000  0.70649  0.60149  1
+ O  O6  1  0.50000  0.20649  0.89851  1
+ O  O7  1  0.00000  0.41736  0.71452  1
+ O  O8  1  0.00000  0.91736  0.78548  1
+ O  O9  1  0.50000  0.79351  0.10149  1
+ O  O10  1  0.50000  0.29351  0.39851  1

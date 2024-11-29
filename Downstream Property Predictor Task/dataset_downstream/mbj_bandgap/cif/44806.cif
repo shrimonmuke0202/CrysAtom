@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_CdPbF6
+_symmetry_space_group_name_H-M  'R-3'
+_cell_length_a       5.98115
+_cell_length_b       5.98116
+_cell_length_c       5.98116
+_cell_angle_alpha    52.3711
+_cell_angle_beta     52.3711
+_cell_angle_gamma    52.3711
+
+_symmetry_Int_Tables_number  148
+_chemical_formula_structural  CdPbF6
+_chemical_formula_sum  CdPbF6
+_cell_volume  124.19280207636868
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cd  Cd1  1  0.50000  0.50000  0.50000  1
+ F  F1  1  0.07461  0.40652  0.75952  1
+ F  F2  1  0.40652  0.75952  0.07461  1
+ F  F3  1  0.75952  0.07461  0.40652  1
+ F  F4  1  0.24048  0.92539  0.59348  1
+ F  F5  1  0.59348  0.24048  0.92539  1
+ F  F6  1  0.92539  0.59348  0.24048  1
+ Pb  Pb1  1  0.00000  0.00000  0.00000  1

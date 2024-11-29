@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_GaTe
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       4.1433
+_cell_length_b       9.02708
+_cell_length_c       10.5755
+_cell_angle_alpha    103.701
+_cell_angle_beta     90
+_cell_angle_gamma    103.267
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  GaTe
+_chemical_formula_sum  Ga6Te6
+_cell_volume  373.4133908277379
+_cell_formula_units_Z  6
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ga  Ga1  1  0.13630  0.27260  0.41790  1
+ Ga  Ga2  1  0.86370  0.72740  0.58210  1
+ Ga  Ga3  1  0.23999  0.47999  0.29948  1
+ Ga  Ga4  1  0.76001  0.52001  0.70052  1
+ Ga  Ga5  1  0.56308  0.12615  0.08196  1
+ Ga  Ga6  1  0.43692  0.87385  0.91804  1
+ Te  Te1  1  0.15661  0.31322  0.04924  1
+ Te  Te2  1  0.84339  0.68678  0.95076  1
+ Te  Te3  1  0.15890  0.31779  0.67798  1
+ Te  Te4  1  0.84110  0.68221  0.32202  1
+ Te  Te5  1  0.53894  0.07789  0.32749  1
+ Te  Te6  1  0.46106  0.92211  0.67251  1

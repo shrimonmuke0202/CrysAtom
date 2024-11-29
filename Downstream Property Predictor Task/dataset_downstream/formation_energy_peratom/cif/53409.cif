@@ -1,0 +1,41 @@
+CIF file written using JARVIS-Tools package.
+data_Nd2CuTe4
+_symmetry_space_group_name_H-M  'P2_1'
+_cell_length_a       8.37905
+_cell_length_b       6.42806
+_cell_length_c       7.70401
+_cell_angle_alpha    89.8601
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  4
+_chemical_formula_structural  Nd2CuTe4
+_chemical_formula_sum  Nd4Cu2Te8
+_cell_volume  414.944682426735
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cu  Cu1  1  0.20949  0.69575  0.58598  1
+ Cu  Cu2  1  0.70949  0.30425  0.41402  1
+ Nd  Nd1  1  0.05534  0.49849  0.23191  1
+ Nd  Nd2  1  0.94027  0.00441  0.75940  1
+ Nd  Nd3  1  0.44027  0.99559  0.24060  1
+ Nd  Nd4  1  0.55534  0.50151  0.76809  1
+ Te  Te1  1  0.41318  0.51106  0.38136  1
+ Te  Te2  1  0.58698  0.01404  0.61990  1
+ Te  Te3  1  0.08698  0.98596  0.38010  1
+ Te  Te4  1  0.91318  0.48894  0.61864  1
+ Te  Te5  1  0.24762  0.74802  0.91948  1
+ Te  Te6  1  0.74762  0.25198  0.08052  1
+ Te  Te7  1  0.74913  0.75330  0.07197  1
+ Te  Te8  1  0.24913  0.24670  0.92803  1

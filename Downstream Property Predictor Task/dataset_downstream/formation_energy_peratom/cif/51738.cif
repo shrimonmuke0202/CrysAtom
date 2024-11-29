@@ -1,0 +1,53 @@
+CIF file written using JARVIS-Tools package.
+data_LiMgH14Cl3O7
+_symmetry_space_group_name_H-M  'P1'
+_cell_length_a       6.53632
+_cell_length_b       6.54191
+_cell_length_c       6.74311
+_cell_angle_alpha    87.0958
+_cell_angle_beta     88.3444
+_cell_angle_gamma    87.8109
+
+_symmetry_Int_Tables_number  1
+_chemical_formula_structural  LiMgH14Cl3O7
+_chemical_formula_sum  LiMgH4Cl3O7
+_cell_volume  287.6499778719631
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cl  Cl1  1  0.21262  0.64859  0.63837  1
+ Cl  Cl2  1  0.63757  0.20603  0.64893  1
+ Cl  Cl3  1  0.64208  0.62817  0.24297  1
+ H  H1  1  0.50530  0.93115  0.22842  1
+ H  H2  1  0.22817  0.51263  0.94279  1
+ H  H3  1  0.21390  0.92763  0.81007  1
+ H  H4  1  0.80055  0.23036  0.92754  1
+ H  H5  1  0.91887  0.80300  0.21556  1
+ H  H6  1  0.94094  0.22098  0.49847  1
+ H  H7  1  0.38697  0.49922  0.11631  1
+ H  H8  1  0.11715  0.37838  0.48905  1
+ H  H9  1  0.34692  0.12256  0.79605  1
+ H  H10  1  0.11481  0.79209  0.34608  1
+ H  H11  1  0.88334  0.70256  0.71924  1
+ H  H12  1  0.70992  0.87468  0.72263  1
+ H  H13  1  0.49644  0.11221  0.37393  1
+ H  H14  1  0.79098  0.36745  0.11423  1
+ Li  Li1  1  0.56822  0.56400  0.58200  1
+ Mg  Mg1  1  0.15098  0.15464  0.14939  1
+ O  O1  1  0.86608  0.25125  0.05390  1
+ O  O2  1  0.43765  0.06562  0.25214  1
+ O  O3  1  0.26289  0.43795  0.06819  1
+ O  O4  1  0.07160  0.25378  0.43013  1
+ O  O5  1  0.73422  0.72533  0.73412  1
+ O  O6  1  0.22903  0.06118  0.86762  1
+ O  O7  1  0.05195  0.86580  0.23111  1

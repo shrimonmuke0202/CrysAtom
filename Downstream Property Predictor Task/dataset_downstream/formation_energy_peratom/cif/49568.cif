@@ -1,0 +1,38 @@
+CIF file written using JARVIS-Tools package.
+data_Sc3Cu4Si4
+_symmetry_space_group_name_H-M  'Immm'
+_cell_length_a       7.55924
+_cell_length_b       7.55924
+_cell_length_c       7.55924
+_cell_angle_alpha    149.684
+_cell_angle_beta     129.774
+_cell_angle_gamma    59.8008
+
+_symmetry_Int_Tables_number  71
+_chemical_formula_structural  Sc3Cu4Si4
+_chemical_formula_sum  Sc3Cu4Si4
+_cell_volume  166.2216836502307
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cu  Cu1  1  0.63419  0.32906  0.30514  1
+ Cu  Cu2  1  0.36581  0.67094  0.69486  1
+ Cu  Cu3  1  0.02392  0.32906  0.69486  1
+ Cu  Cu4  1  0.97608  0.67094  0.30514  1
+ Sc  Sc1  1  0.37382  0.87382  0.50000  1
+ Sc  Sc2  1  0.62618  0.12618  0.50000  1
+ Sc  Sc3  1  0.00000  0.00000  0.00000  1
+ Si  Si1  1  0.21670  0.21670  -0.00000  1
+ Si  Si2  1  0.78330  0.78330  0.00000  1
+ Si  Si3  1  0.68747  0.50000  0.18747  1
+ Si  Si4  1  0.31253  0.50000  0.81253  1

@@ -1,0 +1,37 @@
+CIF file written using JARVIS-Tools package.
+data_Li4MoO5
+_symmetry_space_group_name_H-M  'I4'
+_cell_length_a       5.05574
+_cell_length_b       5.05574
+_cell_length_c       5.05574
+_cell_angle_alpha    100.092
+_cell_angle_beta     100.092
+_cell_angle_gamma    130.506
+
+_symmetry_Int_Tables_number  79
+_chemical_formula_structural  Li4MoO5
+_chemical_formula_sum  Li4MoO5
+_cell_volume  89.23235654724873
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Li  Li1  1  0.81629  0.60147  0.41127  1
+ Li  Li2  1  0.60147  0.19019  0.78517  1
+ Li  Li3  1  0.40502  0.81629  0.21483  1
+ Li  Li4  1  0.19019  0.40502  0.58873  1
+ Mo  Mo1  1  0.04920  0.04920  0.00000  1
+ O  O1  1  0.25967  0.07336  0.36366  1
+ O  O2  1  0.07336  0.70970  0.81369  1
+ O  O3  1  0.89602  0.25967  0.18631  1
+ O  O4  1  0.70970  0.89602  0.63634  1
+ O  O5  1  0.48078  0.48078  -0.00000  1

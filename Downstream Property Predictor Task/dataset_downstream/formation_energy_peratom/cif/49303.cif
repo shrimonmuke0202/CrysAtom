@@ -1,0 +1,41 @@
+CIF file written using JARVIS-Tools package.
+data_AlCo2S4
+_symmetry_space_group_name_H-M  'Imma'
+_cell_length_a       6.74455
+_cell_length_b       6.74456
+_cell_length_c       6.74455
+_cell_angle_alpha    120.156
+_cell_angle_beta     118.487
+_cell_angle_gamma    91.1855
+
+_symmetry_Int_Tables_number  74
+_chemical_formula_structural  AlCo2S4
+_chemical_formula_sum  Al2Co4S8
+_cell_volume  219.06060328537504
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Al  Al1  1  0.50000  -0.00000  0.50000  1
+ Al  Al2  1  0.00000  0.00000  0.00000  1
+ Co  Co1  1  0.50000  0.50000  0.50000  1
+ Co  Co2  1  0.50000  0.50000  -0.00000  1
+ Co  Co3  1  0.50000  -0.00000  -0.00000  1
+ Co  Co4  1  -0.00000  0.50000  0.50000  1
+ S  S1  1  0.72552  0.25382  0.47170  1
+ S  S2  1  0.73808  0.72627  0.48819  1
+ S  S3  1  0.28212  0.25382  0.02830  1
+ S  S4  1  0.26192  0.75011  0.98819  1
+ S  S5  1  0.71788  0.74618  0.97170  1
+ S  S6  1  0.26192  0.27373  0.51181  1
+ S  S7  1  0.73808  0.24989  0.01181  1
+ S  S8  1  0.27448  0.74618  0.52830  1

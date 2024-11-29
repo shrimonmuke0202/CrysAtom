@@ -1,0 +1,53 @@
+CIF file written using JARVIS-Tools package.
+data_Ba6Ni5O15
+_symmetry_space_group_name_H-M  'R32'
+_cell_length_a       7.19463
+_cell_length_b       7.19463
+_cell_length_c       7.19464
+_cell_angle_alpha    87.9402
+_cell_angle_beta     87.9402
+_cell_angle_gamma    87.9401
+
+_symmetry_Int_Tables_number  155
+_chemical_formula_structural  Ba6Ni5O15
+_chemical_formula_sum  Ba6Ni5O5
+_cell_volume  371.7092108410224
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ba  Ba1  1  0.33455  0.66545  0.00000  1
+ Ba  Ba2  1  -0.00000  0.33455  0.66545  1
+ Ba  Ba3  1  0.66545  0.00000  0.33455  1
+ Ba  Ba4  1  0.14816  0.85184  0.50000  1
+ Ba  Ba5  1  0.50000  0.14816  0.85184  1
+ Ba  Ba6  1  0.85184  0.50000  0.14816  1
+ Ni  Ni1  1  0.09494  0.09494  0.09494  1
+ Ni  Ni2  1  0.90506  0.90506  0.90506  1
+ Ni  Ni3  1  0.28948  0.28948  0.28948  1
+ Ni  Ni4  1  0.71052  0.71052  0.71052  1
+ Ni  Ni5  1  0.50000  0.50000  0.50000  1
+ O  O1  1  0.03656  0.19338  0.33168  1
+ O  O2  1  0.47249  0.76616  0.62848  1
+ O  O3  1  0.19338  0.33168  0.03656  1
+ O  O4  1  0.80662  0.96344  0.66832  1
+ O  O5  1  0.66832  0.80662  0.96344  1
+ O  O6  1  0.96344  0.66832  0.80662  1
+ O  O7  1  0.23384  0.52751  0.37152  1
+ O  O8  1  0.85402  0.14598  0.00000  1
+ O  O9  1  -0.00000  0.85402  0.14598  1
+ O  O10  1  0.37152  0.23384  0.52751  1
+ O  O11  1  0.52751  0.37152  0.23384  1
+ O  O12  1  0.14598  0.00000  0.85402  1
+ O  O13  1  0.76616  0.62848  0.47249  1
+ O  O14  1  0.33168  0.03656  0.19338  1
+ O  O15  1  0.62848  0.47249  0.76616  1

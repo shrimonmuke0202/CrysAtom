@@ -1,0 +1,67 @@
+CIF file written using JARVIS-Tools package.
+data_Ta2Hg3SO4F10
+_symmetry_space_group_name_H-M  'Fdd2'
+_cell_length_a       9.14894
+_cell_length_b       9.14894
+_cell_length_c       10.1981
+_cell_angle_alpha    102.526
+_cell_angle_beta     102.526
+_cell_angle_gamma    121.096
+
+_symmetry_Int_Tables_number  43
+_chemical_formula_structural  Ta2Hg3SO4F10
+_chemical_formula_sum  Ta4Hg6S2O8F20
+_cell_volume  655.9991384966021
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ F  F1  1  0.59833  0.95884  0.11355  1
+ F  F2  1  0.75942  0.14131  0.86915  1
+ F  F3  1  0.64027  0.52216  0.63085  1
+ F  F4  1  0.89131  0.00942  0.36915  1
+ F  F5  1  0.80400  0.67842  0.38968  1
+ F  F6  1  0.84529  0.48478  0.88645  1
+ F  F7  1  0.70884  0.84833  0.61355  1
+ F  F8  1  0.25175  0.66095  0.90010  1
+ F  F9  1  0.76085  0.35165  0.09990  1
+ F  F10  1  0.41095  0.50175  0.40010  1
+ F  F11  1  0.10165  0.01085  0.59990  1
+ F  F12  1  0.49065  0.83852  0.31671  1
+ F  F13  1  0.52180  0.17394  0.68329  1
+ F  F14  1  0.58852  0.74065  0.81671  1
+ F  F15  1  0.92394  0.77180  0.18329  1
+ F  F16  1  0.16433  0.53874  0.11032  1
+ F  F17  1  0.42842  0.05400  0.88968  1
+ F  F18  1  0.28874  0.41433  0.61032  1
+ F  F19  1  0.27216  0.89027  0.13085  1
+ F  F20  1  0.23478  0.09529  0.38645  1
+ Hg  Hg1  1  -0.00565  0.26530  0.70018  1
+ Hg  Hg2  1  0.73965  0.23965  0.50000  1
+ Hg  Hg3  1  0.01530  0.24435  0.20018  1
+ Hg  Hg4  1  0.04417  0.81512  0.79982  1
+ Hg  Hg5  1  0.98965  0.98965  0.00000  1
+ Hg  Hg6  1  0.56512  0.29417  0.29982  1
+ O  O1  1  0.40224  0.32145  0.10970  1
+ O  O2  1  0.35059  0.72586  0.57163  1
+ O  O3  1  0.52896  0.40423  0.92837  1
+ O  O4  1  0.47586  0.60059  0.07163  1
+ O  O5  1  0.04254  0.46175  0.39030  1
+ O  O6  1  0.07145  0.65224  0.60970  1
+ O  O7  1  0.15423  0.77896  0.42837  1
+ O  O8  1  0.21175  0.29254  0.89030  1
+ S  S1  1  0.40022  0.40022  -0.00000  1
+ S  S2  1  0.15022  0.65022  0.50000  1
+ Ta  Ta1  1  0.01524  0.89603  0.39065  1
+ Ta  Ta2  1  0.50538  0.62459  0.60935  1
+ Ta  Ta3  1  0.64603  0.26524  0.89065  1
+ Ta  Ta4  1  0.37459  0.75538  0.10935  1

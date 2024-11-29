@@ -1,0 +1,55 @@
+CIF file written using JARVIS-Tools package.
+data_Li4Cr3CoP4O16
+_symmetry_space_group_name_H-M  'Pm'
+_cell_length_a       6.15002
+_cell_length_b       4.71621
+_cell_length_c       10.0667
+_cell_angle_alpha    89.5383
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  6
+_chemical_formula_structural  Li4Cr3CoP4O16
+_chemical_formula_sum  Li4Cr3CoP4O6
+_cell_volume  291.9735105833044
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Co  Co1  1  0.50000  0.96763  0.27845  1
+ Cr  Cr1  1  0.50000  0.53843  0.78291  1
+ Cr  Cr2  1  0.00000  0.45746  0.21889  1
+ Cr  Cr3  1  0.00000  0.04860  0.71709  1
+ Li  Li1  1  0.25576  0.99145  0.00404  1
+ Li  Li2  1  0.74424  0.99145  0.00404  1
+ Li  Li3  1  0.74125  0.50150  0.49315  1
+ Li  Li4  1  0.25875  0.50150  0.49315  1
+ O  O1  1  0.20196  0.77832  0.33864  1
+ O  O2  1  0.20199  0.71773  0.83715  1
+ O  O3  1  0.50000  0.74389  0.09029  1
+ O  O4  1  0.00000  0.80936  0.55336  1
+ O  O5  1  0.79804  0.77832  0.33864  1
+ O  O6  1  0.29938  0.21917  0.66809  1
+ O  O7  1  0.00000  0.69353  0.05144  1
+ O  O8  1  0.50000  0.75721  0.60246  1
+ O  O9  1  0.50000  0.29495  0.94784  1
+ O  O10  1  0.00000  0.24469  0.39867  1
+ O  O11  1  0.29713  0.28331  0.16196  1
+ O  O12  1  0.00000  0.25325  0.89969  1
+ O  O13  1  0.79801  0.71773  0.83715  1
+ O  O14  1  0.70062  0.21917  0.66809  1
+ O  O15  1  0.70287  0.28331  0.16196  1
+ O  O16  1  0.50000  0.20790  0.45300  1
+ P  P1  1  0.00000  0.91644  0.40578  1
+ P  P2  1  0.00000  0.58016  0.90610  1
+ P  P3  1  0.50000  0.41875  0.09244  1
+ P  P4  1  0.50000  0.08474  0.59556  1

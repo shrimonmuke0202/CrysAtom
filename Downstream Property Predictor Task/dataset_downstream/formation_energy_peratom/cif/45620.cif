@@ -1,0 +1,41 @@
+CIF file written using JARVIS-Tools package.
+data_MgSn2O4
+_symmetry_space_group_name_H-M  'C2'
+_cell_length_a       6.34699
+_cell_length_b       6.61919
+_cell_length_c       6.618
+_cell_angle_alpha    60.4463
+_cell_angle_beta     61.3476
+_cell_angle_gamma    61.3522
+
+_symmetry_Int_Tables_number  5
+_chemical_formula_structural  MgSn2O4
+_chemical_formula_sum  Mg2Sn4O8
+_cell_volume  201.21049970841315
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Mg  Mg1  1  0.14468  0.60521  0.10502  1
+ Mg  Mg2  1  0.85490  0.39480  0.89499  1
+ O  O1  1  0.72307  0.25713  0.75668  1
+ O  O2  1  0.26216  0.25701  0.75761  1
+ O  O3  1  0.70332  0.76100  0.80580  1
+ O  O4  1  0.29780  0.69403  0.73886  1
+ O  O5  1  0.27012  0.23902  0.19417  1
+ O  O6  1  0.73687  0.74287  0.24331  1
+ O  O7  1  0.73066  0.30594  0.26118  1
+ O  O8  1  0.27680  0.74298  0.24238  1
+ Sn  Sn1  1  0.51002  0.00001  0.00000  1
+ Sn  Sn2  1  0.50090  0.97403  0.52496  1
+ Sn  Sn3  1  0.99990  0.02599  0.47505  1
+ Sn  Sn4  1  0.48879  0.50000  0.50000  1

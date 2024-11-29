@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_Pr3Co
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       6.46499
+_cell_length_b       9.96466
+_cell_length_c       7.11252
+_cell_angle_alpha    90
+_cell_angle_beta     90.0015
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  Pr3Co
+_chemical_formula_sum  Pr2Co4
+_cell_volume  458.19868311786695
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Co  Co1  1  0.93522  0.75000  0.88440  1
+ Co  Co2  1  0.56477  0.75000  0.38439  1
+ Co  Co3  1  0.43523  0.25000  0.61561  1
+ Co  Co4  1  0.06478  0.25000  0.11560  1
+ Pr  Pr1  1  0.85143  0.25000  0.45576  1
+ Pr  Pr2  1  0.82583  0.93041  0.17074  1
+ Pr  Pr3  1  0.82583  0.56959  0.17074  1
+ Pr  Pr4  1  0.67418  0.93041  0.67075  1
+ Pr  Pr5  1  0.67418  0.56959  0.67075  1
+ Pr  Pr6  1  0.64857  0.25000  0.95577  1
+ Pr  Pr7  1  0.35143  0.75000  0.04423  1
+ Pr  Pr8  1  0.32582  0.43041  0.32925  1
+ Pr  Pr9  1  0.32582  0.06959  0.32925  1
+ Pr  Pr10  1  0.17417  0.43041  0.82926  1
+ Pr  Pr11  1  0.17417  0.06959  0.82926  1
+ Pr  Pr12  1  0.14857  0.75000  0.54424  1

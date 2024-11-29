@@ -1,0 +1,45 @@
+CIF file written using JARVIS-Tools package.
+data_Li4SiGe3O10
+_symmetry_space_group_name_H-M  'P1'
+_cell_length_a       4.95244
+_cell_length_b       5.97183
+_cell_length_c       7.98043
+_cell_angle_alpha    89.5792
+_cell_angle_beta     72.2576
+_cell_angle_gamma    89.9206
+
+_symmetry_Int_Tables_number  1
+_chemical_formula_structural  Li4SiGe3O10
+_chemical_formula_sum  Li4SiGe3O0
+_cell_volume  224.78963475119028
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ge  Ge1  1  0.93087  0.16065  0.28760  1
+ Ge  Ge2  1  0.71099  0.15705  0.71005  1
+ Ge  Ge3  1  0.42705  0.83517  0.29643  1
+ Li  Li1  1  0.63301  0.65166  0.88582  1
+ Li  Li2  1  0.52128  0.34858  0.11160  1
+ Li  Li3  1  0.13209  0.35399  0.88007  1
+ Li  Li4  1  0.02286  0.65041  0.10679  1
+ O  O1  1  0.24702  0.74709  0.51386  1
+ O  O2  1  0.29814  0.11312  0.26884  1
+ O  O3  1  0.05464  0.09489  0.73358  1
+ O  O4  1  0.53016  0.88973  0.73614  1
+ O  O5  1  0.39527  0.65551  0.13685  1
+ O  O6  1  0.90061  0.33982  0.12562  1
+ O  O7  1  0.52908  0.34206  0.86726  1
+ O  O8  1  0.79776  0.88179  0.27028  1
+ O  O9  1  0.03592  0.66881  0.85856  1
+ O  O10  1  0.74623  0.26774  0.49807  1
+ Si  Si1  1  0.21100  0.84192  0.71261  1

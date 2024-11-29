@@ -1,0 +1,41 @@
+CIF file written using JARVIS-Tools package.
+data_SrPr2S4
+_symmetry_space_group_name_H-M  'I-42d'
+_cell_length_a       7.55472
+_cell_length_b       7.55492
+_cell_length_c       7.55472
+_cell_angle_alpha    109.442
+_cell_angle_beta     109.529
+_cell_angle_gamma    109.442
+
+_symmetry_Int_Tables_number  122
+_chemical_formula_structural  SrPr2S4
+_chemical_formula_sum  Sr2Pr4S8
+_cell_volume  331.9272147018851
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Pr  Pr1  1  0.25000  0.62786  0.37786  1
+ Pr  Pr2  1  0.75000  0.87214  0.12214  1
+ Pr  Pr3  1  0.62214  0.37214  0.25000  1
+ Pr  Pr4  1  0.87786  0.12786  0.75000  1
+ S  S1  1  0.99207  0.84743  0.49264  1
+ S  S2  1  0.99264  0.34743  0.49207  1
+ S  S3  1  0.50792  0.00057  0.85535  1
+ S  S4  1  0.14465  0.15257  0.14522  1
+ S  S5  1  0.35535  0.50057  0.00792  1
+ S  S6  1  0.64522  0.65257  0.64465  1
+ S  S7  1  0.50736  0.99943  0.35478  1
+ S  S8  1  0.85478  0.49943  0.00736  1
+ Sr  Sr1  1  0.12500  0.75000  0.87500  1
+ Sr  Sr2  1  0.37500  0.25000  0.62500  1

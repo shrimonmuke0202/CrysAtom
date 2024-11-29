@@ -1,0 +1,45 @@
+CIF file written using JARVIS-Tools package.
+data_AlSCl7
+_symmetry_space_group_name_H-M  'Pc'
+_cell_length_a       6.57867
+_cell_length_b       6.25651
+_cell_length_c       12.2107
+_cell_angle_alpha    90
+_cell_angle_beta     102.315
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  7
+_chemical_formula_structural  AlSCl7
+_chemical_formula_sum  Al2S2Cl4
+_cell_volume  491.02014857029855
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Al  Al1  1  0.54073  0.49570  0.14581  1
+ Al  Al2  1  0.54073  0.50430  0.64581  1
+ Cl  Cl1  1  0.05786  0.69468  0.90595  1
+ Cl  Cl2  1  0.81561  0.12076  0.92170  1
+ Cl  Cl3  1  0.31504  0.33679  0.01873  1
+ Cl  Cl4  1  0.05786  0.30532  0.40595  1
+ Cl  Cl5  1  0.51763  0.37633  0.30901  1
+ Cl  Cl6  1  0.10679  0.92639  0.24548  1
+ Cl  Cl7  1  0.50246  0.16173  0.63631  1
+ Cl  Cl8  1  0.85269  0.42436  0.12337  1
+ Cl  Cl9  1  0.50246  0.83827  0.13631  1
+ Cl  Cl10  1  0.85269  0.57564  0.62337  1
+ Cl  Cl11  1  0.51763  0.62367  0.80901  1
+ Cl  Cl12  1  0.81561  0.87924  0.42170  1
+ Cl  Cl13  1  0.31504  0.66321  0.51873  1
+ Cl  Cl14  1  0.10679  0.07361  0.74548  1
+ S  S1  1  0.88289  0.91506  0.80573  1
+ S  S2  1  0.88289  0.08494  0.30573  1

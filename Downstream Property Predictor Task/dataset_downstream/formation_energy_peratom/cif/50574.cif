@@ -1,0 +1,47 @@
+CIF file written using JARVIS-Tools package.
+data_LaNCl4O4
+_symmetry_space_group_name_H-M  'P2_12_12'
+_cell_length_a       4.06772
+_cell_length_b       8.35072
+_cell_length_c       12.5428
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  18
+_chemical_formula_structural  LaNCl4O4
+_chemical_formula_sum  La2N2Cl8O8
+_cell_volume  426.057381915824
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cl  Cl1  1  0.54336  0.80715  0.90331  1
+ Cl  Cl2  1  0.45664  0.69285  0.40331  1
+ Cl  Cl3  1  0.54336  0.19285  0.09669  1
+ Cl  Cl4  1  0.45664  0.30715  0.59669  1
+ Cl  Cl5  1  0.79463  0.61454  0.20976  1
+ Cl  Cl6  1  0.79463  0.38546  0.79024  1
+ Cl  Cl7  1  0.20537  0.11454  0.29024  1
+ Cl  Cl8  1  0.20537  0.88546  0.70976  1
+ La  La1  1  0.51106  0.00000  0.50000  1
+ La  La2  1  0.48894  0.50000  0.00000  1
+ N  N1  1  -0.04824  0.00000  0.00000  1
+ N  N2  1  0.04824  0.50000  0.50000  1
+ O  O1  1  0.96289  0.57936  0.57215  1
+ O  O2  1  0.03711  0.07936  0.92785  1
+ O  O3  1  -0.00592  0.56829  0.09403  1
+ O  O4  1  -0.00592  0.43171  0.90597  1
+ O  O5  1  0.00592  0.93171  0.59403  1
+ O  O6  1  0.00592  0.06829  0.40597  1
+ O  O7  1  0.96289  0.42064  0.42785  1
+ O  O8  1  0.03711  0.92064  0.07215  1

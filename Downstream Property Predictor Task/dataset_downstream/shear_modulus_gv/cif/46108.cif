@@ -1,0 +1,37 @@
+CIF file written using JARVIS-Tools package.
+data_Te3As2
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       4.08867
+_cell_length_b       7.56374
+_cell_length_c       10.0736
+_cell_angle_alpha    95.623
+_cell_angle_beta     90
+_cell_angle_gamma    105.681
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  Te3As2
+_chemical_formula_sum  Te6As4
+_cell_volume  298.38147422553925
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ As  As1  1  0.61719  0.23438  0.44176  1
+ As  As2  1  0.38281  0.76562  0.55824  1
+ As  As3  1  0.20266  0.40531  0.14050  1
+ As  As4  1  0.79734  0.59469  0.85950  1
+ Te  Te1  1  0.03207  0.06413  0.28653  1
+ Te  Te2  1  0.96793  0.93587  0.71347  1
+ Te  Te3  1  0.78070  0.56141  0.33864  1
+ Te  Te4  1  0.21930  0.43859  0.66136  1
+ Te  Te5  1  0.37431  0.74861  0.03527  1
+ Te  Te6  1  0.62569  0.25139  0.96473  1

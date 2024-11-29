@@ -1,0 +1,51 @@
+CIF file written using JARVIS-Tools package.
+data_Li2AlPCO7
+_symmetry_space_group_name_H-M  'P2_1/m'
+_cell_length_a       4.96048
+_cell_length_b       6.17352
+_cell_length_c       8.31419
+_cell_angle_alpha    90
+_cell_angle_beta     94.195
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  11
+_chemical_formula_structural  Li2AlPCO7
+_chemical_formula_sum  Li4Al2P2C2O4
+_cell_volume  253.92868084085586
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Al  Al1  1  0.20845  0.25000  0.34585  1
+ Al  Al2  1  0.79155  0.75000  0.65415  1
+ C  C1  1  0.26699  0.25000  0.06004  1
+ C  C2  1  0.73301  0.75000  0.93996  1
+ Li  Li1  1  0.77647  0.01546  0.21029  1
+ Li  Li2  1  0.77647  0.48454  0.21029  1
+ Li  Li3  1  0.22353  0.51546  0.78971  1
+ Li  Li4  1  0.22353  0.98454  0.78971  1
+ O  O1  1  0.69193  0.75000  0.08800  1
+ O  O2  1  0.97196  0.75000  0.88322  1
+ O  O3  1  0.46490  0.25000  0.17603  1
+ O  O4  1  0.18179  0.94961  0.32457  1
+ O  O5  1  0.18179  0.55039  0.32457  1
+ O  O6  1  0.02804  0.25000  0.11678  1
+ O  O7  1  0.58423  0.75000  0.46095  1
+ O  O8  1  0.81821  0.05039  0.67543  1
+ O  O9  1  0.14372  0.75000  0.58807  1
+ O  O10  1  0.81821  0.44961  0.67543  1
+ O  O11  1  0.85628  0.25000  0.41193  1
+ O  O12  1  0.53510  0.75000  0.82397  1
+ O  O13  1  0.41577  0.25000  0.53905  1
+ O  O14  1  0.30807  0.25000  0.91200  1
+ P  P1  1  0.72722  0.25000  0.57653  1
+ P  P2  1  0.27278  0.75000  0.42347  1

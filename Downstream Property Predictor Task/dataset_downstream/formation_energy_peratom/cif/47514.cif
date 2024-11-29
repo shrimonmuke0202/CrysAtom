@@ -1,0 +1,47 @@
+CIF file written using JARVIS-Tools package.
+data_Y7FeI12
+_symmetry_space_group_name_H-M  'R-3'
+_cell_length_a       9.55955
+_cell_length_b       9.55956
+_cell_length_c       9.55955
+_cell_angle_alpha    107.054
+_cell_angle_beta     107.054
+_cell_angle_gamma    107.054
+
+_symmetry_Int_Tables_number  148
+_chemical_formula_structural  Y7FeI12
+_chemical_formula_sum  Y7FeI2
+_cell_volume  726.4732752153294
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Fe  Fe1  1  0.00000  0.00000  0.00000  1
+ I  I1  1  0.23163  0.67914  0.07440  1
+ I  I2  1  0.76837  0.32086  0.92560  1
+ I  I3  1  0.60980  0.84412  0.52968  1
+ I  I4  1  0.15588  0.47032  0.39020  1
+ I  I5  1  0.32086  0.92560  0.76837  1
+ I  I6  1  0.84412  0.52968  0.60980  1
+ I  I7  1  0.92560  0.76837  0.32086  1
+ I  I8  1  0.39020  0.15588  0.47032  1
+ I  I9  1  0.47032  0.39020  0.15588  1
+ I  I10  1  0.52968  0.60980  0.84412  1
+ I  I11  1  0.07440  0.23163  0.67914  1
+ I  I12  1  0.67914  0.07440  0.23163  1
+ Y  Y1  1  0.90462  0.70417  0.97411  1
+ Y  Y2  1  0.29583  0.02589  0.09538  1
+ Y  Y3  1  0.97411  0.90462  0.70417  1
+ Y  Y4  1  0.70417  0.97411  0.90462  1
+ Y  Y5  1  0.50000  0.50000  0.50000  1
+ Y  Y6  1  0.09538  0.29583  0.02589  1
+ Y  Y7  1  0.02589  0.09538  0.29583  1

@@ -1,0 +1,37 @@
+CIF file written using JARVIS-Tools package.
+data_CdFeP2S6
+_symmetry_space_group_name_H-M  'C2'
+_cell_length_a       6.11623
+_cell_length_b       6.11623
+_cell_length_c       6.78055
+_cell_angle_alpha    81.4634
+_cell_angle_beta     81.4634
+_cell_angle_gamma    120.183
+
+_symmetry_Int_Tables_number  5
+_chemical_formula_structural  CdFeP2S6
+_chemical_formula_sum  CdFeP2S6
+_cell_volume  209.3184230482536
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cd  Cd1  1  0.66878  0.33122  0.00000  1
+ Fe  Fe1  1  0.32541  0.67459  0.00000  1
+ P  P1  1  0.05541  0.05401  0.82746  1
+ P  P2  1  0.94599  0.94459  0.17254  1
+ S  S1  1  0.11168  0.41945  0.74510  1
+ S  S2  1  0.39260  0.05320  0.74327  1
+ S  S3  1  0.94680  0.60740  0.25673  1
+ S  S4  1  0.58055  0.88832  0.25490  1
+ S  S5  1  0.74079  0.76801  0.75153  1
+ S  S6  1  0.23199  0.25921  0.24847  1

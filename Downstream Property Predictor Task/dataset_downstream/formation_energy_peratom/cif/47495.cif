@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_Sm3Co
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       6.29614
+_cell_length_b       6.96899
+_cell_length_c       9.64909
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  Sm3Co
+_chemical_formula_sum  Sm2Co4
+_cell_volume  423.3795949460104
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Co  Co1  1  0.05946  0.88556  0.25000  1
+ Co  Co2  1  0.44054  0.38556  0.25000  1
+ Co  Co3  1  0.55946  0.61444  0.75000  1
+ Co  Co4  1  0.94054  0.11444  0.75000  1
+ Sm  Sm1  1  0.14608  0.45796  0.75000  1
+ Sm  Sm2  1  0.17504  0.17346  0.06835  1
+ Sm  Sm3  1  0.17504  0.17346  0.43165  1
+ Sm  Sm4  1  0.32496  0.67346  0.06835  1
+ Sm  Sm5  1  0.32496  0.67346  0.43165  1
+ Sm  Sm6  1  0.35392  0.95796  0.75000  1
+ Sm  Sm7  1  0.64608  0.04204  0.25000  1
+ Sm  Sm8  1  0.67504  0.32654  0.56835  1
+ Sm  Sm9  1  0.67504  0.32654  0.93165  1
+ Sm  Sm10  1  0.82496  0.82654  0.56835  1
+ Sm  Sm11  1  0.82496  0.82654  0.93165  1
+ Sm  Sm12  1  0.85392  0.54204  0.25000  1

@@ -1,0 +1,46 @@
+CIF file written using JARVIS-Tools package.
+data_Ba2Y2Co4O11
+_symmetry_space_group_name_H-M  'Pmmm'
+_cell_length_a       3.77932
+_cell_length_b       7.48572
+_cell_length_c       7.91875
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  47
+_chemical_formula_structural  Ba2Y2Co4O11
+_chemical_formula_sum  Ba2Y2Co4O
+_cell_volume  224.02871723490756
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ba  Ba1  1  0.50000  0.00000  0.25408  1
+ Ba  Ba2  1  0.50000  0.00000  0.74592  1
+ Co  Co1  1  0.00000  0.25017  0.00000  1
+ Co  Co2  1  0.00000  0.74983  0.00000  1
+ Co  Co3  1  0.00000  0.26111  0.50000  1
+ Co  Co4  1  0.00000  0.73889  0.50000  1
+ O  O1  1  0.00000  0.00000  0.00000  1
+ O  O2  1  0.00000  0.00000  0.50000  1
+ O  O3  1  0.50000  0.68722  0.50000  1
+ O  O4  1  0.50000  0.27512  0.00000  1
+ O  O5  1  0.50000  0.31278  0.50000  1
+ O  O6  1  0.00000  0.70141  0.26378  1
+ O  O7  1  0.00000  0.70141  0.73622  1
+ O  O8  1  0.50000  0.72488  0.00000  1
+ O  O9  1  0.00000  0.29859  0.73622  1
+ O  O10  1  0.00000  0.29859  0.26378  1
+ O  O11  1  0.00000  0.50000  0.00000  1
+ Y  Y1  1  0.50000  0.50000  0.77181  1
+ Y  Y2  1  0.50000  0.50000  0.22819  1

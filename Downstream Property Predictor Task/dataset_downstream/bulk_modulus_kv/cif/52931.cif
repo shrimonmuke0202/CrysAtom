@@ -1,0 +1,33 @@
+CIF file written using JARVIS-Tools package.
+data_SiOF
+_symmetry_space_group_name_H-M  'Pmmn'
+_cell_length_a       3.66697
+_cell_length_b       2.78256
+_cell_length_c       7.69018
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  59
+_chemical_formula_structural  SiOF
+_chemical_formula_sum  Si2O2F2
+_cell_volume  78.46718696951508
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ F  F1  1  0.50000  0.50000  0.68597  1
+ F  F2  1  0.00000  0.00000  0.31403  1
+ O  O1  1  0.00000  0.00000  0.87244  1
+ O  O2  1  0.50000  0.50000  0.12756  1
+ Si  Si1  1  0.50000  0.00000  0.24750  1
+ Si  Si2  1  0.00000  0.50000  0.75250  1

@@ -1,0 +1,55 @@
+CIF file written using JARVIS-Tools package.
+data_K3Ag9Sb4S12
+_symmetry_space_group_name_H-M  'I-4'
+_cell_length_a       9.65093
+_cell_length_b       9.65092
+_cell_length_c       9.65093
+_cell_angle_alpha    111.626
+_cell_angle_beta     111.626
+_cell_angle_gamma    105.242
+
+_symmetry_Int_Tables_number  82
+_chemical_formula_structural  K3Ag9Sb4S12
+_chemical_formula_sum  K3Ag9Sb4S2
+_cell_volume  689.1666198341475
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ag  Ag1  1  0.49510  0.01681  0.85492  1
+ Ag  Ag2  1  0.25000  0.75000  0.50000  1
+ Ag  Ag3  1  0.16188  0.64018  0.14508  1
+ Ag  Ag4  1  0.35982  0.50490  0.52170  1
+ Ag  Ag5  1  0.98319  0.83812  0.47830  1
+ Ag  Ag6  1  0.51661  0.00403  0.17377  1
+ Ag  Ag7  1  0.83027  0.34284  0.82623  1
+ Ag  Ag8  1  0.65716  0.48339  0.48743  1
+ Ag  Ag9  1  0.99597  0.16973  0.51257  1
+ K  K1  1  0.00000  0.00000  0.00000  1
+ K  K2  1  0.33057  0.33057  -0.00000  1
+ K  K3  1  0.66943  0.66943  0.00000  1
+ S  S1  1  0.66531  0.32383  0.98283  1
+ S  S2  1  0.34100  0.68248  0.01717  1
+ S  S3  1  0.11421  0.41850  0.22667  1
+ S  S4  1  0.19182  0.88754  0.77333  1
+ S  S5  1  0.91725  0.12095  0.71717  1
+ S  S6  1  0.40378  0.20008  0.28283  1
+ S  S7  1  0.87905  0.59622  0.79630  1
+ S  S8  1  0.31752  0.33469  0.65852  1
+ S  S9  1  0.11246  0.88579  0.30428  1
+ S  S10  1  0.58150  0.80818  0.69572  1
+ S  S11  1  0.67617  0.65900  0.34148  1
+ S  S12  1  0.79992  0.08275  0.20370  1
+ Sb  Sb1  1  0.62615  0.89159  0.49271  1
+ Sb  Sb2  1  0.39888  0.13344  0.50729  1
+ Sb  Sb3  1  0.10841  0.60112  0.73456  1
+ Sb  Sb4  1  0.86656  0.37385  0.26544  1

@@ -1,0 +1,41 @@
+CIF file written using JARVIS-Tools package.
+data_U2PdS4
+_symmetry_space_group_name_H-M  'Fdd2'
+_cell_length_a       6.73374
+_cell_length_b       6.73374
+_cell_length_c       7.77436
+_cell_angle_alpha    108.95
+_cell_angle_beta     108.95
+_cell_angle_gamma    104.487
+
+_symmetry_Int_Tables_number  43
+_chemical_formula_structural  U2PdS4
+_chemical_formula_sum  U4Pd2S8
+_cell_volume  289.3528452331375
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Pd  Pd1  1  0.25436  0.75436  0.50000  1
+ Pd  Pd2  1  0.00436  0.00436  0.00000  1
+ S  S1  1  0.55601  0.49536  0.25399  1
+ S  S2  1  0.24137  0.30202  0.74601  1
+ S  S3  1  0.74536  0.30601  0.75399  1
+ S  S4  1  0.55202  0.99137  0.24601  1
+ S  S5  1  0.58755  0.74525  0.72569  1
+ S  S6  1  0.01956  0.86186  0.27431  1
+ S  S7  1  0.11186  0.76956  0.77431  1
+ S  S8  1  0.99525  0.33755  0.22569  1
+ U  U1  1  0.52644  0.12819  0.94587  1
+ U  U2  1  0.18232  0.58057  0.05413  1
+ U  U3  1  0.37819  0.27644  0.44587  1
+ U  U4  1  0.83057  0.93232  0.55413  1

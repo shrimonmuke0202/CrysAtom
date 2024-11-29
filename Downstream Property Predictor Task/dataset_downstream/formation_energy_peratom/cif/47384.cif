@@ -1,0 +1,63 @@
+CIF file written using JARVIS-Tools package.
+data_Sr2B2O5
+_symmetry_space_group_name_H-M  'P2_1/c'
+_cell_length_a       7.76775
+_cell_length_b       5.37275
+_cell_length_c       11.9097
+_cell_angle_alpha    90
+_cell_angle_beta     93.3065
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  14
+_chemical_formula_structural  Sr2B2O5
+_chemical_formula_sum  Sr8B8O20
+_cell_volume  496.21474262442956
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ B  B1  1  0.34067  0.06944  0.40539  1
+ B  B2  1  0.84042  0.04606  0.41586  1
+ B  B3  1  0.84042  0.45394  0.91586  1
+ B  B4  1  0.15958  0.95394  0.58414  1
+ B  B5  1  0.15958  0.54606  0.08414  1
+ B  B6  1  0.65933  0.93056  0.59461  1
+ B  B7  1  0.34067  0.43056  0.90539  1
+ B  B8  1  0.65933  0.56944  0.09461  1
+ O  O1  1  0.09757  0.40457  0.16837  1
+ O  O2  1  0.64322  0.34701  0.14695  1
+ O  O3  1  0.60549  0.71306  0.64076  1
+ O  O4  1  0.25220  0.39747  0.00619  1
+ O  O5  1  0.39451  0.21306  0.85924  1
+ O  O6  1  0.39451  0.28694  0.35924  1
+ O  O7  1  0.60549  0.78694  0.14076  1
+ O  O8  1  0.35678  0.65299  0.85305  1
+ O  O9  1  0.64322  0.15299  0.64695  1
+ O  O10  1  0.25220  0.10253  0.50619  1
+ O  O11  1  0.35678  0.84701  0.35305  1
+ O  O12  1  0.90243  0.59543  0.83163  1
+ O  O13  1  0.85440  0.29795  0.42759  1
+ O  O14  1  0.74780  0.60253  0.99381  1
+ O  O15  1  0.14560  0.70205  0.57241  1
+ O  O16  1  0.85440  0.20205  0.92759  1
+ O  O17  1  0.74780  0.89747  0.49381  1
+ O  O18  1  0.90243  0.90457  0.33163  1
+ O  O19  1  0.09757  0.09543  0.66837  1
+ O  O20  1  0.14560  0.79795  0.07241  1
+ Sr  Sr1  1  0.62410  0.58914  0.33962  1
+ Sr  Sr2  1  0.37590  0.08914  0.16038  1
+ Sr  Sr3  1  0.37590  0.41086  0.66038  1
+ Sr  Sr4  1  0.62410  0.91086  0.83962  1
+ Sr  Sr5  1  0.11859  0.54614  0.36803  1
+ Sr  Sr6  1  0.88141  0.04614  0.13197  1
+ Sr  Sr7  1  0.88141  0.45386  0.63197  1
+ Sr  Sr8  1  0.11859  0.95386  0.86803  1

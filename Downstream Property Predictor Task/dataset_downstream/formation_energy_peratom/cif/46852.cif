@@ -1,0 +1,41 @@
+CIF file written using JARVIS-Tools package.
+data_TlMo3Se3
+_symmetry_space_group_name_H-M  'P6_3/m'
+_cell_length_a       9.06996
+_cell_length_b       9.06996
+_cell_length_c       4.51771
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_symmetry_Int_Tables_number  176
+_chemical_formula_structural  TlMo3Se3
+_chemical_formula_sum  Tl2Mo6Se6
+_cell_volume  321.85518841850103
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Mo  Mo1  1  0.96811  0.81720  0.25000  1
+ Mo  Mo2  1  0.81720  0.84909  0.75000  1
+ Mo  Mo3  1  0.03189  0.18280  0.75000  1
+ Mo  Mo4  1  0.18280  0.15091  0.25000  1
+ Mo  Mo5  1  0.84909  0.03189  0.25000  1
+ Mo  Mo6  1  0.15091  0.96811  0.75000  1
+ Se  Se1  1  0.93472  0.63525  0.75000  1
+ Se  Se2  1  0.29948  0.93472  0.25000  1
+ Se  Se3  1  0.70052  0.06528  0.75000  1
+ Se  Se4  1  0.06528  0.36475  0.25000  1
+ Se  Se5  1  0.63525  0.70052  0.25000  1
+ Se  Se6  1  0.36475  0.29948  0.75000  1
+ Tl  Tl1  1  0.33333  0.66667  0.75000  1
+ Tl  Tl2  1  0.66667  0.33333  0.25000  1

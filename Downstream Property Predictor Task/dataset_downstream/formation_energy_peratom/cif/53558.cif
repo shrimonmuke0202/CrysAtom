@@ -1,0 +1,44 @@
+CIF file written using JARVIS-Tools package.
+data_Ba4CaCu2CO9
+_symmetry_space_group_name_H-M  'Amm2'
+_cell_length_a       5.80218
+_cell_length_b       5.80218
+_cell_length_c       8.23377
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    91.726
+
+_symmetry_Int_Tables_number  38
+_chemical_formula_structural  Ba4CaCu2CO9
+_chemical_formula_sum  Ba4CaCu2CO9
+_cell_volume  277.06689662227114
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ba  Ba1  1  0.50692  0.98782  0.76625  1
+ Ba  Ba2  1  0.01218  0.49308  0.76625  1
+ Ba  Ba3  1  0.50692  0.98782  0.23375  1
+ Ba  Ba4  1  0.01218  0.49308  0.23375  1
+ C  C1  1  0.48449  0.51551  0.50000  1
+ Ca  Ca1  1  0.00555  -0.00555  0.00000  1
+ Cu  Cu1  1  0.50857  0.49143  0.00000  1
+ Cu  Cu2  1  0.99270  0.00730  0.50000  1
+ O  O1  1  0.56020  0.43980  0.36185  1
+ O  O2  1  0.99687  0.00313  0.28062  1
+ O  O3  1  0.73198  0.26802  0.00000  1
+ O  O4  1  0.56020  0.43980  0.63815  1
+ O  O5  1  0.73534  0.71825  0.00000  1
+ O  O6  1  0.28175  0.26466  0.00000  1
+ O  O7  1  0.28305  0.71695  0.00000  1
+ O  O8  1  0.99687  0.00313  0.71938  1
+ O  O9  1  0.32735  0.67265  0.50000  1

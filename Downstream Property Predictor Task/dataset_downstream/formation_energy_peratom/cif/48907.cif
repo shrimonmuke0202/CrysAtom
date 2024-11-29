@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_Cr9FeB6
+_symmetry_space_group_name_H-M  'I4/m'
+_cell_length_a       6.30248
+_cell_length_b       6.30248
+_cell_length_c       6.30249
+_cell_angle_alpha    129.398
+_cell_angle_beta     129.398
+_cell_angle_gamma    74.3705
+
+_symmetry_Int_Tables_number  87
+_chemical_formula_structural  Cr9FeB6
+_chemical_formula_sum  Cr9FeB6
+_cell_volume  145.71130690804384
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ B  B1  1  0.88545  0.37757  0.26302  1
+ B  B2  1  0.11455  0.62243  0.73698  1
+ B  B3  1  0.37757  0.11455  0.49212  1
+ B  B4  1  0.62243  0.88545  0.50788  1
+ B  B5  1  0.25205  0.25205  -0.00000  1
+ B  B6  1  0.74795  0.74795  0.00000  1
+ Cr  Cr1  1  0.52244  0.02513  0.84341  1
+ Cr  Cr2  1  0.18171  0.67903  0.15659  1
+ Cr  Cr3  1  0.02513  0.18171  0.50268  1
+ Cr  Cr4  1  0.67903  0.52244  0.49732  1
+ Cr  Cr5  1  0.47756  0.97487  0.15659  1
+ Cr  Cr6  1  0.81829  0.32097  0.84341  1
+ Cr  Cr7  1  0.97487  0.81829  0.49732  1
+ Cr  Cr8  1  0.32097  0.47756  0.50268  1
+ Cr  Cr9  1  0.50000  0.50000  0.00000  1
+ Fe  Fe1  1  0.00000  0.00000  0.00000  1

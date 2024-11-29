@@ -1,0 +1,30 @@
+CIF file written using JARVIS-Tools package.
+data_CaBr2
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       4.23682
+_cell_length_b       8.93394
+_cell_length_c       7.90306
+_cell_angle_alpha    28.2985
+_cell_angle_beta     58.0122
+_cell_angle_gamma    45.2199
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  CaBr2
+_chemical_formula_sum  CaBr2
+_cell_volume  96.9551864892548
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Br  Br1  1  0.03519  0.70358  0.47396  1
+ Br  Br2  1  0.03642  0.70984  0.97059  1
+ Ca  Ca1  1  0.03575  0.20676  0.22225  1

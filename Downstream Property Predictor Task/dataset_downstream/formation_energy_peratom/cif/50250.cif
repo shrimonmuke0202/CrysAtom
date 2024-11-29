@@ -1,0 +1,47 @@
+CIF file written using JARVIS-Tools package.
+data_RbGeCl3
+_symmetry_space_group_name_H-M  'Pna2_1'
+_cell_length_a       7.16661
+_cell_length_b       7.76677
+_cell_length_c       10.6703
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  33
+_chemical_formula_structural  RbGeCl3
+_chemical_formula_sum  Rb4Ge4Cl2
+_cell_volume  593.9216660535179
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cl  Cl1  1  0.92555  -0.00074  0.23975  1
+ Cl  Cl2  1  0.32789  0.78778  0.04079  1
+ Cl  Cl3  1  0.07445  0.00074  0.73975  1
+ Cl  Cl4  1  0.82789  0.71222  0.54079  1
+ Cl  Cl5  1  0.29903  0.81876  0.46804  1
+ Cl  Cl6  1  0.17211  0.28778  0.04079  1
+ Cl  Cl7  1  0.79903  0.68124  0.96804  1
+ Cl  Cl8  1  0.42555  0.50074  0.73975  1
+ Cl  Cl9  1  0.70097  0.18124  0.96804  1
+ Cl  Cl10  1  0.67211  0.21222  0.54079  1
+ Cl  Cl11  1  0.57445  0.49926  0.23975  1
+ Cl  Cl12  1  0.20097  0.31876  0.46804  1
+ Ge  Ge1  1  0.98698  0.02397  0.01570  1
+ Ge  Ge2  1  0.01302  0.97603  0.51570  1
+ Ge  Ge3  1  0.51302  0.52397  0.01570  1
+ Ge  Ge4  1  0.48698  0.47603  0.51570  1
+ Rb  Rb1  1  0.02891  0.57788  0.25092  1
+ Rb  Rb2  1  0.52891  0.92212  0.75092  1
+ Rb  Rb3  1  0.47109  0.07788  0.25092  1
+ Rb  Rb4  1  0.97109  0.42212  0.75092  1

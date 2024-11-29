@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_Mn2IrN3
+_symmetry_space_group_name_H-M  'Cmc2_1'
+_cell_length_a       5.31861
+_cell_length_b       5.49035
+_cell_length_c       4.94932
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    121.074
+
+_symmetry_Int_Tables_number  36
+_chemical_formula_structural  Mn2IrN3
+_chemical_formula_sum  Mn4Ir2N6
+_cell_volume  123.78612396809993
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ir  Ir1  1  0.00000  0.59670  0.49420  1
+ Ir  Ir2  1  -0.00000  0.40330  0.99420  1
+ Mn  Mn1  1  0.37367  0.34691  0.49498  1
+ Mn  Mn2  1  0.62633  0.97325  0.49498  1
+ Mn  Mn3  1  0.62633  0.65309  0.99498  1
+ Mn  Mn4  1  0.37367  0.02675  0.99498  1
+ N  N1  1  0.31799  0.31498  0.86512  1
+ N  N2  1  0.68201  -0.00301  0.86512  1
+ N  N3  1  0.68201  0.68502  0.36512  1
+ N  N4  1  0.31799  0.00301  0.36512  1
+ N  N5  1  -0.00000  0.75043  0.87360  1
+ N  N6  1  0.00000  0.24957  0.37360  1

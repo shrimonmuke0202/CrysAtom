@@ -1,0 +1,53 @@
+CIF file written using JARVIS-Tools package.
+data_CoMo
+_symmetry_space_group_name_H-M  'R-3m'
+_cell_length_a       17.2812
+_cell_length_b       17.2812
+_cell_length_c       17.2812
+_cell_angle_alpha    15.8328
+_cell_angle_beta     15.8328
+_cell_angle_gamma    15.8328
+
+_symmetry_Int_Tables_number  166
+_chemical_formula_structural  CoMo
+_chemical_formula_sum  Co3Mo3
+_cell_volume  334.8086450107059
+_cell_formula_units_Z  13
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Co  Co1  1  0.20051  0.70950  0.70950  1
+ Co  Co2  1  0.70354  0.20525  0.20525  1
+ Co  Co3  1  0.70950  0.20051  0.70950  1
+ Co  Co4  1  0.20525  0.70354  0.20525  1
+ Co  Co5  1  0.70950  0.70950  0.20051  1
+ Co  Co6  1  0.20525  0.20525  0.70354  1
+ Co  Co7  1  0.29646  0.79475  0.79475  1
+ Co  Co8  1  0.79949  0.29050  0.29050  1
+ Co  Co9  1  0.79475  0.29646  0.79475  1
+ Co  Co10  1  0.29050  0.79949  0.29050  1
+ Co  Co11  1  0.79475  0.79475  0.29646  1
+ Co  Co12  1  0.29050  0.29050  0.79949  1
+ Co  Co13  1  0.00000  0.00000  0.00000  1
+ Mo  Mo1  1  0.08140  0.08140  0.08140  1
+ Mo  Mo2  1  0.32639  0.32639  0.32639  1
+ Mo  Mo3  1  0.82621  0.82621  0.82621  1
+ Mo  Mo4  1  0.17379  0.17379  0.17379  1
+ Mo  Mo5  1  0.27523  0.27523  0.27523  1
+ Mo  Mo6  1  0.72477  0.72477  0.72477  1
+ Mo  Mo7  1  0.22620  0.22620  0.22620  1
+ Mo  Mo8  1  0.91860  0.91860  0.91860  1
+ Mo  Mo9  1  0.41657  0.41657  0.41657  1
+ Mo  Mo10  1  0.58343  0.58343  0.58343  1
+ Mo  Mo11  1  0.77380  0.77380  0.77380  1
+ Mo  Mo12  1  0.67361  0.67361  0.67361  1
+ Mo  Mo13  1  0.50000  0.50000  0.50000  1

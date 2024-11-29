@@ -1,0 +1,55 @@
+CIF file written using JARVIS-Tools package.
+data_Ti4Cu2O
+_symmetry_space_group_name_H-M  'F-43m'
+_cell_length_a       8.0897
+_cell_length_b       8.08971
+_cell_length_c       8.08971
+_cell_angle_alpha    60
+_cell_angle_beta     60
+_cell_angle_gamma    60
+
+_symmetry_Int_Tables_number  216
+_chemical_formula_structural  Ti4Cu2O
+_chemical_formula_sum  Ti6Cu8O4
+_cell_volume  374.35451082336147
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cu  Cu1  1  0.62031  0.62031  0.62031  1
+ Cu  Cu2  1  0.62031  0.62031  0.13908  1
+ Cu  Cu3  1  0.62031  0.13908  0.62031  1
+ Cu  Cu4  1  0.13908  0.62031  0.62031  1
+ Cu  Cu5  1  0.41358  0.41358  0.75925  1
+ Cu  Cu6  1  0.41358  0.75925  0.41358  1
+ Cu  Cu7  1  0.75925  0.41358  0.41358  1
+ Cu  Cu8  1  0.41358  0.41358  0.41358  1
+ O  O1  1  0.12453  0.12453  0.12453  1
+ O  O2  1  0.12453  0.12453  0.62640  1
+ O  O3  1  0.62640  0.12453  0.12453  1
+ O  O4  1  0.12453  0.62640  0.12453  1
+ Ti  Ti1  1  0.81605  0.18395  0.81605  1
+ Ti  Ti2  1  0.42969  0.07031  0.42969  1
+ Ti  Ti3  1  0.07031  0.07031  0.42969  1
+ Ti  Ti4  1  0.07031  0.42969  0.07031  1
+ Ti  Ti5  1  0.42969  0.07031  0.07031  1
+ Ti  Ti6  1  0.18395  0.18395  0.81605  1
+ Ti  Ti7  1  0.83357  0.49930  0.83357  1
+ Ti  Ti8  1  0.18395  0.81605  0.81605  1
+ Ti  Ti9  1  0.81605  0.81605  0.18395  1
+ Ti  Ti10  1  0.18395  0.81605  0.18395  1
+ Ti  Ti11  1  0.81605  0.18395  0.18395  1
+ Ti  Ti12  1  0.83357  0.83357  0.49930  1
+ Ti  Ti13  1  0.49930  0.83357  0.83357  1
+ Ti  Ti14  1  0.83357  0.83357  0.83357  1
+ Ti  Ti15  1  0.42969  0.42969  0.07031  1
+ Ti  Ti16  1  0.07031  0.42969  0.42969  1

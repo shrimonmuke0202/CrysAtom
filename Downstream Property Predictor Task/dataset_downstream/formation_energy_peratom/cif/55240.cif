@@ -1,0 +1,33 @@
+CIF file written using JARVIS-Tools package.
+data_GaPS
+_symmetry_space_group_name_H-M  'Immm'
+_cell_length_a       7.07431
+_cell_length_b       7.07431
+_cell_length_c       7.07431
+_cell_angle_alpha    149.911
+_cell_angle_beta     136.95
+_cell_angle_gamma    53.4152
+
+_symmetry_Int_Tables_number  71
+_chemical_formula_structural  GaPS
+_chemical_formula_sum  Ga2P2S2
+_cell_volume  120.48032691659151
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ga  Ga1  1  0.33800  0.83800  0.50000  1
+ Ga  Ga2  1  0.66200  0.16200  0.50000  1
+ P  P1  1  0.80775  0.50000  0.30775  1
+ P  P2  1  0.19225  0.50000  0.69225  1
+ S  S1  1  0.21951  0.21951  -0.00000  1
+ S  S2  1  0.78049  0.78049  0.00000  1

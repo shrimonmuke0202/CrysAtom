@@ -1,0 +1,41 @@
+CIF file written using JARVIS-Tools package.
+data_HfCrAgS4
+_symmetry_space_group_name_H-M  'Imma'
+_cell_length_a       7.36693
+_cell_length_b       7.36693
+_cell_length_c       7.36693
+_cell_angle_alpha    119.96
+_cell_angle_beta     119.093
+_cell_angle_gamma    90.8243
+
+_symmetry_Int_Tables_number  74
+_chemical_formula_structural  HfCrAgS4
+_chemical_formula_sum  Hf2Cr2Ag2S8
+_cell_volume  284.684964980721
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ag  Ag1  1  0.86232  0.11232  0.75000  1
+ Ag  Ag2  1  0.63768  0.38768  0.25000  1
+ Cr  Cr1  1  0.24998  0.25000  0.49998  1
+ Cr  Cr2  1  0.25002  0.75000  0.00002  1
+ Hf  Hf1  1  0.75000  0.75011  0.00011  1
+ Hf  Hf2  1  0.25000  0.74989  0.49989  1
+ S  S1  1  0.46939  0.50536  0.96398  1
+ S  S2  1  0.48702  0.50168  0.51474  1
+ S  S3  1  0.04137  0.50541  0.53602  1
+ S  S4  1  0.48694  0.97228  0.98526  1
+ S  S5  1  0.03061  0.99459  0.03597  1
+ S  S6  1  0.01298  0.52772  0.01466  1
+ S  S7  1  0.45863  0.99464  0.46403  1
+ S  S8  1  0.01306  0.99832  0.48534  1

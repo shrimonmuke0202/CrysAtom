@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_NbCoO4
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       3.82825
+_cell_length_b       6.41869
+_cell_length_c       6.52882
+_cell_angle_alpha    106.998
+_cell_angle_beta     90.0019
+_cell_angle_gamma    107.35
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  NbCoO4
+_chemical_formula_sum  Nb2Co2O8
+_cell_volume  145.77030265618544
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Co  Co1  1  0.79651  0.59302  0.17254  1
+ Co  Co2  1  0.20349  0.40698  0.82746  1
+ Nb  Nb1  1  0.10445  0.20887  0.23790  1
+ Nb  Nb2  1  0.89555  0.79113  0.76210  1
+ O  O1  1  0.94194  0.88386  0.13535  1
+ O  O2  1  0.05806  0.11614  0.86465  1
+ O  O3  1  0.73745  0.47491  0.86388  1
+ O  O4  1  0.14278  0.28554  0.53038  1
+ O  O5  1  0.64364  0.28726  0.19953  1
+ O  O6  1  0.85722  0.71446  0.46962  1
+ O  O7  1  0.26255  0.52509  0.13612  1
+ O  O8  1  0.35636  0.71274  0.80047  1

@@ -1,0 +1,45 @@
+CIF file written using JARVIS-Tools package.
+data_Tb2Al5Ge2
+_symmetry_space_group_name_H-M  'Cmce'
+_cell_length_a       8.22716
+_cell_length_b       8.22715
+_cell_length_c       7.9841
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    138.747
+
+_symmetry_Int_Tables_number  64
+_chemical_formula_structural  Tb2Al5Ge2
+_chemical_formula_sum  Tb4Al0Ge4
+_cell_volume  356.34250608174506
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Al  Al1  1  0.50000  0.50000  0.50000  1
+ Al  Al2  1  0.79962  0.70038  0.25000  1
+ Al  Al3  1  0.46790  0.03210  0.25000  1
+ Al  Al4  1  0.53210  0.96790  0.75000  1
+ Al  Al5  1  0.03210  0.46790  0.75000  1
+ Al  Al6  1  0.96790  0.53210  0.25000  1
+ Al  Al7  1  0.20038  0.29962  0.75000  1
+ Al  Al8  1  0.00000  0.00000  0.00000  1
+ Al  Al9  1  0.29962  0.20038  0.25000  1
+ Al  Al10  1  0.70038  0.79962  0.75000  1
+ Ge  Ge1  1  0.18174  0.81826  0.95058  1
+ Ge  Ge2  1  0.81826  0.18174  0.04942  1
+ Ge  Ge3  1  0.31826  0.68174  0.45058  1
+ Ge  Ge4  1  0.68174  0.31826  0.54942  1
+ Tb  Tb1  1  0.38427  0.61573  0.08198  1
+ Tb  Tb2  1  0.61573  0.38427  0.91802  1
+ Tb  Tb3  1  0.11573  0.88427  0.58198  1
+ Tb  Tb4  1  0.88427  0.11573  0.41802  1

@@ -1,0 +1,33 @@
+CIF file written using JARVIS-Tools package.
+data_LaAlCuNi3
+_symmetry_space_group_name_H-M  'P2/m'
+_cell_length_a       4.08088
+_cell_length_b       5.00983
+_cell_length_c       5.14174
+_cell_angle_alpha    62.1243
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  10
+_chemical_formula_structural  LaAlCuNi3
+_chemical_formula_sum  LaAlCuNi3
+_cell_volume  92.92258671609025
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Al  Al1  1  0.50000  0.00000  0.00000  1
+ Cu  Cu1  1  0.50000  -0.00000  0.50000  1
+ La  La1  1  0.00000  0.50000  0.50000  1
+ Ni  Ni1  1  0.00000  0.17234  0.15528  1
+ Ni  Ni2  1  0.00000  0.82766  0.84472  1
+ Ni  Ni3  1  0.50000  0.50000  0.00000  1

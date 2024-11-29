@@ -1,0 +1,53 @@
+CIF file written using JARVIS-Tools package.
+data_Th2P2O9
+_symmetry_space_group_name_H-M  'Cmce'
+_cell_length_a       5.89382
+_cell_length_b       5.89382
+_cell_length_c       12.9836
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    104.332
+
+_symmetry_Int_Tables_number  64
+_chemical_formula_structural  Th2P2O9
+_chemical_formula_sum  Th4P4O8
+_cell_volume  436.9760014239541
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ O  O1  1  0.51545  0.14965  0.08460  1
+ O  O2  1  0.05174  0.94826  0.62395  1
+ O  O3  1  0.98455  0.35035  0.58460  1
+ O  O4  1  0.14624  0.85376  0.24396  1
+ O  O5  1  0.48455  0.85035  0.91540  1
+ O  O6  1  0.01545  0.64965  0.41540  1
+ O  O7  1  0.44826  0.55174  0.12395  1
+ O  O8  1  0.85035  0.48455  0.08460  1
+ O  O9  1  0.64965  0.01545  0.58460  1
+ O  O10  1  0.94826  0.05174  0.37605  1
+ O  O11  1  0.35035  0.98455  0.41540  1
+ O  O12  1  0.35376  0.64624  0.74396  1
+ O  O13  1  0.00000  0.00000  0.00000  1
+ O  O14  1  0.55174  0.44826  0.87605  1
+ O  O15  1  0.50000  0.50000  0.50000  1
+ O  O16  1  0.85376  0.14624  0.75604  1
+ O  O17  1  0.14965  0.51545  0.91540  1
+ O  O18  1  0.64624  0.35376  0.25604  1
+ P  P1  1  0.88934  0.11066  0.64136  1
+ P  P2  1  0.61066  0.38934  0.14136  1
+ P  P3  1  0.11066  0.88934  0.35864  1
+ P  P4  1  0.38934  0.61066  0.85864  1
+ Th  Th1  1  0.79199  0.20801  0.92785  1
+ Th  Th2  1  0.20801  0.79199  0.07215  1
+ Th  Th3  1  0.70801  0.29199  0.42785  1
+ Th  Th4  1  0.29199  0.70801  0.57215  1

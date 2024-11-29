@@ -1,0 +1,47 @@
+CIF file written using JARVIS-Tools package.
+data_Na3TiCl6
+_symmetry_space_group_name_H-M  'P2_1/c'
+_cell_length_a       6.57899
+_cell_length_b       7.07268
+_cell_length_c       11.7135
+_cell_angle_alpha    90
+_cell_angle_beta     123.787
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  14
+_chemical_formula_structural  Na3TiCl6
+_chemical_formula_sum  Na6Ti2Cl2
+_cell_volume  452.98852685703866
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cl  Cl1  1  0.90507  0.54709  0.26839  1
+ Cl  Cl2  1  0.09493  0.45291  0.73161  1
+ Cl  Cl3  1  0.63229  0.82581  0.93518  1
+ Cl  Cl4  1  0.36771  0.17419  0.06482  1
+ Cl  Cl5  1  0.36771  0.32581  0.56482  1
+ Cl  Cl6  1  0.63229  0.67419  0.43518  1
+ Cl  Cl7  1  0.23119  0.79455  0.57069  1
+ Cl  Cl8  1  0.23119  0.70545  0.07069  1
+ Cl  Cl9  1  0.76881  0.20545  0.42931  1
+ Cl  Cl10  1  0.90507  0.95291  0.76839  1
+ Cl  Cl11  1  0.09493  0.04709  0.23161  1
+ Cl  Cl12  1  0.76881  0.29455  0.92931  1
+ Na  Na1  1  0.28656  0.40990  0.25188  1
+ Na  Na2  1  0.71344  0.90990  0.24812  1
+ Na  Na3  1  0.50000  0.50000  -0.00000  1
+ Na  Na4  1  0.50000  0.00000  0.50000  1
+ Na  Na5  1  0.71344  0.59010  0.74812  1
+ Na  Na6  1  0.28656  0.09010  0.75188  1
+ Ti  Ti1  1  0.00000  0.00000  0.00000  1
+ Ti  Ti2  1  0.00000  0.50000  0.50000  1

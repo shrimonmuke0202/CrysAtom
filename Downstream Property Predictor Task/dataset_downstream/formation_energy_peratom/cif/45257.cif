@@ -1,0 +1,47 @@
+CIF file written using JARVIS-Tools package.
+data_SrTaNO2
+_symmetry_space_group_name_H-M  'C2'
+_cell_length_a       5.73034
+_cell_length_b       5.73034
+_cell_length_c       8.10986
+_cell_angle_alpha    89.771
+_cell_angle_beta     89.771
+_cell_angle_gamma    88.7772
+
+_symmetry_Int_Tables_number  5
+_chemical_formula_structural  SrTaNO2
+_chemical_formula_sum  Sr4Ta4N4O8
+_cell_volume  266.23672246132764
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ N  N1  1  0.96701  0.53299  0.25000  1
+ N  N2  1  0.23548  0.76452  -0.00000  1
+ N  N3  1  0.73548  0.26452  0.50000  1
+ N  N4  1  0.46701  0.03299  0.75000  1
+ O  O1  1  0.23457  0.23016  0.46277  1
+ O  O2  1  0.76984  0.76543  0.53723  1
+ O  O3  1  0.26985  0.26543  0.03724  1
+ O  O4  1  0.04183  0.45817  0.75000  1
+ O  O5  1  0.54183  0.95817  0.25000  1
+ O  O6  1  0.27476  0.72524  0.50000  1
+ O  O7  1  0.77477  0.22523  -0.00000  1
+ O  O8  1  0.73457  0.73015  0.96276  1
+ Sr  Sr1  1  0.99299  0.00780  0.75228  1
+ Sr  Sr2  1  0.49220  0.50701  0.74772  1
+ Sr  Sr3  1  0.49299  0.50780  0.25228  1
+ Sr  Sr4  1  0.99220  0.00701  0.24772  1
+ Ta  Ta1  1  0.50405  0.01273  0.50787  1
+ Ta  Ta2  1  0.48727  0.99595  0.99213  1
+ Ta  Ta3  1  0.00405  0.51273  0.00787  1
+ Ta  Ta4  1  0.98727  0.49595  0.49213  1

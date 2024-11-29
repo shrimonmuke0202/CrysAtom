@@ -1,0 +1,33 @@
+CIF file written using JARVIS-Tools package.
+data_UGe2
+_symmetry_space_group_name_H-M  'Cmcm'
+_cell_length_a       3.96593
+_cell_length_b       4.14144
+_cell_length_c       7.93684
+_cell_angle_alpha    105.123
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  63
+_chemical_formula_structural  UGe2
+_chemical_formula_sum  U2Ge4
+_cell_volume  125.84502869830341
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ge  Ge1  1  0.25000  0.55909  0.11819  1
+ Ge  Ge2  1  0.75000  0.44091  0.88181  1
+ Ge  Ge3  1  0.75000  0.74829  0.49657  1
+ Ge  Ge4  1  0.25000  0.25171  0.50343  1
+ U  U1  1  0.25000  0.89838  0.79675  1
+ U  U2  1  0.75000  0.10162  0.20325  1

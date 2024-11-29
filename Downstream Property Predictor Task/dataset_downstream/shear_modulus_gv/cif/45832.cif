@@ -1,0 +1,51 @@
+CIF file written using JARVIS-Tools package.
+data_SrGeP2O8
+_symmetry_space_group_name_H-M  'C2/c'
+_cell_length_a       5.12795
+_cell_length_b       8.52768
+_cell_length_c       7.91602
+_cell_angle_alpha    113.913
+_cell_angle_beta     90
+_cell_angle_gamma    107.498
+
+_symmetry_Int_Tables_number  15
+_chemical_formula_structural  SrGeP2O8
+_chemical_formula_sum  Sr2Ge2P4O6
+_cell_volume  298.84466117386523
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ge  Ge1  1  -0.00000  0.50000  0.50000  1
+ Ge  Ge2  1  0.50000  0.50000  -0.00000  1
+ O  O1  1  0.49168  0.45176  0.20791  1
+ O  O2  1  0.80846  0.67387  0.59520  1
+ O  O3  1  0.13459  0.32613  0.90480  1
+ O  O4  1  0.19154  0.32613  0.40480  1
+ O  O5  1  0.27895  0.10301  0.10884  1
+ O  O6  1  0.32945  0.70188  0.63131  1
+ O  O7  1  0.62757  0.29812  0.86869  1
+ O  O8  1  0.86541  0.67387  0.09520  1
+ O  O9  1  0.37243  0.70188  0.13131  1
+ O  O10  1  0.50832  0.54824  0.79209  1
+ O  O11  1  0.17593  0.89699  0.39116  1
+ O  O12  1  0.67055  0.29812  0.36869  1
+ O  O13  1  0.03992  0.54824  0.29209  1
+ O  O14  1  0.72105  0.89699  0.89116  1
+ O  O15  1  0.82407  0.10301  0.60884  1
+ O  O16  1  0.96008  0.45176  0.70791  1
+ P  P1  1  0.11275  0.70728  0.23650  1
+ P  P2  1  0.40547  0.29272  0.26350  1
+ P  P3  1  0.88725  0.29272  0.76350  1
+ P  P4  1  0.59453  0.70728  0.73650  1
+ Sr  Sr1  1  0.19871  -0.00000  0.75000  1
+ Sr  Sr2  1  0.80129  0.00000  0.25000  1

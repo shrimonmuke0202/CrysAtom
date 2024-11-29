@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_TiBe3
+_symmetry_space_group_name_H-M  'R-3m'
+_cell_length_a       7.50327
+_cell_length_b       7.50327
+_cell_length_c       7.50326
+_cell_angle_alpha    34.5736
+_cell_angle_beta     34.5735
+_cell_angle_gamma    34.5736
+
+_symmetry_Int_Tables_number  166
+_chemical_formula_structural  TiBe3
+_chemical_formula_sum  Ti3Be9
+_cell_volume  121.3682799260453
+_cell_formula_units_Z  3
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Be  Be1  1  0.41778  0.92145  0.41778  1
+ Be  Be2  1  0.41778  0.41778  0.92145  1
+ Be  Be3  1  0.92145  0.41778  0.41778  1
+ Be  Be4  1  0.58222  0.07855  0.58222  1
+ Be  Be5  1  0.58222  0.58222  0.07855  1
+ Be  Be6  1  0.07855  0.58222  0.58222  1
+ Be  Be7  1  0.66593  0.66593  0.66593  1
+ Be  Be8  1  0.33407  0.33407  0.33407  1
+ Be  Be9  1  0.50000  0.50000  0.50000  1
+ Ti  Ti1  1  0.85745  0.85745  0.85745  1
+ Ti  Ti2  1  0.14255  0.14255  0.14255  1
+ Ti  Ti3  1  0.00000  0.00000  0.00000  1

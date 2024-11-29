@@ -1,0 +1,50 @@
+CIF file written using JARVIS-Tools package.
+data_Ag2Hg7P8Br6
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       8.23017
+_cell_length_b       8.53525
+_cell_length_c       8.53524
+_cell_angle_alpha    80.7383
+_cell_angle_beta     81.5355
+_cell_angle_gamma    81.5355
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  Ag2Hg7P8Br6
+_chemical_formula_sum  Ag2Hg7P8Br6
+_cell_volume  580.6057265695779
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ag  Ag1  1  0.50000  0.00000  0.50000  1
+ Ag  Ag2  1  0.50000  0.50000  0.00000  1
+ Br  Br1  1  0.53969  0.64522  0.64522  1
+ Br  Br2  1  0.46031  0.35478  0.35478  1
+ Br  Br3  1  0.15019  0.63566  0.04550  1
+ Br  Br4  1  0.84981  0.95450  0.36434  1
+ Br  Br5  1  0.15019  0.04550  0.63566  1
+ Br  Br6  1  0.84981  0.36434  0.95450  1
+ Hg  Hg1  1  0.76304  0.63071  0.26669  1
+ Hg  Hg2  1  0.00000  0.00000  0.00000  1
+ Hg  Hg3  1  0.76304  0.26669  0.63071  1
+ Hg  Hg4  1  0.23696  0.36929  0.73331  1
+ Hg  Hg5  1  0.12982  0.27227  0.27227  1
+ Hg  Hg6  1  0.23696  0.73331  0.36929  1
+ Hg  Hg7  1  0.87018  0.72773  0.72773  1
+ P  P1  1  0.93158  0.43674  0.43674  1
+ P  P2  1  0.42590  0.92510  0.23859  1
+ P  P3  1  0.25525  0.08585  0.08585  1
+ P  P4  1  0.06842  0.56326  0.56326  1
+ P  P5  1  0.74475  0.91415  0.91415  1
+ P  P6  1  0.57410  0.76141  0.07490  1
+ P  P7  1  0.42590  0.23859  0.92510  1
+ P  P8  1  0.57410  0.07490  0.76141  1

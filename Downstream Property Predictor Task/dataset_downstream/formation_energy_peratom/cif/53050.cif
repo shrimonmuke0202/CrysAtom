@@ -1,0 +1,51 @@
+CIF file written using JARVIS-Tools package.
+data_UMnB4
+_symmetry_space_group_name_H-M  'Pbam'
+_cell_length_a       3.4627
+_cell_length_b       5.84073
+_cell_length_c       11.3208
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  55
+_chemical_formula_structural  UMnB4
+_chemical_formula_sum  U4Mn4B6
+_cell_volume  228.96010879968597
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ B  B1  1  0.50000  0.38689  0.04581  1
+ B  B2  1  0.50000  0.78396  0.18675  1
+ B  B3  1  0.50000  0.21604  0.81325  1
+ B  B4  1  0.50000  0.28396  0.31325  1
+ B  B5  1  0.50000  0.47389  0.19113  1
+ B  B6  1  0.50000  0.86399  0.03319  1
+ B  B7  1  0.50000  0.13601  0.96681  1
+ B  B8  1  0.50000  0.71604  0.68675  1
+ B  B9  1  0.50000  0.63601  0.53319  1
+ B  B10  1  0.50000  0.88689  0.45419  1
+ B  B11  1  0.50000  0.11311  0.54581  1
+ B  B12  1  0.50000  0.52611  0.80887  1
+ B  B13  1  0.50000  0.61311  0.95419  1
+ B  B14  1  0.50000  0.97389  0.30887  1
+ B  B15  1  0.50000  0.02611  0.69113  1
+ B  B16  1  0.50000  0.36399  0.46681  1
+ Mn  Mn1  1  0.00000  0.86440  0.59128  1
+ Mn  Mn2  1  0.00000  0.13560  0.40872  1
+ Mn  Mn3  1  0.00000  0.36440  0.90872  1
+ Mn  Mn4  1  0.00000  0.63560  0.09128  1
+ U  U1  1  0.00000  0.87346  0.84951  1
+ U  U2  1  0.00000  0.12654  0.15049  1
+ U  U3  1  0.00000  0.37346  0.65049  1
+ U  U4  1  0.00000  0.62654  0.34951  1

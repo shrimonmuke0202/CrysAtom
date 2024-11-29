@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_MgTiSiO5
+_symmetry_space_group_name_H-M  'P1'
+_cell_length_a       5.42865
+_cell_length_b       5.131
+_cell_length_c       7.02854
+_cell_angle_alpha    101.428
+_cell_angle_beta     104.657
+_cell_angle_gamma    108.628
+
+_symmetry_Int_Tables_number  1
+_chemical_formula_structural  MgTiSiO5
+_chemical_formula_sum  Mg2Ti2Si2O0
+_cell_volume  170.97158718684688
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Mg  Mg1  1  0.27554  0.15327  0.70773  1
+ Mg  Mg2  1  0.69158  0.85222  0.21592  1
+ O  O1  1  0.63366  0.51952  0.85421  1
+ O  O2  1  0.87922  0.80754  0.63269  1
+ O  O3  1  0.35862  0.47440  0.17001  1
+ O  O4  1  0.14682  0.20415  0.41083  1
+ O  O5  1  0.63038  0.19155  0.38717  1
+ O  O6  1  0.21798  0.89898  0.05928  1
+ O  O7  1  0.38237  0.81073  0.63571  1
+ O  O8  1  0.79178  0.07996  0.98811  1
+ O  O9  1  0.92834  0.61419  0.26487  1
+ O  O10  1  0.05419  0.38972  0.75907  1
+ Si  Si1  1  0.67568  0.80766  0.77287  1
+ Si  Si2  1  0.33251  0.19354  0.25563  1
+ Ti  Ti1  1  0.99470  0.51250  0.50215  1
+ Ti  Ti2  1  0.00526  0.49206  0.00572  1

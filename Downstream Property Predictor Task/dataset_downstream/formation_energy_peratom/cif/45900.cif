@@ -1,0 +1,65 @@
+CIF file written using JARVIS-Tools package.
+data_Ho4NiB14
+_symmetry_space_group_name_H-M  'P4/mnc'
+_cell_length_a       7.20338
+_cell_length_b       7.20338
+_cell_length_c       7.48657
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  128
+_chemical_formula_structural  Ho4NiB14
+_chemical_formula_sum  Ho8Ni2B28
+_cell_volume  388.46774688855885
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ B  B1  1  0.08922  0.58922  0.75000  1
+ B  B2  1  0.91078  0.41078  0.75000  1
+ B  B3  1  0.17490  0.03915  0.76698  1
+ B  B4  1  0.82510  0.96085  0.76698  1
+ B  B5  1  0.32510  0.53915  0.73302  1
+ B  B6  1  0.96085  0.17490  0.76698  1
+ B  B7  1  0.03915  0.82510  0.76698  1
+ B  B8  1  0.00000  0.00000  0.61108  1
+ B  B9  1  0.46085  0.32510  0.26698  1
+ B  B10  1  0.53915  0.67490  0.26698  1
+ B  B11  1  0.82510  0.96085  0.23302  1
+ B  B12  1  0.32510  0.53915  0.26698  1
+ B  B13  1  0.67490  0.46085  0.26698  1
+ B  B14  1  0.03915  0.82510  0.23302  1
+ B  B15  1  0.96085  0.17490  0.23302  1
+ B  B16  1  0.17490  0.03915  0.23302  1
+ B  B17  1  0.50000  0.50000  0.11108  1
+ B  B18  1  0.46085  0.32510  0.73302  1
+ B  B19  1  0.50000  0.50000  0.88892  1
+ B  B20  1  0.41078  0.08922  0.75000  1
+ B  B21  1  0.58922  0.91078  0.75000  1
+ B  B22  1  0.00000  0.00000  0.38892  1
+ B  B23  1  0.91078  0.41078  0.25000  1
+ B  B24  1  0.58922  0.91078  0.25000  1
+ B  B25  1  0.41078  0.08922  0.25000  1
+ B  B26  1  0.08922  0.58922  0.25000  1
+ B  B27  1  0.53915  0.67490  0.73302  1
+ B  B28  1  0.67490  0.46085  0.73302  1
+ Ho  Ho1  1  0.66864  0.19332  0.00000  1
+ Ho  Ho2  1  0.33136  0.80668  0.00000  1
+ Ho  Ho3  1  0.69332  0.16864  0.50000  1
+ Ho  Ho4  1  0.30668  0.83136  0.50000  1
+ Ho  Ho5  1  0.19332  0.33136  0.00000  1
+ Ho  Ho6  1  0.83136  0.69332  0.50000  1
+ Ho  Ho7  1  0.16864  0.30668  0.50000  1
+ Ho  Ho8  1  0.80668  0.66864  0.00000  1
+ Ni  Ni1  1  0.50000  0.50000  0.50000  1
+ Ni  Ni2  1  0.00000  0.00000  0.00000  1

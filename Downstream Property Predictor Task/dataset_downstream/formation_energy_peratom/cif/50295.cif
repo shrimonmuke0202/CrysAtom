@@ -1,0 +1,53 @@
+CIF file written using JARVIS-Tools package.
+data_SrCaNiP2O8
+_symmetry_space_group_name_H-M  'P-1'
+_cell_length_a       5.64799
+_cell_length_b       6.85826
+_cell_length_c       9.29265
+_cell_angle_alpha    109.231
+_cell_angle_beta     101.163
+_cell_angle_gamma    98.3581
+
+_symmetry_Int_Tables_number  2
+_chemical_formula_structural  SrCaNiP2O8
+_chemical_formula_sum  Sr2Ca2Ni2P4O6
+_cell_volume  324.83161406175054
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ca  Ca1  1  0.01699  0.42281  0.66351  1
+ Ca  Ca2  1  -0.01699  0.57719  0.33649  1
+ Ni  Ni1  1  0.64527  0.85051  0.55778  1
+ Ni  Ni2  1  0.35473  0.14949  0.44222  1
+ O  O1  1  0.58976  0.40843  0.60946  1
+ O  O2  1  0.85667  0.56785  0.88102  1
+ O  O3  1  0.60835  0.46156  0.15910  1
+ O  O4  1  0.04651  0.89820  0.30658  1
+ O  O5  1  0.95349  0.10180  0.69342  1
+ O  O6  1  0.39165  0.53844  0.84090  1
+ O  O7  1  0.01084  0.73568  0.59689  1
+ O  O8  1  0.64259  0.80083  0.75803  1
+ O  O9  1  0.26407  -0.00263  0.87405  1
+ O  O10  1  0.73593  0.00263  0.12595  1
+ O  O11  1  0.36699  0.03788  0.62893  1
+ O  O12  1  0.41024  0.59157  0.39054  1
+ O  O13  1  0.98916  0.26432  0.40311  1
+ O  O14  1  0.63301  0.96212  0.37107  1
+ O  O15  1  0.35741  0.19917  0.24197  1
+ O  O16  1  0.14333  0.43215  0.11898  1
+ P  P1  1  0.61475  0.58189  0.77459  1
+ P  P2  1  0.38525  0.41811  0.22541  1
+ P  P3  1  0.84351  0.03171  0.29684  1
+ P  P4  1  0.15649  0.96829  0.70316  1
+ Sr  Sr1  1  0.72872  0.19495  0.93266  1
+ Sr  Sr2  1  0.27128  0.80505  0.06734  1

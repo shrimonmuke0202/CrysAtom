@@ -1,0 +1,37 @@
+CIF file written using JARVIS-Tools package.
+data_SrMn2BiO6
+_symmetry_space_group_name_H-M  'I4mm'
+_cell_length_a       5.50873
+_cell_length_b       5.50788
+_cell_length_c       5.50872
+_cell_angle_alpha    59.5754
+_cell_angle_beta     90.7265
+_cell_angle_gamma    120.425
+
+_symmetry_Int_Tables_number  107
+_chemical_formula_structural  SrMn2BiO6
+_chemical_formula_sum  SrMn2BiO6
+_cell_volume  117.41086670440394
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Bi  Bi1  1  0.48882  0.00002  0.51118  1
+ Mn  Mn1  1  0.78243  0.50001  0.71758  1
+ Mn  Mn2  1  0.28242  0.50001  0.21757  1
+ O  O1  1  0.54189  0.00000  0.93801  1
+ O  O2  1  0.06199  0.00000  0.45811  1
+ O  O3  1  0.54185  0.47989  0.45815  1
+ O  O4  1  0.06198  0.52012  0.93802  1
+ O  O5  1  0.54221  0.49997  0.95781  1
+ O  O6  1  0.04219  0.49997  0.45779  1
+ Sr  Sr1  1  0.02864  0.00000  0.97136  1

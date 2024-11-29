@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_TbNaCl4
+_symmetry_space_group_name_H-M  'P-1'
+_cell_length_a       6.52587
+_cell_length_b       6.67002
+_cell_length_c       6.94535
+_cell_angle_alpha    89.8443
+_cell_angle_beta     91.6469
+_cell_angle_gamma    100.126
+
+_symmetry_Int_Tables_number  2
+_chemical_formula_structural  TbNaCl4
+_chemical_formula_sum  Tb2Na2Cl8
+_cell_volume  297.48241159015464
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cl  Cl1  1  0.60464  0.77971  0.62263  1
+ Cl  Cl2  1  0.39536  0.22029  0.37737  1
+ Cl  Cl3  1  0.08976  0.00147  0.78625  1
+ Cl  Cl4  1  0.91024  -0.00147  0.21375  1
+ Cl  Cl5  1  0.05627  0.50015  0.75084  1
+ Cl  Cl6  1  0.94373  0.49985  0.24916  1
+ Cl  Cl7  1  0.57582  0.30217  0.88616  1
+ Cl  Cl8  1  0.42418  0.69783  0.11384  1
+ Na  Na1  1  0.22568  0.81085  0.45734  1
+ Na  Na2  1  0.77432  0.18915  0.54266  1
+ Tb  Tb1  1  0.78877  0.70001  0.94294  1
+ Tb  Tb2  1  0.21123  0.29999  0.05706  1

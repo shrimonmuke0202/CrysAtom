@@ -1,0 +1,45 @@
+CIF file written using JARVIS-Tools package.
+data_Li3V2Fe3O10
+_symmetry_space_group_name_H-M  'P-1'
+_cell_length_a       4.99234
+_cell_length_b       4.89487
+_cell_length_c       7.55174
+_cell_angle_alpha    69.1441
+_cell_angle_beta     73.3931
+_cell_angle_gamma    82.0997
+
+_symmetry_Int_Tables_number  2
+_chemical_formula_structural  Li3V2Fe3O10
+_chemical_formula_sum  Li3V2Fe3O0
+_cell_volume  165.12494759041635
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Fe  Fe1  1  0.50000  -0.00000  0.00000  1
+ Fe  Fe2  1  0.99059  0.31075  0.89352  1
+ Fe  Fe3  1  0.00941  0.68925  0.10648  1
+ Li  Li1  1  0.50564  0.78586  0.40745  1
+ Li  Li2  1  -0.00000  0.50000  0.50000  1
+ Li  Li3  1  0.49436  0.21414  0.59255  1
+ O  O1  1  0.22559  0.13184  0.45583  1
+ O  O2  1  0.77441  0.86816  0.54417  1
+ O  O3  1  0.76534  0.63497  0.95662  1
+ O  O4  1  0.20665  0.96653  0.85883  1
+ O  O5  1  0.23081  0.55095  0.65714  1
+ O  O6  1  0.23466  0.36503  0.04338  1
+ O  O7  1  0.77312  0.21043  0.75405  1
+ O  O8  1  0.22688  0.78957  0.24595  1
+ O  O9  1  0.76919  0.44905  0.34286  1
+ O  O10  1  0.79335  0.03347  0.14117  1
+ V  V1  1  0.01734  0.16169  0.29204  1
+ V  V2  1  -0.01734  0.83831  0.70796  1

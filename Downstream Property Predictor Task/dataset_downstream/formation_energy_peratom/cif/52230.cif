@@ -1,0 +1,45 @@
+CIF file written using JARVIS-Tools package.
+data_Mg3In2N4
+_symmetry_space_group_name_H-M  'C2/c'
+_cell_length_a       6.47193
+_cell_length_b       8.81806
+_cell_length_c       5.60153
+_cell_angle_alpha    89.9999
+_cell_angle_beta     91.7315
+_cell_angle_gamma    132.942
+
+_symmetry_Int_Tables_number  15
+_chemical_formula_structural  Mg3In2N4
+_chemical_formula_sum  Mg6In4N8
+_cell_volume  233.82002950421438
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ In  In1  1  0.65868  0.20855  0.64628  1
+ In  In2  1  0.34132  0.54986  0.85372  1
+ In  In3  1  0.34132  0.79145  0.35372  1
+ In  In4  1  0.65868  0.45014  0.14628  1
+ Mg  Mg1  1  -0.00000  0.28921  0.25000  1
+ Mg  Mg2  1  0.23882  0.01837  0.10231  1
+ Mg  Mg3  1  0.23882  0.22045  0.60231  1
+ Mg  Mg4  1  0.76118  0.98163  0.89769  1
+ Mg  Mg5  1  0.76118  0.77955  0.39769  1
+ Mg  Mg6  1  0.00000  0.71079  0.75000  1
+ N  N1  1  0.32030  0.54646  0.46565  1
+ N  N2  1  0.32030  0.77383  0.96565  1
+ N  N3  1  0.19802  0.95057  0.48738  1
+ N  N4  1  0.80198  0.75255  0.01262  1
+ N  N5  1  0.80198  0.04943  0.51262  1
+ N  N6  1  0.19802  0.24745  0.98738  1
+ N  N7  1  0.67970  0.22617  0.03435  1
+ N  N8  1  0.67970  0.45354  0.53435  1

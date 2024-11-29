@@ -1,0 +1,47 @@
+CIF file written using JARVIS-Tools package.
+data_Li3MnCoO5
+_symmetry_space_group_name_H-M  'P1'
+_cell_length_a       4.91441
+_cell_length_b       5.74552
+_cell_length_c       6.39175
+_cell_angle_alpha    103.93
+_cell_angle_beta     97.1243
+_cell_angle_gamma    106.848
+
+_symmetry_Int_Tables_number  1
+_chemical_formula_structural  Li3MnCoO5
+_chemical_formula_sum  Li6Mn2Co2O0
+_cell_volume  163.9618657246176
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Co  Co1  1  0.60015  0.20111  0.20171  1
+ Co  Co2  1  0.20106  0.40230  0.40324  1
+ Li  Li1  1  0.79667  0.59289  0.59177  1
+ Li  Li2  1  0.79791  0.10928  0.59325  1
+ Li  Li3  1  0.19684  0.89739  0.40596  1
+ Li  Li4  1  0.41035  0.30540  0.78837  1
+ Li  Li5  1  0.99249  0.50088  0.00078  1
+ Li  Li6  1  0.60695  0.69169  0.21371  1
+ Mn  Mn1  1  -0.00028  0.99922  0.99850  1
+ Mn  Mn2  1  0.39561  0.79155  0.79159  1
+ O  O1  1  0.29731  0.33195  0.11507  1
+ O  O2  1  0.48018  0.74107  0.51181  1
+ O  O3  1  0.29457  0.86307  0.08531  1
+ O  O4  1  0.12401  0.46682  0.69721  1
+ O  O5  1  0.48829  0.25194  0.47766  1
+ O  O6  1  0.70034  0.67878  0.90651  1
+ O  O7  1  0.90287  0.06913  0.28917  1
+ O  O8  1  0.11381  0.95130  0.72426  1
+ O  O9  1  0.89910  0.52251  0.29773  1
+ O  O10  1  0.70179  0.13172  0.90638  1

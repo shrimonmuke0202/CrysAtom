@@ -1,0 +1,33 @@
+CIF file written using JARVIS-Tools package.
+data_AgPS4
+_symmetry_space_group_name_H-M  'I222'
+_cell_length_a       6.01197
+_cell_length_b       6.01197
+_cell_length_c       6.01197
+_cell_angle_alpha    115.701
+_cell_angle_beta     134.117
+_cell_angle_gamma    82.5421
+
+_symmetry_Int_Tables_number  23
+_chemical_formula_structural  AgPS4
+_chemical_formula_sum  AgPS4
+_cell_volume  135.50242454136477
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ag  Ag1  1  -0.00000  0.50000  0.50000  1
+ P  P1  1  0.00000  0.00000  0.00000  1
+ S  S1  1  0.62739  0.67385  0.55881  1
+ S  S2  1  0.37261  0.93142  0.04646  1
+ S  S3  1  0.88496  0.32615  -0.04646  1
+ S  S4  1  0.11504  0.06858  0.44119  1

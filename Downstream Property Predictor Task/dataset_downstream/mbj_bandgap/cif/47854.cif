@@ -1,0 +1,59 @@
+CIF file written using JARVIS-Tools package.
+data_PW4Cl11
+_symmetry_space_group_name_H-M  'Cmcm'
+_cell_length_a       8.23378
+_cell_length_b       8.23378
+_cell_length_c       11.4148
+_cell_angle_alpha    89.9529
+_cell_angle_beta     90.0471
+_cell_angle_gamma    105.687
+
+_symmetry_Int_Tables_number  63
+_chemical_formula_structural  PW4Cl11
+_chemical_formula_sum  P2W8Cl22
+_cell_volume  745.0409671971744
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cl  Cl1  1  0.91733  0.77042  0.24978  1
+ Cl  Cl2  1  0.12428  0.87572  0.98906  1
+ Cl  Cl3  1  0.87572  0.12428  0.01093  1
+ Cl  Cl4  1  0.52923  0.81105  0.98631  1
+ Cl  Cl5  1  0.81105  0.52923  0.01369  1
+ Cl  Cl6  1  0.47077  0.18895  0.01369  1
+ Cl  Cl7  1  0.38784  0.98441  0.74995  1
+ Cl  Cl8  1  0.12428  0.87572  0.51059  1
+ Cl  Cl9  1  0.87572  0.12428  0.48941  1
+ Cl  Cl10  1  0.52923  0.81107  0.51393  1
+ Cl  Cl11  1  0.18895  0.47077  0.98631  1
+ Cl  Cl12  1  0.47077  0.18892  0.48607  1
+ Cl  Cl13  1  0.22958  0.08267  0.24978  1
+ Cl  Cl14  1  0.08267  0.22958  0.75022  1
+ Cl  Cl15  1  0.77042  0.91733  0.75022  1
+ Cl  Cl16  1  0.98440  0.38784  0.25005  1
+ Cl  Cl17  1  0.48846  0.51154  0.25019  1
+ Cl  Cl18  1  0.51154  0.48846  0.74981  1
+ Cl  Cl19  1  0.61216  0.01560  0.25005  1
+ Cl  Cl20  1  0.01559  0.61216  0.74995  1
+ Cl  Cl21  1  0.18893  0.47077  0.51393  1
+ Cl  Cl22  1  0.81108  0.52923  0.48607  1
+ P  P1  1  0.66747  0.33253  0.74993  1
+ P  P2  1  0.33253  0.66747  0.25007  1
+ W  W1  1  0.09226  0.64583  0.37318  1
+ W  W2  1  0.35417  0.90774  0.37318  1
+ W  W3  1  0.90774  0.35417  0.62682  1
+ W  W4  1  0.64583  0.09226  0.62682  1
+ W  W5  1  0.09225  0.64584  0.12673  1
+ W  W6  1  0.35416  0.90775  0.12673  1
+ W  W7  1  0.90775  0.35416  0.87327  1
+ W  W8  1  0.64584  0.09225  0.87327  1

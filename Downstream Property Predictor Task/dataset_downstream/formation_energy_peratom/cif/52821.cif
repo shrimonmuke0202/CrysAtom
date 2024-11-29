@@ -1,0 +1,42 @@
+CIF file written using JARVIS-Tools package.
+data_RbHg3NCl8O2
+_symmetry_space_group_name_H-M  'Cm'
+_cell_length_a       10.5313
+_cell_length_b       10.5313
+_cell_length_c       8.97194
+_cell_angle_alpha    78.6527
+_cell_angle_beta     78.6527
+_cell_angle_gamma    22.4664
+
+_symmetry_Int_Tables_number  8
+_chemical_formula_structural  RbHg3NCl8O2
+_chemical_formula_sum  RbHg3NCl8O2
+_cell_volume  372.5237764025657
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cl  Cl1  1  0.24982  0.24982  0.16567  1
+ Cl  Cl2  1  0.80399  0.80399  0.46467  1
+ Cl  Cl3  1  0.15892  0.15892  0.72018  1
+ Cl  Cl4  1  0.87557  0.87557  0.90965  1
+ Cl  Cl5  1  0.61471  0.61471  0.40880  1
+ Cl  Cl6  1  0.09155  0.09155  0.05419  1
+ Cl  Cl7  1  0.44646  0.44646  0.18354  1
+ Cl  Cl8  1  0.96191  0.96191  0.56069  1
+ Hg  Hg1  1  0.03124  0.03124  0.31497  1
+ Hg  Hg2  1  0.85653  0.85653  0.19217  1
+ Hg  Hg3  1  0.20530  0.20530  0.44823  1
+ N  N1  1  0.69484  0.69484  0.02436  1
+ O  O1  1  0.31788  0.31788  0.81308  1
+ O  O2  1  0.72184  0.72184  0.90267  1
+ Rb  Rb1  1  0.51972  0.51972  0.79352  1

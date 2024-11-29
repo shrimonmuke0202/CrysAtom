@@ -1,0 +1,40 @@
+CIF file written using JARVIS-Tools package.
+data_Zr5Zn4Si4
+_symmetry_space_group_name_H-M  'I4/m'
+_cell_length_a       7.89102
+_cell_length_b       7.89102
+_cell_length_c       7.89102
+_cell_angle_alpha    93.3683
+_cell_angle_beta     93.3682
+_cell_angle_gamma    151.945
+
+_symmetry_Int_Tables_number  87
+_chemical_formula_structural  Zr5Zn4Si4
+_chemical_formula_sum  Zr5Zn4Si4
+_cell_volume  224.20753330199713
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Si  Si1  1  0.24352  0.06048  0.30400  1
+ Si  Si2  1  0.75648  0.93952  0.69600  1
+ Si  Si3  1  0.93952  0.24352  0.18303  1
+ Si  Si4  1  0.06048  0.75648  0.81697  1
+ Zn  Zn1  1  0.10507  0.41244  0.51751  1
+ Zn  Zn2  1  0.89493  0.58756  0.48249  1
+ Zn  Zn3  1  0.58756  0.10507  0.69262  1
+ Zn  Zn4  1  0.41244  0.89493  0.30738  1
+ Zr  Zr1  1  0.37146  0.29913  0.67059  1
+ Zr  Zr2  1  0.62854  0.70087  0.32941  1
+ Zr  Zr3  1  0.70087  0.37146  0.07233  1
+ Zr  Zr4  1  0.29913  0.62854  0.92767  1
+ Zr  Zr5  1  0.00000  0.00000  0.00000  1

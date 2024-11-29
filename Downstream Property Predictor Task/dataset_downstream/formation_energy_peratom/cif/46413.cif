@@ -1,0 +1,55 @@
+CIF file written using JARVIS-Tools package.
+data_Ti3Al2NiN
+_symmetry_space_group_name_H-M  'Fd-3m'
+_cell_length_a       8.05296
+_cell_length_b       8.05296
+_cell_length_c       8.05296
+_cell_angle_alpha    60
+_cell_angle_beta     60
+_cell_angle_gamma    60
+
+_symmetry_Int_Tables_number  227
+_chemical_formula_structural  Ti3Al2NiN
+_chemical_formula_sum  Ti2Al8Ni4N4
+_cell_volume  369.2764697955902
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Al  Al1  1  0.20805  0.20805  0.87584  1
+ Al  Al2  1  0.79195  0.12416  0.79195  1
+ Al  Al3  1  0.20805  0.20805  0.20805  1
+ Al  Al4  1  0.12416  0.79195  0.79195  1
+ Al  Al5  1  0.79195  0.79195  0.12416  1
+ Al  Al6  1  0.87584  0.20805  0.20805  1
+ Al  Al7  1  0.20805  0.87584  0.20805  1
+ Al  Al8  1  0.79195  0.79195  0.79195  1
+ N  N1  1  0.50000  0.50000  -0.00000  1
+ N  N2  1  0.50000  0.50000  0.50000  1
+ N  N3  1  -0.00000  0.50000  0.50000  1
+ N  N4  1  0.50000  0.00000  0.50000  1
+ Ni  Ni1  1  0.50000  0.00000  -0.00000  1
+ Ni  Ni2  1  0.00000  0.00000  0.00000  1
+ Ni  Ni3  1  0.00000  0.00000  0.50000  1
+ Ni  Ni4  1  -0.00000  0.50000  -0.00000  1
+ Ti  Ti1  1  0.19090  0.55910  0.55910  1
+ Ti  Ti2  1  0.80910  0.44090  0.80910  1
+ Ti  Ti3  1  0.80910  0.80910  0.44090  1
+ Ti  Ti4  1  0.44090  0.44090  0.80910  1
+ Ti  Ti5  1  0.44090  0.80910  0.44090  1
+ Ti  Ti6  1  0.19090  0.55910  0.19090  1
+ Ti  Ti7  1  0.55910  0.19090  0.55910  1
+ Ti  Ti8  1  0.55910  0.19090  0.19090  1
+ Ti  Ti9  1  0.19090  0.19090  0.55910  1
+ Ti  Ti10  1  0.55910  0.55910  0.19090  1
+ Ti  Ti11  1  0.44090  0.80910  0.80910  1
+ Ti  Ti12  1  0.80910  0.44090  0.44090  1

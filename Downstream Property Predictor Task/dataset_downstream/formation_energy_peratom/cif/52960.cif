@@ -1,0 +1,45 @@
+CIF file written using JARVIS-Tools package.
+data_Tb5Si3B
+_symmetry_space_group_name_H-M  'P6_3/mcm'
+_cell_length_a       8.5824
+_cell_length_b       8.5824
+_cell_length_c       6.36066
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_symmetry_Int_Tables_number  193
+_chemical_formula_structural  Tb5Si3B
+_chemical_formula_sum  Tb0Si6B2
+_cell_volume  405.7422733035812
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ B  B1  1  0.00000  0.00000  0.50000  1
+ B  B2  1  0.00000  0.00000  0.00000  1
+ Si  Si1  1  -0.00000  0.39846  0.25000  1
+ Si  Si2  1  0.39846  -0.00000  0.25000  1
+ Si  Si3  1  0.60154  0.60154  0.25000  1
+ Si  Si4  1  0.00000  0.60154  0.75000  1
+ Si  Si5  1  0.60154  0.00000  0.75000  1
+ Si  Si6  1  0.39846  0.39846  0.75000  1
+ Tb  Tb1  1  0.75972  0.75972  0.75000  1
+ Tb  Tb2  1  0.66667  0.33333  0.00000  1
+ Tb  Tb3  1  0.66667  0.33333  0.50000  1
+ Tb  Tb4  1  0.75972  0.00000  0.25000  1
+ Tb  Tb5  1  0.24028  -0.00000  0.75000  1
+ Tb  Tb6  1  -0.00000  0.24028  0.75000  1
+ Tb  Tb7  1  0.24028  0.24028  0.25000  1
+ Tb  Tb8  1  0.00000  0.75972  0.25000  1
+ Tb  Tb9  1  0.33333  0.66667  0.50000  1
+ Tb  Tb10  1  0.33333  0.66667  0.00000  1

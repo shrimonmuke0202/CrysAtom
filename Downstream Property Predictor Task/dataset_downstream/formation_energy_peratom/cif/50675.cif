@@ -1,0 +1,49 @@
+CIF file written using JARVIS-Tools package.
+data_NaPrTiNbO6F
+_symmetry_space_group_name_H-M  'Imma'
+_cell_length_a       7.34987
+_cell_length_b       7.34988
+_cell_length_c       7.34988
+_cell_angle_alpha    121.026
+_cell_angle_beta     117.925
+_cell_angle_gamma    90.9321
+
+_symmetry_Int_Tables_number  74
+_chemical_formula_structural  NaPrTiNbO6F
+_chemical_formula_sum  Na2Pr2Ti2Nb2O2F2
+_cell_volume  282.68657503681806
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ F  F1  1  0.88147  0.13147  0.75000  1
+ F  F2  1  0.11853  0.86853  0.25000  1
+ Na  Na1  1  0.00000  0.00000  0.50000  1
+ Na  Na2  1  0.00000  0.50000  0.00000  1
+ Nb  Nb1  1  0.50000  0.50000  0.00000  1
+ Nb  Nb2  1  0.00000  0.50000  0.50000  1
+ O  O1  1  0.18182  0.43182  0.75000  1
+ O  O2  1  0.81640  0.58156  0.64448  1
+ O  O3  1  0.42243  0.17243  0.25000  1
+ O  O4  1  0.81818  0.56818  0.25000  1
+ O  O5  1  0.81640  0.17192  0.23483  1
+ O  O6  1  0.43709  0.17192  0.85552  1
+ O  O7  1  0.43709  0.58156  0.26517  1
+ O  O8  1  0.18360  0.82808  0.76517  1
+ O  O9  1  0.56291  0.41844  0.73483  1
+ O  O10  1  0.56291  0.82808  0.14448  1
+ O  O11  1  0.18360  0.41844  0.35552  1
+ O  O12  1  0.57757  0.82757  0.75000  1
+ Pr  Pr1  1  0.00000  0.00000  0.00000  1
+ Pr  Pr2  1  0.50000  0.00000  0.50000  1
+ Ti  Ti1  1  0.50000  -0.00000  0.00000  1
+ Ti  Ti2  1  0.50000  0.50000  0.50000  1

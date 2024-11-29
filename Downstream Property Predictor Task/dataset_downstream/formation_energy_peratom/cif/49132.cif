@@ -1,0 +1,48 @@
+CIF file written using JARVIS-Tools package.
+data_Yb2CoTe2S2O14
+_symmetry_space_group_name_H-M  'P-1'
+_cell_length_a       5.30785
+_cell_length_b       7.56709
+_cell_length_c       7.92652
+_cell_angle_alpha    112.04
+_cell_angle_beta     110.081
+_cell_angle_gamma    92.2109
+
+_symmetry_Int_Tables_number  2
+_chemical_formula_structural  Yb2CoTe2S2O14
+_chemical_formula_sum  Yb2CoTe2S2O4
+_cell_volume  271.98754886983573
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Co  Co1  1  0.50000  0.50000  -0.00000  1
+ O  O1  1  0.88067  0.55272  0.14762  1
+ O  O2  1  0.33161  0.16230  0.26967  1
+ O  O3  1  0.66839  0.83770  0.73033  1
+ O  O4  1  0.27552  0.57203  0.57482  1
+ O  O5  1  0.14951  0.91329  0.40247  1
+ O  O6  1  0.75059  0.11550  0.20539  1
+ O  O7  1  0.72448  0.42797  0.42518  1
+ O  O8  1  0.43140  0.29367  0.06577  1
+ O  O9  1  0.56860  0.70633  0.93423  1
+ O  O10  1  0.85049  0.08671  0.59753  1
+ O  O11  1  0.11933  0.44728  0.85238  1
+ O  O12  1  0.44717  0.67586  0.22022  1
+ O  O13  1  0.55283  0.32414  0.77978  1
+ O  O14  1  0.24941  0.88450  0.79461  1
+ S  S1  1  0.43422  0.75042  0.75155  1
+ S  S2  1  0.56578  0.24958  0.24845  1
+ Te  Te1  1  0.89267  0.23049  0.85727  1
+ Te  Te2  1  0.10733  0.76951  0.14273  1
+ Yb  Yb1  1  0.86309  0.75423  0.48747  1
+ Yb  Yb2  1  0.13691  0.24577  0.51253  1

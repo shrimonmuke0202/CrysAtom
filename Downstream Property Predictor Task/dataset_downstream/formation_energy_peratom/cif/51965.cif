@@ -1,0 +1,30 @@
+CIF file written using JARVIS-Tools package.
+data_BaAgSe
+_symmetry_space_group_name_H-M  'Amm2'
+_cell_length_a       6.20605
+_cell_length_b       4.66147
+_cell_length_c       4.39117
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    67.9517
+
+_symmetry_Int_Tables_number  38
+_chemical_formula_structural  BaAgSe
+_chemical_formula_sum  BaAgSe
+_cell_volume  117.74342623363195
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ag  Ag1  1  0.40886  -0.19220  0.00000  1
+ Ba  Ba1  1  -0.18239  0.10346  0.00000  1
+ Se  Se1  1  0.20183  0.41129  0.00000  1

@@ -1,0 +1,41 @@
+CIF file written using JARVIS-Tools package.
+data_ErTiFe11C
+_symmetry_space_group_name_H-M  'Imm2'
+_cell_length_a       4.77167
+_cell_length_b       6.44487
+_cell_length_c       6.44486
+_cell_angle_alpha    97.5432
+_cell_angle_beta     111.727
+_cell_angle_gamma    68.2726
+
+_symmetry_Int_Tables_number  44
+_chemical_formula_structural  ErTiFe11C
+_chemical_formula_sum  ErTiFeC
+_cell_volume  171.0324857766186
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ C  C1  1  0.50142  0.99858  0.00142  1
+ Er  Er1  1  0.00819  0.99181  0.00819  1
+ Fe  Fe1  1  0.72521  0.77479  0.22521  1
+ Fe  Fe2  1  0.27690  0.22310  0.77690  1
+ Fe  Fe3  1  0.49796  0.78152  0.77743  1
+ Fe  Fe4  1  0.49796  0.22257  0.21848  1
+ Fe  Fe5  1  0.50109  0.99754  0.50010  1
+ Fe  Fe6  1  0.00147  0.99754  0.50010  1
+ Fe  Fe7  1  0.50109  0.49990  0.00246  1
+ Fe  Fe8  1  0.00147  0.49990  0.00246  1
+ Fe  Fe9  1  0.35498  0.64502  0.35498  1
+ Fe  Fe10  1  0.00014  0.35729  0.35757  1
+ Fe  Fe11  1  0.00014  0.64243  0.64271  1
+ Ti  Ti1  1  0.63200  0.36800  0.63200  1

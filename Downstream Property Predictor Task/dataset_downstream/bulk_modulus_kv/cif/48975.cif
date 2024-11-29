@@ -1,0 +1,47 @@
+CIF file written using JARVIS-Tools package.
+data_TlHgCl3
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       4.35442
+_cell_length_b       9.10429
+_cell_length_c       14.093
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  TlHgCl3
+_chemical_formula_sum  Tl4Hg4Cl2
+_cell_volume  558.7001751109528
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cl  Cl1  1  0.25000  0.04465  0.39520  1
+ Cl  Cl2  1  0.25000  0.27619  0.70962  1
+ Cl  Cl3  1  0.75000  0.95535  0.60480  1
+ Cl  Cl4  1  0.75000  0.72381  0.29038  1
+ Cl  Cl5  1  0.75000  0.22381  0.20962  1
+ Cl  Cl6  1  0.25000  0.77619  0.79038  1
+ Cl  Cl7  1  0.25000  0.65423  0.51472  1
+ Cl  Cl8  1  0.75000  0.84577  0.01472  1
+ Cl  Cl9  1  0.75000  0.34577  0.48528  1
+ Cl  Cl10  1  0.75000  0.45535  0.89520  1
+ Cl  Cl11  1  0.25000  0.54465  0.10480  1
+ Cl  Cl12  1  0.25000  0.15423  0.98528  1
+ Hg  Hg1  1  0.75000  0.32712  0.04981  1
+ Hg  Hg2  1  0.75000  0.82712  0.45019  1
+ Hg  Hg3  1  0.25000  0.67288  0.95019  1
+ Hg  Hg4  1  0.25000  0.17288  0.54981  1
+ Tl  Tl1  1  0.75000  0.05544  0.83163  1
+ Tl  Tl2  1  0.75000  0.55544  0.66837  1
+ Tl  Tl3  1  0.25000  0.94456  0.16837  1
+ Tl  Tl4  1  0.25000  0.44456  0.33163  1

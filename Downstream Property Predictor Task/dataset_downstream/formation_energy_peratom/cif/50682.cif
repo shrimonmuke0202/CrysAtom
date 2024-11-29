@@ -1,0 +1,47 @@
+CIF file written using JARVIS-Tools package.
+data_H8PbC6SO4
+_symmetry_space_group_name_H-M  'P1'
+_cell_length_a       4.30048
+_cell_length_b       5.087
+_cell_length_c       10.1617
+_cell_angle_alpha    88.3914
+_cell_angle_beta     86.2552
+_cell_angle_gamma    65.1
+
+_symmetry_Int_Tables_number  1
+_chemical_formula_structural  H8PbC6SO4
+_chemical_formula_sum  H8PbC6SO4
+_cell_volume  201.2078765704927
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ C  C1  1  0.15391  0.26050  0.89829  1
+ C  C2  1  0.25595  0.32491  0.46870  1
+ C  C3  1  0.00524  0.46628  0.36156  1
+ C  C4  1  0.98992  0.25983  0.26010  1
+ C  C5  1  0.82325  0.32569  0.68958  1
+ C  C6  1  0.93305  0.46702  0.79670  1
+ H  H1  1  0.69409  0.61710  0.85036  1
+ H  H2  1  0.09463  0.61635  0.30775  1
+ H  H3  1  0.64202  0.49734  0.62964  1
+ H  H4  1  0.69183  0.19758  0.73299  1
+ H  H5  1  0.26696  0.49648  0.52836  1
+ H  H6  1  0.51473  0.19620  0.42530  1
+ H  H7  1  0.74343  0.59969  0.40196  1
+ H  H8  1  0.06203  0.60043  0.75627  1
+ O  O1  1  0.33185  0.34937  0.96665  1
+ O  O2  1  0.15626  0.01033  0.91511  1
+ O  O3  1  0.23685  0.00974  0.24330  1
+ O  O4  1  0.72327  0.34876  0.19179  1
+ Pb  Pb1  1  0.73480  0.93249  0.07915  1
+ S  S1  1  0.16438  0.07444  0.57936  1

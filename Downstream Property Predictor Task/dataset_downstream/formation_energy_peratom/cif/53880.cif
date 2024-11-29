@@ -1,0 +1,47 @@
+CIF file written using JARVIS-Tools package.
+data_KLiAl2Si4O10F2
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       5.31331
+_cell_length_b       5.31331
+_cell_length_c       10.3449
+_cell_angle_alpha    84.6545
+_cell_angle_beta     84.6544
+_cell_angle_gamma    120.1
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  KLiAl2Si4O10F2
+_chemical_formula_sum  KLiAl2Si4O0F2
+_cell_volume  248.2283906623723
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Al  Al1  1  0.83014  0.16986  0.50000  1
+ Al  Al2  1  0.16986  0.83014  0.50000  1
+ F  F1  1  0.12150  0.12150  0.58787  1
+ F  F2  1  0.87850  0.87850  0.41213  1
+ K  K1  1  0.00000  0.00000  0.00000  1
+ Li  Li1  1  0.50000  0.50000  0.50000  1
+ O  O1  1  0.54623  0.54623  0.82458  1
+ O  O2  1  0.17146  0.53711  0.39684  1
+ O  O3  1  0.82854  0.46289  0.60316  1
+ O  O4  1  0.46289  0.82854  0.60316  1
+ O  O5  1  0.57185  0.05960  0.83170  1
+ O  O6  1  0.94040  0.42815  0.16830  1
+ O  O7  1  0.05960  0.57185  0.83170  1
+ O  O8  1  0.42815  0.94040  0.16830  1
+ O  O9  1  0.53711  0.17146  0.39684  1
+ O  O10  1  0.45377  0.45377  0.17542  1
+ Si  Si1  1  0.41428  0.75105  0.76862  1
+ Si  Si2  1  0.75105  0.41428  0.76862  1
+ Si  Si3  1  0.24895  0.58572  0.23138  1
+ Si  Si4  1  0.58572  0.24895  0.23138  1

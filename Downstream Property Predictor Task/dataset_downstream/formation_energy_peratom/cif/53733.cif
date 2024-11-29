@@ -1,0 +1,51 @@
+CIF file written using JARVIS-Tools package.
+data_LiSmSn
+_symmetry_space_group_name_H-M  'P6_3mc'
+_cell_length_a       9.42683
+_cell_length_b       9.42682
+_cell_length_c       7.53015
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_symmetry_Int_Tables_number  186
+_chemical_formula_structural  LiSmSn
+_chemical_formula_sum  Li8Sm8Sn8
+_cell_volume  579.5160712332686
+_cell_formula_units_Z  8
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Li  Li1  1  0.83325  0.16675  0.71261  1
+ Li  Li2  1  0.83325  0.66650  0.71261  1
+ Li  Li3  1  0.33350  0.16675  0.71261  1
+ Li  Li4  1  0.16675  0.83325  0.21261  1
+ Li  Li5  1  0.16675  0.33350  0.21261  1
+ Li  Li6  1  0.66650  0.83325  0.21261  1
+ Li  Li7  1  0.66667  0.33333  0.32332  1
+ Li  Li8  1  0.33333  0.66667  0.82332  1
+ Sm  Sm1  1  0.48882  0.51118  0.50553  1
+ Sm  Sm2  1  0.48882  0.97764  0.50553  1
+ Sm  Sm3  1  0.02236  0.51118  0.50553  1
+ Sm  Sm4  1  0.51118  0.48882  0.00553  1
+ Sm  Sm5  1  0.51118  0.02236  0.00553  1
+ Sm  Sm6  1  0.97764  0.48882  0.00553  1
+ Sm  Sm7  1  0.00000  0.00000  0.50117  1
+ Sm  Sm8  1  0.00000  0.00000  0.00117  1
+ Sn  Sn1  1  0.83330  0.16670  0.27058  1
+ Sn  Sn2  1  0.83330  0.66661  0.27058  1
+ Sn  Sn3  1  0.33339  0.16670  0.27058  1
+ Sn  Sn4  1  0.16670  0.83330  0.77058  1
+ Sn  Sn5  1  0.16670  0.33339  0.77058  1
+ Sn  Sn6  1  0.66661  0.83330  0.77058  1
+ Sn  Sn7  1  0.66667  0.33333  0.73837  1
+ Sn  Sn8  1  0.33333  0.66667  0.23837  1

@@ -1,0 +1,47 @@
+CIF file written using JARVIS-Tools package.
+data_SrTcO3
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       5.5716
+_cell_length_b       5.6095
+_cell_length_c       7.89162
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  SrTcO3
+_chemical_formula_sum  Sr4Tc4O2
+_cell_volume  246.6439153090275
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ O  O1  1  0.25700  0.75695  0.47835  1
+ O  O2  1  0.00045  0.95700  0.75000  1
+ O  O3  1  0.74300  0.24305  0.97835  1
+ O  O4  1  0.99955  0.04300  0.25000  1
+ O  O5  1  0.49955  0.45700  0.25000  1
+ O  O6  1  0.50045  0.54300  0.75000  1
+ O  O7  1  0.24300  0.25695  0.97835  1
+ O  O8  1  0.25700  0.75695  0.02165  1
+ O  O9  1  0.75700  0.74305  0.47835  1
+ O  O10  1  0.24300  0.25695  0.52165  1
+ O  O11  1  0.75700  0.74305  0.02165  1
+ O  O12  1  0.74300  0.24305  0.52165  1
+ Sr  Sr1  1  0.00427  0.50146  0.25000  1
+ Sr  Sr2  1  0.50427  0.99854  0.25000  1
+ Sr  Sr3  1  0.99573  0.49854  0.75000  1
+ Sr  Sr4  1  0.49573  0.00146  0.75000  1
+ Tc  Tc1  1  0.00000  0.00000  0.50000  1
+ Tc  Tc2  1  0.50000  0.50000  0.00000  1
+ Tc  Tc3  1  0.00000  0.00000  0.00000  1
+ Tc  Tc4  1  0.50000  0.50000  0.50000  1

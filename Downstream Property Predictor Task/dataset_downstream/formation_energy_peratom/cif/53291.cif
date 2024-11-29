@@ -1,0 +1,47 @@
+CIF file written using JARVIS-Tools package.
+data_Zr3TiPb4O12
+_symmetry_space_group_name_H-M  'P1'
+_cell_length_a       5.81569
+_cell_length_b       5.84499
+_cell_length_c       10.1017
+_cell_angle_alpha    106.869
+_cell_angle_beta     90.0221
+_cell_angle_gamma    119.834
+
+_symmetry_Int_Tables_number  1
+_chemical_formula_structural  Zr3TiPb4O12
+_chemical_formula_sum  Zr3TiPb4O2
+_cell_volume  280.6889449141995
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ O  O1  1  0.27183  -0.00236  0.73247  1
+ O  O2  1  0.76954  0.00457  0.77388  1
+ O  O3  1  0.78227  0.48185  0.75445  1
+ O  O4  1  0.45985  0.50697  0.52701  1
+ O  O5  1  0.96475  0.48872  0.01060  1
+ O  O6  1  0.28667  0.00211  0.26610  1
+ O  O7  1  0.46320  -0.00026  0.99472  1
+ O  O8  1  0.49115  0.48720  0.97199  1
+ O  O9  1  0.97150  0.49454  0.46945  1
+ O  O10  1  0.30384  0.50555  0.25777  1
+ O  O11  1  0.76869  -0.00015  0.21681  1
+ O  O12  1  0.94739  -0.00074  0.50834  1
+ Pb  Pb1  1  0.94892  0.89963  0.98206  1
+ Pb  Pb2  1  0.46538  0.92159  0.49380  1
+ Pb  Pb3  1  0.70835  0.41102  0.22708  1
+ Pb  Pb4  1  0.20426  0.41812  0.74673  1
+ Ti  Ti1  1  0.60006  0.20029  0.86716  1
+ Zr  Zr1  1  0.10667  0.21301  0.36960  1
+ Zr  Zr2  1  0.85365  0.70896  0.62158  1
+ Zr  Zr3  1  0.35543  0.70617  0.11619  1

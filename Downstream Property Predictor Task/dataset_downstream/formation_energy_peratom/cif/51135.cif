@@ -1,0 +1,30 @@
+CIF file written using JARVIS-Tools package.
+data_RbSeBr
+_symmetry_space_group_name_H-M  'P4mm'
+_cell_length_a       7.47608
+_cell_length_b       7.47608
+_cell_length_c       8.52725
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  99
+_chemical_formula_structural  RbSeBr
+_chemical_formula_sum  RbSeBr
+_cell_volume  476.60265353356056
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Br  Br1  1  0.00000  0.00000  0.28672  1
+ Rb  Rb1  1  0.00000  0.00000  0.65882  1
+ Se  Se1  1  0.00000  0.00000  0.00793  1

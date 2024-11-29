@@ -1,0 +1,55 @@
+CIF file written using JARVIS-Tools package.
+data_KNiPO4
+_symmetry_space_group_name_H-M  'Pna2_1'
+_cell_length_a       4.89206
+_cell_length_b       8.65233
+_cell_length_c       9.1888
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  33
+_chemical_formula_structural  KNiPO4
+_chemical_formula_sum  K4Ni4P4O6
+_cell_volume  388.94142969516435
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ K  K1  1  0.52840  0.50390  0.18577  1
+ K  K2  1  0.02840  0.49610  0.81423  1
+ K  K3  1  0.02840  -0.00390  0.68577  1
+ K  K4  1  0.52840  0.00390  0.31423  1
+ Ni  Ni1  1  0.99453  0.65433  0.45859  1
+ Ni  Ni2  1  0.49453  0.34567  0.54141  1
+ Ni  Ni3  1  0.49453  0.84567  0.95859  1
+ Ni  Ni4  1  0.99453  0.15433  0.04141  1
+ O  O1  1  0.65231  0.24041  0.71289  1
+ O  O2  1  0.68795  0.54618  0.58365  1
+ O  O3  1  0.18795  0.45382  0.41635  1
+ O  O4  1  0.15231  0.75959  0.28711  1
+ O  O5  1  0.65231  0.74041  0.78711  1
+ O  O6  1  0.70342  0.81880  0.51923  1
+ O  O7  1  0.18795  0.95382  0.08365  1
+ O  O8  1  0.15231  0.25959  0.21289  1
+ O  O9  1  0.74754  0.29024  0.37948  1
+ O  O10  1  0.20342  0.68120  0.01923  1
+ O  O11  1  0.24754  0.20976  0.87948  1
+ O  O12  1  0.74754  0.79024  0.12052  1
+ O  O13  1  0.68795  0.04618  0.91635  1
+ O  O14  1  0.70342  0.31880  0.98077  1
+ O  O15  1  0.24754  0.70976  0.62052  1
+ O  O16  1  0.20342  0.18120  0.48077  1
+ P  P1  1  0.06246  0.79221  0.12920  1
+ P  P2  1  0.56246  0.20779  0.87080  1
+ P  P3  1  0.56246  0.70779  0.62920  1
+ P  P4  1  0.06246  0.29221  0.37080  1

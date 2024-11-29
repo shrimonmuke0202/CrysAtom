@@ -1,0 +1,31 @@
+CIF file written using JARVIS-Tools package.
+data_CuF3
+_symmetry_space_group_name_H-M  'P-1'
+_cell_length_a       6.06099
+_cell_length_b       4.56383
+_cell_length_c       3.77487
+_cell_angle_alpha    67.3496
+_cell_angle_beta     106.592
+_cell_angle_gamma    151.507
+
+_symmetry_Int_Tables_number  2
+_chemical_formula_structural  CuF3
+_chemical_formula_sum  CuF3
+_cell_volume  45.637023833790366
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cu  Cu1  1  0.90827  0.93073  -0.01866  1
+ F  F1  1  0.53908  0.86271  0.83777  1
+ F  F2  1  0.90823  0.93062  0.48136  1
+ F  F3  1  0.27750  -0.00122  0.12485  1

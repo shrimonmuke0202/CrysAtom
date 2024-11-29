@@ -1,0 +1,48 @@
+CIF file written using JARVIS-Tools package.
+data_La2Mn3Cu9P7
+_symmetry_space_group_name_H-M  'P-6'
+_cell_length_a       9.56936
+_cell_length_b       9.56936
+_cell_length_c       3.9008
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_symmetry_Int_Tables_number  174
+_chemical_formula_structural  La2Mn3Cu9P7
+_chemical_formula_sum  La2Mn3Cu9P7
+_cell_volume  309.3499371663304
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cu  Cu1  1  0.37027  0.42171  0.00000  1
+ Cu  Cu2  1  0.27621  0.11757  0.00000  1
+ Cu  Cu3  1  0.05145  0.62973  0.00000  1
+ Cu  Cu4  1  0.57829  0.94855  0.00000  1
+ Cu  Cu5  1  0.88243  0.15864  0.00000  1
+ Cu  Cu6  1  0.95629  0.37638  0.50000  1
+ Cu  Cu7  1  0.62362  0.57991  0.50000  1
+ Cu  Cu8  1  0.42009  0.04371  0.50000  1
+ Cu  Cu9  1  0.84136  0.72379  0.00000  1
+ La  La1  1  0.66667  0.33333  0.00000  1
+ La  La2  1  0.33333  0.66667  0.50000  1
+ Mn  Mn1  1  0.79232  0.91594  0.50000  1
+ Mn  Mn2  1  0.08406  0.87638  0.50000  1
+ Mn  Mn3  1  0.12362  0.20768  0.50000  1
+ P  P1  1  0.88871  0.59168  0.50000  1
+ P  P2  1  0.70297  0.11129  0.50000  1
+ P  P3  1  0.29403  0.88324  0.00000  1
+ P  P4  1  0.58921  0.70597  0.00000  1
+ P  P5  1  0.11676  0.41079  0.00000  1
+ P  P6  1  0.40832  0.29703  0.50000  1
+ P  P7  1  0.00000  0.00000  0.00000  1

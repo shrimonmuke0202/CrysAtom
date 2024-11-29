@@ -1,0 +1,37 @@
+CIF file written using JARVIS-Tools package.
+data_ErB3Mo
+_symmetry_space_group_name_H-M  'P2_1/m'
+_cell_length_a       5.40189
+_cell_length_b       3.15178
+_cell_length_c       6.83742
+_cell_angle_alpha    90
+_cell_angle_beta     101.628
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  11
+_chemical_formula_structural  ErB3Mo
+_chemical_formula_sum  Er2B6Mo2
+_cell_volume  114.02170949001065
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ B  B1  1  0.58188  0.25000  0.52360  1
+ B  B2  1  0.41812  0.75000  0.47640  1
+ B  B3  1  0.58764  0.25000  0.00455  1
+ B  B4  1  0.41236  0.75000  0.99545  1
+ B  B5  1  0.91622  0.25000  0.00700  1
+ B  B6  1  0.08378  0.75000  0.99300  1
+ Er  Er1  1  0.82447  0.75000  0.29084  1
+ Er  Er2  1  0.17553  0.25000  0.70916  1
+ Mo  Mo1  1  0.68966  0.75000  0.77815  1
+ Mo  Mo2  1  0.31034  0.25000  0.22185  1

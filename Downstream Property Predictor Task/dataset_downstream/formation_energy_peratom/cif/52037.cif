@@ -1,0 +1,40 @@
+CIF file written using JARVIS-Tools package.
+data_Pr9Ga4
+_symmetry_space_group_name_H-M  'I4/m'
+_cell_length_a       8.97958
+_cell_length_b       8.97958
+_cell_length_c       8.97958
+_cell_angle_alpha    94.7601
+_cell_angle_beta     94.7601
+_cell_angle_gamma    146.515
+
+_symmetry_Int_Tables_number  87
+_chemical_formula_structural  Pr9Ga4
+_chemical_formula_sum  Pr9Ga4
+_cell_volume  382.5350166938767
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ga  Ga1  1  0.73069  0.61236  0.34305  1
+ Ga  Ga2  1  0.26931  0.38764  0.65695  1
+ Ga  Ga3  1  0.38764  0.73069  0.11832  1
+ Ga  Ga4  1  0.61236  0.26931  0.88168  1
+ Pr  Pr1  1  0.50000  0.50000  0.00000  1
+ Pr  Pr2  1  0.59346  0.87485  0.46831  1
+ Pr  Pr3  1  0.40654  0.12515  0.53169  1
+ Pr  Pr4  1  0.12515  0.59346  0.71861  1
+ Pr  Pr5  1  0.87485  0.40654  0.28139  1
+ Pr  Pr6  1  0.89042  0.81280  0.70322  1
+ Pr  Pr7  1  0.10958  0.18720  0.29678  1
+ Pr  Pr8  1  0.18720  0.89042  0.07762  1
+ Pr  Pr9  1  0.81280  0.10958  0.92238  1

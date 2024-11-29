@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_SmF3
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       4.41176
+_cell_length_b       6.66666
+_cell_length_c       7.05994
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  SmF3
+_chemical_formula_sum  Sm4F2
+_cell_volume  207.6451071269122
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ F  F1  1  0.07659  0.98107  0.75000  1
+ F  F2  1  0.57659  0.51893  0.25000  1
+ F  F3  1  0.42341  0.48107  0.75000  1
+ F  F4  1  0.92341  0.01893  0.25000  1
+ F  F5  1  0.39159  0.16554  0.06445  1
+ F  F6  1  0.89159  0.33446  0.93555  1
+ F  F7  1  0.10841  0.66554  0.43555  1
+ F  F8  1  0.60841  0.83446  0.56445  1
+ F  F9  1  0.60841  0.83446  0.93555  1
+ F  F10  1  0.10841  0.66554  0.06445  1
+ F  F11  1  0.89159  0.33446  0.56445  1
+ F  F12  1  0.39159  0.16554  0.43555  1
+ Sm  Sm1  1  0.93474  0.63175  0.75000  1
+ Sm  Sm2  1  0.43474  0.86825  0.25000  1
+ Sm  Sm3  1  0.56526  0.13175  0.75000  1
+ Sm  Sm4  1  0.06526  0.36825  0.25000  1

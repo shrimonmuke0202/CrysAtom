@@ -1,0 +1,41 @@
+CIF file written using JARVIS-Tools package.
+data_Cu5Sn2Se7
+_symmetry_space_group_name_H-M  'C2'
+_cell_length_a       7.00937
+_cell_length_b       7.00938
+_cell_length_c       9.05063
+_cell_angle_alpha    82.6399
+_cell_angle_beta     82.6399
+_cell_angle_gamma    48.0514
+
+_symmetry_Int_Tables_number  5
+_chemical_formula_structural  Cu5Sn2Se7
+_chemical_formula_sum  Cu5Sn2Se7
+_cell_volume  327.45222317490123
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cu  Cu1  1  0.73214  0.26786  0.50000  1
+ Cu  Cu2  1  0.88697  0.40515  0.07424  1
+ Cu  Cu3  1  0.59485  0.11303  0.92576  1
+ Cu  Cu4  1  0.44891  0.97835  0.35792  1
+ Cu  Cu5  1  0.02165  0.55109  0.64208  1
+ Se  Se1  1  0.35422  0.34941  0.44318  1
+ Se  Se2  1  0.65059  0.64578  0.55682  1
+ Se  Se3  1  0.51415  0.48585  -0.00000  1
+ Se  Se4  1  0.04880  0.11418  0.29222  1
+ Se  Se5  1  0.88582  0.95120  0.70778  1
+ Se  Se6  1  0.74243  0.80954  0.13855  1
+ Se  Se7  1  0.19046  0.25757  0.86145  1
+ Sn  Sn1  1  0.14894  0.70235  0.22437  1
+ Sn  Sn2  1  0.29765  0.85106  0.77563  1

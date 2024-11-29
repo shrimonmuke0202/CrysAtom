@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_Dy5Ni2Sb
+_symmetry_space_group_name_H-M  'I4/mcm'
+_cell_length_a       7.63266
+_cell_length_b       7.63266
+_cell_length_c       8.49911
+_cell_angle_alpha    116.681
+_cell_angle_beta     116.681
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  140
+_chemical_formula_structural  Dy5Ni2Sb
+_chemical_formula_sum  Dy0Ni4Sb2
+_cell_volume  382.4916198067962
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Dy  Dy1  1  0.20720  0.01863  0.72584  1
+ Dy  Dy2  1  0.01863  0.51863  0.72584  1
+ Dy  Dy3  1  0.70720  0.20720  0.72584  1
+ Dy  Dy4  1  0.98137  0.48137  0.27416  1
+ Dy  Dy5  1  0.51863  0.70720  0.72584  1
+ Dy  Dy6  1  0.79280  0.98137  0.27416  1
+ Dy  Dy7  1  0.48137  0.29280  0.27416  1
+ Dy  Dy8  1  0.29280  0.79280  0.27416  1
+ Dy  Dy9  1  0.50000  0.50000  0.00000  1
+ Dy  Dy10  1  0.00000  0.00000  0.00000  1
+ Ni  Ni1  1  0.36660  0.86660  0.00000  1
+ Ni  Ni2  1  0.13340  0.36660  0.00000  1
+ Ni  Ni3  1  0.63340  0.13340  -0.00000  1
+ Ni  Ni4  1  0.86660  0.63340  -0.00000  1
+ Sb  Sb1  1  0.25000  0.25000  0.50000  1
+ Sb  Sb2  1  0.75000  0.75000  0.50000  1

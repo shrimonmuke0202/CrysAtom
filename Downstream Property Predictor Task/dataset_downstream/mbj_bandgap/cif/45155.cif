@@ -1,0 +1,66 @@
+CIF file written using JARVIS-Tools package.
+data_Ca2Mg5Si8O22F2
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       5.31143
+_cell_length_b       9.85641
+_cell_length_c       10.3164
+_cell_angle_alpha    61.4644
+_cell_angle_beta     82.9789
+_cell_angle_gamma    75.1743
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  Ca2Mg5Si8O22F2
+_chemical_formula_sum  Ca2Mg5Si8O22F2
+_cell_volume  458.6765253176419
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ca  Ca1  1  0.50000  0.27719  0.44562  1
+ Ca  Ca2  1  0.50000  0.72281  0.55438  1
+ F  F1  1  0.71289  0.89699  0.00000  1
+ F  F2  1  0.28711  0.10301  -0.00000  1
+ Mg  Mg1  1  0.50000  0.91172  0.17656  1
+ Mg  Mg2  1  -0.00000  0.82431  0.35137  1
+ Mg  Mg3  1  0.00000  0.17569  0.64863  1
+ Mg  Mg4  1  0.50000  0.08828  0.82344  1
+ Mg  Mg5  1  0.00000  0.00000  0.00000  1
+ O  O1  1  0.21877  0.97136  0.83119  1
+ O  O2  1  0.89516  0.48581  0.72692  1
+ O  O3  1  0.27486  0.28785  0.66096  1
+ O  O4  1  0.79040  0.88509  0.50069  1
+ O  O5  1  0.78123  0.02864  0.16881  1
+ O  O6  1  0.70831  0.34358  -0.00000  1
+ O  O7  1  0.27486  0.94882  0.33904  1
+ O  O8  1  0.40875  0.22778  0.23838  1
+ O  O9  1  0.59125  0.77222  0.76162  1
+ O  O10  1  0.21877  0.80255  0.16881  1
+ O  O11  1  0.10484  0.51419  0.27308  1
+ O  O12  1  0.78123  0.19745  0.83119  1
+ O  O13  1  0.40875  0.46616  0.76162  1
+ O  O14  1  0.72514  0.71215  0.33904  1
+ O  O15  1  0.72514  0.05118  0.66096  1
+ O  O16  1  0.89516  0.21273  0.27308  1
+ O  O17  1  0.20960  0.61422  0.50069  1
+ O  O18  1  0.10484  0.78727  0.72692  1
+ O  O19  1  0.59125  0.53384  0.23838  1
+ O  O20  1  0.20960  0.11491  0.49931  1
+ O  O21  1  0.79040  0.38578  0.49931  1
+ O  O22  1  0.29169  0.65642  0.00000  1
+ Si  Si1  1  0.19424  0.11849  0.34289  1
+ Si  Si2  1  0.70123  0.20030  0.16750  1
+ Si  Si3  1  0.19424  0.46138  0.65711  1
+ Si  Si4  1  0.29877  0.63221  0.16750  1
+ Si  Si5  1  0.80576  0.53862  0.34289  1
+ Si  Si6  1  0.29877  0.79970  0.83250  1
+ Si  Si7  1  0.80576  0.88151  0.65711  1
+ Si  Si8  1  0.70123  0.36779  0.83250  1

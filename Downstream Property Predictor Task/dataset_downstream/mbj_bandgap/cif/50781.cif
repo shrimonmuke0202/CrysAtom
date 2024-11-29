@@ -1,0 +1,41 @@
+CIF file written using JARVIS-Tools package.
+data_SmMgMnS4
+_symmetry_space_group_name_H-M  'Imma'
+_cell_length_a       7.84633
+_cell_length_b       7.59804
+_cell_length_c       7.60233
+_cell_angle_alpha    60.3041
+_cell_angle_beta     58.8734
+_cell_angle_gamma    58.9537
+
+_symmetry_Int_Tables_number  74
+_chemical_formula_structural  SmMgMnS4
+_chemical_formula_sum  Sm2Mg2Mn2S8
+_cell_volume  315.8072334425532
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Mg  Mg1  1  0.87429  0.87587  0.87562  1
+ Mg  Mg2  1  0.12571  0.12412  0.12437  1
+ Mn  Mn1  1  0.50000  0.50000  -0.00000  1
+ Mn  Mn2  1  0.50000  0.00000  0.50000  1
+ S  S1  1  0.70885  0.76108  0.76106  1
+ S  S2  1  0.27087  0.22784  0.72983  1
+ S  S3  1  0.27149  0.72973  0.22790  1
+ S  S4  1  0.73079  0.23868  0.23923  1
+ S  S5  1  0.72850  0.27028  0.77210  1
+ S  S6  1  0.26921  0.76132  0.76077  1
+ S  S7  1  0.29115  0.23891  0.23896  1
+ S  S8  1  0.72914  0.77216  0.27017  1
+ Sm  Sm1  1  0.50000  0.50000  0.49999  1
+ Sm  Sm2  1  -0.00000  0.50000  0.50001  1

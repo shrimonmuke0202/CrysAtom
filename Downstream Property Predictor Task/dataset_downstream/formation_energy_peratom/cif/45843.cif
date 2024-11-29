@@ -1,0 +1,54 @@
+CIF file written using JARVIS-Tools package.
+data_K2Zr7Cl18
+_symmetry_space_group_name_H-M  'R-3'
+_cell_length_a       10.2129
+_cell_length_b       10.2129
+_cell_length_c       10.2129
+_cell_angle_alpha    55.0733
+_cell_angle_beta     55.0733
+_cell_angle_gamma    55.0733
+
+_symmetry_Int_Tables_number  148
+_chemical_formula_structural  K2Zr7Cl18
+_chemical_formula_sum  K2Zr7Cl8
+_cell_volume  666.9175288165602
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cl  Cl1  1  0.51087  0.36438  0.79142  1
+ Cl  Cl2  1  0.36438  0.79142  0.51087  1
+ Cl  Cl3  1  0.79142  0.51087  0.36438  1
+ Cl  Cl4  1  0.48913  0.63562  0.20858  1
+ Cl  Cl5  1  0.63562  0.20858  0.48913  1
+ Cl  Cl6  1  0.20858  0.48913  0.63562  1
+ Cl  Cl7  1  0.28677  0.14023  0.56601  1
+ Cl  Cl8  1  0.14023  0.56601  0.28677  1
+ Cl  Cl9  1  0.56601  0.28677  0.14023  1
+ Cl  Cl10  1  0.35401  0.06048  0.92674  1
+ Cl  Cl11  1  0.92674  0.35401  0.06048  1
+ Cl  Cl12  1  0.06048  0.92674  0.35401  1
+ Cl  Cl13  1  0.64599  0.93952  0.07326  1
+ Cl  Cl14  1  0.07326  0.64599  0.93952  1
+ Cl  Cl15  1  0.43398  0.71323  0.85977  1
+ Cl  Cl16  1  0.85977  0.43398  0.71323  1
+ Cl  Cl17  1  0.71323  0.85977  0.43398  1
+ Cl  Cl18  1  0.93952  0.07326  0.64599  1
+ K  K1  1  0.77749  0.77749  0.77749  1
+ K  K2  1  0.22251  0.22251  0.22251  1
+ Zr  Zr1  1  0.83437  0.09791  0.21665  1
+ Zr  Zr2  1  0.50000  0.50000  0.50000  1
+ Zr  Zr3  1  0.78335  0.16563  0.90209  1
+ Zr  Zr4  1  0.16563  0.90209  0.78335  1
+ Zr  Zr5  1  0.90209  0.78335  0.16563  1
+ Zr  Zr6  1  0.21665  0.83437  0.09791  1
+ Zr  Zr7  1  0.09791  0.21665  0.83437  1

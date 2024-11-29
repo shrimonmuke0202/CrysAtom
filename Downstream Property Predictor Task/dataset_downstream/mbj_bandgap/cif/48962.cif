@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_SbTeRu
+_symmetry_space_group_name_H-M  'P2_1/c'
+_cell_length_a       6.61699
+_cell_length_b       6.70962
+_cell_length_c       6.7675
+_cell_angle_alpha    65.7332
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  14
+_chemical_formula_structural  SbTeRu
+_chemical_formula_sum  Sb4Te4Ru4
+_cell_volume  273.9115868427923
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ru  Ru1  1  0.99913  0.72347  0.29351  1
+ Ru  Ru2  1  0.49913  0.27653  0.20649  1
+ Ru  Ru3  1  0.00087  0.27653  0.70649  1
+ Ru  Ru4  1  0.50087  0.72347  0.79351  1
+ Sb  Sb1  1  0.64124  0.85975  0.38185  1
+ Sb  Sb2  1  0.14124  0.14025  0.11815  1
+ Sb  Sb3  1  0.35876  0.14025  0.61815  1
+ Sb  Sb4  1  0.85876  0.85975  0.88185  1
+ Te  Te1  1  0.36477  0.65380  0.17990  1
+ Te  Te2  1  0.86477  0.34620  0.32010  1
+ Te  Te3  1  0.63523  0.34620  0.82010  1
+ Te  Te4  1  0.13523  0.65380  0.67990  1

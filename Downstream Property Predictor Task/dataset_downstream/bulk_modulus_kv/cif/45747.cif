@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_Al3Mo
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       3.62094
+_cell_length_b       8.43338
+_cell_length_c       8.44032
+_cell_angle_alpha    101.481
+_cell_angle_beta     102.389
+_cell_angle_gamma    90.0007
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  Al3Mo
+_chemical_formula_sum  Al2Mo4
+_cell_volume  246.4555106381934
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Al  Al1  1  0.12627  0.65706  0.25256  1
+ Al  Al2  1  0.12540  0.14708  0.25083  1
+ Al  Al3  1  0.62491  0.39765  0.24982  1
+ Al  Al4  1  0.74873  0.69516  0.49744  1
+ Al  Al5  1  0.50302  0.59819  0.00609  1
+ Al  Al6  1  0.74960  0.20514  0.49916  1
+ Al  Al7  1  0.37198  0.75404  0.74391  1
+ Al  Al8  1  0.00359  0.85851  0.00718  1
+ Al  Al9  1  0.49769  0.09422  0.99542  1
+ Al  Al10  1  0.25009  0.95458  0.50018  1
+ Al  Al11  1  0.37730  0.25801  0.75457  1
+ Al  Al12  1  0.87141  0.49372  0.74282  1
+ Mo  Mo1  1  0.01070  0.35633  0.02149  1
+ Mo  Mo2  1  0.63283  0.90494  0.26575  1
+ Mo  Mo3  1  0.24217  0.44728  0.48425  1
+ Mo  Mo4  1  0.86430  0.99589  0.72851  1

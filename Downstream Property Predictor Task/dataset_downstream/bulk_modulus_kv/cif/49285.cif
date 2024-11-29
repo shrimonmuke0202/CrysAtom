@@ -1,0 +1,30 @@
+CIF file written using JARVIS-Tools package.
+data_BaCaI
+_symmetry_space_group_name_H-M  'Pm'
+_cell_length_a       7.85364
+_cell_length_b       6.85506
+_cell_length_c       4.02998
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    48.5747
+
+_symmetry_Int_Tables_number  6
+_chemical_formula_structural  BaCaI
+_chemical_formula_sum  BaCaI
+_cell_volume  162.6827713096259
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ba  Ba1  1  -0.11217  0.04672  0.00000  1
+ Ca  Ca1  1  0.47746  -0.11351  0.00000  1
+ I  I1  1  0.01309  0.45776  0.00000  1

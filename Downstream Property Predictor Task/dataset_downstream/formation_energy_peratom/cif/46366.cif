@@ -1,0 +1,51 @@
+CIF file written using JARVIS-Tools package.
+data_Sm3Si2Ni
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       4.19763
+_cell_length_b       11.4157
+_cell_length_c       11.5501
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  Sm3Si2Ni
+_chemical_formula_sum  Sm2Si8Ni4
+_cell_volume  553.4671716147947
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ni  Ni1  1  0.75000  0.63580  0.37031  1
+ Ni  Ni2  1  0.25000  0.13580  0.12969  1
+ Ni  Ni3  1  0.25000  0.36420  0.62969  1
+ Ni  Ni4  1  0.75000  0.86420  0.87031  1
+ Si  Si1  1  0.25000  0.68733  0.47395  1
+ Si  Si2  1  0.25000  0.49301  0.80258  1
+ Si  Si3  1  0.25000  0.81267  0.97395  1
+ Si  Si4  1  0.75000  0.99301  0.69742  1
+ Si  Si5  1  0.75000  0.50699  0.19742  1
+ Si  Si6  1  0.25000  0.00699  0.30258  1
+ Si  Si7  1  0.75000  0.18733  0.02605  1
+ Si  Si8  1  0.75000  0.31267  0.52605  1
+ Sm  Sm1  1  0.25000  0.37690  0.05819  1
+ Sm  Sm2  1  0.75000  0.19831  0.28631  1
+ Sm  Sm3  1  0.25000  0.69831  0.21369  1
+ Sm  Sm4  1  0.75000  0.62310  0.94181  1
+ Sm  Sm5  1  0.25000  0.05882  0.88245  1
+ Sm  Sm6  1  0.25000  0.80169  0.71369  1
+ Sm  Sm7  1  0.25000  0.44118  0.38245  1
+ Sm  Sm8  1  0.75000  0.30169  0.78631  1
+ Sm  Sm9  1  0.25000  0.12310  0.55819  1
+ Sm  Sm10  1  0.75000  0.94118  0.11755  1
+ Sm  Sm11  1  0.75000  0.55882  0.61755  1
+ Sm  Sm12  1  0.75000  0.87690  0.44181  1

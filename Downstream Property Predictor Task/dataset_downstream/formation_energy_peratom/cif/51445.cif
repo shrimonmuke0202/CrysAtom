@@ -1,0 +1,30 @@
+CIF file written using JARVIS-Tools package.
+data_SrGaN
+_symmetry_space_group_name_H-M  'Pm'
+_cell_length_a       5.82351
+_cell_length_b       6.92691
+_cell_length_c       4.64941
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    34.9997
+
+_symmetry_Int_Tables_number  6
+_chemical_formula_structural  SrGaN
+_chemical_formula_sum  SrGaN
+_cell_volume  107.57468404678784
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ga  Ga1  1  -0.04559  -0.03526  0.00000  1
+ N  N1  1  0.27990  -0.05797  0.00000  1
+ Sr  Sr1  1  -0.01204  0.45504  0.00000  1

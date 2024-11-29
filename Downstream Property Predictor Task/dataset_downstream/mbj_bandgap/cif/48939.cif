@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_MnRuN2
+_symmetry_space_group_name_H-M  'Pna2_1'
+_cell_length_a       5.21394
+_cell_length_b       6.31889
+_cell_length_c       5.15439
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  33
+_chemical_formula_structural  MnRuN2
+_chemical_formula_sum  Mn4Ru4N8
+_cell_volume  169.81795283428275
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Mn  Mn1  1  0.61968  0.88129  0.99664  1
+ Mn  Mn2  1  0.38032  0.11871  0.49664  1
+ Mn  Mn3  1  0.88032  0.38129  0.49664  1
+ Mn  Mn4  1  0.11968  0.61871  0.99664  1
+ N  N1  1  0.58335  0.91488  0.35017  1
+ N  N2  1  0.41665  0.08512  0.85017  1
+ N  N3  1  0.91665  0.41488  0.85017  1
+ N  N4  1  0.08335  0.58512  0.35017  1
+ N  N5  1  0.55215  0.36016  0.38025  1
+ N  N6  1  0.44785  0.63984  0.88025  1
+ N  N7  1  0.94785  0.86016  0.88025  1
+ N  N8  1  0.05215  0.13984  0.38025  1
+ Ru  Ru1  1  0.56501  0.34493  0.99494  1
+ Ru  Ru2  1  0.43499  0.65507  0.49494  1
+ Ru  Ru3  1  0.93499  0.84493  0.49494  1
+ Ru  Ru4  1  0.06501  0.15507  0.99494  1

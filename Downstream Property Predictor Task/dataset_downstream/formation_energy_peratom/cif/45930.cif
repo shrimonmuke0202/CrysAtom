@@ -1,0 +1,40 @@
+CIF file written using JARVIS-Tools package.
+data_Ba2YTlV2O7
+_symmetry_space_group_name_H-M  'Pmm2'
+_cell_length_a       3.92348
+_cell_length_b       3.92611
+_cell_length_c       12.8431
+_cell_angle_alpha    89.9964
+_cell_angle_beta     90.0037
+_cell_angle_gamma    89.9998
+
+_symmetry_Int_Tables_number  25
+_chemical_formula_structural  Ba2YTlV2O7
+_chemical_formula_sum  Ba2YTlV2O7
+_cell_volume  197.83573152394246
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ba  Ba1  1  0.49997  0.48661  0.19196  1
+ Ba  Ba2  1  0.49998  0.48653  0.80807  1
+ O  O1  1  -0.00001  -0.02379  0.22126  1
+ O  O2  1  0.50007  -0.02420  0.38822  1
+ O  O3  1  0.00008  0.47708  0.38818  1
+ O  O4  1  0.00011  0.47702  0.61180  1
+ O  O5  1  0.49967  0.68839  0.00000  1
+ O  O6  1  0.50007  -0.02423  0.61177  1
+ O  O7  1  0.00001  -0.02387  0.77874  1
+ Tl  Tl1  1  -0.00018  0.04705  0.00001  1
+ V  V1  1  0.00007  -0.02203  0.36720  1
+ V  V2  1  0.00008  -0.02206  0.63279  1
+ Y  Y1  1  0.50010  0.47751  0.50000  1

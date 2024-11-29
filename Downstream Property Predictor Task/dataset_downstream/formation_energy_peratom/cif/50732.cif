@@ -1,0 +1,53 @@
+CIF file written using JARVIS-Tools package.
+data_CoNi2P2O8
+_symmetry_space_group_name_H-M  'P2_1'
+_cell_length_a       4.70714
+_cell_length_b       5.84802
+_cell_length_c       10.1741
+_cell_angle_alpha    91.5182
+_cell_angle_beta     89.9998
+_cell_angle_gamma    90.0002
+
+_symmetry_Int_Tables_number  4
+_chemical_formula_structural  CoNi2P2O8
+_chemical_formula_sum  Co2Ni4P4O6
+_cell_volume  279.9689955263681
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Co  Co1  1  0.51728  0.23895  0.77574  1
+ Co  Co2  1  0.01727  0.76104  0.72426  1
+ Ni  Ni1  1  0.50050  0.50181  0.49877  1
+ Ni  Ni2  1  0.00048  0.49819  0.00123  1
+ Ni  Ni3  1  0.48560  0.75587  0.22573  1
+ Ni  Ni4  1  0.98560  0.24414  0.27427  1
+ O  O1  1  0.23117  0.47078  0.66084  1
+ O  O2  1  0.73114  0.52922  0.83916  1
+ O  O3  1  0.24911  0.73518  0.39840  1
+ O  O4  1  0.26616  0.46644  0.16317  1
+ O  O5  1  0.30855  0.25249  0.95310  1
+ O  O6  1  0.80858  0.74751  0.54690  1
+ O  O7  1  0.76618  0.53357  0.33684  1
+ O  O8  1  0.19473  0.25266  0.45136  1
+ O  O9  1  0.69760  0.94416  0.82440  1
+ O  O10  1  0.75101  0.26799  0.59973  1
+ O  O11  1  0.29881  0.04881  0.17410  1
+ O  O12  1  0.69470  0.74733  0.04864  1
+ O  O13  1  0.25098  0.73201  0.90028  1
+ O  O14  1  0.19761  0.05583  0.67559  1
+ O  O15  1  0.79883  0.95119  0.32590  1
+ O  O16  1  0.74909  0.26483  0.10160  1
+ P  P1  1  0.57600  0.74617  0.90650  1
+ P  P2  1  0.07603  0.25382  0.59350  1
+ P  P3  1  0.92352  0.75161  0.40378  1
+ P  P4  1  0.42349  0.24840  0.09622  1

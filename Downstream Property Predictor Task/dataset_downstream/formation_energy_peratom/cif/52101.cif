@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_KAlCO5
+_symmetry_space_group_name_H-M  'Cmcm'
+_cell_length_a       6.26982
+_cell_length_b       6.26982
+_cell_length_c       5.94318
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    112.209
+
+_symmetry_Int_Tables_number  63
+_chemical_formula_structural  KAlCO5
+_chemical_formula_sum  K2Al2C2O0
+_cell_volume  216.29823090373785
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Al  Al1  1  0.00000  0.00000  0.00000  1
+ Al  Al2  1  0.00000  0.00000  0.50000  1
+ C  C1  1  0.75529  0.24471  0.25000  1
+ C  C2  1  0.24471  0.75529  0.75000  1
+ K  K1  1  0.37690  0.62310  0.25000  1
+ K  K2  1  0.62310  0.37690  0.75000  1
+ O  O1  1  0.63279  0.36721  0.25000  1
+ O  O2  1  0.36721  0.63279  0.75000  1
+ O  O3  1  0.81592  0.18408  0.05768  1
+ O  O4  1  0.18408  0.81592  0.94232  1
+ O  O5  1  0.18408  0.81592  0.55768  1
+ O  O6  1  0.81592  0.18408  0.44232  1
+ O  O7  1  0.86679  0.82067  0.25000  1
+ O  O8  1  0.13321  0.17933  0.75000  1
+ O  O9  1  0.17933  0.13321  0.25000  1
+ O  O10  1  0.82067  0.86679  0.75000  1

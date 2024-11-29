@@ -1,0 +1,41 @@
+CIF file written using JARVIS-Tools package.
+data_TiCrAgS4
+_symmetry_space_group_name_H-M  'Ima2'
+_cell_length_a       7.23759
+_cell_length_b       7.23759
+_cell_length_c       7.23759
+_cell_angle_alpha    120.082
+_cell_angle_beta     119.179
+_cell_angle_gamma    90.6433
+
+_symmetry_Int_Tables_number  46
+_chemical_formula_structural  TiCrAgS4
+_chemical_formula_sum  Ti2Cr2Ag2S8
+_cell_volume  269.54054575305383
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ag  Ag1  1  0.37230  0.88655  0.01425  1
+ Ag  Ag2  1  0.62770  0.64194  0.51425  1
+ Cr  Cr1  1  0.50000  0.25504  0.75504  1
+ Cr  Cr2  1  0.00000  0.25504  0.25504  1
+ S  S1  1  0.75786  0.48403  0.22617  1
+ S  S2  1  0.75987  0.48185  0.76628  1
+ S  S3  1  0.21557  0.48185  0.22198  1
+ S  S4  1  0.76535  0.05368  0.78833  1
+ S  S5  1  0.23465  0.02298  0.28833  1
+ S  S6  1  0.24214  0.46831  0.72617  1
+ S  S7  1  0.78443  0.00641  0.26628  1
+ S  S8  1  0.24013  0.00641  0.72198  1
+ Ti  Ti1  1  0.99278  0.72122  0.22843  1
+ Ti  Ti2  1  0.00722  0.23565  0.72843  1

@@ -1,0 +1,41 @@
+CIF file written using JARVIS-Tools package.
+data_NbCr3Ag2S8
+_symmetry_space_group_name_H-M  'P2/m'
+_cell_length_a       6.95268
+_cell_length_b       5.96383
+_cell_length_c       6.44724
+_cell_angle_alpha    85.0929
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  10
+_chemical_formula_structural  NbCr3Ag2S8
+_chemical_formula_sum  NbCr3Ag2S8
+_cell_volume  266.3523627711895
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ag  Ag1  1  0.00000  0.00000  0.00000  1
+ Ag  Ag2  1  0.50000  0.00000  0.00000  1
+ Cr  Cr1  1  0.25099  0.50000  0.50000  1
+ Cr  Cr2  1  0.74901  0.50000  0.50000  1
+ Cr  Cr3  1  0.00000  -0.00000  0.50000  1
+ Nb  Nb1  1  0.50000  -0.00000  0.50000  1
+ S  S1  1  0.00000  0.31800  0.70092  1
+ S  S2  1  0.50000  0.32924  0.71839  1
+ S  S3  1  0.24276  0.80711  0.71923  1
+ S  S4  1  0.75724  0.80711  0.71923  1
+ S  S5  1  0.24276  0.19289  0.28077  1
+ S  S6  1  0.75724  0.19289  0.28077  1
+ S  S7  1  0.50000  0.67076  0.28161  1
+ S  S8  1  0.00000  0.68200  0.29908  1

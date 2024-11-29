@@ -1,0 +1,46 @@
+CIF file written using JARVIS-Tools package.
+data_Dy5Mo2O12
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       6.77856
+_cell_length_b       6.77855
+_cell_length_c       7.53068
+_cell_angle_alpha    73.6948
+_cell_angle_beta     73.6948
+_cell_angle_gamma    50.0841
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  Dy5Mo2O12
+_chemical_formula_sum  Dy5Mo2O2
+_cell_volume  252.33286636492588
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Dy  Dy1  1  0.30582  0.30582  0.36036  1
+ Dy  Dy2  1  0.69418  0.69418  0.63964  1
+ Dy  Dy3  1  0.31491  0.31491  0.82217  1
+ Dy  Dy4  1  0.68509  0.68509  0.17783  1
+ Dy  Dy5  1  -0.00000  0.00000  0.50000  1
+ Mo  Mo1  1  0.78185  0.21815  -0.00000  1
+ Mo  Mo2  1  0.21815  0.78185  0.00000  1
+ O  O1  1  0.90737  0.42034  0.91723  1
+ O  O2  1  0.42034  0.90737  0.91723  1
+ O  O3  1  0.50076  0.50076  0.81696  1
+ O  O4  1  0.57966  0.09263  0.08277  1
+ O  O5  1  0.09263  0.57966  0.08277  1
+ O  O6  1  0.40714  0.90228  0.42511  1
+ O  O7  1  0.90228  0.40714  0.42511  1
+ O  O8  1  0.09772  0.59286  0.57489  1
+ O  O9  1  0.99939  0.99939  0.79548  1
+ O  O10  1  0.00061  0.00061  0.20452  1
+ O  O11  1  0.59286  0.09772  0.57489  1
+ O  O12  1  0.49924  0.49924  0.18304  1

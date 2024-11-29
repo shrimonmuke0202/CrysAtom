@@ -1,0 +1,49 @@
+CIF file written using JARVIS-Tools package.
+data_Na2FeNiF7
+_symmetry_space_group_name_H-M  'Imm2'
+_cell_length_a       7.21229
+_cell_length_b       7.32104
+_cell_length_c       7.32103
+_cell_angle_alpha    61.285
+_cell_angle_beta     60.4901
+_cell_angle_gamma    60.4901
+
+_symmetry_Int_Tables_number  44
+_chemical_formula_structural  Na2FeNiF7
+_chemical_formula_sum  Na4Fe2Ni2F4
+_cell_volume  277.96149297922807
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ F  F1  1  0.15610  0.32354  0.36426  1
+ F  F2  1  0.06828  0.31523  0.95094  1
+ F  F3  1  0.84390  0.63574  0.67646  1
+ F  F4  1  0.83437  0.68022  0.05362  1
+ F  F5  1  0.16563  0.94638  0.31978  1
+ F  F6  1  0.65623  0.35910  0.32844  1
+ F  F7  1  0.50000  0.10188  0.89812  1
+ F  F8  1  0.56821  0.94638  0.31978  1
+ F  F9  1  0.93172  0.04906  0.68477  1
+ F  F10  1  0.66555  0.31523  0.95094  1
+ F  F11  1  0.43179  0.68022  0.05362  1
+ F  F12  1  0.34377  0.67156  0.64090  1
+ F  F13  1  -0.00000  0.89372  0.10628  1
+ F  F14  1  0.33445  0.04906  0.68477  1
+ Fe  Fe1  1  0.74991  0.49767  0.00250  1
+ Fe  Fe2  1  0.25009  0.99750  0.50233  1
+ Na  Na1  1  0.24913  0.49880  0.00293  1
+ Na  Na2  1  0.74983  0.49581  0.50419  1
+ Na  Na3  1  0.75087  0.99707  0.50120  1
+ Na  Na4  1  0.25017  0.49581  0.50419  1
+ Ni  Ni1  1  0.74990  0.99771  0.00229  1
+ Ni  Ni2  1  0.25010  0.99771  0.00229  1

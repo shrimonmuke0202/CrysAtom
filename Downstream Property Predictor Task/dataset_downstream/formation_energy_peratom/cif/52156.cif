@@ -1,0 +1,47 @@
+CIF file written using JARVIS-Tools package.
+data_ZnCuSi2O6
+_symmetry_space_group_name_H-M  'C2/c'
+_cell_length_a       6.7957
+_cell_length_b       6.7957
+_cell_length_c       5.27902
+_cell_angle_alpha    74.1804
+_cell_angle_beta     74.1804
+_cell_angle_gamma    86.7005
+
+_symmetry_Int_Tables_number  15
+_chemical_formula_structural  ZnCuSi2O6
+_chemical_formula_sum  Zn2Cu2Si4O2
+_cell_volume  225.63875267580497
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cu  Cu1  1  0.89561  0.10439  0.25000  1
+ Cu  Cu2  1  0.10439  0.89561  0.75000  1
+ O  O1  1  0.03234  0.20942  0.86561  1
+ O  O2  1  0.38418  0.32268  0.48869  1
+ O  O3  1  0.20942  0.03234  0.36561  1
+ O  O4  1  0.61582  0.67732  0.51131  1
+ O  O5  1  0.32268  0.38418  0.98869  1
+ O  O6  1  0.67732  0.61582  0.01131  1
+ O  O7  1  0.86248  0.38507  0.37304  1
+ O  O8  1  0.38507  0.86248  0.87304  1
+ O  O9  1  0.96766  0.79058  0.13439  1
+ O  O10  1  0.61493  0.13752  0.12696  1
+ O  O11  1  0.79058  0.96766  0.63439  1
+ O  O12  1  0.13752  0.61493  0.62696  1
+ Si  Si1  1  0.61341  0.78383  0.75658  1
+ Si  Si2  1  0.21617  0.38659  0.74342  1
+ Si  Si3  1  0.78383  0.61341  0.25658  1
+ Si  Si4  1  0.38659  0.21617  0.24342  1
+ Zn  Zn1  1  0.23695  0.76305  0.25000  1
+ Zn  Zn2  1  0.76305  0.23695  0.75000  1

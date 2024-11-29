@@ -1,0 +1,32 @@
+CIF file written using JARVIS-Tools package.
+data_Sb2TeO2
+_symmetry_space_group_name_H-M  'Imm2'
+_cell_length_a       5.66105
+_cell_length_b       5.66098
+_cell_length_c       4.42367
+_cell_angle_alpha    67.0019
+_cell_angle_beta     67.0002
+_cell_angle_gamma    58.1071
+
+_symmetry_Int_Tables_number  44
+_chemical_formula_structural  Sb2TeO2
+_chemical_formula_sum  Sb2TeO2
+_cell_volume  107.6725399947794
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ O  O1  1  0.41220  0.41220  0.58780  1
+ O  O2  1  -0.02639  -0.02639  0.02639  1
+ Sb  Sb1  1  0.66804  0.66804  0.33196  1
+ Sb  Sb2  1  0.41357  0.41357  0.08643  1
+ Te  Te1  1  0.03258  0.03258  0.46742  1

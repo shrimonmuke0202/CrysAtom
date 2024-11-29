@@ -1,0 +1,48 @@
+CIF file written using JARVIS-Tools package.
+data_Li2Al2Si4O13
+_symmetry_space_group_name_H-M  'P1'
+_cell_length_a       4.9376
+_cell_length_b       7.56656
+_cell_length_c       8.64443
+_cell_angle_alpha    65.4527
+_cell_angle_beta     89.9071
+_cell_angle_gamma    89.1521
+
+_symmetry_Int_Tables_number  1
+_chemical_formula_structural  Li2Al2Si4O13
+_chemical_formula_sum  Li2Al2Si4O3
+_cell_volume  293.7351140870383
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Al  Al1  1  0.10169  0.07472  0.36541  1
+ Al  Al2  1  0.63113  0.09432  0.88870  1
+ Li  Li1  1  0.10510  0.12598  0.69660  1
+ Li  Li2  1  0.62488  0.83822  0.30113  1
+ O  O1  1  0.55247  0.70398  0.70624  1
+ O  O2  1  0.29879  0.04305  0.54597  1
+ O  O3  1  0.74412  0.03033  0.72361  1
+ O  O4  1  0.46040  0.44830  0.02356  1
+ O  O5  1  0.95761  0.58323  0.92360  1
+ O  O6  1  0.27973  0.04928  0.91723  1
+ O  O7  1  0.22089  0.68103  0.14169  1
+ O  O8  1  0.05408  0.31825  0.24032  1
+ O  O9  1  0.25091  0.94488  0.25619  1
+ O  O10  1  0.77728  0.97414  0.43674  1
+ O  O11  1  0.80529  0.94410  0.07852  1
+ O  O12  1  0.72539  0.33508  0.81486  1
+ O  O13  1  0.92064  0.66846  0.46077  1
+ Si  Si1  1  0.59529  0.93785  0.60687  1
+ Si  Si2  1  0.67671  0.51424  0.86688  1
+ Si  Si3  1  0.17014  0.50302  0.08415  1
+ Si  Si4  1  0.13286  0.90565  0.09576  1

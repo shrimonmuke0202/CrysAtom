@@ -1,0 +1,51 @@
+CIF file written using JARVIS-Tools package.
+data_Na2Si3O7
+_symmetry_space_group_name_H-M  'C2/c'
+_cell_length_a       4.8741
+_cell_length_b       5.12303
+_cell_length_c       11.5801
+_cell_angle_alpha    100.715
+_cell_angle_beta     90
+_cell_angle_gamma    118.405
+
+_symmetry_Int_Tables_number  15
+_chemical_formula_structural  Na2Si3O7
+_chemical_formula_sum  Na4Si6O4
+_cell_volume  248.59683092034876
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Na  Na1  1  0.85201  0.29733  0.18423  1
+ Na  Na2  1  0.55468  0.70267  0.31577  1
+ Na  Na3  1  0.14799  0.70267  0.81577  1
+ Na  Na4  1  0.44532  0.29733  0.68423  1
+ O  O1  1  0.35632  0.00000  0.25000  1
+ O  O2  1  0.74969  0.75283  0.91047  1
+ O  O3  1  0.99685  0.24717  0.58953  1
+ O  O4  1  0.25031  0.24717  0.08953  1
+ O  O5  1  0.00315  0.75283  0.41047  1
+ O  O6  1  0.41370  0.72986  0.53344  1
+ O  O7  1  0.68383  0.27014  0.96656  1
+ O  O8  1  0.58630  0.27014  0.46656  1
+ O  O9  1  0.31617  0.72986  0.03344  1
+ O  O10  1  0.20584  0.28077  0.87085  1
+ O  O11  1  0.79416  0.71923  0.12915  1
+ O  O12  1  0.92507  0.71923  0.62915  1
+ O  O13  1  0.64368  -0.00000  0.75000  1
+ O  O14  1  0.07493  0.28077  0.37085  1
+ Si  Si1  1  0.25698  0.08569  0.38530  1
+ Si  Si2  1  0.50000  0.50000  0.00000  1
+ Si  Si3  1  0.00000  0.50000  0.50000  1
+ Si  Si4  1  0.74302  0.91431  0.61470  1
+ Si  Si5  1  0.82871  0.08569  0.88530  1
+ Si  Si6  1  0.17129  0.91431  0.11470  1

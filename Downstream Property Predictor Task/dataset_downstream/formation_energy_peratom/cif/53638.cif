@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_Mg2Si
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       4.20449
+_cell_length_b       7.05392
+_cell_length_c       8.04091
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  Mg2Si
+_chemical_formula_sum  Mg8Si4
+_cell_volume  238.47827549524862
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Mg  Mg1  1  0.25000  0.03258  0.83607  1
+ Mg  Mg2  1  0.25000  0.53258  0.66393  1
+ Mg  Mg3  1  0.75000  0.96742  0.16393  1
+ Mg  Mg4  1  0.75000  0.46742  0.33607  1
+ Mg  Mg5  1  0.25000  0.13902  0.43915  1
+ Mg  Mg6  1  0.25000  0.63902  0.06085  1
+ Mg  Mg7  1  0.75000  0.86098  0.56085  1
+ Mg  Mg8  1  0.75000  0.36098  0.93915  1
+ Si  Si1  1  0.25000  0.25330  0.12579  1
+ Si  Si2  1  0.25000  0.75330  0.37421  1
+ Si  Si3  1  0.75000  0.74670  0.87421  1
+ Si  Si4  1  0.75000  0.24670  0.62579  1

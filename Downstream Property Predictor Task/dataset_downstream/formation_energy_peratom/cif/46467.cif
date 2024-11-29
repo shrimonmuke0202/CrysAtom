@@ -1,0 +1,41 @@
+CIF file written using JARVIS-Tools package.
+data_TaNiTe5
+_symmetry_space_group_name_H-M  'Cmcm'
+_cell_length_a       3.71761
+_cell_length_b       6.98001
+_cell_length_c       15.2831
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    105.444
+
+_symmetry_Int_Tables_number  63
+_chemical_formula_structural  TaNiTe5
+_chemical_formula_sum  Ta2Ni2Te0
+_cell_volume  382.2589881277157
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ni  Ni1  1  0.00000  0.00000  0.50000  1
+ Ni  Ni2  1  0.00000  0.00000  0.00000  1
+ Ta  Ta1  1  0.51121  0.02241  0.25000  1
+ Ta  Ta2  1  0.48879  0.97759  0.75000  1
+ Te  Te1  1  0.39482  0.78963  0.57434  1
+ Te  Te2  1  0.10071  0.20141  0.64511  1
+ Te  Te3  1  0.60518  0.21037  0.42566  1
+ Te  Te4  1  0.60518  0.21037  0.07434  1
+ Te  Te5  1  0.39482  0.78963  0.92566  1
+ Te  Te6  1  0.17072  0.34144  0.25000  1
+ Te  Te7  1  0.89929  0.79859  0.14511  1
+ Te  Te8  1  0.82928  0.65856  0.75000  1
+ Te  Te9  1  0.10071  0.20141  0.85489  1
+ Te  Te10  1  0.89929  0.79859  0.35489  1

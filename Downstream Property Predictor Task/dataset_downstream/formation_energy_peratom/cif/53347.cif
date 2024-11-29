@@ -1,0 +1,54 @@
+CIF file written using JARVIS-Tools package.
+data_Tb2Ti2Fe22H
+_symmetry_space_group_name_H-M  'Cm'
+_cell_length_a       4.69207
+_cell_length_b       6.37641
+_cell_length_c       11.8569
+_cell_angle_alpha    90.0735
+_cell_angle_beta     90
+_cell_angle_gamma    111.588
+
+_symmetry_Int_Tables_number  8
+_chemical_formula_structural  Tb2Ti2Fe22H
+_chemical_formula_sum  Tb2Ti2Fe22H
+_cell_volume  329.85886815495115
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Fe  Fe1  1  0.25208  0.00379  0.74956  1
+ Fe  Fe2  1  0.38713  0.77425  0.88622  1
+ Fe  Fe3  1  0.61456  0.22912  0.11532  1
+ Fe  Fe4  1  0.11697  0.23393  0.61618  1
+ Fe  Fe5  1  0.25002  0.00142  0.25141  1
+ Fe  Fe6  1  0.67672  0.35344  0.67658  1
+ Fe  Fe7  1  0.75171  0.00379  0.74956  1
+ Fe  Fe8  1  0.75141  0.00142  0.25141  1
+ Fe  Fe9  1  0.50097  0.50076  0.50143  1
+ Fe  Fe10  1  0.00094  0.50118  0.00118  1
+ Fe  Fe11  1  -0.00021  0.50076  0.50143  1
+ Fe  Fe12  1  0.50024  0.50118  0.00118  1
+ Fe  Fe13  1  0.67823  0.35646  0.32172  1
+ Fe  Fe14  1  0.17987  0.35975  0.82208  1
+ Fe  Fe15  1  0.82108  0.64216  0.17889  1
+ Fe  Fe16  1  0.32276  0.64551  0.67927  1
+ Fe  Fe17  1  0.17593  0.35185  0.17616  1
+ Fe  Fe18  1  0.10870  0.21740  0.39118  1
+ Fe  Fe19  1  0.89084  0.78168  0.60874  1
+ Fe  Fe20  1  0.38911  0.77822  0.11029  1
+ Fe  Fe21  1  0.88530  0.77060  0.38617  1
+ Fe  Fe22  1  0.61028  0.22056  0.88879  1
+ H  H1  1  0.50254  0.00508  0.00237  1
+ Tb  Tb1  1  0.50265  0.00531  0.50278  1
+ Tb  Tb2  1  0.00287  0.00574  0.00276  1
+ Ti  Ti1  1  0.31291  0.62582  0.31391  1
+ Ti  Ti2  1  0.81441  0.62881  0.81343  1

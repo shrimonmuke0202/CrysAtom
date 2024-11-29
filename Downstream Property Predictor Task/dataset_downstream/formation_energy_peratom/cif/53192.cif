@@ -1,0 +1,47 @@
+CIF file written using JARVIS-Tools package.
+data_KMg3AlGe3O10F2
+_symmetry_space_group_name_H-M  'P1'
+_cell_length_a       5.42936
+_cell_length_b       5.43016
+_cell_length_c       10.4241
+_cell_angle_alpha    100.013
+_cell_angle_beta     85.0962
+_cell_angle_gamma    119.974
+
+_symmetry_Int_Tables_number  1
+_chemical_formula_structural  KMg3AlGe3O10F2
+_chemical_formula_sum  KMg3AlGe3O0F2
+_cell_volume  262.1652074850944
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Al  Al1  1  0.66656  0.90718  0.22374  1
+ F  F1  1  0.00535  0.37107  0.59443  1
+ F  F2  1  0.00021  0.63858  0.40720  1
+ Ge  Ge1  1  0.66538  0.75603  0.77462  1
+ Ge  Ge2  1  0.33135  0.09003  0.77447  1
+ Ge  Ge3  1  0.33375  0.23914  0.21915  1
+ K  K1  1  0.99964  0.50527  0.01768  1
+ Mg  Mg1  1  0.66636  0.32512  0.49161  1
+ Mg  Mg2  1  0.33965  0.66790  0.49115  1
+ Mg  Mg3  1  0.99673  0.00288  0.49183  1
+ O  O1  1  0.99848  0.03433  0.84291  1
+ O  O2  1  0.66719  0.69973  0.60423  1
+ O  O3  1  0.33143  0.03599  0.60412  1
+ O  O4  1  0.33533  0.29912  0.39533  1
+ O  O5  1  0.40841  0.55438  0.16207  1
+ O  O6  1  0.58688  0.44574  0.84289  1
+ O  O7  1  0.40994  0.85707  0.84184  1
+ O  O8  1  0.59250  0.14442  0.16172  1
+ O  O9  1  0.66607  0.96532  0.39655  1
+ O  O10  1  0.99880  0.96072  0.16246  1

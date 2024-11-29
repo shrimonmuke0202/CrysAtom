@@ -1,0 +1,47 @@
+CIF file written using JARVIS-Tools package.
+data_La2InSi2
+_symmetry_space_group_name_H-M  'Pbam'
+_cell_length_a       4.41119
+_cell_length_b       7.74254
+_cell_length_c       15.0232
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  55
+_chemical_formula_structural  La2InSi2
+_chemical_formula_sum  La8In4Si8
+_cell_volume  513.0998801810459
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ In  In1  1  0.00000  0.43638  0.12251  1
+ In  In2  1  0.00000  0.93638  0.37749  1
+ In  In3  1  0.00000  0.06362  0.62251  1
+ In  In4  1  0.00000  0.56362  0.87749  1
+ La  La1  1  0.50000  0.88709  0.78232  1
+ La  La2  1  0.50000  0.11291  0.21768  1
+ La  La3  1  0.50000  0.75110  0.03500  1
+ La  La4  1  0.50000  0.61291  0.28232  1
+ La  La5  1  0.50000  0.74890  0.53500  1
+ La  La6  1  0.50000  0.25110  0.46500  1
+ La  La7  1  0.50000  0.24890  0.96500  1
+ La  La8  1  0.50000  0.38709  0.71768  1
+ Si  Si1  1  0.00000  0.32495  0.31561  1
+ Si  Si2  1  0.00000  0.55194  0.42464  1
+ Si  Si3  1  0.00000  0.44806  0.57536  1
+ Si  Si4  1  0.00000  0.05194  0.07536  1
+ Si  Si5  1  0.00000  0.94806  0.92464  1
+ Si  Si6  1  0.00000  0.82495  0.18439  1
+ Si  Si7  1  0.00000  0.17505  0.81561  1
+ Si  Si8  1  0.00000  0.67505  0.68439  1

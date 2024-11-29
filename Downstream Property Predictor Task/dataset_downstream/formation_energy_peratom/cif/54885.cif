@@ -1,0 +1,51 @@
+CIF file written using JARVIS-Tools package.
+data_Dy3NiGe2
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       4.15858
+_cell_length_b       11.1945
+_cell_length_c       11.3426
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  Dy3NiGe2
+_chemical_formula_sum  Dy2Ni4Ge8
+_cell_volume  528.0334089718584
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Dy  Dy1  1  0.25000  0.37206  0.05615  1
+ Dy  Dy2  1  0.75000  0.62794  0.94385  1
+ Dy  Dy3  1  0.75000  0.87206  0.44385  1
+ Dy  Dy4  1  0.25000  0.12794  0.55615  1
+ Dy  Dy5  1  0.25000  0.69741  0.22027  1
+ Dy  Dy6  1  0.25000  0.05754  0.87998  1
+ Dy  Dy7  1  0.75000  0.30259  0.77973  1
+ Dy  Dy8  1  0.25000  0.80259  0.72027  1
+ Dy  Dy9  1  0.25000  0.44246  0.37998  1
+ Dy  Dy10  1  0.75000  0.55754  0.62002  1
+ Dy  Dy11  1  0.75000  0.94246  0.12002  1
+ Dy  Dy12  1  0.75000  0.19741  0.27973  1
+ Ge  Ge1  1  0.25000  0.00205  0.30918  1
+ Ge  Ge2  1  0.25000  0.81262  0.98385  1
+ Ge  Ge3  1  0.75000  0.18738  0.01615  1
+ Ge  Ge4  1  0.75000  0.31262  0.51615  1
+ Ge  Ge5  1  0.25000  0.68738  0.48385  1
+ Ge  Ge6  1  0.25000  0.49795  0.80918  1
+ Ge  Ge7  1  0.75000  0.99795  0.69082  1
+ Ge  Ge8  1  0.75000  0.50205  0.19082  1
+ Ni  Ni1  1  0.25000  0.13197  0.12952  1
+ Ni  Ni2  1  0.25000  0.36803  0.62952  1
+ Ni  Ni3  1  0.75000  0.63197  0.37048  1
+ Ni  Ni4  1  0.75000  0.86803  0.87048  1

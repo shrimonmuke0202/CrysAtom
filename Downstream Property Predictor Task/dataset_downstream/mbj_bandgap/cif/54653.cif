@@ -1,0 +1,31 @@
+CIF file written using JARVIS-Tools package.
+data_B3As
+_symmetry_space_group_name_H-M  'Cm'
+_cell_length_a       3.23894
+_cell_length_b       4.94065
+_cell_length_c       4.37448
+_cell_angle_alpha    86.895
+_cell_angle_beta     137.826
+_cell_angle_gamma    78.7258
+
+_symmetry_Int_Tables_number  8
+_chemical_formula_structural  B3As
+_chemical_formula_sum  B3As
+_cell_volume  43.934609609981955
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ As  As1  1  0.92305  0.40691  0.86819  1
+ B  B1  1  0.26959  0.91750  0.11358  1
+ B  B2  1  0.81784  0.84634  0.15007  1
+ B  B3  1  0.15154  0.73165  0.70669  1

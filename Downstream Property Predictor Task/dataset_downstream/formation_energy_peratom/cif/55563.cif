@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_NbSBr
+_symmetry_space_group_name_H-M  'F-43m'
+_cell_length_a       7.28234
+_cell_length_b       7.28233
+_cell_length_c       7.28234
+_cell_angle_alpha    60
+_cell_angle_beta     60
+_cell_angle_gamma    60
+
+_symmetry_Int_Tables_number  216
+_chemical_formula_structural  NbSBr
+_chemical_formula_sum  Nb4S4Br4
+_cell_volume  273.0849052787868
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Br  Br1  1  0.62341  0.62341  0.62341  1
+ Br  Br2  1  0.62341  0.62341  0.12978  1
+ Br  Br3  1  0.62341  0.12978  0.62341  1
+ Br  Br4  1  0.12978  0.62341  0.62341  1
+ Nb  Nb1  1  0.35163  0.35163  0.35163  1
+ Nb  Nb2  1  0.35163  0.35163  0.94510  1
+ Nb  Nb3  1  0.35163  0.94510  0.35163  1
+ Nb  Nb4  1  0.94510  0.35163  0.35163  1
+ S  S1  1  0.11904  0.11904  0.11904  1
+ S  S2  1  0.11904  0.11904  0.64289  1
+ S  S3  1  0.11904  0.64289  0.11904  1
+ S  S4  1  0.64289  0.11904  0.11904  1

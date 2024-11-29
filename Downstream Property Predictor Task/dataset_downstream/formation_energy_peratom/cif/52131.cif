@@ -1,0 +1,55 @@
+CIF file written using JARVIS-Tools package.
+data_La4CuNiO8
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       3.80413
+_cell_length_b       7.04453
+_cell_length_c       14.9666
+_cell_angle_alpha    82.5616
+_cell_angle_beta     82.6842
+_cell_angle_gamma    105.647
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  La4CuNiO8
+_chemical_formula_sum  La8Cu2Ni2O6
+_cell_volume  377.3963846347085
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cu  Cu1  1  0.50000  0.50000  0.50000  1
+ Cu  Cu2  1  -0.00000  0.00000  0.00000  1
+ La  La1  1  0.77343  0.13634  0.59153  1
+ La  La2  1  0.27343  0.63634  0.09153  1
+ La  La3  1  0.72657  0.36366  0.90847  1
+ La  La4  1  0.47967  0.11888  0.15918  1
+ La  La5  1  0.52033  0.88112  0.84082  1
+ La  La6  1  0.02033  0.38112  0.34082  1
+ La  La7  1  0.97967  0.61888  0.65918  1
+ La  La8  1  0.22657  0.86366  0.40847  1
+ Ni  Ni1  1  0.75000  0.75000  0.25000  1
+ Ni  Ni2  1  0.25000  0.25000  0.75000  1
+ O  O1  1  0.11295  0.93475  0.70846  1
+ O  O2  1  0.50000  -0.00000  -0.00000  1
+ O  O3  1  0.62805  0.63059  0.37397  1
+ O  O4  1  0.25000  0.75000  0.25000  1
+ O  O5  1  0.75000  0.25000  0.75000  1
+ O  O6  1  0.61295  0.43475  0.20846  1
+ O  O7  1  0.00000  0.50000  0.50000  1
+ O  O8  1  0.37195  0.36942  0.62603  1
+ O  O9  1  0.86409  0.67827  0.94875  1
+ O  O10  1  0.13590  0.32172  0.05125  1
+ O  O11  1  0.63591  0.82172  0.55125  1
+ O  O12  1  0.87195  0.86942  0.12603  1
+ O  O13  1  0.88705  0.06525  0.29154  1
+ O  O14  1  0.36409  0.17828  0.44875  1
+ O  O15  1  0.38705  0.56525  0.79154  1
+ O  O16  1  0.12806  0.13059  0.87397  1

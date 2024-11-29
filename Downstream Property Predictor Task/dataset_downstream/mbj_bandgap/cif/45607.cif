@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_InSb2S4Br
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       3.91614
+_cell_length_b       10.3415
+_cell_length_c       11.2951
+_cell_angle_alpha    65.5801
+_cell_angle_beta     80.0169
+_cell_angle_gamma    79.0856
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  InSb2S4Br
+_chemical_formula_sum  In2Sb4S8Br2
+_cell_volume  406.66461534479083
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Br  Br1  1  0.89798  0.67134  0.53269  1
+ Br  Br2  1  0.10202  0.32866  0.46731  1
+ In  In1  1  0.66256  0.10599  0.56889  1
+ In  In2  1  0.33744  0.89401  0.43111  1
+ S  S1  1  0.67964  0.50724  0.13349  1
+ S  S2  1  0.10211  0.82224  0.97355  1
+ S  S3  1  0.21394  0.92035  0.65178  1
+ S  S4  1  0.53540  0.13972  0.78949  1
+ S  S5  1  0.78606  0.07965  0.34822  1
+ S  S6  1  0.46460  0.86028  0.21051  1
+ S  S7  1  0.32036  0.49276  0.86651  1
+ S  S8  1  0.89789  0.17776  0.02645  1
+ Sb  Sb1  1  0.29384  0.31232  0.09999  1
+ Sb  Sb2  1  0.95188  0.31465  0.78160  1
+ Sb  Sb3  1  0.04812  0.68535  0.21840  1
+ Sb  Sb4  1  0.70616  0.68768  0.90001  1

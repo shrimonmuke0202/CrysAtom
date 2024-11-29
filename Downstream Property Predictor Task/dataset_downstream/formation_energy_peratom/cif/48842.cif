@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_Sm2Al
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       5.1805
+_cell_length_b       6.62216
+_cell_length_c       9.68429
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  Sm2Al
+_chemical_formula_sum  Sm8Al4
+_cell_volume  332.2300679870783
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Al  Al1  1  0.25000  0.20971  0.60139  1
+ Al  Al2  1  0.25000  0.70971  0.89861  1
+ Al  Al3  1  0.75000  0.79029  0.39861  1
+ Al  Al4  1  0.75000  0.29029  0.10139  1
+ Sm  Sm1  1  0.25000  0.19125  0.92390  1
+ Sm  Sm2  1  0.25000  0.69125  0.57610  1
+ Sm  Sm3  1  0.75000  0.80875  0.07610  1
+ Sm  Sm4  1  0.75000  0.30875  0.42390  1
+ Sm  Sm5  1  0.25000  0.02480  0.29282  1
+ Sm  Sm6  1  0.25000  0.52480  0.20718  1
+ Sm  Sm7  1  0.75000  0.97520  0.70718  1
+ Sm  Sm8  1  0.75000  0.47520  0.79282  1

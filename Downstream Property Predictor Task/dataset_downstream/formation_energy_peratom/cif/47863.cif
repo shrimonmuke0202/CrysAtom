@@ -1,0 +1,55 @@
+CIF file written using JARVIS-Tools package.
+data_Sr2SiO4
+_symmetry_space_group_name_H-M  'P2_1/c'
+_cell_length_a       5.71234
+_cell_length_b       7.12729
+_cell_length_c       11.0456
+_cell_angle_alpha    90
+_cell_angle_beta     117.775
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  14
+_chemical_formula_structural  Sr2SiO4
+_chemical_formula_sum  Sr8Si4O6
+_cell_volume  397.89459879512555
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ O  O1  1  0.28909  0.00515  0.56909  1
+ O  O2  1  0.65610  0.76718  0.17987  1
+ O  O3  1  0.71091  0.99485  0.43091  1
+ O  O4  1  0.34390  0.23282  0.82013  1
+ O  O5  1  0.65610  0.73282  0.67987  1
+ O  O6  1  0.15397  0.82395  0.14066  1
+ O  O7  1  0.84603  0.32395  0.35934  1
+ O  O8  1  0.34390  0.26718  0.32013  1
+ O  O9  1  0.15397  0.67605  0.64066  1
+ O  O10  1  0.24644  0.81955  0.92893  1
+ O  O11  1  0.75356  0.31955  0.57107  1
+ O  O12  1  0.75356  0.18045  0.07107  1
+ O  O13  1  0.24644  0.68045  0.42893  1
+ O  O14  1  0.28909  0.49485  0.06909  1
+ O  O15  1  0.71091  0.50515  0.93091  1
+ O  O16  1  0.84603  0.17605  0.85934  1
+ Si  Si1  1  0.34052  0.72089  0.08148  1
+ Si  Si2  1  0.65948  0.22089  0.41852  1
+ Si  Si3  1  0.65948  0.27911  0.91852  1
+ Si  Si4  1  0.34052  0.77911  0.58148  1
+ Sr  Sr1  1  0.31179  0.34254  0.57641  1
+ Sr  Sr2  1  0.68821  0.84254  0.92359  1
+ Sr  Sr3  1  0.68821  0.65746  0.42359  1
+ Sr  Sr4  1  0.31179  0.15746  0.07641  1
+ Sr  Sr5  1  0.02795  0.00014  0.30196  1
+ Sr  Sr6  1  0.97205  0.50014  0.19804  1
+ Sr  Sr7  1  0.97205  -0.00014  0.69804  1
+ Sr  Sr8  1  0.02795  0.49986  0.80196  1

@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_AsPdSe
+_symmetry_space_group_name_H-M  'P2_13'
+_cell_length_a       6.18923
+_cell_length_b       6.18923
+_cell_length_c       6.18923
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  198
+_chemical_formula_structural  AsPdSe
+_chemical_formula_sum  As4Pd4Se4
+_cell_volume  237.08829505459835
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ As  As1  1  0.11655  0.88345  0.38345  1
+ As  As2  1  0.88345  0.38345  0.11655  1
+ As  As3  1  0.61655  0.61655  0.61655  1
+ As  As4  1  0.38345  0.11655  0.88345  1
+ Pd  Pd1  1  0.99291  0.50709  0.49291  1
+ Pd  Pd2  1  0.50709  0.49291  0.99291  1
+ Pd  Pd3  1  0.49291  0.99291  0.50709  1
+ Pd  Pd4  1  0.00709  0.00709  0.00709  1
+ Se  Se1  1  0.11414  0.61414  0.88586  1
+ Se  Se2  1  0.88586  0.11414  0.61414  1
+ Se  Se3  1  0.61414  0.88586  0.11414  1
+ Se  Se4  1  0.38586  0.38586  0.38586  1

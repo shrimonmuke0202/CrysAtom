@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_PrIn4Ni
+_symmetry_space_group_name_H-M  'Cmcm'
+_cell_length_a       8.78124
+_cell_length_b       8.78125
+_cell_length_c       7.24605
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    150.39
+
+_symmetry_Int_Tables_number  63
+_chemical_formula_structural  PrIn4Ni
+_chemical_formula_sum  Pr2In8Ni2
+_cell_volume  276.07019128582
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ In  In1  1  0.50000  0.50000  0.00000  1
+ In  In2  1  0.50000  0.50000  0.50000  1
+ In  In3  1  0.07466  0.92534  0.75000  1
+ In  In4  1  0.92534  0.07466  0.25000  1
+ In  In5  1  0.68840  0.31160  0.95374  1
+ In  In6  1  0.31160  0.68840  0.04626  1
+ In  In7  1  0.68840  0.31160  0.54626  1
+ In  In8  1  0.31160  0.68840  0.45374  1
+ Ni  Ni1  1  0.22503  0.77497  0.75000  1
+ Ni  Ni2  1  0.77497  0.22503  0.25000  1
+ Pr  Pr1  1  0.88293  0.11707  0.75000  1
+ Pr  Pr2  1  0.11707  0.88293  0.25000  1

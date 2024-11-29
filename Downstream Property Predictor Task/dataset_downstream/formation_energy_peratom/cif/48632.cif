@@ -1,0 +1,37 @@
+CIF file written using JARVIS-Tools package.
+data_Bi2Sb2Te3Se3
+_symmetry_space_group_name_H-M  'R3m'
+_cell_length_a       20.1936
+_cell_length_b       20.1936
+_cell_length_c       20.1936
+_cell_angle_alpha    12.1245
+_cell_angle_beta     12.1245
+_cell_angle_gamma    12.1245
+
+_symmetry_Int_Tables_number  160
+_chemical_formula_structural  Bi2Sb2Te3Se3
+_chemical_formula_sum  Bi2Sb2Te3Se3
+_cell_volume  315.7784298350982
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Bi  Bi1  1  0.19987  0.19987  0.19987  1
+ Bi  Bi2  1  0.69562  0.69562  0.69562  1
+ Sb  Sb1  1  0.30065  0.30065  0.30065  1
+ Sb  Sb2  1  0.80482  0.80482  0.80482  1
+ Se  Se1  1  0.99780  0.99780  0.99780  1
+ Se  Se2  1  0.50184  0.50184  0.50184  1
+ Se  Se3  1  0.89230  0.89230  0.89230  1
+ Te  Te1  1  0.39275  0.39275  0.39275  1
+ Te  Te2  1  0.60519  0.60519  0.60519  1
+ Te  Te3  1  0.10915  0.10915  0.10915  1

@@ -1,0 +1,41 @@
+CIF file written using JARVIS-Tools package.
+data_Ho3Ga9Pt2
+_symmetry_space_group_name_H-M  'Immm'
+_cell_length_a       8.20384
+_cell_length_b       8.20384
+_cell_length_c       8.20384
+_cell_angle_alpha    150.402
+_cell_angle_beta     104.289
+_cell_angle_gamma    83.32
+
+_symmetry_Int_Tables_number  71
+_chemical_formula_structural  Ho3Ga9Pt2
+_chemical_formula_sum  Ho3Ga9Pt2
+_cell_volume  258.6424355586948
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ga  Ga1  1  0.50000  0.00000  0.50000  1
+ Ga  Ga2  1  0.70795  0.33124  0.37670  1
+ Ga  Ga3  1  0.29205  0.66876  0.62330  1
+ Ga  Ga4  1  0.95454  0.33124  0.62330  1
+ Ga  Ga5  1  0.04546  0.66876  0.37670  1
+ Ga  Ga6  1  0.41015  0.13087  0.27928  1
+ Ga  Ga7  1  0.58985  0.86913  0.72072  1
+ Ga  Ga8  1  0.85159  0.13087  0.72072  1
+ Ga  Ga9  1  0.14841  0.86913  0.27928  1
+ Ho  Ho1  1  0.00000  0.00000  0.00000  1
+ Ho  Ho2  1  0.32491  0.32491  0.00000  1
+ Ho  Ho3  1  0.67509  0.67509  -0.00000  1
+ Pt  Pt1  1  0.72728  0.50000  0.22728  1
+ Pt  Pt2  1  0.27272  0.50000  0.77272  1

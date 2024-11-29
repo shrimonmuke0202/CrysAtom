@@ -1,0 +1,41 @@
+CIF file written using JARVIS-Tools package.
+data_SeS2N2O2
+_symmetry_space_group_name_H-M  'C2/c'
+_cell_length_a       4.42876
+_cell_length_b       6.99215
+_cell_length_c       8.36553
+_cell_angle_alpha    98.0594
+_cell_angle_beta     105.349
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  15
+_chemical_formula_structural  SeS2N2O2
+_chemical_formula_sum  Se2S4N4O4
+_cell_volume  247.15675359496458
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ N  N1  1  0.50827  0.30380  0.84956  1
+ N  N2  1  0.65871  0.19620  0.15044  1
+ N  N3  1  0.49173  0.69620  0.15044  1
+ N  N4  1  0.34129  0.80380  0.84956  1
+ O  O1  1  0.79253  0.40654  0.64234  1
+ O  O2  1  0.15019  0.09346  0.35766  1
+ O  O3  1  0.84981  0.90654  0.64234  1
+ O  O4  1  0.20747  0.59346  0.35766  1
+ S  S1  1  0.49237  0.37560  0.68226  1
+ S  S2  1  0.81011  0.12440  0.31774  1
+ S  S3  1  0.50763  0.62440  0.31774  1
+ S  S4  1  0.18989  0.87560  0.68226  1
+ Se  Se1  1  0.87121  0.25000  0.00000  1
+ Se  Se2  1  0.12879  0.75000  -0.00000  1

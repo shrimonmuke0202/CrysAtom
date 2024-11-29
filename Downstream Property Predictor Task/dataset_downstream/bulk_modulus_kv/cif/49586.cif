@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_CaCd2Pd
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       5.5197
+_cell_length_b       7.94756
+_cell_length_c       8.25841
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  CaCd2Pd
+_chemical_formula_sum  Ca4Cd8Pd4
+_cell_volume  362.2816318286301
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ca  Ca1  1  0.39785  0.53443  0.25000  1
+ Ca  Ca2  1  0.10215  0.03443  0.25000  1
+ Ca  Ca3  1  0.60215  0.46557  0.75000  1
+ Ca  Ca4  1  0.89785  0.96557  0.75000  1
+ Cd  Cd1  1  0.90277  0.67535  0.05385  1
+ Cd  Cd2  1  0.59723  0.17535  0.44615  1
+ Cd  Cd3  1  0.09723  0.32465  0.55385  1
+ Cd  Cd4  1  0.40277  0.82465  0.94615  1
+ Cd  Cd5  1  0.09723  0.32465  0.94615  1
+ Cd  Cd6  1  0.40277  0.82465  0.55385  1
+ Cd  Cd7  1  0.90277  0.67535  0.44615  1
+ Cd  Cd8  1  0.59723  0.17535  0.05385  1
+ Pd  Pd1  1  0.61355  0.88114  0.25000  1
+ Pd  Pd2  1  0.88645  0.38114  0.25000  1
+ Pd  Pd3  1  0.38645  0.11886  0.75000  1
+ Pd  Pd4  1  0.11355  0.61886  0.75000  1

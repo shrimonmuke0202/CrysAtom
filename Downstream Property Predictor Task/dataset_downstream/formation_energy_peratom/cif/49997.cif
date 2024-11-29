@@ -1,0 +1,63 @@
+CIF file written using JARVIS-Tools package.
+data_H2C5SO
+_symmetry_space_group_name_H-M  'Cm'
+_cell_length_a       3.67152
+_cell_length_b       9.85453
+_cell_length_c       12.0258
+_cell_angle_alpha    77.684
+_cell_angle_beta     75.8642
+_cell_angle_gamma    70.5285
+
+_symmetry_Int_Tables_number  8
+_chemical_formula_structural  H2C5SO
+_chemical_formula_sum  H8C20S4O4
+_cell_volume  393.6396364379128
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ C  C1  1  0.50627  0.45237  0.56736  1
+ C  C2  1  0.81319  0.70692  0.82964  1
+ C  C3  1  0.47641  0.60742  0.54146  1
+ C  C4  1  0.00663  0.45235  0.06733  1
+ C  C5  1  0.72651  0.10742  0.79147  1
+ C  C6  1  -0.02313  0.60739  0.04143  1
+ C  C7  1  0.22679  0.10739  0.29143  1
+ C  C8  1  0.12740  0.21068  0.18818  1
+ C  C9  1  0.62708  0.21070  0.68822  1
+ C  C10  1  0.87721  0.71070  0.93820  1
+ C  C11  1  0.37709  0.71069  0.43819  1
+ C  C12  1  0.56343  0.20688  0.57962  1
+ C  C13  1  0.06361  0.20688  0.07959  1
+ C  C14  1  0.31347  0.70689  0.32959  1
+ C  C15  1  0.74386  0.84547  0.76038  1
+ C  C16  1  0.49421  0.34541  0.51033  1
+ C  C17  1  -0.00560  0.34542  0.01031  1
+ C  C18  1  0.24433  0.84542  0.26031  1
+ C  C19  1  0.75625  0.95239  0.81738  1
+ C  C20  1  0.25648  0.95236  0.31733  1
+ H  H1  1  0.32048  0.60980  0.29898  1
+ H  H2  1  -0.05613  0.36319  0.92229  1
+ H  H3  1  0.44381  0.36316  0.42230  1
+ H  H4  1  0.69311  0.86325  0.67238  1
+ H  H5  1  0.19395  0.86318  0.17227  1
+ H  H6  1  0.07055  0.10979  0.04899  1
+ H  H7  1  0.57051  0.10978  0.54902  1
+ H  H8  1  0.82001  0.60984  0.79905  1
+ O  O1  1  0.79783  0.15882  0.86829  1
+ O  O2  1  0.54751  0.65884  0.61831  1
+ O  O3  1  0.04833  0.65878  0.11823  1
+ O  O4  1  0.29808  0.15879  0.36826  1
+ S  S1  1  0.34662  0.88373  0.45585  1
+ S  S2  1  0.84682  0.88373  0.95585  1
+ S  S3  1  0.59651  0.38375  0.70587  1
+ S  S4  1  0.09698  0.38371  0.20583  1

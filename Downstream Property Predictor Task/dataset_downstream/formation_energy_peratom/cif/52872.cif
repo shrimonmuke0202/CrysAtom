@@ -1,0 +1,56 @@
+CIF file written using JARVIS-Tools package.
+data_Mg16Al12Pt
+_symmetry_space_group_name_H-M  'Cm'
+_cell_length_a       8.9805
+_cell_length_b       8.9805
+_cell_length_c       9.00807
+_cell_angle_alpha    70.7553
+_cell_angle_beta     70.7553
+_cell_angle_gamma    108.781
+
+_symmetry_Int_Tables_number  8
+_chemical_formula_structural  Mg16Al12Pt
+_chemical_formula_sum  Mg6Al2Pt
+_cell_volume  567.0025564853515
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Al  Al1  1  0.83624  0.65154  0.97811  1
+ Al  Al2  1  0.18390  0.18390  0.19105  1
+ Al  Al3  1  0.36407  0.36407  0.82675  1
+ Al  Al4  1  0.18417  0.37115  0.63273  1
+ Al  Al5  1  0.81315  0.00230  0.36145  1
+ Al  Al6  1  0.65154  0.83624  0.97811  1
+ Al  Al7  1  0.82065  0.20120  0.81163  1
+ Al  Al8  1  0.20120  0.82065  0.81163  1
+ Al  Al9  1  0.00800  0.63346  0.17906  1
+ Al  Al10  1  0.00230  0.81315  0.36145  1
+ Al  Al11  1  0.37115  0.18417  0.63273  1
+ Al  Al12  1  0.63346  0.00800  0.17906  1
+ Mg  Mg1  1  0.99289  0.99289  0.00917  1
+ Mg  Mg2  1  0.00440  0.35316  0.00418  1
+ Mg  Mg3  1  0.69507  0.69507  0.70238  1
+ Mg  Mg4  1  0.61036  0.61036  0.32851  1
+ Mg  Mg5  1  0.33483  0.58225  0.01720  1
+ Mg  Mg6  1  0.40830  0.71435  0.59621  1
+ Mg  Mg7  1  0.99920  0.31742  0.39860  1
+ Mg  Mg8  1  0.71435  0.40830  0.59621  1
+ Mg  Mg9  1  0.29806  0.67785  0.30956  1
+ Mg  Mg10  1  0.60334  0.00712  0.67691  1
+ Mg  Mg11  1  0.00712  0.60334  0.67691  1
+ Mg  Mg12  1  0.67785  0.29806  0.30956  1
+ Mg  Mg13  1  0.35316  0.00440  0.00418  1
+ Mg  Mg14  1  0.31742  0.99920  0.39860  1
+ Mg  Mg15  1  0.58225  0.33483  0.01720  1
+ Mg  Mg16  1  0.01110  0.01110  0.65044  1
+ Pt  Pt1  1  0.31756  0.31756  0.36065  1

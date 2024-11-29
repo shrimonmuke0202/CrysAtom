@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_TmAl2Ni
+_symmetry_space_group_name_H-M  'Cmcm'
+_cell_length_a       4.05452
+_cell_length_b       5.37377
+_cell_length_c       6.86447
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    112.163
+
+_symmetry_Int_Tables_number  63
+_chemical_formula_structural  TmAl2Ni
+_chemical_formula_sum  Tm2Al4Ni2
+_cell_volume  138.5124577131692
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Al  Al1  1  0.34737  0.69474  0.55332  1
+ Al  Al2  1  0.65263  0.30526  0.44668  1
+ Al  Al3  1  0.34737  0.69474  0.94668  1
+ Al  Al4  1  0.65263  0.30526  0.05332  1
+ Ni  Ni1  1  0.21510  0.43019  0.25000  1
+ Ni  Ni2  1  0.78490  0.56981  0.75000  1
+ Tm  Tm1  1  0.06237  0.12474  0.75000  1
+ Tm  Tm2  1  0.93763  0.87526  0.25000  1

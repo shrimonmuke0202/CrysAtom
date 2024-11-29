@@ -1,0 +1,53 @@
+CIF file written using JARVIS-Tools package.
+data_U8TiS17
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       7.82243
+_cell_length_b       7.82243
+_cell_length_c       10.3723
+_cell_angle_alpha    80.8787
+_cell_angle_beta     80.8787
+_cell_angle_gamma    64.899
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  U8TiS17
+_chemical_formula_sum  U8TiS7
+_cell_volume  564.5138552695246
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ S  S1  1  0.93869  0.93869  0.22941  1
+ S  S2  1  0.82068  0.43289  0.53562  1
+ S  S3  1  0.43289  0.82068  0.53562  1
+ S  S4  1  0.17932  0.56711  0.46438  1
+ S  S5  1  0.47759  0.47759  0.16868  1
+ S  S6  1  0.93809  0.32495  0.02793  1
+ S  S7  1  0.32495  0.93809  0.02793  1
+ S  S8  1  0.06191  0.67505  0.97207  1
+ S  S9  1  0.56711  0.17932  0.46438  1
+ S  S10  1  0.21167  0.21167  0.27708  1
+ S  S11  1  0.78833  0.78833  0.72292  1
+ S  S12  1  0.06131  0.06131  0.77059  1
+ S  S13  1  0.00000  -0.00000  0.50000  1
+ S  S14  1  0.30176  0.30176  0.75513  1
+ S  S15  1  0.69824  0.69824  0.24487  1
+ S  S16  1  0.52241  0.52241  0.83132  1
+ S  S17  1  0.67505  0.06191  0.97207  1
+ Ti  Ti1  1  0.00000  0.00000  0.00000  1
+ U  U1  1  0.31496  0.31496  0.01846  1
+ U  U2  1  0.68504  0.68504  0.98154  1
+ U  U3  1  0.79530  0.79530  0.45800  1
+ U  U4  1  0.20470  0.20470  0.54200  1
+ U  U5  1  0.69786  0.18439  0.70195  1
+ U  U6  1  0.18439  0.69786  0.70195  1
+ U  U7  1  0.30214  0.81561  0.29805  1
+ U  U8  1  0.81561  0.30214  0.29805  1

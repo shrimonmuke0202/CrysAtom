@@ -1,0 +1,30 @@
+CIF file written using JARVIS-Tools package.
+data_TePbO
+_symmetry_space_group_name_H-M  'Pm'
+_cell_length_a       5.04704
+_cell_length_b       6.60182
+_cell_length_c       3.19151
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    133.948
+
+_symmetry_Int_Tables_number  6
+_chemical_formula_structural  TePbO
+_chemical_formula_sum  TePbO
+_cell_volume  76.5618904155589
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ O  O1  1  0.29740  0.09244  0.00000  1
+ Pb  Pb1  1  -0.13287  0.21927  0.00000  1
+ Te  Te1  1  0.83547  0.68829  0.00000  1

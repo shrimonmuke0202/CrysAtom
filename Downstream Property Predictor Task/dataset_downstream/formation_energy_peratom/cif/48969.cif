@@ -1,0 +1,47 @@
+CIF file written using JARVIS-Tools package.
+data_Te6IrCl3
+_symmetry_space_group_name_H-M  'R-3c'
+_cell_length_a       8.98161
+_cell_length_b       8.98162
+_cell_length_c       8.98161
+_cell_angle_alpha    107.404
+_cell_angle_beta     107.404
+_cell_angle_gamma    107.404
+
+_symmetry_Int_Tables_number  167
+_chemical_formula_structural  Te6IrCl3
+_chemical_formula_sum  Te2Ir2Cl6
+_cell_volume  596.6340407362986
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cl  Cl1  1  0.02057  0.47943  0.75000  1
+ Cl  Cl2  1  0.52057  0.25000  0.97943  1
+ Cl  Cl3  1  0.25000  0.97943  0.52057  1
+ Cl  Cl4  1  0.97943  0.52057  0.25000  1
+ Cl  Cl5  1  0.47943  0.75000  0.02057  1
+ Cl  Cl6  1  0.75000  0.02057  0.47943  1
+ Ir  Ir1  1  0.75000  0.75000  0.75000  1
+ Ir  Ir2  1  0.25000  0.25000  0.25000  1
+ Te  Te1  1  0.67462  0.41802  0.69362  1
+ Te  Te2  1  0.19362  0.91802  0.17462  1
+ Te  Te3  1  0.91802  0.17462  0.19362  1
+ Te  Te4  1  0.41802  0.69362  0.67462  1
+ Te  Te5  1  0.30638  0.32538  0.58198  1
+ Te  Te6  1  0.08198  0.82538  0.80638  1
+ Te  Te7  1  0.80638  0.08198  0.82538  1
+ Te  Te8  1  0.82538  0.80638  0.08198  1
+ Te  Te9  1  0.58198  0.30638  0.32538  1
+ Te  Te10  1  0.32538  0.58198  0.30638  1
+ Te  Te11  1  0.69362  0.67462  0.41802  1
+ Te  Te12  1  0.17462  0.19362  0.91802  1

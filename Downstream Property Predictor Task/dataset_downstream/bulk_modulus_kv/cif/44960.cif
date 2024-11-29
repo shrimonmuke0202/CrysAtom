@@ -1,0 +1,33 @@
+CIF file written using JARVIS-Tools package.
+data_Ge2Os
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       3.15813
+_cell_length_b       4.82317
+_cell_length_c       7.01023
+_cell_angle_alpha    79.8008
+_cell_angle_beta     76.9824
+_cell_angle_gamma    70.8895
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  Ge2Os
+_chemical_formula_sum  Ge4Os2
+_cell_volume  97.68218236679701
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ge  Ge1  1  0.85556  0.75553  0.53335  1
+ Ge  Ge2  1  0.14444  0.24447  0.46665  1
+ Ge  Ge3  1  0.60025  0.68825  0.11126  1
+ Ge  Ge4  1  0.39975  0.31175  0.88874  1
+ Os  Os1  1  0.15433  0.89246  0.79887  1
+ Os  Os2  1  0.84567  0.10754  0.20113  1

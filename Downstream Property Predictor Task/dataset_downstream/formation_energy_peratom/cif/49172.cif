@@ -1,0 +1,41 @@
+CIF file written using JARVIS-Tools package.
+data_TiCrCuSe4
+_symmetry_space_group_name_H-M  'Imma'
+_cell_length_a       7.41528
+_cell_length_b       7.41528
+_cell_length_c       7.41527
+_cell_angle_alpha    120.888
+_cell_angle_beta     118.98
+_cell_angle_gamma    90.1225
+
+_symmetry_Int_Tables_number  74
+_chemical_formula_structural  TiCrCuSe4
+_chemical_formula_sum  Ti2Cr2Cu2Se8
+_cell_volume  288.5025943356317
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cr  Cr1  1  0.50000  0.50000  -0.00000  1
+ Cr  Cr2  1  -0.00000  0.50000  0.50000  1
+ Cu  Cu1  1  0.62385  0.87385  0.75000  1
+ Cu  Cu2  1  0.37615  0.12615  0.25000  1
+ Se  Se1  1  0.23352  0.74328  0.49024  1
+ Se  Se2  1  0.75304  0.74328  0.00976  1
+ Se  Se3  1  0.75531  0.73942  0.48411  1
+ Se  Se4  1  0.75531  0.27120  0.01589  1
+ Se  Se5  1  0.76648  0.25672  0.50976  1
+ Se  Se6  1  0.24696  0.25672  0.99024  1
+ Se  Se7  1  0.24469  0.26058  0.51589  1
+ Se  Se8  1  0.24469  0.72880  0.98411  1
+ Ti  Ti1  1  -0.00000  0.50000  -0.00000  1
+ Ti  Ti2  1  0.00000  -0.00000  0.50000  1

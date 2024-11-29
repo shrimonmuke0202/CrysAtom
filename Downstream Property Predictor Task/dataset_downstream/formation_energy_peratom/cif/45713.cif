@@ -1,0 +1,45 @@
+CIF file written using JARVIS-Tools package.
+data_FeCo2O6
+_symmetry_space_group_name_H-M  'Cmce'
+_cell_length_a       4.90116
+_cell_length_b       4.88781
+_cell_length_c       8.76184
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    60.09
+
+_symmetry_Int_Tables_number  64
+_chemical_formula_structural  FeCo2O6
+_chemical_formula_sum  Fe2Co4O2
+_cell_volume  181.9417453956001
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Co  Co1  1  0.33335  0.33333  0.00000  1
+ Co  Co2  1  0.33335  0.83333  0.50000  1
+ Co  Co3  1  0.66665  0.16667  0.50000  1
+ Co  Co4  1  0.66665  0.66667  0.00000  1
+ Fe  Fe1  1  0.00000  0.00000  0.00000  1
+ Fe  Fe2  1  0.00000  0.50000  0.50000  1
+ O  O1  1  -0.00000  0.16831  0.60663  1
+ O  O2  1  0.00000  0.33169  0.10663  1
+ O  O3  1  0.66833  0.50025  0.39333  1
+ O  O4  1  0.33167  -0.00025  0.89333  1
+ O  O5  1  -0.00000  0.66831  0.89337  1
+ O  O6  1  0.33167  0.66858  0.10667  1
+ O  O7  1  0.33167  0.49975  0.60667  1
+ O  O8  1  0.00000  0.83169  0.39337  1
+ O  O9  1  0.66833  0.00025  0.10667  1
+ O  O10  1  0.66833  0.33142  0.89333  1
+ O  O11  1  0.33167  0.16858  0.39333  1
+ O  O12  1  0.66833  0.83142  0.60667  1

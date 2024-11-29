@@ -1,0 +1,45 @@
+CIF file written using JARVIS-Tools package.
+data_FeSi2O6
+_symmetry_space_group_name_H-M  'C2/c'
+_cell_length_a       6.29821
+_cell_length_b       6.29821
+_cell_length_c       5.3946
+_cell_angle_alpha    76.6816
+_cell_angle_beta     76.6816
+_cell_angle_gamma    84.1444
+
+_symmetry_Int_Tables_number  15
+_chemical_formula_structural  FeSi2O6
+_chemical_formula_sum  Fe2Si4O2
+_cell_volume  202.36384666068884
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Fe  Fe1  1  0.09472  0.90528  0.25000  1
+ Fe  Fe2  1  0.90528  0.09472  0.75000  1
+ O  O1  1  0.03981  0.18774  0.34567  1
+ O  O2  1  0.62660  0.09003  0.72212  1
+ O  O3  1  0.96019  0.81226  0.65433  1
+ O  O4  1  0.62903  0.64643  0.54871  1
+ O  O5  1  0.18774  0.03981  0.84567  1
+ O  O6  1  0.81226  0.96019  0.15433  1
+ O  O7  1  0.37340  0.90997  0.27788  1
+ O  O8  1  0.09003  0.62660  0.22212  1
+ O  O9  1  0.64643  0.62903  0.04871  1
+ O  O10  1  0.35357  0.37097  0.95129  1
+ O  O11  1  0.90997  0.37340  0.77788  1
+ O  O12  1  0.37097  0.35357  0.45129  1
+ Si  Si1  1  0.38490  0.21600  0.74131  1
+ Si  Si2  1  0.21600  0.38490  0.24131  1
+ Si  Si3  1  0.61510  0.78400  0.25869  1
+ Si  Si4  1  0.78400  0.61510  0.75869  1

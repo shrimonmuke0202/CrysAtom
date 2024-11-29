@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_NaLuPd6O8
+_symmetry_space_group_name_H-M  'Pm-3'
+_cell_length_a       5.7765
+_cell_length_b       5.7765
+_cell_length_c       5.7765
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  200
+_chemical_formula_structural  NaLuPd6O8
+_chemical_formula_sum  NaLuPd6O8
+_cell_volume  192.75012664007366
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Lu  Lu1  1  0.00000  0.00000  0.00000  1
+ Na  Na1  1  0.50000  0.50000  0.50000  1
+ O  O1  1  0.23686  0.76314  0.23686  1
+ O  O2  1  0.76314  0.23686  0.23686  1
+ O  O3  1  0.23686  0.23686  0.76314  1
+ O  O4  1  0.76314  0.76314  0.76314  1
+ O  O5  1  0.76314  0.23686  0.76314  1
+ O  O6  1  0.23686  0.76314  0.76314  1
+ O  O7  1  0.76314  0.76314  0.23686  1
+ O  O8  1  0.23686  0.23686  0.23686  1
+ Pd  Pd1  1  0.75033  0.50000  0.00000  1
+ Pd  Pd2  1  0.50000  0.00000  0.75033  1
+ Pd  Pd3  1  0.00000  0.75033  0.50000  1
+ Pd  Pd4  1  0.50000  0.00000  0.24967  1
+ Pd  Pd5  1  0.00000  0.24967  0.50000  1
+ Pd  Pd6  1  0.24967  0.50000  0.00000  1

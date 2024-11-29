@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_Eu3B2Pt7
+_symmetry_space_group_name_H-M  'R-3m'
+_cell_length_a       8.34726
+_cell_length_b       8.34726
+_cell_length_c       8.34726
+_cell_angle_alpha    38.5523
+_cell_angle_beta     38.5523
+_cell_angle_gamma    38.5523
+
+_symmetry_Int_Tables_number  166
+_chemical_formula_structural  Eu3B2Pt7
+_chemical_formula_sum  Eu3B2Pt7
+_cell_volume  202.9902620069048
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ B  B1  1  0.66813  0.66813  0.66813  1
+ B  B2  1  0.33187  0.33187  0.33187  1
+ Eu  Eu1  1  0.85589  0.85589  0.85589  1
+ Eu  Eu2  1  0.14411  0.14411  0.14411  1
+ Eu  Eu3  1  0.00000  0.00000  0.00000  1
+ Pt  Pt1  1  0.43261  0.93329  0.43261  1
+ Pt  Pt2  1  0.43261  0.43261  0.93329  1
+ Pt  Pt3  1  0.93329  0.43261  0.43261  1
+ Pt  Pt4  1  0.56739  0.06671  0.56739  1
+ Pt  Pt5  1  0.56739  0.56739  0.06671  1
+ Pt  Pt6  1  0.06671  0.56739  0.56739  1
+ Pt  Pt7  1  0.50000  0.50000  0.50000  1

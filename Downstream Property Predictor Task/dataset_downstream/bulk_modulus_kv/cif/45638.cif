@@ -1,0 +1,37 @@
+CIF file written using JARVIS-Tools package.
+data_LiC2N2
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       3.38311
+_cell_length_b       6.09589
+_cell_length_c       6.09589
+_cell_angle_alpha    109.121
+_cell_angle_beta     91.0636
+_cell_angle_gamma    91.0636
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  LiC2N2
+_chemical_formula_sum  Li2C4N4
+_cell_volume  118.71906854177689
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ C  C1  1  -0.00000  0.11874  0.88126  1
+ C  C2  1  0.19414  0.14070  0.14070  1
+ C  C3  1  0.00000  0.88125  0.11875  1
+ C  C4  1  0.80586  0.85930  0.85930  1
+ Li  Li1  1  0.50000  0.36313  0.63687  1
+ Li  Li2  1  0.50000  0.63687  0.36313  1
+ N  N1  1  0.63112  0.70895  0.70895  1
+ N  N2  1  0.00000  0.76050  0.23950  1
+ N  N3  1  -0.00000  0.23950  0.76050  1
+ N  N4  1  0.36888  0.29105  0.29105  1

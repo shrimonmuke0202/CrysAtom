@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_Dy3NiPd2
+_symmetry_space_group_name_H-M  'P2_1/m'
+_cell_length_a       4.43898
+_cell_length_b       5.50436
+_cell_length_c       10.5117
+_cell_angle_alpha    82.8327
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  11
+_chemical_formula_structural  Dy3NiPd2
+_chemical_formula_sum  Dy6Ni2Pd4
+_cell_volume  254.83402520324995
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Dy  Dy1  1  0.25000  0.40120  0.78271  1
+ Dy  Dy2  1  0.75000  0.59880  0.21729  1
+ Dy  Dy3  1  0.25000  0.11402  0.12459  1
+ Dy  Dy4  1  0.75000  0.88598  0.87541  1
+ Dy  Dy5  1  0.25000  0.26225  0.45705  1
+ Dy  Dy6  1  0.75000  0.73775  0.54295  1
+ Ni  Ni1  1  0.25000  0.77248  0.36184  1
+ Ni  Ni2  1  0.75000  0.22752  0.63816  1
+ Pd  Pd1  1  0.25000  0.64919  0.02972  1
+ Pd  Pd2  1  0.75000  0.35081  0.97028  1
+ Pd  Pd3  1  0.25000  0.91933  0.69103  1
+ Pd  Pd4  1  0.75000  0.08067  0.30897  1

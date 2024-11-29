@@ -1,0 +1,30 @@
+CIF file written using JARVIS-Tools package.
+data_NaSe2
+_symmetry_space_group_name_H-M  'P2/m'
+_cell_length_a       4.79015
+_cell_length_b       3.84803
+_cell_length_c       4.29271
+_cell_angle_alpha    89.9859
+_cell_angle_beta     101.401
+_cell_angle_gamma    90.0103
+
+_symmetry_Int_Tables_number  10
+_chemical_formula_structural  NaSe2
+_chemical_formula_sum  NaSe2
+_cell_volume  77.5645168919806
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Na  Na1  1  0.10526  0.89529  0.05973  1
+ Se  Se1  1  0.36763  0.39539  0.66777  1
+ Se  Se2  1  0.84362  0.39520  0.45212  1

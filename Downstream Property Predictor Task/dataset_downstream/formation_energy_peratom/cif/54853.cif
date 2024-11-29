@@ -1,0 +1,51 @@
+CIF file written using JARVIS-Tools package.
+data_Mn2BrO3
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       5.82127
+_cell_length_b       6.56163
+_cell_length_c       8.39698
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  Mn2BrO3
+_chemical_formula_sum  Mn8Br4O2
+_cell_volume  320.73956467990274
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Br  Br1  1  0.35056  0.75000  0.04541  1
+ Br  Br2  1  0.85056  0.75000  0.45459  1
+ Br  Br3  1  0.64944  0.25000  0.95459  1
+ Br  Br4  1  0.14944  0.25000  0.54541  1
+ Mn  Mn1  1  0.81531  0.75000  0.74988  1
+ Mn  Mn2  1  0.31531  0.75000  0.75012  1
+ Mn  Mn3  1  0.50000  0.00000  0.50000  1
+ Mn  Mn4  1  0.68469  0.25000  0.24988  1
+ Mn  Mn5  1  0.00000  0.00000  0.00000  1
+ Mn  Mn6  1  0.50000  0.50000  0.50000  1
+ Mn  Mn7  1  0.00000  0.50000  0.00000  1
+ Mn  Mn8  1  0.18469  0.25000  0.25012  1
+ O  O1  1  0.06227  0.94121  0.77853  1
+ O  O2  1  0.56227  0.94121  0.72147  1
+ O  O3  1  0.06227  0.55879  0.77853  1
+ O  O4  1  0.43773  0.44121  0.27853  1
+ O  O5  1  0.93773  0.05879  0.22147  1
+ O  O6  1  0.32361  0.75000  0.52080  1
+ O  O7  1  0.17639  0.25000  0.02080  1
+ O  O8  1  0.67639  0.25000  0.47920  1
+ O  O9  1  0.93773  0.44121  0.22147  1
+ O  O10  1  0.56227  0.55879  0.72147  1
+ O  O11  1  0.82361  0.75000  0.97920  1
+ O  O12  1  0.43773  0.05879  0.27853  1

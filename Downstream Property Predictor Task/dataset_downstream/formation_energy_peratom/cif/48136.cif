@@ -1,0 +1,45 @@
+CIF file written using JARVIS-Tools package.
+data_TeMoS
+_symmetry_space_group_name_H-M  'Cmc2_1'
+_cell_length_a       3.37612
+_cell_length_b       14.3014
+_cell_length_c       8.81303
+_cell_angle_alpha    89.999
+_cell_angle_beta     101.045
+_cell_angle_gamma    90.0003
+
+_symmetry_Int_Tables_number  36
+_chemical_formula_structural  TeMoS
+_chemical_formula_sum  Te6Mo6S6
+_cell_volume  417.6400400782249
+_cell_formula_units_Z  6
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Mo  Mo1  1  0.44295  0.74382  0.88590  1
+ Mo  Mo2  1  0.55645  0.25291  0.11287  1
+ Mo  Mo3  1  0.11024  0.74298  0.22048  1
+ Mo  Mo4  1  0.89039  0.24382  0.78077  1
+ Mo  Mo5  1  0.77689  0.75291  0.55380  1
+ Mo  Mo6  1  0.22310  0.24298  0.44619  1
+ S  S1  1  0.44952  0.14405  0.89903  1
+ S  S2  1  0.88382  0.64405  0.76765  1
+ S  S3  1  0.22529  0.64696  0.45062  1
+ S  S4  1  0.10804  0.14695  0.21605  1
+ S  S5  1  0.77892  0.34431  0.55782  1
+ S  S6  1  0.55442  0.84431  0.10885  1
+ Te  Te1  1  0.43923  0.38243  0.87845  1
+ Te  Te2  1  0.11829  0.38463  0.23654  1
+ Te  Te3  1  0.55462  0.60792  0.10925  1
+ Te  Te4  1  0.21505  0.88463  0.43012  1
+ Te  Te5  1  0.77871  0.10792  0.55742  1
+ Te  Te6  1  0.89411  0.88243  0.78821  1

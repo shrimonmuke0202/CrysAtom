@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_MnSiIr
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       3.94379
+_cell_length_b       5.11715
+_cell_length_c       7.4863
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  MnSiIr
+_chemical_formula_sum  Mn4Si4Ir4
+_cell_volume  151.08112962597372
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ir  Ir1  1  0.25000  0.68206  0.06000  1
+ Ir  Ir2  1  0.75000  0.31794  0.94000  1
+ Ir  Ir3  1  0.25000  0.18206  0.44000  1
+ Ir  Ir4  1  0.75000  0.81794  0.56000  1
+ Mn  Mn1  1  0.75000  0.97078  0.22119  1
+ Mn  Mn2  1  0.25000  0.02922  0.77881  1
+ Mn  Mn3  1  0.75000  0.47078  0.27881  1
+ Mn  Mn4  1  0.25000  0.52922  0.72119  1
+ Si  Si1  1  0.25000  0.18624  0.10900  1
+ Si  Si2  1  0.75000  0.81376  0.89100  1
+ Si  Si3  1  0.25000  0.68624  0.39100  1
+ Si  Si4  1  0.75000  0.31376  0.60900  1

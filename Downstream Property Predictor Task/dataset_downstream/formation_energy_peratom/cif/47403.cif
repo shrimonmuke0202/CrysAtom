@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_Sm2SnS5
+_symmetry_space_group_name_H-M  'Pbam'
+_cell_length_a       3.88316
+_cell_length_b       7.80768
+_cell_length_c       11.4594
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  55
+_chemical_formula_structural  Sm2SnS5
+_chemical_formula_sum  Sm4Sn2S0
+_cell_volume  347.4301021006805
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ S  S1  1  0.50000  0.67357  0.40748  1
+ S  S2  1  0.50000  0.32643  0.59252  1
+ S  S3  1  0.50000  0.17357  0.09252  1
+ S  S4  1  0.50000  0.82643  0.90748  1
+ S  S5  1  0.00000  0.82764  0.19614  1
+ S  S6  1  0.00000  0.17236  0.80386  1
+ S  S7  1  0.00000  0.50000  0.00000  1
+ S  S8  1  0.00000  0.00000  0.50000  1
+ S  S9  1  0.00000  0.67236  0.69614  1
+ S  S10  1  0.00000  0.32764  0.30386  1
+ Sm  Sm1  1  0.50000  0.53634  0.17260  1
+ Sm  Sm2  1  0.50000  0.46366  0.82740  1
+ Sm  Sm3  1  0.50000  0.03634  0.32740  1
+ Sm  Sm4  1  0.50000  0.96366  0.67260  1
+ Sn  Sn1  1  0.00000  0.50000  0.50000  1
+ Sn  Sn2  1  0.00000  0.00000  0.00000  1

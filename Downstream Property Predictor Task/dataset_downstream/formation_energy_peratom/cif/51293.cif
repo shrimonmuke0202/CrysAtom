@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_Zn3In
+_symmetry_space_group_name_H-M  'Cmcm'
+_cell_length_a       7.21953
+_cell_length_b       7.21953
+_cell_length_c       4.24293
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    136.817
+
+_symmetry_Int_Tables_number  63
+_chemical_formula_structural  Zn3In
+_chemical_formula_sum  Zn6In2
+_cell_volume  151.338787443748
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ In  In1  1  0.70864  0.29136  0.25000  1
+ In  In2  1  0.29136  0.70864  0.75000  1
+ Zn  Zn1  1  0.87722  0.12278  0.75000  1
+ Zn  Zn2  1  0.32416  0.19538  0.75000  1
+ Zn  Zn3  1  0.80462  0.67584  0.75000  1
+ Zn  Zn4  1  0.12278  0.87722  0.25000  1
+ Zn  Zn5  1  0.67584  0.80462  0.25000  1
+ Zn  Zn6  1  0.19538  0.32416  0.25000  1

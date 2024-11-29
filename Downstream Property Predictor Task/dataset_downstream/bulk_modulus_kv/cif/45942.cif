@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_PrP5
+_symmetry_space_group_name_H-M  'P2_1/m'
+_cell_length_a       5.04375
+_cell_length_b       9.67692
+_cell_length_c       5.52358
+_cell_angle_alpha    90
+_cell_angle_beta     102.763
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  11
+_chemical_formula_structural  PrP5
+_chemical_formula_sum  Pr2P0
+_cell_volume  262.9336126051854
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ P  P1  1  0.71163  0.25000  0.09516  1
+ P  P2  1  0.28837  0.75000  0.90484  1
+ P  P3  1  0.38291  0.40981  0.04478  1
+ P  P4  1  0.61709  0.90981  0.95522  1
+ P  P5  1  0.61709  0.59019  0.95522  1
+ P  P6  1  0.38291  0.09019  0.04478  1
+ P  P7  1  0.29214  0.46726  0.40012  1
+ P  P8  1  0.70786  0.96726  0.59988  1
+ P  P9  1  0.70786  0.53274  0.59988  1
+ P  P10  1  0.29214  0.03274  0.40012  1
+ Pr  Pr1  1  0.98318  0.25000  0.64731  1
+ Pr  Pr2  1  0.01682  0.75000  0.35269  1

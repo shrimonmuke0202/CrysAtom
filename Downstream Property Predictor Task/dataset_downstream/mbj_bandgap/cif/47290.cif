@@ -1,0 +1,59 @@
+CIF file written using JARVIS-Tools package.
+data_NaB15
+_symmetry_space_group_name_H-M  'Imma'
+_cell_length_a       5.83838
+_cell_length_b       7.26657
+_cell_length_c       7.26657
+_cell_angle_alpha    71.1541
+_cell_angle_beta     66.3137
+_cell_angle_gamma    66.3137
+
+_symmetry_Int_Tables_number  74
+_chemical_formula_structural  NaB15
+_chemical_formula_sum  Na2B30
+_cell_volume  253.68320181847199
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ B  B1  1  0.29248  0.71246  0.38115  1
+ B  B2  1  0.75000  0.50564  0.99436  1
+ B  B3  1  0.10304  0.74610  0.04781  1
+ B  B4  1  0.89696  0.25390  0.95219  1
+ B  B5  1  0.39696  0.45219  0.75390  1
+ B  B6  1  0.60304  0.54781  0.24610  1
+ B  B7  1  0.16479  0.88354  0.78689  1
+ B  B8  1  0.83521  0.11646  0.21311  1
+ B  B9  1  0.33521  0.71311  0.61646  1
+ B  B10  1  0.66479  0.28689  0.38354  1
+ B  B11  1  0.14566  0.45779  0.25088  1
+ B  B12  1  0.85434  0.54221  0.74912  1
+ B  B13  1  0.35433  0.24912  0.04221  1
+ B  B14  1  0.64566  0.75088  0.95779  1
+ B  B15  1  0.25000  0.49436  0.00564  1
+ B  B16  1  0.11391  0.88115  0.21246  1
+ B  B17  1  0.38609  0.28754  0.61885  1
+ B  B18  1  0.79248  0.88115  0.21246  1
+ B  B19  1  0.88609  0.11885  0.78754  1
+ B  B20  1  0.70752  0.28754  0.61885  1
+ B  B21  1  0.61391  0.71246  0.38115  1
+ B  B22  1  0.32909  0.88308  0.95379  1
+ B  B23  1  0.16597  0.11692  0.04621  1
+ B  B24  1  0.17091  0.54621  0.61692  1
+ B  B25  1  0.33403  0.45379  0.38308  1
+ B  B26  1  0.67091  0.11692  0.04621  1
+ B  B27  1  0.83403  0.88308  0.95379  1
+ B  B28  1  0.82909  0.45379  0.38308  1
+ B  B29  1  0.66597  0.54621  0.61692  1
+ B  B30  1  0.20752  0.11885  0.78754  1
+ Na  Na1  1  0.25000  0.08744  0.41256  1
+ Na  Na2  1  0.75000  0.91256  0.58744  1

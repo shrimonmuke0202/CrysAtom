@@ -1,0 +1,47 @@
+CIF file written using JARVIS-Tools package.
+data_SrPrFeRuO6
+_symmetry_space_group_name_H-M  'Pc'
+_cell_length_a       5.60817
+_cell_length_b       5.55545
+_cell_length_c       9.61019
+_cell_angle_alpha    54.6694
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  7
+_chemical_formula_structural  SrPrFeRuO6
+_chemical_formula_sum  Sr2Pr2Fe2Ru2O2
+_cell_volume  244.27104784648256
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Fe  Fe1  1  0.25862  0.50000  0.99908  1
+ Fe  Fe2  1  0.74138  0.50000  0.49908  1
+ O  O1  1  0.45749  0.25099  0.54252  1
+ O  O2  1  0.25988  0.66538  0.75028  1
+ O  O3  1  0.02550  0.18245  0.03676  1
+ O  O4  1  0.23469  0.31193  0.24973  1
+ O  O5  1  0.74012  0.66538  0.25028  1
+ O  O6  1  0.76531  0.31193  0.74973  1
+ O  O7  1  0.54251  0.25099  0.04252  1
+ O  O8  1  0.45528  0.83943  0.95829  1
+ O  O9  1  0.54472  0.83943  0.45829  1
+ O  O10  1  0.03248  0.75500  0.46525  1
+ O  O11  1  0.96752  0.75500  0.96525  1
+ O  O12  1  0.97450  0.18245  0.53676  1
+ Pr  Pr1  1  0.80099  0.24005  0.24898  1
+ Pr  Pr2  1  0.19901  0.24005  0.74898  1
+ Ru  Ru1  1  0.74467  0.99953  -0.00001  1
+ Ru  Ru2  1  0.25533  0.99953  0.49999  1
+ Sr  Sr1  1  0.28099  0.75525  0.24911  1
+ Sr  Sr2  1  0.71901  0.75525  0.74911  1

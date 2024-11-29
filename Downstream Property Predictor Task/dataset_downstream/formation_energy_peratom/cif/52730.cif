@@ -1,0 +1,33 @@
+CIF file written using JARVIS-Tools package.
+data_ReNCl4
+_symmetry_space_group_name_H-M  'I4'
+_cell_length_a       6.13946
+_cell_length_b       6.13946
+_cell_length_c       6.13946
+_cell_angle_alpha    96.119
+_cell_angle_beta     96.119
+_cell_angle_gamma    141.889
+
+_symmetry_Int_Tables_number  79
+_chemical_formula_structural  ReNCl4
+_chemical_formula_sum  ReNCl4
+_cell_volume  135.0004563672598
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cl  Cl1  1  0.19473  0.00421  0.34523  1
+ Cl  Cl2  1  0.84950  0.19473  0.19052  1
+ Cl  Cl3  1  0.00421  0.65898  0.80948  1
+ Cl  Cl4  1  0.65898  0.84950  0.65477  1
+ N  N1  1  0.43570  0.43570  0.00000  1
+ Re  Re1  1  0.01199  0.01199  0.00000  1

@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_MgFeO2
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       2.85253
+_cell_length_b       7.99955
+_cell_length_c       7.81053
+_cell_angle_alpha    86.011
+_cell_angle_beta     79.5064
+_cell_angle_gamma    100.273
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  MgFeO2
+_chemical_formula_sum  Mg4Fe4O8
+_cell_volume  171.47632389107608
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Fe  Fe1  1  0.36843  0.30257  0.58619  1
+ Fe  Fe2  1  0.05911  0.37058  0.27213  1
+ Fe  Fe3  1  0.93697  0.60934  0.75605  1
+ Fe  Fe4  1  0.62759  0.67737  0.44200  1
+ Mg  Mg1  1  0.35921  0.02763  0.32874  1
+ Mg  Mg2  1  0.63678  0.95229  0.69949  1
+ Mg  Mg3  1  0.32457  0.74819  0.11794  1
+ Mg  Mg4  1  0.67143  0.23172  0.91026  1
+ O  O1  1  0.14341  0.82301  0.55645  1
+ O  O2  1  0.31964  0.41822  0.79976  1
+ O  O3  1  0.67644  0.56169  0.22844  1
+ O  O4  1  0.85265  0.15692  0.47175  1
+ O  O5  1  0.15779  0.09451  0.80000  1
+ O  O6  1  0.55015  0.24091  0.16010  1
+ O  O7  1  0.83821  0.88540  0.22821  1
+ O  O8  1  0.44592  0.73899  0.86811  1

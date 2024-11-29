@@ -1,0 +1,31 @@
+CIF file written using JARVIS-Tools package.
+data_CuS2N
+_symmetry_space_group_name_H-M  'Imm2'
+_cell_length_a       4.46162
+_cell_length_b       4.46162
+_cell_length_c       4.46162
+_cell_angle_alpha    137.412
+_cell_angle_beta     85.0174
+_cell_angle_gamma    110.525
+
+_symmetry_Int_Tables_number  44
+_chemical_formula_structural  CuS2N
+_chemical_formula_sum  CuS2N
+_cell_volume  54.191758109495396
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cu  Cu1  1  0.04567  0.04567  0.00000  1
+ N  N1  1  0.65530  0.65530  0.00000  1
+ S  S1  1  0.68364  0.44952  0.23412  1
+ S  S2  1  0.21540  0.44952  0.76588  1

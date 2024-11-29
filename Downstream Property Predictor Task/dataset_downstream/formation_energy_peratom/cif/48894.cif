@@ -1,0 +1,31 @@
+CIF file written using JARVIS-Tools package.
+data_MgTe
+_symmetry_space_group_name_H-M  'P1'
+_cell_length_a       7.08183
+_cell_length_b       4.96373
+_cell_length_c       5.31666
+_cell_angle_alpha    90.4482
+_cell_angle_beta     43.4075
+_cell_angle_gamma    90.3582
+
+_symmetry_Int_Tables_number  1
+_chemical_formula_structural  MgTe
+_chemical_formula_sum  Mg2Te2
+_cell_volume  128.42566779248185
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Mg  Mg1  1  0.39943  0.06793  0.65664  1
+ Mg  Mg2  1  0.89931  0.56785  0.65677  1
+ Te  Te1  1  0.40796  0.56619  0.40480  1
+ Te  Te2  1  0.90805  0.06613  0.40471  1

@@ -1,0 +1,51 @@
+CIF file written using JARVIS-Tools package.
+data_BaTeO4
+_symmetry_space_group_name_H-M  'Pbcn'
+_cell_length_a       5.12363
+_cell_length_b       5.99779
+_cell_length_c       13.7669
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  60
+_chemical_formula_structural  BaTeO4
+_chemical_formula_sum  Ba4Te4O6
+_cell_volume  423.06384569622384
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ba  Ba1  1  0.25000  0.00000  0.16276  1
+ Ba  Ba2  1  0.75000  0.00000  0.83724  1
+ Ba  Ba3  1  0.25000  0.50000  0.66276  1
+ Ba  Ba4  1  0.75000  0.50000  0.33724  1
+ O  O1  1  0.35221  0.21012  0.33822  1
+ O  O2  1  0.85221  0.21012  0.66178  1
+ O  O3  1  0.92715  0.17696  0.45976  1
+ O  O4  1  0.14779  0.78988  0.33822  1
+ O  O5  1  0.42715  0.32304  0.04024  1
+ O  O6  1  0.92715  0.32304  0.95976  1
+ O  O7  1  0.42715  0.17696  0.54024  1
+ O  O8  1  0.35221  0.28988  0.83822  1
+ O  O9  1  0.64779  0.71012  0.16178  1
+ O  O10  1  0.07285  0.67696  0.04024  1
+ O  O11  1  0.85221  0.28988  0.16178  1
+ O  O12  1  0.57285  0.67696  0.95976  1
+ O  O13  1  0.57285  0.82304  0.45976  1
+ O  O14  1  0.07285  0.82304  0.54024  1
+ O  O15  1  0.14779  0.71012  0.83822  1
+ O  O16  1  0.64779  0.78988  0.66178  1
+ Te  Te1  1  0.25000  0.50000  0.93197  1
+ Te  Te2  1  0.75000  0.50000  0.06803  1
+ Te  Te3  1  0.75000  0.00000  0.56803  1
+ Te  Te4  1  0.25000  0.00000  0.43197  1

@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_VBiPbO5
+_symmetry_space_group_name_H-M  'P-1'
+_cell_length_a       5.72403
+_cell_length_b       7.24643
+_cell_length_c       7.2206
+_cell_angle_alpha    106.929
+_cell_angle_beta     96.6005
+_cell_angle_gamma    112.744
+
+_symmetry_Int_Tables_number  2
+_chemical_formula_structural  VBiPbO5
+_chemical_formula_sum  V2Bi2Pb2O0
+_cell_volume  255.3070281891028
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Bi  Bi1  1  0.57328  0.52481  0.25462  1
+ Bi  Bi2  1  0.42672  0.47519  0.74538  1
+ O  O1  1  0.94732  0.31421  0.60341  1
+ O  O2  1  0.05268  0.68579  0.39659  1
+ O  O3  1  0.63713  0.21263  0.20432  1
+ O  O4  1  0.36287  0.78737  0.79568  1
+ O  O5  1  0.11756  0.19269  0.25737  1
+ O  O6  1  0.88244  0.80731  0.74263  1
+ O  O7  1  0.33311  0.11458  0.68692  1
+ O  O8  1  0.66689  0.88542  0.31308  1
+ O  O9  1  0.25713  0.48077  0.00267  1
+ O  O10  1  0.74287  0.51923  0.99733  1
+ Pb  Pb1  1  0.18659  0.81568  0.11904  1
+ Pb  Pb2  1  0.81341  0.18432  0.88096  1
+ V  V1  1  0.84798  0.15484  0.34942  1
+ V  V2  1  0.15202  0.84516  0.65058  1

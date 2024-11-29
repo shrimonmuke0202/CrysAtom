@@ -1,0 +1,53 @@
+CIF file written using JARVIS-Tools package.
+data_MnVH4O2F5
+_symmetry_space_group_name_H-M  'Imma'
+_cell_length_a       6.50142
+_cell_length_b       7.42034
+_cell_length_c       7.42429
+_cell_angle_alpha    62.264
+_cell_angle_beta     116.005
+_cell_angle_gamma    115.943
+
+_symmetry_Int_Tables_number  74
+_chemical_formula_structural  MnVH4O2F5
+_chemical_formula_sum  Mn2V2H8O4F0
+_cell_volume  272.37788343274
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ F  F1  1  0.33083  0.16257  0.58887  1
+ F  F2  1  0.06955  0.74997  0.75003  1
+ F  F3  1  0.07939  0.91113  0.33743  1
+ F  F4  1  0.33103  0.58950  0.16237  1
+ F  F5  1  0.66897  0.41050  0.83763  1
+ F  F6  1  0.07916  0.33763  0.91049  1
+ F  F7  1  0.93045  0.25003  0.24997  1
+ F  F8  1  0.92084  0.66237  0.08950  1
+ F  F9  1  0.66917  0.83743  0.41113  1
+ F  F10  1  0.92061  0.08887  0.66257  1
+ H  H1  1  0.20701  0.48941  0.69544  1
+ H  H2  1  0.79263  0.30404  0.51062  1
+ H  H3  1  0.20737  0.69596  0.48938  1
+ H  H4  1  0.47798  0.98939  0.19596  1
+ H  H5  1  0.79299  0.51059  0.30456  1
+ H  H6  1  0.47784  0.19545  0.98941  1
+ H  H7  1  0.52202  0.01061  0.80404  1
+ H  H8  1  0.52216  0.80455  0.01059  1
+ Mn  Mn1  1  -0.00000  -0.00000  0.00000  1
+ Mn  Mn2  1  0.50000  0.50000  0.50000  1
+ O  O1  1  0.37350  0.07019  0.07034  1
+ O  O2  1  0.62650  0.92981  0.92966  1
+ O  O3  1  0.73299  0.42967  0.42982  1
+ O  O4  1  0.26701  0.57033  0.57018  1
+ V  V1  1  0.00000  -0.00000  0.50000  1
+ V  V2  1  0.00000  0.50000  0.00000  1

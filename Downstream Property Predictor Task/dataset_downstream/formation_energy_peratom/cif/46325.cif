@@ -1,0 +1,51 @@
+CIF file written using JARVIS-Tools package.
+data_Tl3AgTe2
+_symmetry_space_group_name_H-M  'P2_1/c'
+_cell_length_a       7.61194
+_cell_length_b       9.93725
+_cell_length_c       11.1909
+_cell_angle_alpha    116.179
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  14
+_chemical_formula_structural  Tl3AgTe2
+_chemical_formula_sum  Tl2Ag4Te8
+_cell_volume  759.6676360727776
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ag  Ag1  1  0.16942  0.32431  0.90634  1
+ Ag  Ag2  1  0.83058  0.67569  0.09366  1
+ Ag  Ag3  1  0.33058  0.82431  0.90634  1
+ Ag  Ag4  1  0.66942  0.17569  0.09366  1
+ Te  Te1  1  0.77474  0.35258  0.95988  1
+ Te  Te2  1  0.22526  0.64742  0.04012  1
+ Te  Te3  1  0.72902  0.30961  0.37400  1
+ Te  Te4  1  0.27098  0.69039  0.62600  1
+ Te  Te5  1  0.77098  0.80961  0.37400  1
+ Te  Te6  1  0.22902  0.19039  0.62600  1
+ Te  Te7  1  0.27474  0.14742  0.04012  1
+ Te  Te8  1  0.72526  0.85258  0.95988  1
+ Tl  Tl1  1  0.28978  0.33284  0.41375  1
+ Tl  Tl2  1  0.01015  0.01292  0.20925  1
+ Tl  Tl3  1  0.99233  0.53635  0.76472  1
+ Tl  Tl4  1  0.71022  0.66716  0.58625  1
+ Tl  Tl5  1  0.78978  0.16716  0.58625  1
+ Tl  Tl6  1  0.98985  0.98708  0.79075  1
+ Tl  Tl7  1  0.00767  0.46365  0.23528  1
+ Tl  Tl8  1  0.51015  0.48708  0.79075  1
+ Tl  Tl9  1  0.48985  0.51292  0.20925  1
+ Tl  Tl10  1  0.49233  0.96365  0.23528  1
+ Tl  Tl11  1  0.21022  0.83284  0.41375  1
+ Tl  Tl12  1  0.50767  0.03635  0.76472  1

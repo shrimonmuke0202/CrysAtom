@@ -1,0 +1,55 @@
+CIF file written using JARVIS-Tools package.
+data_Ta2Ti2Co2C
+_symmetry_space_group_name_H-M  'I-4m2'
+_cell_length_a       8.10522
+_cell_length_b       8.10522
+_cell_length_c       8.10523
+_cell_angle_alpha    119.768
+_cell_angle_beta     119.768
+_cell_angle_gamma    90.4023
+
+_symmetry_Int_Tables_number  119
+_chemical_formula_structural  Ta2Ti2Co2C
+_chemical_formula_sum  Ta8Ti8Co8C4
+_cell_volume  377.82321419535754
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ C  C1  1  0.62320  0.37477  0.75157  1
+ C  C2  1  0.62320  0.87163  0.24843  1
+ C  C3  1  0.12837  0.37680  0.75157  1
+ C  C4  1  0.62523  0.37680  0.24843  1
+ Co  Co1  1  0.33360  0.66437  0.33077  1
+ Co  Co2  1  0.99717  0.66640  0.33077  1
+ Co  Co3  1  0.33563  0.66640  0.66923  1
+ Co  Co4  1  0.33360  0.00283  0.66923  1
+ Co  Co5  1  0.91412  0.07896  0.16484  1
+ Co  Co6  1  0.25071  0.08588  0.16484  1
+ Co  Co7  1  0.92104  0.08588  0.83516  1
+ Co  Co8  1  0.91412  0.74929  0.83516  1
+ Ta  Ta1  1  0.30938  0.30938  -0.00000  1
+ Ta  Ta2  1  0.56390  0.06390  0.50000  1
+ Ta  Ta3  1  0.93610  0.43610  0.50000  1
+ Ta  Ta4  1  0.55999  0.44001  0.50000  1
+ Ta  Ta5  1  0.94001  0.05999  0.50000  1
+ Ta  Ta6  1  0.94001  0.44001  0.88002  1
+ Ta  Ta7  1  0.55999  0.05999  0.11998  1
+ Ta  Ta8  1  0.69062  0.69062  -0.00000  1
+ Ti  Ti1  1  0.31524  0.31524  0.63048  1
+ Ti  Ti2  1  0.12243  0.37550  0.25307  1
+ Ti  Ti3  1  0.12243  0.86937  0.74693  1
+ Ti  Ti4  1  0.68476  0.68476  0.36952  1
+ Ti  Ti5  1  0.31524  0.68476  -0.00000  1
+ Ti  Ti6  1  0.68476  0.31524  -0.00000  1
+ Ti  Ti7  1  0.62450  0.87757  0.74693  1
+ Ti  Ti8  1  0.13063  0.87757  0.25307  1

@@ -1,0 +1,55 @@
+CIF file written using JARVIS-Tools package.
+data_Pr3AsBr3
+_symmetry_space_group_name_H-M  'I4_132'
+_cell_length_a       10.3995
+_cell_length_b       10.3995
+_cell_length_c       10.3995
+_cell_angle_alpha    109.471
+_cell_angle_beta     109.471
+_cell_angle_gamma    109.471
+
+_symmetry_Int_Tables_number  214
+_chemical_formula_structural  Pr3AsBr3
+_chemical_formula_sum  Pr2As4Br2
+_cell_volume  865.7973424565607
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ As  As1  1  -0.00000  0.25000  0.50000  1
+ As  As2  1  0.25000  0.25000  0.25000  1
+ As  As3  1  0.25000  0.50000  -0.00000  1
+ As  As4  1  0.50000  0.00000  0.25000  1
+ Br  Br1  1  0.74187  0.99187  0.98374  1
+ Br  Br2  1  0.75813  0.74187  0.25000  1
+ Br  Br3  1  0.50813  0.25000  0.99187  1
+ Br  Br4  1  0.75813  0.51626  0.50813  1
+ Br  Br5  1  0.25000  0.99187  0.50813  1
+ Br  Br6  1  0.99187  0.98374  0.74187  1
+ Br  Br7  1  0.74187  0.25000  0.75813  1
+ Br  Br8  1  0.98374  0.74187  0.99187  1
+ Br  Br9  1  0.51626  0.50813  0.75813  1
+ Br  Br10  1  0.25000  0.75813  0.74187  1
+ Br  Br11  1  0.50813  0.75813  0.51626  1
+ Br  Br12  1  0.99187  0.50813  0.25000  1
+ Pr  Pr1  1  0.24048  0.25952  0.75000  1
+ Pr  Pr2  1  0.25952  0.00952  0.01904  1
+ Pr  Pr3  1  0.00952  0.49048  0.75000  1
+ Pr  Pr4  1  0.49048  0.24048  0.48096  1
+ Pr  Pr5  1  0.49048  0.75000  0.00952  1
+ Pr  Pr6  1  0.00952  0.01904  0.25952  1
+ Pr  Pr7  1  0.01904  0.25952  0.00952  1
+ Pr  Pr8  1  0.25952  0.75000  0.24048  1
+ Pr  Pr9  1  0.24048  0.48096  0.49048  1
+ Pr  Pr10  1  0.75000  0.00952  0.49048  1
+ Pr  Pr11  1  0.75000  0.24048  0.25952  1
+ Pr  Pr12  1  0.48096  0.49048  0.24048  1

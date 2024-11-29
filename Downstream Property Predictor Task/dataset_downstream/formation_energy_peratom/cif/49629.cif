@@ -1,0 +1,65 @@
+CIF file written using JARVIS-Tools package.
+data_SnH20C11O6
+_symmetry_space_group_name_H-M  'P1'
+_cell_length_a       4.72073
+_cell_length_b       6.94376
+_cell_length_c       10.3927
+_cell_angle_alpha    104.93
+_cell_angle_beta     93.3688
+_cell_angle_gamma    91.6004
+
+_symmetry_Int_Tables_number  1
+_chemical_formula_structural  SnH20C11O6
+_chemical_formula_sum  SnH20CO6
+_cell_volume  328.2705621067559
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ C  C1  1  0.80289  0.88306  0.99238  1
+ C  C2  1  0.48096  0.25815  0.76351  1
+ C  C3  1  0.81543  0.85968  0.48835  1
+ C  C4  1  0.59704  0.06367  0.69343  1
+ C  C5  1  0.70224  0.06324  0.55593  1
+ C  C6  1  0.67818  0.48450  0.41381  1
+ C  C7  1  0.13750  0.12623  0.16134  1
+ C  C8  1  0.95988  0.08279  0.02691  1
+ C  C9  1  0.87164  0.41955  0.29862  1
+ C  C10  1  0.57755  0.69769  0.43834  1
+ C  C11  1  0.95988  0.20384  0.28121  1
+ H  H1  1  0.47058  0.71952  0.34602  1
+ H  H2  1  0.49150  0.37991  0.39529  1
+ H  H3  1  0.41598  0.71540  0.51215  1
+ H  H4  1  0.06477  0.51861  0.31796  1
+ H  H5  1  0.76068  0.43789  0.20651  1
+ H  H6  1  0.30828  0.23620  0.15989  1
+ H  H7  1  0.96310  0.81536  0.56065  1
+ H  H8  1  0.95323  0.58423  0.71337  1
+ H  H9  1  0.94022  0.87341  0.40464  1
+ H  H10  1  0.52835  0.10056  0.49213  1
+ H  H11  1  0.87042  0.18083  0.57021  1
+ H  H12  1  0.78059  0.03803  0.75614  1
+ H  H13  1  0.24043  0.98931  0.16956  1
+ H  H14  1  0.43335  0.94597  0.68719  1
+ H  H15  1  0.08198  0.19406  0.37290  1
+ H  H16  1  0.22917  0.55844  0.12548  1
+ H  H17  1  0.78971  0.46835  0.50655  1
+ H  H18  1  0.80854  0.19932  0.02441  1
+ H  H19  1  0.10214  0.07841  0.94599  1
+ H  H20  1  0.76829  0.10479  0.27240  1
+ O  O1  1  0.92743  0.72676  0.00353  1
+ O  O2  1  0.12556  0.67074  0.74122  1
+ O  O3  1  0.22595  0.26813  0.79929  1
+ O  O4  1  0.63636  0.42283  0.79242  1
+ O  O5  1  0.53916  0.87384  0.95028  1
+ O  O6  1  0.39062  0.52313  0.07057  1
+ Sn  Sn1  1  0.30006  0.59715  0.90050  1

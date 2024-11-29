@@ -1,0 +1,30 @@
+CIF file written using JARVIS-Tools package.
+data_MgSiO
+_symmetry_space_group_name_H-M  'Pmm2'
+_cell_length_a       3.17221
+_cell_length_b       5.91124
+_cell_length_c       3.11038
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    57.6591
+
+_symmetry_Int_Tables_number  25
+_chemical_formula_structural  MgSiO
+_chemical_formula_sum  MgSiO
+_cell_volume  49.27767761042928
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Mg  Mg1  1  0.00919  -0.16048  0.00000  1
+ O  O1  1  0.27599  0.07328  0.00000  1
+ Si  Si1  1  -0.06196  0.41078  0.00000  1

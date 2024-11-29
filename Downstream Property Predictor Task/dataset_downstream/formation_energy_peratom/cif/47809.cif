@@ -1,0 +1,57 @@
+CIF file written using JARVIS-Tools package.
+data_YSn3Se2ClO8
+_symmetry_space_group_name_H-M  'Pmmn'
+_cell_length_a       7.1266
+_cell_length_b       7.39916
+_cell_length_c       10.4585
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  59
+_chemical_formula_structural  YSn3Se2ClO8
+_chemical_formula_sum  Y2Sn6Se4Cl2O6
+_cell_volume  551.4839363353227
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cl  Cl1  1  0.50000  0.87982  0.50000  1
+ Cl  Cl2  1  0.00000  0.12018  0.00000  1
+ O  O1  1  0.19054  0.70106  0.15124  1
+ O  O2  1  0.00000  0.55993  0.65035  1
+ O  O3  1  0.50000  0.44007  0.84965  1
+ O  O4  1  0.00000  0.55993  0.34965  1
+ O  O5  1  0.80946  0.70106  0.84876  1
+ O  O6  1  0.69054  0.29894  0.34876  1
+ O  O7  1  0.30946  0.29894  0.34876  1
+ O  O8  1  0.50000  0.92828  0.87563  1
+ O  O9  1  0.19054  0.70106  0.84876  1
+ O  O10  1  0.30946  0.29894  0.65124  1
+ O  O11  1  0.50000  0.92828  0.12437  1
+ O  O12  1  0.00000  0.07172  0.37563  1
+ O  O13  1  0.69054  0.29894  0.65124  1
+ O  O14  1  0.50000  0.44007  0.15035  1
+ O  O15  1  0.00000  0.07172  0.62437  1
+ O  O16  1  0.80946  0.70106  0.15124  1
+ Se  Se1  1  0.50000  0.43870  0.68137  1
+ Se  Se2  1  0.00000  0.56130  0.81863  1
+ Se  Se3  1  0.00000  0.56130  0.18137  1
+ Se  Se4  1  0.50000  0.43870  0.31863  1
+ Sn  Sn1  1  0.25000  0.00000  0.25000  1
+ Sn  Sn2  1  0.50000  0.16652  0.00000  1
+ Sn  Sn3  1  0.00000  0.83348  0.50000  1
+ Sn  Sn4  1  0.25000  0.00000  0.75000  1
+ Sn  Sn5  1  0.75000  0.00000  0.25000  1
+ Sn  Sn6  1  0.75000  0.00000  0.75000  1
+ Y  Y1  1  0.00000  0.32140  0.50000  1
+ Y  Y2  1  0.50000  0.67860  0.00000  1

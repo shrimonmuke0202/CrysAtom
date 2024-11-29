@@ -1,0 +1,45 @@
+CIF file written using JARVIS-Tools package.
+data_Er6InCo2
+_symmetry_space_group_name_H-M  'Immm'
+_cell_length_a       8.23371
+_cell_length_b       8.23371
+_cell_length_c       8.23371
+_cell_angle_alpha    111.805
+_cell_angle_beta     110.045
+_cell_angle_gamma    106.606
+
+_symmetry_Int_Tables_number  71
+_chemical_formula_structural  Er6InCo2
+_chemical_formula_sum  Er2In2Co4
+_cell_volume  428.7927186839422
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Co  Co1  1  0.62613  0.00000  0.62613  1
+ Co  Co2  1  0.11329  0.61329  0.50000  1
+ Co  Co3  1  0.37387  -0.00000  0.37387  1
+ Co  Co4  1  0.88671  0.38671  0.50000  1
+ Er  Er1  1  0.68446  0.38133  0.69687  1
+ Er  Er2  1  0.81206  0.71220  0.52426  1
+ Er  Er3  1  0.18794  0.71220  0.90014  1
+ Er  Er4  1  0.18794  0.28780  0.47574  1
+ Er  Er5  1  0.44354  0.23187  0.21167  1
+ Er  Er6  1  0.31554  0.01241  0.69687  1
+ Er  Er7  1  0.68446  0.98759  0.30313  1
+ Er  Er8  1  0.55646  0.76813  0.78833  1
+ Er  Er9  1  0.02020  0.23187  0.78833  1
+ Er  Er10  1  0.97980  0.76813  0.21167  1
+ Er  Er11  1  0.31554  0.61867  0.30313  1
+ Er  Er12  1  0.81206  0.28780  0.09986  1
+ In  In1  1  0.50000  0.50000  0.00000  1
+ In  In2  1  0.00000  0.00000  0.00000  1

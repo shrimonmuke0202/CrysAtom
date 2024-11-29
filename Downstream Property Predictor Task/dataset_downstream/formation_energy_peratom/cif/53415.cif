@@ -1,0 +1,42 @@
+CIF file written using JARVIS-Tools package.
+data_Nb4H3S8
+_symmetry_space_group_name_H-M  'P-6m2'
+_cell_length_a       3.3559
+_cell_length_b       3.3559
+_cell_length_c       25.2873
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_symmetry_Int_Tables_number  187
+_chemical_formula_structural  Nb4H3S8
+_chemical_formula_sum  Nb4H3S8
+_cell_volume  246.6331308940174
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ H  H1  1  0.00000  0.00000  0.50000  1
+ H  H2  1  0.00000  0.00000  0.24833  1
+ H  H3  1  0.00000  0.00000  0.75167  1
+ Nb  Nb1  1  0.66667  0.33333  0.00000  1
+ Nb  Nb2  1  0.66667  0.33333  0.50000  1
+ Nb  Nb3  1  0.33333  0.66667  0.24840  1
+ Nb  Nb4  1  0.33333  0.66667  0.75160  1
+ S  S1  1  0.66667  0.33333  0.31389  1
+ S  S2  1  0.66667  0.33333  0.81709  1
+ S  S3  1  0.33333  0.66667  0.93766  1
+ S  S4  1  0.33333  0.66667  0.43451  1
+ S  S5  1  0.33333  0.66667  0.06234  1
+ S  S6  1  0.33333  0.66667  0.56549  1
+ S  S7  1  0.66667  0.33333  0.18291  1
+ S  S8  1  0.66667  0.33333  0.68611  1

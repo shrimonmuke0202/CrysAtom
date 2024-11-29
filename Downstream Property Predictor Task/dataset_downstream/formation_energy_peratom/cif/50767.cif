@@ -1,0 +1,31 @@
+CIF file written using JARVIS-Tools package.
+data_B3I
+_symmetry_space_group_name_H-M  'Fmm2'
+_cell_length_a       3.75049
+_cell_length_b       3.75063
+_cell_length_c       5.9155
+_cell_angle_alpha    96.7938
+_cell_angle_beta     83.1939
+_cell_angle_gamma    51.2453
+
+_symmetry_Int_Tables_number  42
+_chemical_formula_structural  B3I
+_chemical_formula_sum  B3I
+_cell_volume  62.41153733662589
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ B  B1  1  0.80171  0.98389  0.74506  1
+ B  B2  1  0.67496  0.68377  0.57156  1
+ B  B3  1  0.37482  0.55698  0.74506  1
+ I  I1  1  0.32032  0.03845  0.28056  1

@@ -1,0 +1,41 @@
+CIF file written using JARVIS-Tools package.
+data_LuTiFe11C
+_symmetry_space_group_name_H-M  'Imm2'
+_cell_length_a       4.72647
+_cell_length_b       6.41774
+_cell_length_c       6.41775
+_cell_angle_alpha    97.481
+_cell_angle_beta     111.607
+_cell_angle_gamma    68.3933
+
+_symmetry_Int_Tables_number  44
+_chemical_formula_structural  LuTiFe11C
+_chemical_formula_sum  LuTiFeC
+_cell_volume  168.27089688198615
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ C  C1  1  0.50122  0.99878  0.00122  1
+ Fe  Fe1  1  0.72465  0.77535  0.22465  1
+ Fe  Fe2  1  0.27712  0.22288  0.77712  1
+ Fe  Fe3  1  0.49822  0.78132  0.77777  1
+ Fe  Fe4  1  0.49822  0.22223  0.21868  1
+ Fe  Fe5  1  0.50142  0.99727  0.50043  1
+ Fe  Fe6  1  0.00175  0.99727  0.50043  1
+ Fe  Fe7  1  0.50142  0.49957  0.00273  1
+ Fe  Fe8  1  0.00175  0.49957  0.00273  1
+ Fe  Fe9  1  0.35340  0.64660  0.35340  1
+ Fe  Fe10  1  0.00029  0.35638  0.35695  1
+ Fe  Fe11  1  0.00029  0.64305  0.64362  1
+ Lu  Lu1  1  0.00842  0.99158  0.00842  1
+ Ti  Ti1  1  0.63185  0.36815  0.63185  1

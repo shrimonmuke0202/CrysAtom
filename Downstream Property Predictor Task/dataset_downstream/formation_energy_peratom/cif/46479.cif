@@ -1,0 +1,59 @@
+CIF file written using JARVIS-Tools package.
+data_AsS
+_symmetry_space_group_name_H-M  'P2_1/c'
+_cell_length_a       6.6118
+_cell_length_b       13.595
+_cell_length_c       9.83564
+_cell_angle_alpha    90
+_cell_angle_beta     114.034
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  14
+_chemical_formula_structural  AsS
+_chemical_formula_sum  As6S6
+_cell_volume  807.4525658728577
+_cell_formula_units_Z  16
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ As  As1  1  0.35499  0.02496  0.11983  1
+ As  As2  1  0.64501  0.52496  0.38017  1
+ As  As3  1  0.64501  0.97504  0.88017  1
+ As  As4  1  0.35499  0.47504  0.61983  1
+ As  As5  1  0.57529  0.86261  0.42831  1
+ As  As6  1  0.42471  0.36261  0.07169  1
+ As  As7  1  0.42471  0.13739  0.57169  1
+ As  As8  1  0.32803  0.66154  0.53762  1
+ As  As9  1  0.57529  0.63739  0.92831  1
+ As  As10  1  0.85885  0.37221  0.17767  1
+ As  As11  1  0.85885  0.12779  0.67767  1
+ As  As12  1  0.14115  0.62779  0.82233  1
+ As  As13  1  0.32803  0.83846  0.03762  1
+ As  As14  1  0.67197  0.33846  0.46238  1
+ As  As15  1  0.67197  0.16154  0.96238  1
+ As  As16  1  0.14115  0.87221  0.32233  1
+ S  S1  1  0.94425  0.21254  0.89382  1
+ S  S2  1  0.64694  0.01034  0.34616  1
+ S  S3  1  0.35306  0.51034  0.15384  1
+ S  S4  1  0.35306  0.98966  0.65384  1
+ S  S5  1  0.64694  0.48966  0.84616  1
+ S  S6  1  0.90795  0.52445  0.28655  1
+ S  S7  1  0.09205  0.02445  0.21345  1
+ S  S8  1  0.39227  0.27447  0.25895  1
+ S  S9  1  0.60773  0.77447  0.24105  1
+ S  S10  1  0.39227  0.22553  0.75895  1
+ S  S11  1  0.60773  0.72553  0.74105  1
+ S  S12  1  0.05575  0.78746  0.10618  1
+ S  S13  1  0.94425  0.28746  0.39382  1
+ S  S14  1  0.90795  0.97555  0.78655  1
+ S  S15  1  0.09205  0.47555  0.71345  1
+ S  S16  1  0.05575  0.71254  0.60618  1

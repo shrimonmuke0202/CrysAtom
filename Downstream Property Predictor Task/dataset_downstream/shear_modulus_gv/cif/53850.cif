@@ -1,0 +1,33 @@
+CIF file written using JARVIS-Tools package.
+data_ZnCl4O
+_symmetry_space_group_name_H-M  'I4/m'
+_cell_length_a       5.90114
+_cell_length_b       5.90114
+_cell_length_c       5.90114
+_cell_angle_alpha    95.8633
+_cell_angle_beta     95.8633
+_cell_angle_gamma    142.72
+
+_symmetry_Int_Tables_number  87
+_chemical_formula_structural  ZnCl4O
+_chemical_formula_sum  ZnCl4O
+_cell_volume  117.94188790035126
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cl  Cl1  1  0.18122  0.75597  0.81709  1
+ Cl  Cl2  1  -0.06112  0.36413  0.18291  1
+ Cl  Cl3  1  0.36413  0.18122  0.42525  1
+ Cl  Cl4  1  0.75597  -0.06112  0.57475  1
+ O  O1  1  0.56019  0.56019  0.00000  1
+ Zn  Zn1  1  0.06019  0.06019  0.00000  1

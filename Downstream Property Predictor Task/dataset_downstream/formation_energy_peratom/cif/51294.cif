@@ -1,0 +1,30 @@
+CIF file written using JARVIS-Tools package.
+data_NaBeGe
+_symmetry_space_group_name_H-M  'Amm2'
+_cell_length_a       5.61355
+_cell_length_b       4.08607
+_cell_length_c       3.16131
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    111.34
+
+_symmetry_Int_Tables_number  38
+_chemical_formula_structural  NaBeGe
+_chemical_formula_sum  NaBeGe
+_cell_volume  67.54066854846367
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Be  Be1  1  0.22346  -0.05488  0.00000  1
+ Ge  Ge1  1  0.10619  0.38649  0.00000  1
+ Na  Na1  1  0.67035  0.66839  0.00000  1

@@ -1,0 +1,45 @@
+CIF file written using JARVIS-Tools package.
+data_HoBi2O6
+_symmetry_space_group_name_H-M  'Pmn2_1'
+_cell_length_a       5.60265
+_cell_length_b       6.087
+_cell_length_c       8.2301
+_cell_angle_alpha    89.9955
+_cell_angle_beta     89.999
+_cell_angle_gamma    90.0009
+
+_symmetry_Int_Tables_number  31
+_chemical_formula_structural  HoBi2O6
+_chemical_formula_sum  Ho2Bi4O2
+_cell_volume  280.673546256798
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Bi  Bi1  1  0.98984  0.48154  0.00273  1
+ Bi  Bi2  1  0.98983  0.48153  0.49728  1
+ Bi  Bi3  1  0.48982  0.01847  0.50273  1
+ Bi  Bi4  1  0.48985  0.01845  0.99727  1
+ Ho  Ho1  1  0.96539  0.91295  0.25001  1
+ Ho  Ho2  1  0.46538  0.58705  0.74998  1
+ O  O1  1  0.84278  0.46804  0.75001  1
+ O  O2  1  0.83000  0.17011  0.07028  1
+ O  O3  1  0.22015  0.76730  0.56060  1
+ O  O4  1  0.72020  0.73272  0.06062  1
+ O  O5  1  0.82998  0.17012  0.42973  1
+ O  O6  1  0.32998  0.32989  0.57027  1
+ O  O7  1  0.34278  0.03196  0.24999  1
+ O  O8  1  0.72015  0.73270  0.43940  1
+ O  O9  1  0.33000  0.32988  0.92972  1
+ O  O10  1  0.22020  0.76728  0.93938  1
+ O  O11  1  0.59979  0.94240  0.75000  1
+ O  O12  1  0.09979  0.55760  0.25000  1

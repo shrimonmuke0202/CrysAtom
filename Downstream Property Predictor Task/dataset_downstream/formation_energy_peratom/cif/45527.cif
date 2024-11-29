@@ -1,0 +1,42 @@
+CIF file written using JARVIS-Tools package.
+data_Li4CuP2O8
+_symmetry_space_group_name_H-M  'P-1'
+_cell_length_a       4.66409
+_cell_length_b       5.73081
+_cell_length_c       5.80769
+_cell_angle_alpha    95.273
+_cell_angle_beta     96.7544
+_cell_angle_gamma    99.025
+
+_symmetry_Int_Tables_number  2
+_chemical_formula_structural  Li4CuP2O8
+_chemical_formula_sum  Li4CuP2O8
+_cell_volume  151.28126044532286
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cu  Cu1  1  0.00000  0.00000  0.00000  1
+ Li  Li1  1  0.17911  0.27036  0.59689  1
+ Li  Li2  1  0.21306  0.51268  0.16847  1
+ Li  Li3  1  0.78694  0.48732  0.83153  1
+ Li  Li4  1  0.82089  0.72964  0.40311  1
+ O  O1  1  0.23790  0.58225  0.85482  1
+ O  O2  1  0.25146  0.70432  0.45084  1
+ O  O3  1  0.28934  0.20240  0.26094  1
+ O  O4  1  0.28372  0.02282  0.78814  1
+ O  O5  1  0.71628  0.97718  0.21186  1
+ O  O6  1  0.71066  0.79760  0.73906  1
+ O  O7  1  0.74854  0.29568  0.54916  1
+ O  O8  1  0.76210  0.41775  0.14518  1
+ P  P1  1  0.36808  0.77705  0.70948  1
+ P  P2  1  0.63192  0.22295  0.29052  1

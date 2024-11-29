@@ -1,0 +1,41 @@
+CIF file written using JARVIS-Tools package.
+data_LiVFe4O8
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       5.56666
+_cell_length_b       5.56666
+_cell_length_c       5.75152
+_cell_angle_alpha    87.6162
+_cell_angle_beta     62.9125
+_cell_angle_gamma    119.115
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  LiVFe4O8
+_chemical_formula_sum  LiVFe4O8
+_cell_volume  130.45372464843683
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Fe  Fe1  1  0.50798  0.73847  0.75355  1
+ Fe  Fe2  1  0.99202  0.01153  -0.00355  1
+ Fe  Fe3  1  0.25000  0.87500  0.37500  1
+ Fe  Fe4  1  0.75000  0.37500  0.37500  1
+ Li  Li1  1  0.75000  0.37500  0.87500  1
+ O  O1  1  0.26314  0.12064  0.61623  1
+ O  O2  1  0.72037  0.11888  0.16075  1
+ O  O3  1  0.72543  0.61170  0.14208  1
+ O  O4  1  0.24622  0.13250  0.14208  1
+ O  O5  1  0.23686  0.62936  0.13377  1
+ O  O6  1  0.77963  0.63112  0.58925  1
+ O  O7  1  0.77457  0.13830  0.60792  1
+ O  O8  1  0.25378  0.61750  0.60792  1
+ V  V1  1  0.25000  0.37500  0.37500  1

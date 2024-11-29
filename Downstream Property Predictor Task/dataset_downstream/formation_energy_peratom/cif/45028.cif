@@ -1,0 +1,45 @@
+CIF file written using JARVIS-Tools package.
+data_HgCl2O6
+_symmetry_space_group_name_H-M  'P2_1'
+_cell_length_a       5.82698
+_cell_length_b       5.10559
+_cell_length_c       9.66732
+_cell_angle_alpha    90
+_cell_angle_beta     100.931
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  4
+_chemical_formula_structural  HgCl2O6
+_chemical_formula_sum  Hg2Cl4O2
+_cell_volume  282.386095236123
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cl  Cl1  1  0.29194  0.21852  0.57466  1
+ Cl  Cl2  1  0.63776  0.74131  0.84973  1
+ Cl  Cl3  1  0.36224  0.24131  0.15027  1
+ Cl  Cl4  1  0.70806  0.71852  0.42534  1
+ Hg  Hg1  1  0.98643  0.68579  0.18437  1
+ Hg  Hg2  1  0.01357  0.18579  0.81563  1
+ O  O1  1  0.13788  0.98936  0.57384  1
+ O  O2  1  0.23127  0.39498  0.70575  1
+ O  O3  1  0.76873  0.89498  0.29425  1
+ O  O4  1  0.23926  0.13600  0.25739  1
+ O  O5  1  0.17887  0.46286  0.06400  1
+ O  O6  1  0.46218  0.64247  0.38143  1
+ O  O7  1  0.36640  0.05008  0.03773  1
+ O  O8  1  0.53782  0.14247  0.61857  1
+ O  O9  1  0.76074  0.63600  0.74261  1
+ O  O10  1  0.82113  0.96286  0.93600  1
+ O  O11  1  0.63360  0.55008  0.96227  1
+ O  O12  1  0.86212  0.48936  0.42616  1

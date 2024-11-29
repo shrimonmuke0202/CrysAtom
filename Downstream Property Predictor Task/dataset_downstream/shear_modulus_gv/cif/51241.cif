@@ -1,0 +1,51 @@
+CIF file written using JARVIS-Tools package.
+data_BaSrMgSi2O7
+_symmetry_space_group_name_H-M  'P2_1'
+_cell_length_a       8.15532
+_cell_length_b       5.29963
+_cell_length_c       8.1614
+_cell_angle_alpha    89.0765
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  4
+_chemical_formula_structural  BaSrMgSi2O7
+_chemical_formula_sum  Ba2Sr2Mg2Si4O4
+_cell_volume  352.69169056492524
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ba  Ba1  1  0.16654  0.48753  0.08891  1
+ Ba  Ba2  1  0.66654  0.51247  0.91109  1
+ Mg  Mg1  1  0.50023  0.99789  0.25267  1
+ Mg  Mg2  1  0.00023  0.00211  0.74733  1
+ O  O1  1  0.99953  0.84802  0.26072  1
+ O  O2  1  0.35801  0.73837  0.87183  1
+ O  O3  1  0.57800  0.20639  0.43327  1
+ O  O4  1  0.07800  0.79361  0.56673  1
+ O  O5  1  0.42260  0.16487  0.05040  1
+ O  O6  1  0.49953  0.15198  0.73928  1
+ O  O7  1  0.69335  0.80948  0.18149  1
+ O  O8  1  0.19335  0.19052  0.81851  1
+ O  O9  1  0.30953  0.81146  0.33883  1
+ O  O10  1  0.63943  0.74973  0.59487  1
+ O  O11  1  0.92260  0.83513  0.94960  1
+ O  O12  1  0.13943  0.25027  0.40513  1
+ O  O13  1  0.80953  0.18854  0.66117  1
+ O  O14  1  0.85801  0.26163  0.12817  1
+ Si  Si1  1  0.86156  0.95653  0.12360  1
+ Si  Si2  1  0.36156  0.04347  0.87640  1
+ Si  Si3  1  0.13784  0.94501  0.39951  1
+ Si  Si4  1  0.63784  0.05499  0.60049  1
+ Sr  Sr1  1  0.33338  0.50417  0.58386  1
+ Sr  Sr2  1  0.83338  0.49583  0.41614  1

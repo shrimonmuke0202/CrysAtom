@@ -1,0 +1,49 @@
+CIF file written using JARVIS-Tools package.
+data_Ba3Al3N5
+_symmetry_space_group_name_H-M  'P-1'
+_cell_length_a       5.92282
+_cell_length_b       7.61809
+_cell_length_c       8.84582
+_cell_angle_alpha    108.789
+_cell_angle_beta     100.956
+_cell_angle_gamma    96.6496
+
+_symmetry_Int_Tables_number  2
+_chemical_formula_structural  Ba3Al3N5
+_chemical_formula_sum  Ba6Al6N0
+_cell_volume  364.18171738404703
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Al  Al1  1  0.91493  0.31958  0.97711  1
+ Al  Al2  1  0.69760  0.97057  0.58067  1
+ Al  Al3  1  0.08507  0.68042  0.02289  1
+ Al  Al4  1  0.09979  0.89231  0.70791  1
+ Al  Al5  1  0.30240  0.02943  0.41933  1
+ Al  Al6  1  0.90021  0.10769  0.29209  1
+ Ba  Ba1  1  0.80722  0.42617  0.60798  1
+ Ba  Ba2  1  0.66248  0.65832  0.21627  1
+ Ba  Ba3  1  0.33454  0.14469  0.11884  1
+ Ba  Ba4  1  0.66546  0.85531  0.88116  1
+ Ba  Ba5  1  0.19278  0.57383  0.39202  1
+ Ba  Ba6  1  0.33752  0.34168  0.78373  1
+ N  N1  1  0.63063  0.04666  0.38940  1
+ N  N2  1  0.18779  0.78025  0.86876  1
+ N  N3  1  0.93652  0.11123  0.78169  1
+ N  N4  1  0.06348  0.88877  0.21831  1
+ N  N5  1  0.81997  0.74467  0.54535  1
+ N  N6  1  0.18003  0.25533  0.45465  1
+ N  N7  1  0.78160  0.51571  0.92141  1
+ N  N8  1  0.21840  0.48429  0.07859  1
+ N  N9  1  0.36937  0.95334  0.61060  1
+ N  N10  1  0.81221  0.21975  0.13124  1

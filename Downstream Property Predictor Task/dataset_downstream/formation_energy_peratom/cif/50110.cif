@@ -1,0 +1,31 @@
+CIF file written using JARVIS-Tools package.
+data_HfCl3
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       3.41091
+_cell_length_b       7.96708
+_cell_length_c       6.36781
+_cell_angle_alpha    48.1515
+_cell_angle_beta     105.194
+_cell_angle_gamma    129.512
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  HfCl3
+_chemical_formula_sum  HfCl3
+_cell_volume  95.39495108373895
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cl  Cl1  1  0.05765  0.40689  0.66826  1
+ Cl  Cl2  1  0.38423  0.07184  0.33335  1
+ Cl  Cl3  1  0.73116  0.74192  0.00326  1
+ Hf  Hf1  1  0.55772  0.90691  0.16828  1

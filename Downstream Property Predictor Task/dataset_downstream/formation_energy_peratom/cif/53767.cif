@@ -1,0 +1,53 @@
+CIF file written using JARVIS-Tools package.
+data_Ag2TeH4O6
+_symmetry_space_group_name_H-M  'Fdd2'
+_cell_length_a       10.3807
+_cell_length_b       9.91489
+_cell_length_c       5.5252
+_cell_angle_alpha    78.9101
+_cell_angle_beta     69.6019
+_cell_angle_gamma    31.488
+
+_symmetry_Int_Tables_number  43
+_chemical_formula_structural  Ag2TeH4O6
+_chemical_formula_sum  Ag4Te2H8O2
+_cell_volume  271.9394815018464
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ag  Ag1  1  0.66692  0.17812  0.87430  1
+ Ag  Ag2  1  0.87430  0.28066  0.66692  1
+ Ag  Ag3  1  0.07188  0.58308  0.96934  1
+ Ag  Ag4  1  0.96934  0.37570  0.07188  1
+ H  H1  1  0.02409  0.45677  0.50128  1
+ H  H2  1  0.79323  0.22591  0.23214  1
+ H  H3  1  0.50128  0.01786  0.02409  1
+ H  H4  1  0.44332  0.31833  0.44729  1
+ H  H5  1  0.23214  0.74872  0.79323  1
+ H  H6  1  0.45894  0.80271  0.93167  1
+ H  H7  1  0.44729  0.79106  0.44332  1
+ H  H8  1  0.93167  0.80668  0.45894  1
+ O  O1  1  0.97007  0.86203  0.51150  1
+ O  O2  1  0.12071  0.28651  0.54955  1
+ O  O3  1  0.54955  0.04324  0.12071  1
+ O  O4  1  0.96349  0.12929  0.20676  1
+ O  O5  1  0.20676  0.70045  0.96349  1
+ O  O6  1  0.41720  -0.00388  0.86252  1
+ O  O7  1  0.86252  0.72416  0.41720  1
+ O  O8  1  0.52584  0.38748  0.25388  1
+ O  O9  1  0.38797  0.27993  0.59359  1
+ O  O10  1  0.51150  0.65641  0.97007  1
+ O  O11  1  0.25388  0.83280  0.52584  1
+ O  O12  1  0.59359  0.73850  0.38797  1
+ Te  Te1  1  0.24508  0.75492  0.24508  1
+ Te  Te2  1  0.49508  0.00492  0.49508  1

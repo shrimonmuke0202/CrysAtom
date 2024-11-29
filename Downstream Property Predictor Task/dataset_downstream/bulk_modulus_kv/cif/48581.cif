@@ -1,0 +1,30 @@
+CIF file written using JARVIS-Tools package.
+data_CaYO
+_symmetry_space_group_name_H-M  'Pm'
+_cell_length_a       3.58257
+_cell_length_b       7.53807
+_cell_length_c       3.58579
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    62.2631
+
+_symmetry_Int_Tables_number  6
+_chemical_formula_structural  CaYO
+_chemical_formula_sum  CaYO
+_cell_volume  85.70953094178381
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ca  Ca1  1  -0.03569  -0.10957  0.00000  1
+ O  O1  1  0.28295  0.07538  0.00000  1
+ Y  Y1  1  -0.01879  0.37898  0.00000  1

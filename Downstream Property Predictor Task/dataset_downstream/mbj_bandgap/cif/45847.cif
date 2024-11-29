@@ -1,0 +1,37 @@
+CIF file written using JARVIS-Tools package.
+data_Al2O3
+_symmetry_space_group_name_H-M  'Fdd2'
+_cell_length_a       2.75344
+_cell_length_b       4.74384
+_cell_length_c       6.97213
+_cell_angle_alpha    86.7166
+_cell_angle_beta     101.378
+_cell_angle_gamma    106.871
+
+_symmetry_Int_Tables_number  43
+_chemical_formula_structural  Al2O3
+_chemical_formula_sum  Al4O6
+_cell_volume  85.43679144670224
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Al  Al1  1  0.03424  0.98978  0.00391  1
+ Al  Al2  1  0.68021  0.48977  0.29591  1
+ Al  Al3  1  0.19015  0.50951  0.79591  1
+ Al  Al4  1  0.04406  0.00950  0.50390  1
+ O  O1  1  0.31888  0.74962  0.39992  1
+ O  O2  1  0.05586  0.21481  0.24211  1
+ O  O3  1  0.74841  0.28444  0.55771  1
+ O  O4  1  0.56894  0.24966  0.89992  1
+ O  O5  1  0.84076  0.78447  0.74210  1
+ O  O6  1  0.46366  0.71482  0.05771  1

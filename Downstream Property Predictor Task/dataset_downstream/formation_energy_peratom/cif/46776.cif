@@ -1,0 +1,51 @@
+CIF file written using JARVIS-Tools package.
+data_Fe4O3F5
+_symmetry_space_group_name_H-M  'P2_1'
+_cell_length_a       6.04969
+_cell_length_b       4.72914
+_cell_length_c       9.97667
+_cell_angle_alpha    90
+_cell_angle_beta     107.09
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  4
+_chemical_formula_structural  Fe4O3F5
+_chemical_formula_sum  Fe8O6F0
+_cell_volume  272.82697610945206
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ F  F1  1  0.48349  0.20036  0.72383  1
+ F  F2  1  0.61035  0.28642  0.47978  1
+ F  F3  1  0.86384  0.28971  0.97426  1
+ F  F4  1  0.25975  0.71864  0.76710  1
+ F  F5  1  0.01338  0.70465  0.27567  1
+ F  F6  1  0.51651  0.70036  0.27617  1
+ F  F7  1  0.13616  0.78971  0.02574  1
+ F  F8  1  0.38965  0.78642  0.52022  1
+ F  F9  1  0.74025  0.21864  0.23290  1
+ F  F10  1  0.98662  0.20465  0.72433  1
+ Fe  Fe1  1  0.30393  0.44949  0.35687  1
+ Fe  Fe2  1  0.69607  0.94949  0.64313  1
+ Fe  Fe3  1  0.93128  0.00483  0.12803  1
+ Fe  Fe4  1  0.17166  0.01256  0.60221  1
+ Fe  Fe5  1  0.43593  0.03150  0.10849  1
+ Fe  Fe6  1  0.82834  0.51256  0.39779  1
+ Fe  Fe7  1  0.56407  0.53150  0.89151  1
+ Fe  Fe8  1  0.06872  0.50483  0.87197  1
+ O  O1  1  0.11572  0.29857  0.46487  1
+ O  O2  1  0.88428  0.79857  0.53513  1
+ O  O3  1  0.75823  0.68779  0.79276  1
+ O  O4  1  0.24177  0.18779  0.20724  1
+ O  O5  1  0.36705  0.31548  0.97012  1
+ O  O6  1  0.63295  0.81548  0.02988  1

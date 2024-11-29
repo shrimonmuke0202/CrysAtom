@@ -1,0 +1,31 @@
+CIF file written using JARVIS-Tools package.
+data_SbP3
+_symmetry_space_group_name_H-M  'Cm'
+_cell_length_a       3.60976
+_cell_length_b       4.5574
+_cell_length_c       5.82836
+_cell_angle_alpha    92.0884
+_cell_angle_beta     108.04
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  8
+_chemical_formula_structural  SbP3
+_chemical_formula_sum  SbP3
+_cell_volume  91.10281894209992
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ P  P1  1  0.60699  0.11357  0.21397  1
+ P  P2  1  0.10588  0.43712  0.21176  1
+ P  P3  1  0.90983  0.52978  0.81966  1
+ Sb  Sb1  1  0.37730  0.91952  0.75461  1

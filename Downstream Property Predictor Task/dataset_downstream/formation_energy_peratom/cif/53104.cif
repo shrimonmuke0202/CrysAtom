@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_Li2B7H7
+_symmetry_space_group_name_H-M  'C2'
+_cell_length_a       5.91441
+_cell_length_b       5.91441
+_cell_length_c       5.53431
+_cell_angle_alpha    68.7239
+_cell_angle_beta     68.7238
+_cell_angle_gamma    108.774
+
+_symmetry_Int_Tables_number  5
+_chemical_formula_structural  Li2B7H7
+_chemical_formula_sum  Li2B7H7
+_cell_volume  143.35307991406697
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ B  B1  1  0.70531  0.91432  0.29616  1
+ B  B2  1  0.08568  0.29469  0.70384  1
+ B  B3  1  0.98745  0.28659  0.05612  1
+ B  B4  1  0.71341  0.01255  0.94388  1
+ B  B5  1  0.61372  0.14892  0.18357  1
+ B  B6  1  0.85108  0.38628  0.81643  1
+ B  B7  1  -0.00009  0.00009  0.00000  1
+ H  H1  1  0.12479  0.87521  0.00000  1
+ H  H2  1  0.12933  0.42503  0.11560  1
+ H  H3  1  0.57497  0.87067  0.88440  1
+ H  H4  1  0.41091  0.13638  0.36045  1
+ H  H5  1  0.86362  0.58909  0.63955  1
+ H  H6  1  0.57146  0.72388  0.56130  1
+ H  H7  1  0.27612  0.42854  0.43870  1
+ Li  Li1  1  0.58551  0.41449  0.50000  1
+ Li  Li2  1  0.00431  -0.00431  0.50000  1

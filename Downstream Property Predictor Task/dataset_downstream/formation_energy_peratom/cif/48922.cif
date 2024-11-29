@@ -1,0 +1,41 @@
+CIF file written using JARVIS-Tools package.
+data_Ho3Pt4
+_symmetry_space_group_name_H-M  'R-3'
+_cell_length_a       7.81719
+_cell_length_b       7.81719
+_cell_length_c       7.81719
+_cell_angle_alpha    114.26
+_cell_angle_beta     114.26
+_cell_angle_gamma    114.26
+
+_symmetry_Int_Tables_number  148
+_chemical_formula_structural  Ho3Pt4
+_chemical_formula_sum  Ho6Pt8
+_cell_volume  284.5423420044416
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ho  Ho1  1  0.97407  0.59495  0.72187  1
+ Ho  Ho2  1  0.72187  0.97407  0.59495  1
+ Ho  Ho3  1  0.59495  0.72187  0.97407  1
+ Ho  Ho4  1  0.02593  0.40505  0.27813  1
+ Ho  Ho5  1  0.27813  0.02593  0.40505  1
+ Ho  Ho6  1  0.40505  0.27813  0.02593  1
+ Pt  Pt1  1  0.00000  0.00000  0.00000  1
+ Pt  Pt2  1  0.50000  0.50000  0.50000  1
+ Pt  Pt3  1  0.93699  0.77162  0.44958  1
+ Pt  Pt4  1  0.44958  0.93699  0.77162  1
+ Pt  Pt5  1  0.77162  0.44958  0.93699  1
+ Pt  Pt6  1  0.06301  0.22838  0.55042  1
+ Pt  Pt7  1  0.55042  0.06301  0.22838  1
+ Pt  Pt8  1  0.22838  0.55042  0.06301  1

@@ -1,0 +1,30 @@
+CIF file written using JARVIS-Tools package.
+data_NaAlH
+_symmetry_space_group_name_H-M  'Pmmm'
+_cell_length_a       3.74255
+_cell_length_b       6.22594
+_cell_length_c       2.74735
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    53.0897
+
+_symmetry_Int_Tables_number  47
+_chemical_formula_structural  NaAlH
+_chemical_formula_sum  NaAlH
+_cell_volume  51.185498011141135
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Al  Al1  1  -0.09450  -0.07611  0.00000  1
+ H  H1  1  0.40510  -0.07573  0.00000  1
+ Na  Na1  1  -0.09453  0.42387  0.00000  1

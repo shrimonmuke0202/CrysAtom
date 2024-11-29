@@ -1,0 +1,47 @@
+CIF file written using JARVIS-Tools package.
+data_Na2FeO2
+_symmetry_space_group_name_H-M  'P-1'
+_cell_length_a       5.68453
+_cell_length_b       7.88353
+_cell_length_c       6.03046
+_cell_angle_alpha    91.8219
+_cell_angle_beta     91.5588
+_cell_angle_gamma    104.428
+
+_symmetry_Int_Tables_number  2
+_chemical_formula_structural  Na2FeO2
+_chemical_formula_sum  Na8Fe4O8
+_cell_volume  261.42263057600184
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Fe  Fe1  1  0.82272  0.36147  0.40607  1
+ Fe  Fe2  1  0.39211  0.35973  0.13524  1
+ Fe  Fe3  1  0.60801  0.64023  0.86486  1
+ Fe  Fe4  1  0.17715  0.63848  0.59381  1
+ Na  Na1  1  0.10379  0.66918  0.12343  1
+ Na  Na2  1  0.64928  0.68715  0.36760  1
+ Na  Na3  1  0.50208  0.01638  0.24950  1
+ Na  Na4  1  0.89642  0.33082  0.87653  1
+ Na  Na5  1  0.49778  0.98358  0.75059  1
+ Na  Na6  1  0.98670  0.96354  0.74684  1
+ Na  Na7  1  0.01320  0.03649  0.25318  1
+ Na  Na8  1  0.35086  0.31289  0.63246  1
+ O  O1  1  0.77814  0.53229  0.64660  1
+ O  O2  1  0.80803  0.14638  0.53810  1
+ O  O3  1  0.29325  0.14501  0.97038  1
+ O  O4  1  0.70664  0.85499  0.02965  1
+ O  O5  1  0.19179  0.85361  0.46190  1
+ O  O6  1  0.73972  0.46972  0.14309  1
+ O  O7  1  0.22194  0.46769  0.35338  1
+ O  O8  1  0.26039  0.53037  0.85679  1

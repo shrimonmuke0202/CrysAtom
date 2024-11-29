@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_CuTeSeI
+_symmetry_space_group_name_H-M  'P2_1/c'
+_cell_length_a       4.79513
+_cell_length_b       8.546
+_cell_length_c       12.8461
+_cell_angle_alpha    63.9795
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  14
+_chemical_formula_structural  CuTeSeI
+_chemical_formula_sum  Cu4Te4Se4I4
+_cell_volume  473.06464614815803
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cu  Cu1  1  0.87880  0.79550  0.25381  1
+ Cu  Cu2  1  0.12120  0.20450  0.74619  1
+ Cu  Cu3  1  0.37880  0.20450  0.24619  1
+ Cu  Cu4  1  0.62120  0.79550  0.75381  1
+ I  I1  1  0.63995  0.90485  0.39386  1
+ I  I2  1  0.36005  0.09515  0.60614  1
+ I  I3  1  0.13995  0.09515  0.10614  1
+ I  I4  1  0.86005  0.90485  0.89386  1
+ Se  Se1  1  0.72665  0.42643  0.15243  1
+ Se  Se2  1  0.27335  0.57357  0.84757  1
+ Se  Se3  1  0.22665  0.57357  0.34757  1
+ Se  Se4  1  0.77335  0.42643  0.65243  1
+ Te  Te1  1  0.50376  0.71308  0.14466  1
+ Te  Te2  1  0.49624  0.28692  0.85534  1
+ Te  Te3  1  0.00376  0.28692  0.35534  1
+ Te  Te4  1  0.99624  0.71308  0.64466  1

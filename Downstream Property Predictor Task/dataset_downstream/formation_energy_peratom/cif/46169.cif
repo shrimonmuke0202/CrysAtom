@@ -1,0 +1,67 @@
+CIF file written using JARVIS-Tools package.
+data_Na3In2P3O12
+_symmetry_space_group_name_H-M  'C2/c'
+_cell_length_a       6.65695
+_cell_length_b       8.97022
+_cell_length_c       8.97022
+_cell_angle_alpha    91.7644
+_cell_angle_beta     106.497
+_cell_angle_gamma    106.497
+
+_symmetry_Int_Tables_number  15
+_chemical_formula_structural  Na3In2P3O12
+_chemical_formula_sum  Na6In4P6O24
+_cell_volume  488.8276235122721
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ In  In1  1  0.65491  0.07069  0.38209  1
+ In  In2  1  0.84509  0.61791  0.92931  1
+ In  In3  1  0.15491  0.38209  0.07069  1
+ In  In4  1  0.34509  0.92931  0.61791  1
+ Na  Na1  1  0.00000  0.50000  0.50000  1
+ Na  Na2  1  0.75000  0.72347  0.27653  1
+ Na  Na3  1  0.75000  0.01425  0.98575  1
+ Na  Na4  1  0.50000  0.50000  0.50000  1
+ Na  Na5  1  0.25000  0.98575  0.01425  1
+ Na  Na6  1  0.25000  0.27653  0.72347  1
+ O  O1  1  0.95614  0.25367  0.84550  1
+ O  O2  1  0.45614  0.84550  0.25367  1
+ O  O3  1  0.04386  0.74633  0.15450  1
+ O  O4  1  0.16812  0.28680  0.43941  1
+ O  O5  1  0.58307  0.66676  0.99352  1
+ O  O6  1  0.41693  0.33324  0.00648  1
+ O  O7  1  0.87839  0.83922  0.83472  1
+ O  O8  1  0.37839  0.83472  0.83922  1
+ O  O9  1  0.12161  0.16078  0.16528  1
+ O  O10  1  0.62161  0.16528  0.16078  1
+ O  O11  1  0.54386  0.15450  0.74633  1
+ O  O12  1  0.83188  0.71320  0.56059  1
+ O  O13  1  0.08307  0.99352  0.66676  1
+ O  O14  1  0.28193  0.56087  0.26031  1
+ O  O15  1  0.82773  0.40776  0.06567  1
+ O  O16  1  0.71807  0.43913  0.73969  1
+ O  O17  1  0.66812  0.43941  0.28680  1
+ O  O18  1  0.78193  0.26031  0.56087  1
+ O  O19  1  0.91693  0.00648  0.33324  1
+ O  O20  1  0.32773  0.06567  0.40776  1
+ O  O21  1  0.17227  0.59224  0.93433  1
+ O  O22  1  0.67227  0.93433  0.59224  1
+ O  O23  1  0.21807  0.73969  0.43913  1
+ O  O24  1  0.33188  0.56059  0.71320  1
+ P  P1  1  0.75000  0.27482  0.72518  1
+ P  P2  1  0.36640  0.65992  0.86389  1
+ P  P3  1  0.86640  0.86389  0.65992  1
+ P  P4  1  0.25000  0.72518  0.27482  1
+ P  P5  1  0.63360  0.34008  0.13611  1
+ P  P6  1  0.13360  0.13611  0.34008  1

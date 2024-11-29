@@ -1,0 +1,49 @@
+CIF file written using JARVIS-Tools package.
+data_Rb6HgS4
+_symmetry_space_group_name_H-M  'P6_3mc'
+_cell_length_a       10.4049
+_cell_length_b       10.4049
+_cell_length_c       7.90583
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_symmetry_Int_Tables_number  186
+_chemical_formula_structural  Rb6HgS4
+_chemical_formula_sum  Rb2Hg2S8
+_cell_volume  741.2372300737752
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Hg  Hg1  1  0.66667  0.33333  0.00175  1
+ Hg  Hg2  1  0.33333  0.66667  0.50175  1
+ Rb  Rb1  1  0.14824  0.29648  0.20307  1
+ Rb  Rb2  1  0.29648  0.14824  0.70307  1
+ Rb  Rb3  1  0.70352  0.85176  0.20307  1
+ Rb  Rb4  1  0.85176  0.70352  0.70307  1
+ Rb  Rb5  1  0.85176  0.14824  0.70307  1
+ Rb  Rb6  1  0.14824  0.85176  0.20307  1
+ Rb  Rb7  1  0.52765  0.05530  0.38002  1
+ Rb  Rb8  1  0.52765  0.47235  0.38002  1
+ Rb  Rb9  1  0.94470  0.47235  0.38002  1
+ Rb  Rb10  1  0.47235  0.94470  0.88002  1
+ Rb  Rb11  1  0.05530  0.52765  0.88002  1
+ Rb  Rb12  1  0.47235  0.52765  0.88002  1
+ S  S1  1  0.19227  0.38454  0.60300  1
+ S  S2  1  0.19227  0.80773  0.60300  1
+ S  S3  1  0.33333  0.66667  0.16294  1
+ S  S4  1  0.66667  0.33333  0.66294  1
+ S  S5  1  0.80773  0.61546  0.10300  1
+ S  S6  1  0.80773  0.19227  0.10300  1
+ S  S7  1  0.38454  0.19227  0.10300  1
+ S  S8  1  0.61546  0.80773  0.60300  1

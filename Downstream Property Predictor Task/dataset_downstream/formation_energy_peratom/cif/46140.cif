@@ -1,0 +1,38 @@
+CIF file written using JARVIS-Tools package.
+data_Lu7Ni2Te2
+_symmetry_space_group_name_H-M  'Imm2'
+_cell_length_a       3.7726
+_cell_length_b       9.10707
+_cell_length_c       9.10707
+_cell_angle_alpha    61.7905
+_cell_angle_beta     78.0462
+_cell_angle_gamma    78.0461
+
+_symmetry_Int_Tables_number  44
+_chemical_formula_structural  Lu7Ni2Te2
+_chemical_formula_sum  Lu7Ni2Te2
+_cell_volume  267.5777488941531
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Lu  Lu1  1  0.31468  0.06265  0.30799  1
+ Lu  Lu2  1  0.68532  0.69201  0.93735  1
+ Lu  Lu3  1  -0.00000  0.00148  0.99852  1
+ Lu  Lu4  1  0.86403  0.71798  0.55395  1
+ Lu  Lu5  1  0.13597  0.44605  0.28202  1
+ Lu  Lu6  1  0.64726  0.08034  0.62514  1
+ Lu  Lu7  1  0.35274  0.37486  0.91966  1
+ Ni  Ni1  1  0.76354  0.30664  0.16627  1
+ Ni  Ni2  1  0.23646  0.83373  0.69336  1
+ Te  Te1  1  -0.00000  0.33947  0.66053  1
+ Te  Te2  1  0.50000  0.73298  0.26702  1

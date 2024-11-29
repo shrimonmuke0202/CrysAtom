@@ -1,0 +1,42 @@
+CIF file written using JARVIS-Tools package.
+data_V2NiTe2O10
+_symmetry_space_group_name_H-M  'P-1'
+_cell_length_a       4.7716
+_cell_length_b       6.37725
+_cell_length_c       6.5117
+_cell_angle_alpha    84.8723
+_cell_angle_beta     110.565
+_cell_angle_gamma    106.882
+
+_symmetry_Int_Tables_number  2
+_chemical_formula_structural  V2NiTe2O10
+_chemical_formula_sum  V2NiTe2O0
+_cell_volume  177.50870682180545
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ni  Ni1  1  0.00000  0.50000  -0.00000  1
+ O  O1  1  0.03834  0.47001  0.70905  1
+ O  O2  1  0.66295  0.65342  0.86708  1
+ O  O3  1  0.29447  0.83093  0.03991  1
+ O  O4  1  0.60252  0.67553  0.42776  1
+ O  O5  1  0.72560  0.11473  0.41326  1
+ O  O6  1  0.27440  0.88527  0.58674  1
+ O  O7  1  0.39748  0.32447  0.57224  1
+ O  O8  1  0.70553  0.16907  0.96009  1
+ O  O9  1  0.33705  0.34658  0.13292  1
+ O  O10  1  0.96166  0.52999  0.29095  1
+ Te  Te1  1  0.26783  0.09620  0.78095  1
+ Te  Te2  1  0.73217  0.90380  0.21905  1
+ V  V1  1  0.64351  0.38500  0.37123  1
+ V  V2  1  0.35649  0.61500  0.62877  1

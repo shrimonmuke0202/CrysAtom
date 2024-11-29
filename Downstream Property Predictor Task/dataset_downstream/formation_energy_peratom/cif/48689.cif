@@ -1,0 +1,33 @@
+CIF file written using JARVIS-Tools package.
+data_TiNCl4
+_symmetry_space_group_name_H-M  'I4/m'
+_cell_length_a       6.13125
+_cell_length_b       6.13125
+_cell_length_c       6.13125
+_cell_angle_alpha    96.2549
+_cell_angle_beta     96.2549
+_cell_angle_gamma    141.453
+
+_symmetry_Int_Tables_number  87
+_chemical_formula_structural  TiNCl4
+_chemical_formula_sum  TiNCl4
+_cell_volume  135.58053563957864
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cl  Cl1  1  0.21202  0.02783  0.35484  1
+ Cl  Cl2  1  0.85719  0.21202  0.18420  1
+ Cl  Cl3  1  0.02783  0.67299  0.81580  1
+ Cl  Cl4  1  0.67299  0.85719  0.64516  1
+ N  N1  1  0.44254  0.44254  0.00000  1
+ Ti  Ti1  1  -0.05747  -0.05747  -0.00000  1

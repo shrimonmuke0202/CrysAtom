@@ -1,0 +1,47 @@
+CIF file written using JARVIS-Tools package.
+data_Np2C3
+_symmetry_space_group_name_H-M  'I-43d'
+_cell_length_a       6.97644
+_cell_length_b       6.97644
+_cell_length_c       6.97644
+_cell_angle_alpha    109.471
+_cell_angle_beta     109.471
+_cell_angle_gamma    109.471
+
+_symmetry_Int_Tables_number  220
+_chemical_formula_structural  Np2C3
+_chemical_formula_sum  Np8C2
+_cell_volume  261.3844307592798
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ C  C1  1  0.03717  0.78717  0.25000  1
+ C  C2  1  0.78717  0.25000  0.03717  1
+ C  C3  1  0.28717  0.53717  0.75000  1
+ C  C4  1  0.53717  0.75000  0.28717  1
+ C  C5  1  0.96283  0.25000  0.21283  1
+ C  C6  1  0.71283  0.75000  0.46283  1
+ C  C7  1  0.75000  0.46283  0.71283  1
+ C  C8  1  0.75000  0.28717  0.53717  1
+ C  C9  1  0.25000  0.21283  0.96283  1
+ C  C10  1  0.21283  0.96283  0.25000  1
+ C  C11  1  0.46283  0.71283  0.75000  1
+ C  C12  1  0.25000  0.03717  0.78717  1
+ Np  Np1  1  0.40239  0.40239  0.40239  1
+ Np  Np2  1  -0.00000  0.09761  0.50000  1
+ Np  Np3  1  0.09761  0.50000  0.00000  1
+ Np  Np4  1  0.50000  0.00000  0.09761  1
+ Np  Np5  1  0.90239  0.90239  0.90239  1
+ Np  Np6  1  -0.00000  0.59761  0.50000  1
+ Np  Np7  1  0.50000  0.00000  0.59761  1
+ Np  Np8  1  0.59761  0.50000  0.00000  1

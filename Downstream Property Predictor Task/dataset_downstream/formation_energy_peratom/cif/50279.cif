@@ -1,0 +1,64 @@
+CIF file written using JARVIS-Tools package.
+data_ZnH20C12O4
+_symmetry_space_group_name_H-M  'P1'
+_cell_length_a       4.19323
+_cell_length_b       4.93779
+_cell_length_c       15.404
+_cell_angle_alpha    93.4106
+_cell_angle_beta     94.7584
+_cell_angle_gamma    114.621
+
+_symmetry_Int_Tables_number  1
+_chemical_formula_structural  ZnH20C12O4
+_chemical_formula_sum  ZnH20C2O4
+_cell_volume  287.3846028073219
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ C  C1  1  0.07444  0.59985  0.62625  1
+ C  C2  1  0.63435  0.86619  0.35400  1
+ C  C3  1  0.85670  0.24584  0.48517  1
+ C  C4  1  0.92511  0.55322  0.52962  1
+ C  C5  1  0.70582  0.18490  0.38810  1
+ C  C6  1  0.14630  0.90716  0.67154  1
+ C  C7  1  0.29837  0.95394  0.76791  1
+ C  C8  1  0.37146  0.26140  0.81329  1
+ C  C9  1  0.53818  0.31119  0.90858  1
+ C  C10  1  0.57126  0.60698  0.95512  1
+ C  C11  1  0.81172  0.71115  0.04113  1
+ C  C12  1  0.49963  0.75652  0.25806  1
+ H  H1  1  0.67483  0.07198  0.52172  1
+ H  H2  1  0.45396  0.70276  0.39292  1
+ H  H3  1  0.88978  0.42347  0.66152  1
+ H  H4  1  0.88258  0.83798  0.36357  1
+ H  H5  1  0.54480  0.92297  0.77261  1
+ H  H6  1  0.10487  0.21751  0.49176  1
+ H  H7  1  0.89056  0.34376  0.34884  1
+ H  H8  1  0.30854  0.58334  0.96976  1
+ H  H9  1  0.54571  0.43769  0.77615  1
+ H  H10  1  0.12260  0.28805  0.81055  1
+ H  H11  1  0.33013  0.08337  0.63608  1
+ H  H12  1  0.11539  0.77806  0.80368  1
+ H  H13  1  0.89993  0.93819  0.66636  1
+ H  H14  1  0.67791  0.58261  0.52417  1
+ H  H15  1  0.66816  0.78808  0.91271  1
+ H  H16  1  0.46092  0.21655  0.37941  1
+ H  H17  1  0.80045  0.31001  0.91028  1
+ H  H18  1  0.37968  0.12531  0.94436  1
+ H  H19  1  0.10938  0.73066  0.49467  1
+ H  H20  1  0.32087  0.56889  0.63180  1
+ O  O1  1  0.35301  0.47016  0.24249  1
+ O  O2  1  0.80070  0.53183  0.09776  1
+ O  O3  1  0.55508  0.93662  0.19987  1
+ O  O4  1  0.02792  0.98940  0.05061  1
+ Zn  Zn1  1  0.39462  0.21930  0.14579  1

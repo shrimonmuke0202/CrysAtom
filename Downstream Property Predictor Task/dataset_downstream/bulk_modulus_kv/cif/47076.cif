@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_Na4SnO3
+_symmetry_space_group_name_H-M  'Cc'
+_cell_length_a       5.82828
+_cell_length_b       5.89639
+_cell_length_c       8.82479
+_cell_angle_alpha    83.5933
+_cell_angle_beta     70.7178
+_cell_angle_gamma    70.2504
+
+_symmetry_Int_Tables_number  9
+_chemical_formula_structural  Na4SnO3
+_chemical_formula_sum  Na8Sn2O6
+_cell_volume  269.42003351383227
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Na  Na1  1  0.52281  0.25262  0.93228  1
+ Na  Na2  1  0.96349  0.21901  0.08669  1
+ Na  Na3  1  0.60017  0.69411  0.71776  1
+ Na  Na4  1  0.31793  0.19411  0.28224  1
+ Na  Na5  1  0.75503  0.24883  0.50759  1
+ Na  Na6  1  0.26261  0.74883  0.49241  1
+ Na  Na7  1  0.05018  0.71901  0.91331  1
+ Na  Na8  1  0.45509  0.75262  0.06772  1
+ O  O1  1  0.04996  0.97161  0.32354  1
+ O  O2  1  0.37350  0.47161  0.67646  1
+ O  O3  1  0.17781  0.51142  0.13244  1
+ O  O4  1  0.31025  0.01142  0.86756  1
+ O  O5  1  0.70311  0.96206  0.12506  1
+ O  O6  1  0.82817  0.46206  0.87494  1
+ Sn  Sn1  1  0.86467  0.74782  0.28853  1
+ Sn  Sn2  1  0.15320  0.24782  0.71147  1

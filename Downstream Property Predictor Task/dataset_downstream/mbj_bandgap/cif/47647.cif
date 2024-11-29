@@ -1,0 +1,37 @@
+CIF file written using JARVIS-Tools package.
+data_CaSnS3
+_symmetry_space_group_name_H-M  'Cmcm'
+_cell_length_a       3.77778
+_cell_length_b       6.45819
+_cell_length_c       9.38577
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    107.006
+
+_symmetry_Int_Tables_number  63
+_chemical_formula_structural  CaSnS3
+_chemical_formula_sum  Ca2Sn2S6
+_cell_volume  218.97672869705167
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ca  Ca1  1  0.74653  0.49306  0.75000  1
+ Ca  Ca2  1  0.25347  0.50694  0.25000  1
+ S  S1  1  0.08116  0.16232  0.75000  1
+ S  S2  1  0.91884  0.83768  0.25000  1
+ S  S3  1  0.35705  0.71410  0.54858  1
+ S  S4  1  0.64295  0.28590  0.45142  1
+ S  S5  1  0.35705  0.71410  0.95142  1
+ S  S6  1  0.64295  0.28590  0.04858  1
+ Sn  Sn1  1  0.00000  0.00000  0.50000  1
+ Sn  Sn2  1  0.00000  0.00000  0.00000  1

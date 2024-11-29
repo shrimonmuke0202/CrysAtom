@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_Zn3Ru
+_symmetry_space_group_name_H-M  'I4/mmm'
+_cell_length_a       3.78472
+_cell_length_b       3.78473
+_cell_length_c       8.26023
+_cell_angle_alpha    103.244
+_cell_angle_beta     103.244
+_cell_angle_gamma    90.0001
+
+_symmetry_Int_Tables_number  139
+_chemical_formula_structural  Zn3Ru
+_chemical_formula_sum  Zn6Ru2
+_cell_volume  111.9385761916588
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ru  Ru1  1  0.88267  0.88267  0.76534  1
+ Ru  Ru2  1  0.11733  0.11733  0.23466  1
+ Zn  Zn1  1  0.62909  0.62909  0.25818  1
+ Zn  Zn2  1  0.37091  0.37091  0.74182  1
+ Zn  Zn3  1  0.50000  -0.00000  0.00000  1
+ Zn  Zn4  1  -0.00000  0.50000  -0.00000  1
+ Zn  Zn5  1  0.75000  0.25000  0.50000  1
+ Zn  Zn6  1  0.25000  0.75000  0.50000  1

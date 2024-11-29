@@ -1,0 +1,67 @@
+CIF file written using JARVIS-Tools package.
+data_Ca3N2
+_symmetry_space_group_name_H-M  'Ia-3'
+_cell_length_a       9.8814
+_cell_length_b       9.8814
+_cell_length_c       9.8814
+_cell_angle_alpha    109.471
+_cell_angle_beta     109.471
+_cell_angle_gamma    109.471
+
+_symmetry_Int_Tables_number  206
+_chemical_formula_structural  Ca3N2
+_chemical_formula_sum  Ca24N6
+_cell_volume  742.7338012900972
+_cell_formula_units_Z  8
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ca  Ca1  1  0.45574  0.46321  0.22752  1
+ Ca  Ca2  1  0.99253  0.95574  0.72821  1
+ Ca  Ca3  1  0.04426  0.27179  0.00747  1
+ Ca  Ca4  1  0.27248  0.73568  0.22821  1
+ Ca  Ca5  1  0.76432  0.03679  0.49253  1
+ Ca  Ca6  1  0.22752  0.45574  0.46321  1
+ Ca  Ca7  1  0.72821  0.99253  0.95574  1
+ Ca  Ca8  1  0.26432  0.77179  0.72752  1
+ Ca  Ca9  1  0.50747  0.23568  0.96321  1
+ Ca  Ca10  1  0.95574  0.72821  0.99253  1
+ Ca  Ca11  1  0.72752  0.26432  0.77179  1
+ Ca  Ca12  1  0.23568  0.96321  0.50747  1
+ Ca  Ca13  1  0.53679  0.77248  0.54426  1
+ Ca  Ca14  1  0.77248  0.54426  0.53679  1
+ Ca  Ca15  1  0.54426  0.53679  0.77248  1
+ Ca  Ca16  1  0.22821  0.27248  0.73568  1
+ Ca  Ca17  1  0.03679  0.49253  0.76432  1
+ Ca  Ca18  1  0.73568  0.22821  0.27248  1
+ Ca  Ca19  1  0.49253  0.76432  0.03679  1
+ Ca  Ca20  1  0.46321  0.22752  0.45574  1
+ Ca  Ca21  1  0.96321  0.50747  0.23568  1
+ Ca  Ca22  1  0.27179  0.00747  0.04426  1
+ Ca  Ca23  1  0.77179  0.72752  0.26432  1
+ Ca  Ca24  1  0.00747  0.04426  0.27179  1
+ N  N1  1  0.50000  0.50000  0.50000  1
+ N  N2  1  0.28957  0.53957  0.75000  1
+ N  N3  1  0.00000  0.00000  0.50000  1
+ N  N4  1  0.50000  0.00000  0.00000  1
+ N  N5  1  -0.00000  0.50000  0.00000  1
+ N  N6  1  0.25000  0.21043  0.96043  1
+ N  N7  1  0.53957  0.75000  0.28957  1
+ N  N8  1  0.46043  0.25000  0.71043  1
+ N  N9  1  0.75000  0.28957  0.53957  1
+ N  N10  1  0.75000  0.78957  0.03957  1
+ N  N11  1  0.71043  0.46043  0.25000  1
+ N  N12  1  0.78957  0.03957  0.75000  1
+ N  N13  1  0.03957  0.75000  0.78957  1
+ N  N14  1  0.21043  0.96043  0.25000  1
+ N  N15  1  0.96043  0.25000  0.21043  1
+ N  N16  1  0.25000  0.71043  0.46043  1

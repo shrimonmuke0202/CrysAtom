@@ -1,0 +1,55 @@
+CIF file written using JARVIS-Tools package.
+data_Na3MnO3
+_symmetry_space_group_name_H-M  'P2_1/c'
+_cell_length_a       5.77723
+_cell_length_b       12.3918
+_cell_length_c       6.28396
+_cell_angle_alpha    90
+_cell_angle_beta     121.789
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  14
+_chemical_formula_structural  Na3MnO3
+_chemical_formula_sum  Na2Mn4O2
+_cell_volume  382.38513153697875
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Mn  Mn1  1  0.90137  0.83987  0.67162  1
+ Mn  Mn2  1  0.90137  0.66013  0.17162  1
+ Mn  Mn3  1  0.09863  0.16013  0.32838  1
+ Mn  Mn4  1  0.09863  0.33987  0.82838  1
+ Na  Na1  1  0.57220  0.22276  0.86185  1
+ Na  Na2  1  0.53269  0.48486  0.75441  1
+ Na  Na3  1  0.46731  0.98486  0.74559  1
+ Na  Na4  1  0.42780  0.72276  0.63815  1
+ Na  Na5  1  0.42780  0.77724  0.13815  1
+ Na  Na6  1  0.94842  0.10058  0.78997  1
+ Na  Na7  1  0.05158  0.89942  0.21003  1
+ Na  Na8  1  0.94842  0.39942  0.28997  1
+ Na  Na9  1  0.57220  0.27724  0.36185  1
+ Na  Na10  1  0.53269  0.01514  0.25441  1
+ Na  Na11  1  0.46731  0.51514  0.24559  1
+ Na  Na12  1  0.05158  0.60058  0.71003  1
+ O  O1  1  0.94047  0.73588  0.92706  1
+ O  O2  1  0.46886  0.12986  0.50910  1
+ O  O3  1  0.05953  0.23588  0.57294  1
+ O  O4  1  0.18529  0.56680  0.38075  1
+ O  O5  1  0.81471  0.43320  0.61925  1
+ O  O6  1  0.05953  0.26412  0.07294  1
+ O  O7  1  0.53114  0.87014  0.49090  1
+ O  O8  1  0.81471  0.06680  0.11925  1
+ O  O9  1  0.53114  0.62986  0.99090  1
+ O  O10  1  0.18529  0.93320  0.88075  1
+ O  O11  1  0.94047  0.76412  0.42706  1
+ O  O12  1  0.46886  0.37014  0.00910  1

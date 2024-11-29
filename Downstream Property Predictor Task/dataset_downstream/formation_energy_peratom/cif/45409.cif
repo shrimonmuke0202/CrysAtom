@@ -1,0 +1,69 @@
+CIF file written using JARVIS-Tools package.
+data_K3Sn5Cl3F10
+_symmetry_space_group_name_H-M  'Cmcm'
+_cell_length_a       4.34187
+_cell_length_b       9.7541
+_cell_length_c       20.755
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    102.86
+
+_symmetry_Int_Tables_number  63
+_chemical_formula_structural  K3Sn5Cl3F10
+_chemical_formula_sum  K6Sn0Cl6F20
+_cell_volume  856.9487188413204
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cl  Cl1  1  0.18581  0.37162  0.88686  1
+ Cl  Cl2  1  0.41940  0.83880  0.75000  1
+ Cl  Cl3  1  0.81419  0.62838  0.38686  1
+ Cl  Cl4  1  0.81419  0.62838  0.11314  1
+ Cl  Cl5  1  0.18581  0.37162  0.61314  1
+ Cl  Cl6  1  0.58060  0.16120  0.25000  1
+ F  F1  1  0.42911  0.85822  0.03564  1
+ F  F2  1  0.85762  0.71525  0.53673  1
+ F  F3  1  0.62339  0.24677  0.39944  1
+ F  F4  1  0.42911  0.85822  0.46436  1
+ F  F5  1  0.32683  0.65365  0.25000  1
+ F  F6  1  0.62339  0.24677  0.10056  1
+ F  F7  1  0.67317  0.34635  0.75000  1
+ F  F8  1  0.97708  0.95416  0.87149  1
+ F  F9  1  0.02292  0.04584  0.37149  1
+ F  F10  1  0.85762  0.71525  0.96327  1
+ F  F11  1  0.09413  0.18826  0.75000  1
+ F  F12  1  0.37661  0.75323  0.60056  1
+ F  F13  1  0.02292  0.04584  0.12851  1
+ F  F14  1  0.14238  0.28475  0.03673  1
+ F  F15  1  0.90587  0.81174  0.25000  1
+ F  F16  1  0.57089  0.14178  0.53564  1
+ F  F17  1  0.37661  0.75323  0.89944  1
+ F  F18  1  0.57089  0.14178  0.96436  1
+ F  F19  1  0.97708  0.95416  0.62851  1
+ F  F20  1  0.14238  0.28475  0.46327  1
+ K  K1  1  0.44120  0.88240  0.16368  1
+ K  K2  1  0.44120  0.88240  0.33632  1
+ K  K3  1  0.55880  0.11760  0.66368  1
+ K  K4  1  0.55880  0.11760  0.83632  1
+ K  K5  1  0.00000  0.00000  0.50000  1
+ K  K6  1  0.00000  0.00000  0.00000  1
+ Sn  Sn1  1  0.67261  0.34523  -0.00112  1
+ Sn  Sn2  1  0.87088  0.74176  0.64897  1
+ Sn  Sn3  1  0.67261  0.34523  0.50112  1
+ Sn  Sn4  1  0.12912  0.25824  0.14897  1
+ Sn  Sn5  1  0.87088  0.74176  0.85103  1
+ Sn  Sn6  1  0.20501  0.41002  0.75000  1
+ Sn  Sn7  1  0.79499  0.58998  0.25000  1
+ Sn  Sn8  1  0.32739  0.65477  0.49888  1
+ Sn  Sn9  1  0.12912  0.25824  0.35103  1
+ Sn  Sn10  1  0.32739  0.65477  0.00112  1

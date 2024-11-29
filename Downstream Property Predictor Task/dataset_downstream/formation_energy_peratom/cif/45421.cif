@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_NaSi2Pd3
+_symmetry_space_group_name_H-M  'Imm2'
+_cell_length_a       5.75359
+_cell_length_b       6.73084
+_cell_length_c       6.73084
+_cell_angle_alpha    63.8685
+_cell_angle_beta     64.6971
+_cell_angle_gamma    64.6971
+
+_symmetry_Int_Tables_number  44
+_chemical_formula_structural  NaSi2Pd3
+_chemical_formula_sum  Na2Si4Pd6
+_cell_volume  202.17336691868408
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Na  Na1  1  0.95394  0.00000  -0.00000  1
+ Na  Na2  1  0.02069  0.50000  0.50000  1
+ Pd  Pd1  1  0.49559  0.04973  0.45145  1
+ Pd  Pd2  1  0.49559  0.45145  0.04973  1
+ Pd  Pd3  1  0.99678  0.95027  0.54855  1
+ Pd  Pd4  1  0.50138  0.28083  0.71917  1
+ Pd  Pd5  1  0.50138  0.71917  0.28083  1
+ Pd  Pd6  1  0.99678  0.54855  0.95027  1
+ Si  Si1  1  0.38327  0.68856  0.68856  1
+ Si  Si2  1  0.28292  0.15669  0.15669  1
+ Si  Si3  1  0.76039  0.31144  0.31144  1
+ Si  Si4  1  0.59629  0.84331  0.84331  1

@@ -1,0 +1,31 @@
+CIF file written using JARVIS-Tools package.
+data_TaOF2
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       4.93307
+_cell_length_b       4.93307
+_cell_length_c       3.85992
+_cell_angle_alpha    112.776
+_cell_angle_beta     112.776
+_cell_angle_gamma    40.7665
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  TaOF2
+_chemical_formula_sum  TaOF2
+_cell_volume  55.86015992817562
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ F  F1  1  0.14376  0.14376  0.64234  1
+ F  F2  1  0.85624  0.85624  0.35766  1
+ O  O1  1  0.50000  0.50000  0.00000  1
+ Ta  Ta1  1  0.50000  0.50000  0.50000  1

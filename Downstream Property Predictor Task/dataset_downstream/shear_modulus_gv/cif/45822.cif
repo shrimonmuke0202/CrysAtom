@@ -1,0 +1,59 @@
+CIF file written using JARVIS-Tools package.
+data_Se
+_symmetry_space_group_name_H-M  'P2_1/c'
+_cell_length_a       9.07763
+_cell_length_b       9.02153
+_cell_length_c       11.7044
+_cell_angle_alpha    90
+_cell_angle_beta     90.9099
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  14
+_chemical_formula_structural  Se
+_chemical_formula_sum  Se32
+_cell_volume  958.4008529024946
+_cell_formula_units_Z  32
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Se  Se1  1  0.32383  0.47813  0.23096  1
+ Se  Se2  1  0.17617  0.97813  0.26904  1
+ Se  Se3  1  0.67617  0.52187  0.76904  1
+ Se  Se4  1  0.82383  0.02187  0.73096  1
+ Se  Se5  1  0.43328  0.65388  0.35790  1
+ Se  Se6  1  0.06672  0.15388  0.14210  1
+ Se  Se7  1  0.56672  0.34612  0.64210  1
+ Se  Se8  1  0.93328  0.84612  0.85790  1
+ Se  Se9  1  0.32296  0.63415  0.54031  1
+ Se  Se10  1  0.17704  0.13415  0.95969  1
+ Se  Se11  1  0.67704  0.36585  0.45969  1
+ Se  Se12  1  0.82296  0.86585  0.04031  1
+ Se  Se13  1  0.13477  0.81974  0.55734  1
+ Se  Se14  1  0.36523  0.31974  0.94266  1
+ Se  Se15  1  0.86523  0.18026  0.44266  1
+ Se  Se16  1  0.63477  0.68026  0.05734  1
+ Se  Se17  1  0.91132  0.68872  0.52188  1
+ Se  Se18  1  0.58868  0.18872  0.97812  1
+ Se  Se19  1  0.08868  0.31128  0.47812  1
+ Se  Se20  1  0.41132  0.81128  0.02188  1
+ Se  Se21  1  0.83898  0.73146  0.32967  1
+ Se  Se22  1  0.66102  0.23146  0.17033  1
+ Se  Se23  1  0.16102  0.26854  0.67033  1
+ Se  Se24  1  0.33898  0.76854  0.82967  1
+ Se  Se25  1  0.91740  0.51804  0.22504  1
+ Se  Se26  1  0.58260  0.01804  0.27496  1
+ Se  Se27  1  0.08260  0.48196  0.77496  1
+ Se  Se28  1  0.41740  0.98196  0.72504  1
+ Se  Se29  1  0.13098  0.60201  0.12940  1
+ Se  Se30  1  0.36902  0.10201  0.37060  1
+ Se  Se31  1  0.86902  0.39799  0.87060  1
+ Se  Se32  1  0.63098  0.89799  0.62940  1

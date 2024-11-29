@@ -1,0 +1,37 @@
+CIF file written using JARVIS-Tools package.
+data_Nb3B4W3
+_symmetry_space_group_name_H-M  'Amm2'
+_cell_length_a       6.16253
+_cell_length_b       6.16253
+_cell_length_c       3.23011
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90.6116
+
+_symmetry_Int_Tables_number  38
+_chemical_formula_structural  Nb3B4W3
+_chemical_formula_sum  Nb3B4W3
+_cell_volume  122.66215317154138
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ B  B1  1  0.39077  0.60923  0.00000  1
+ B  B2  1  0.60542  0.39458  0.00000  1
+ B  B3  1  0.11349  0.10815  0.00000  1
+ B  B4  1  0.89185  0.88651  0.00000  1
+ Nb  Nb1  1  0.49836  0.99979  0.00000  1
+ Nb  Nb2  1  0.00021  0.50164  0.00000  1
+ Nb  Nb3  1  0.82530  0.17470  0.50000  1
+ W  W1  1  0.17667  0.82333  0.50000  1
+ W  W2  1  0.67237  0.67443  0.50000  1
+ W  W3  1  0.32557  0.32763  0.50000  1

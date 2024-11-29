@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_PPbO4
+_symmetry_space_group_name_H-M  'Pban'
+_cell_length_a       5.94997
+_cell_length_b       4.43568
+_cell_length_c       5.92837
+_cell_angle_alpha    90.0038
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  50
+_chemical_formula_structural  PPbO4
+_chemical_formula_sum  P2Pb2O8
+_cell_volume  156.46246777231278
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ O  O1  1  0.60305  0.71230  0.60271  1
+ O  O2  1  0.60305  0.28770  0.89729  1
+ O  O3  1  0.39695  0.28770  0.39729  1
+ O  O4  1  0.39695  0.71230  0.10271  1
+ O  O5  1  0.89699  0.28767  0.60270  1
+ O  O6  1  0.89699  0.71233  0.89730  1
+ O  O7  1  0.10301  0.71233  0.39730  1
+ O  O8  1  0.10301  0.28767  0.10270  1
+ P  P1  1  0.75003  0.50000  0.75000  1
+ P  P2  1  0.24997  0.50000  0.25000  1
+ Pb  Pb1  1  0.25003  0.00000  0.75000  1
+ Pb  Pb2  1  0.74997  0.00000  0.25000  1

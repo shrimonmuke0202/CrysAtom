@@ -1,0 +1,57 @@
+CIF file written using JARVIS-Tools package.
+data_MnAlO3
+_symmetry_space_group_name_H-M  'Cmc2_1'
+_cell_length_a       5.94737
+_cell_length_b       5.94792
+_cell_length_c       10.545
+_cell_angle_alpha    89.998
+_cell_angle_beta     90.0023
+_cell_angle_gamma    127.426
+
+_symmetry_Int_Tables_number  36
+_chemical_formula_structural  MnAlO3
+_chemical_formula_sum  Mn6Al6O8
+_cell_volume  296.2316122377241
+_cell_formula_units_Z  6
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Al  Al1  1  0.35537  0.66442  0.73904  1
+ Al  Al2  1  0.66438  0.35520  0.73899  1
+ Al  Al3  1  0.64480  0.33561  0.23899  1
+ Al  Al4  1  0.33560  0.64462  0.23905  1
+ Al  Al5  1  0.97217  0.97215  0.76015  1
+ Al  Al6  1  0.02782  0.02787  0.26015  1
+ Mn  Mn1  1  0.65862  0.99008  0.49180  1
+ Mn  Mn2  1  0.32043  0.32045  0.51680  1
+ Mn  Mn3  1  0.99008  0.65860  0.49182  1
+ Mn  Mn4  1  0.00992  0.34139  0.99180  1
+ Mn  Mn5  1  0.67954  0.67957  0.01680  1
+ Mn  Mn6  1  0.34139  0.00993  0.99183  1
+ O  O1  1  0.43168  0.00306  0.82151  1
+ O  O2  1  0.74551  0.40343  0.04782  1
+ O  O3  1  0.25451  0.59661  0.54793  1
+ O  O4  1  0.70389  0.70379  0.19413  1
+ O  O5  1  0.40338  0.74551  0.04793  1
+ O  O6  1  0.07078  0.07078  0.93364  1
+ O  O7  1  0.92924  0.92921  0.43364  1
+ O  O8  1  0.59658  0.25447  0.54783  1
+ O  O9  1  0.95334  0.70825  0.66388  1
+ O  O10  1  0.63040  0.63055  0.84210  1
+ O  O11  1  0.56833  0.99688  0.32148  1
+ O  O12  1  0.29173  0.04667  0.16389  1
+ O  O13  1  0.29621  0.29610  0.69413  1
+ O  O14  1  0.36946  0.36960  0.34210  1
+ O  O15  1  0.04639  0.29162  0.16388  1
+ O  O16  1  0.00312  0.43171  0.82148  1
+ O  O17  1  0.99694  0.56829  0.32152  1
+ O  O18  1  0.70839  0.95361  0.66389  1

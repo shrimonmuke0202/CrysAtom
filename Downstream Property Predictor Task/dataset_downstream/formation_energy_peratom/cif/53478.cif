@@ -1,0 +1,41 @@
+CIF file written using JARVIS-Tools package.
+data_K2SO4
+_symmetry_space_group_name_H-M  'Cmcm'
+_cell_length_a       5.74469
+_cell_length_b       5.74469
+_cell_length_c       7.85887
+_cell_angle_alpha    90.0024
+_cell_angle_beta     90.0024
+_cell_angle_gamma    118.398
+
+_symmetry_Int_Tables_number  63
+_chemical_formula_structural  K2SO4
+_chemical_formula_sum  K4S2O8
+_cell_volume  228.14431957884975
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ K  K1  1  0.30875  0.69125  0.25000  1
+ K  K2  1  0.69125  0.30875  0.75000  1
+ K  K3  1  0.00000  0.00000  0.50000  1
+ K  K4  1  0.00000  0.00000  0.00000  1
+ O  O1  1  0.73804  0.26198  0.09542  1
+ O  O2  1  0.26196  0.73802  0.90458  1
+ O  O3  1  0.26198  0.73804  0.59542  1
+ O  O4  1  0.73802  0.26196  0.40458  1
+ O  O5  1  0.35527  0.23051  0.24998  1
+ O  O6  1  0.64473  0.76949  0.75002  1
+ O  O7  1  0.23051  0.35527  0.74998  1
+ O  O8  1  0.76949  0.64473  0.25002  1
+ S  S1  1  0.65107  0.34893  0.25000  1
+ S  S2  1  0.34893  0.65107  0.75000  1

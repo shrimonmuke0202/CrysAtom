@@ -1,0 +1,51 @@
+CIF file written using JARVIS-Tools package.
+data_BaSrSi4
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       6.59553
+_cell_length_b       8.97586
+_cell_length_c       11.2818
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  BaSrSi4
+_chemical_formula_sum  Ba4Sr4Si6
+_cell_volume  667.8899473375693
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ba  Ba1  1  0.25000  0.02004  0.31196  1
+ Ba  Ba2  1  0.25000  0.52004  0.18804  1
+ Ba  Ba3  1  0.75000  0.97996  0.68804  1
+ Ba  Ba4  1  0.75000  0.47996  0.81196  1
+ Si  Si1  1  0.25000  0.19729  0.03922  1
+ Si  Si2  1  0.25000  0.69729  0.46078  1
+ Si  Si3  1  0.75000  0.80271  0.96078  1
+ Si  Si4  1  0.43311  0.18662  0.85379  1
+ Si  Si5  1  0.25000  0.41221  0.90408  1
+ Si  Si6  1  0.25000  0.91221  0.59592  1
+ Si  Si7  1  0.75000  0.30271  0.53922  1
+ Si  Si8  1  0.75000  0.08779  0.40408  1
+ Si  Si9  1  0.06689  0.18662  0.85379  1
+ Si  Si10  1  0.56689  0.81338  0.14621  1
+ Si  Si11  1  0.75000  0.58779  0.09592  1
+ Si  Si12  1  0.93311  0.31338  0.35379  1
+ Si  Si13  1  0.93311  0.81338  0.14621  1
+ Si  Si14  1  0.56689  0.31338  0.35379  1
+ Si  Si15  1  0.43311  0.68662  0.64621  1
+ Si  Si16  1  0.06689  0.68662  0.64621  1
+ Sr  Sr1  1  0.75000  0.64967  0.40591  1
+ Sr  Sr2  1  0.75000  0.14967  0.09409  1
+ Sr  Sr3  1  0.25000  0.35033  0.59409  1
+ Sr  Sr4  1  0.25000  0.85033  0.90591  1

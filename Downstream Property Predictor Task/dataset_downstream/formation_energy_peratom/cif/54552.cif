@@ -1,0 +1,55 @@
+CIF file written using JARVIS-Tools package.
+data_MgCoSiO4
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       4.7888
+_cell_length_b       6.02273
+_cell_length_c       10.1746
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  MgCoSiO4
+_chemical_formula_sum  Mg4Co4Si4O6
+_cell_volume  293.45328231765035
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Co  Co1  1  0.48926  0.75000  0.77664  1
+ Co  Co2  1  0.01074  0.75000  0.27664  1
+ Co  Co3  1  0.51074  0.25000  0.22336  1
+ Co  Co4  1  0.98926  0.25000  0.72336  1
+ Mg  Mg1  1  0.50000  0.00000  0.50000  1
+ Mg  Mg2  1  0.00000  0.50000  0.00000  1
+ Mg  Mg3  1  0.50000  0.50000  0.50000  1
+ Mg  Mg4  1  0.00000  0.00000  0.00000  1
+ O  O1  1  0.23120  0.75000  0.08811  1
+ O  O2  1  0.77526  0.75000  0.44801  1
+ O  O3  1  0.72474  0.75000  0.94801  1
+ O  O4  1  0.26880  0.75000  0.58811  1
+ O  O5  1  0.73120  0.25000  0.41189  1
+ O  O6  1  0.78012  0.53089  0.66468  1
+ O  O7  1  0.22474  0.25000  0.55199  1
+ O  O8  1  0.76880  0.25000  0.91189  1
+ O  O9  1  0.78012  0.96911  0.66468  1
+ O  O10  1  0.21988  0.03089  0.33532  1
+ O  O11  1  0.21988  0.46911  0.33532  1
+ O  O12  1  0.28012  0.03089  0.83532  1
+ O  O13  1  0.27526  0.25000  0.05199  1
+ O  O14  1  0.28012  0.46911  0.83532  1
+ O  O15  1  0.71988  0.53089  0.16468  1
+ O  O16  1  0.71988  0.96911  0.16468  1
+ Si  Si1  1  0.92994  0.75000  0.59561  1
+ Si  Si2  1  0.57006  0.75000  0.09561  1
+ Si  Si3  1  0.07006  0.25000  0.40439  1
+ Si  Si4  1  0.42994  0.25000  0.90439  1

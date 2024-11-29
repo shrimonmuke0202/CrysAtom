@@ -1,0 +1,52 @@
+CIF file written using JARVIS-Tools package.
+data_Ba4ScTi4BiO15
+_symmetry_space_group_name_H-M  'Cmmm'
+_cell_length_a       14.4755
+_cell_length_b       14.4754
+_cell_length_c       4.02679
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    157.215
+
+_symmetry_Int_Tables_number  65
+_chemical_formula_structural  Ba4ScTi4BiO15
+_chemical_formula_sum  Ba4ScTi4BiO5
+_cell_volume  326.7698590374167
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ba  Ba1  1  0.59998  0.40002  0.00000  1
+ Ba  Ba2  1  0.20002  0.79998  0.00000  1
+ Ba  Ba3  1  0.79998  0.20002  0.00000  1
+ Ba  Ba4  1  0.40002  0.59998  0.00000  1
+ Bi  Bi1  1  0.00000  0.00000  0.00000  1
+ O  O1  1  0.90200  0.09800  0.00000  1
+ O  O2  1  0.50000  0.50000  0.00000  1
+ O  O3  1  -0.00000  0.50000  0.50000  1
+ O  O4  1  0.70009  0.29991  0.00000  1
+ O  O5  1  0.29991  0.70009  0.00000  1
+ O  O6  1  0.10213  0.40204  0.50000  1
+ O  O7  1  0.09800  0.90200  0.00000  1
+ O  O8  1  0.27986  0.18013  0.50000  1
+ O  O9  1  0.89787  0.59796  0.50000  1
+ O  O10  1  0.18013  0.27986  0.50000  1
+ O  O11  1  0.72014  0.81987  0.50000  1
+ O  O12  1  0.81987  0.72014  0.50000  1
+ O  O13  1  0.40204  0.10213  0.50000  1
+ O  O14  1  0.50000  0.00000  0.50000  1
+ O  O15  1  0.59796  0.89787  0.50000  1
+ Sc  Sc1  1  0.50000  0.50000  0.50000  1
+ Ti  Ti1  1  0.90035  0.09965  0.50000  1
+ Ti  Ti2  1  0.30003  0.69997  0.50000  1
+ Ti  Ti3  1  0.69997  0.30003  0.50000  1
+ Ti  Ti4  1  0.09965  0.90035  0.50000  1

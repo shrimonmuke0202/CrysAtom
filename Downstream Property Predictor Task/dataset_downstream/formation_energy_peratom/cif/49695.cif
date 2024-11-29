@@ -1,0 +1,47 @@
+CIF file written using JARVIS-Tools package.
+data_Sn4Rh
+_symmetry_space_group_name_H-M  'I4_1/acd'
+_cell_length_a       12.5808
+_cell_length_b       12.5807
+_cell_length_c       12.5807
+_cell_angle_alpha    150.566
+_cell_angle_beta     150.566
+_cell_angle_gamma    42.1106
+
+_symmetry_Int_Tables_number  142
+_chemical_formula_structural  Sn4Rh
+_chemical_formula_sum  Sn6Rh4
+_cell_volume  479.7108662072162
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Rh  Rh1  1  0.50000  -0.00000  0.50000  1
+ Rh  Rh2  1  0.75000  0.75000  0.00000  1
+ Rh  Rh3  1  0.00000  0.50000  0.50000  1
+ Rh  Rh4  1  0.25000  0.25000  -0.00000  1
+ Sn  Sn1  1  0.36342  0.51045  0.50018  1
+ Sn  Sn2  1  0.63676  0.48974  0.50018  1
+ Sn  Sn3  1  0.88658  0.88676  0.64702  1
+ Sn  Sn4  1  0.38658  0.73955  0.99982  1
+ Sn  Sn5  1  0.61324  0.61342  0.35298  1
+ Sn  Sn6  1  0.11324  0.76026  0.99982  1
+ Sn  Sn7  1  0.13676  0.63658  0.14702  1
+ Sn  Sn8  1  0.98955  0.13658  0.49982  1
+ Sn  Sn9  1  0.73974  0.38676  0.00018  1
+ Sn  Sn10  1  0.23974  0.23955  0.35298  1
+ Sn  Sn11  1  0.76045  0.11342  0.00018  1
+ Sn  Sn12  1  0.26045  0.26026  0.64702  1
+ Sn  Sn13  1  0.01026  0.86324  0.49982  1
+ Sn  Sn14  1  0.51026  0.01045  0.14702  1
+ Sn  Sn15  1  0.48955  0.98974  0.85298  1
+ Sn  Sn16  1  0.86342  0.36324  0.85298  1

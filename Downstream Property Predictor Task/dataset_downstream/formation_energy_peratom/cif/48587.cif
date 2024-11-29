@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_AlIn3Cu4Se8
+_symmetry_space_group_name_H-M  'P1'
+_cell_length_a       5.79888
+_cell_length_b       7.1137
+_cell_length_c       10.86
+_cell_angle_alpha    77.2796
+_cell_angle_beta     74.5022
+_cell_angle_gamma    65.9454
+
+_symmetry_Int_Tables_number  1
+_chemical_formula_structural  AlIn3Cu4Se8
+_chemical_formula_sum  AlIn3Cu4Se8
+_cell_volume  391.0474509166256
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Al  Al1  1  0.24730  0.37583  0.12464  1
+ Cu  Cu1  1  0.74900  0.61668  0.88087  1
+ Cu  Cu2  1  0.75164  0.13313  0.36888  1
+ Cu  Cu3  1  0.99325  0.00165  0.00552  1
+ Cu  Cu4  1  0.00639  0.49813  0.49459  1
+ In  In1  1  0.25253  0.87419  0.62543  1
+ In  In2  1  0.50098  0.24974  0.75479  1
+ In  In3  1  0.49869  0.75055  0.24502  1
+ Se  Se1  1  0.35990  0.68294  0.05052  1
+ Se  Se2  1  0.38108  0.20419  0.54754  1
+ Se  Se3  1  0.89717  0.42425  0.31291  1
+ Se  Se4  1  0.87664  0.91700  0.83164  1
+ Se  Se5  1  0.10352  0.31149  0.95215  1
+ Se  Se6  1  0.09278  0.81588  0.43510  1
+ Se  Se7  1  0.66578  0.55992  0.68619  1
+ Se  Se8  1  0.62335  0.08444  0.18419  1

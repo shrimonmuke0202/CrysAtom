@@ -1,0 +1,37 @@
+CIF file written using JARVIS-Tools package.
+data_SiC
+_symmetry_space_group_name_H-M  'R3m'
+_cell_length_a       12.8106
+_cell_length_b       12.8106
+_cell_length_c       12.8106
+_cell_angle_alpha    13.9005
+_cell_angle_beta     13.9005
+_cell_angle_gamma    13.9005
+
+_symmetry_Int_Tables_number  160
+_chemical_formula_structural  SiC
+_chemical_formula_sum  Si5C5
+_cell_volume  105.5956515110164
+_cell_formula_units_Z  5
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ C  C1  1  0.86665  0.86665  0.86665  1
+ C  C2  1  0.59986  0.59986  0.59986  1
+ C  C3  1  0.39990  0.39990  0.39990  1
+ C  C4  1  0.13342  0.13342  0.13342  1
+ C  C5  1  0.00006  0.00006  0.00006  1
+ Si  Si1  1  0.91664  0.91664  0.91664  1
+ Si  Si2  1  0.65000  0.65000  0.65000  1
+ Si  Si3  1  0.45004  0.45004  0.45004  1
+ Si  Si4  1  0.18340  0.18340  0.18340  1
+ Si  Si5  1  0.05002  0.05002  0.05002  1

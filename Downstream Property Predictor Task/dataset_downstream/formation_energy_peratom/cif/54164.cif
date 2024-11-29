@@ -1,0 +1,45 @@
+CIF file written using JARVIS-Tools package.
+data_Ca2MnGaO5
+_symmetry_space_group_name_H-M  'Ima2'
+_cell_length_a       5.34851
+_cell_length_b       5.60077
+_cell_length_c       8.37886
+_cell_angle_alpha    109.526
+_cell_angle_beta     108.617
+_cell_angle_gamma    89.997
+
+_symmetry_Int_Tables_number  46
+_chemical_formula_structural  Ca2MnGaO5
+_chemical_formula_sum  Ca4Mn2Ga2O0
+_cell_volume  222.57885998628578
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ca  Ca1  1  0.60579  0.13549  0.21583  1
+ Ca  Ca2  1  0.38998  0.86452  0.78418  1
+ Ca  Ca3  1  0.10579  0.58035  0.21583  1
+ Ca  Ca4  1  0.88998  0.41966  0.78418  1
+ Ga  Ga1  1  0.27911  0.18234  0.50001  1
+ Ga  Ga2  1  0.77911  0.81766  0.50000  1
+ Mn  Mn1  1  0.98564  -0.00000  -0.00000  1
+ Mn  Mn2  1  0.48564  0.50000  -0.00000  1
+ O  O1  1  0.72340  0.24092  0.97199  1
+ O  O2  1  0.13475  0.87004  0.50000  1
+ O  O3  1  0.30604  0.43085  0.71610  1
+ O  O4  1  0.63475  0.12997  0.50000  1
+ O  O5  1  0.22341  0.23106  0.97199  1
+ O  O6  1  0.09000  0.21478  0.28391  1
+ O  O7  1  0.25129  0.76882  0.02800  1
+ O  O8  1  0.58999  0.56915  0.28390  1
+ O  O9  1  0.80603  0.78522  0.71608  1
+ O  O10  1  0.75129  0.75919  0.02800  1

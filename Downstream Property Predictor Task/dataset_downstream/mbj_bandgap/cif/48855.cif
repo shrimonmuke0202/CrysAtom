@@ -1,0 +1,30 @@
+CIF file written using JARVIS-Tools package.
+data_MgSiN
+_symmetry_space_group_name_H-M  'Pmm2'
+_cell_length_a       5.99601
+_cell_length_b       3.30412
+_cell_length_c       3.51577
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    123.325
+
+_symmetry_Int_Tables_number  25
+_chemical_formula_structural  MgSiN
+_chemical_formula_sum  MgSiN
+_cell_volume  58.199984978864606
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Mg  Mg1  1  0.25382  -0.07981  0.00000  1
+ N  N1  1  0.03601  0.20300  0.00000  1
+ Si  Si1  1  0.71017  0.87681  0.00000  1

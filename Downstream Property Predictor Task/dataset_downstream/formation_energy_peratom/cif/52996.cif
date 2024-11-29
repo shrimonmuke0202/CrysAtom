@@ -1,0 +1,55 @@
+CIF file written using JARVIS-Tools package.
+data_Li4MnCo2O7
+_symmetry_space_group_name_H-M  'P1'
+_cell_length_a       4.9081
+_cell_length_b       6.38157
+_cell_length_c       7.55152
+_cell_angle_alpha    86.0196
+_cell_angle_beta     77.3951
+_cell_angle_gamma    82.7589
+
+_symmetry_Int_Tables_number  1
+_chemical_formula_structural  Li4MnCo2O7
+_chemical_formula_sum  Li8Mn2Co4O4
+_cell_volume  228.76827914832
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Co  Co1  1  0.85629  0.28746  0.28793  1
+ Co  Co2  1  0.42804  0.14292  0.14403  1
+ Co  Co3  1  0.28465  0.43030  0.43018  1
+ Co  Co4  1  0.57220  0.85659  0.85603  1
+ Li  Li1  1  0.71587  0.56922  0.56838  1
+ Li  Li2  1  0.37276  0.29305  0.77297  1
+ Li  Li3  1  0.92023  0.15535  0.63292  1
+ Li  Li4  1  0.06033  0.84544  0.36520  1
+ Li  Li5  1  0.21571  0.56495  0.07589  1
+ Li  Li6  1  0.50990  0.99851  0.50156  1
+ Li  Li7  1  0.64427  0.70404  0.22964  1
+ Li  Li8  1  0.77471  0.43660  0.92030  1
+ Mn  Mn1  1  0.99975  0.00147  0.00113  1
+ Mn  Mn2  1  0.14649  0.70785  0.70743  1
+ O  O1  1  0.89144  0.73121  0.95291  1
+ O  O2  1  0.17991  0.16412  0.37649  1
+ O  O3  1  0.31940  0.87511  0.09453  1
+ O  O4  1  0.60396  0.29039  0.51753  1
+ O  O5  1  0.68045  0.12807  0.90619  1
+ O  O6  1  0.10783  0.26657  0.04641  1
+ O  O7  1  0.82941  0.85376  0.62610  1
+ O  O8  1  0.53539  0.40755  0.19384  1
+ O  O9  1  0.97459  0.55086  0.32232  1
+ O  O10  1  0.24977  0.98451  0.76389  1
+ O  O11  1  0.44916  0.59304  0.82156  1
+ O  O12  1  0.75163  0.01193  0.23614  1
+ O  O13  1  0.37162  0.70820  0.47462  1
+ O  O14  1  0.05425  0.44091  0.67389  1

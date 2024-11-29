@@ -1,0 +1,49 @@
+CIF file written using JARVIS-Tools package.
+data_CdH10C7O4
+_symmetry_space_group_name_H-M  'P1'
+_cell_length_a       3.8633
+_cell_length_b       4.2702
+_cell_length_c       11.7912
+_cell_angle_alpha    89.5627
+_cell_angle_beta     102.486
+_cell_angle_gamma    105.091
+
+_symmetry_Int_Tables_number  1
+_chemical_formula_structural  CdH10C7O4
+_chemical_formula_sum  CdH0C7O4
+_cell_volume  183.12481039710605
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ C  C1  1  0.96009  0.62028  0.97367  1
+ C  C2  1  0.09277  0.83611  0.08401  1
+ C  C3  1  0.19885  0.65047  0.19251  1
+ C  C4  1  0.32321  0.87153  0.30325  1
+ C  C5  1  0.40184  0.69186  0.41481  1
+ C  C6  1  0.54167  0.92371  0.52276  1
+ C  C7  1  0.48248  0.78493  0.63785  1
+ Cd  Cd1  1  0.24528  0.22865  0.80794  1
+ H  H1  1  0.40152  0.11958  0.51345  1
+ H  H2  1  0.14826  0.51083  0.42292  1
+ H  H3  1  0.86602  0.93865  0.09273  1
+ H  H4  1  0.32435  0.03893  0.07453  1
+ H  H5  1  0.56943  0.06658  0.29731  1
+ H  H6  1  0.10948  -0.00494  0.30872  1
+ H  H7  1  0.96178  0.44832  0.19975  1
+ H  H8  1  0.41887  0.53993  0.18259  1
+ H  H9  1  0.60346  0.55551  0.40918  1
+ H  H10  1  0.83360  0.05282  0.53380  1
+ O  O1  1  0.27380  0.50353  0.63990  1
+ O  O2  1  0.69797  0.36564  0.97109  1
+ O  O3  1  0.63168  0.97518  0.73031  1
+ O  O4  1  0.11682  0.69370  0.88773  1

@@ -1,0 +1,45 @@
+CIF file written using JARVIS-Tools package.
+data_ErB4Ir4
+_symmetry_space_group_name_H-M  'P4_2/nmc'
+_cell_length_a       5.40389
+_cell_length_b       5.40389
+_cell_length_c       7.47466
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  137
+_chemical_formula_structural  ErB4Ir4
+_chemical_formula_sum  Er2B8Ir8
+_cell_volume  218.2754451884388
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ B  B1  1  0.82820  0.50000  0.15239  1
+ B  B2  1  0.00000  0.67180  0.65239  1
+ B  B3  1  0.50000  0.82820  0.84761  1
+ B  B4  1  0.32820  0.00000  0.34761  1
+ B  B5  1  0.67180  0.00000  0.34761  1
+ B  B6  1  0.50000  0.17180  0.84761  1
+ B  B7  1  0.00000  0.32820  0.65239  1
+ B  B8  1  0.17180  0.50000  0.15239  1
+ Er  Er1  1  0.00000  0.00000  0.00000  1
+ Er  Er2  1  0.50000  0.50000  0.50000  1
+ Ir  Ir1  1  0.50000  0.74920  0.14530  1
+ Ir  Ir2  1  0.25080  0.50000  0.85470  1
+ Ir  Ir3  1  0.74920  0.50000  0.85470  1
+ Ir  Ir4  1  0.00000  0.75080  0.35470  1
+ Ir  Ir5  1  0.00000  0.24920  0.35470  1
+ Ir  Ir6  1  0.24920  0.00000  0.64530  1
+ Ir  Ir7  1  0.75080  0.00000  0.64530  1
+ Ir  Ir8  1  0.50000  0.25080  0.14530  1

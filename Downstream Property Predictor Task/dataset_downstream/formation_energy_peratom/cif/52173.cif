@@ -1,0 +1,47 @@
+CIF file written using JARVIS-Tools package.
+data_Li5Co5O9F
+_symmetry_space_group_name_H-M  'P1'
+_cell_length_a       4.93258
+_cell_length_b       4.98875
+_cell_length_c       7.57921
+_cell_angle_alpha    70.337
+_cell_angle_beta     70.5152
+_cell_angle_gamma    80.094
+
+_symmetry_Int_Tables_number  1
+_chemical_formula_structural  Li5Co5O9F
+_chemical_formula_sum  Li5Co5O9F
+_cell_volume  165.1948886606542
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Co  Co1  1  0.79999  0.01725  0.39729  1
+ Co  Co2  1  0.39341  0.00624  0.19832  1
+ Co  Co3  1  0.00215  0.00812  0.99586  1
+ Co  Co4  1  0.20015  0.00591  0.59986  1
+ Co  Co5  1  0.60109  0.00470  0.79949  1
+ F  F1  1  0.75178  0.69851  0.25011  1
+ Li  Li1  1  0.89898  0.51206  0.69534  1
+ Li  Li2  1  0.49864  0.49954  0.50947  1
+ Li  Li3  1  0.11133  0.49770  0.30621  1
+ Li  Li4  1  0.29673  0.51057  0.89917  1
+ Li  Li5  1  0.69312  0.49472  0.09051  1
+ O  O1  1  0.65002  0.21640  0.95805  1
+ O  O2  1  0.94788  0.78433  0.84424  1
+ O  O3  1  0.04966  0.21508  0.15243  1
+ O  O4  1  0.34623  0.78020  0.04373  1
+ O  O5  1  0.45102  0.21714  0.35135  1
+ O  O6  1  0.85557  0.23328  0.56485  1
+ O  O7  1  0.14747  0.78680  0.44613  1
+ O  O8  1  0.25411  0.22216  0.75507  1
+ O  O9  1  0.55068  0.78930  0.64251  1

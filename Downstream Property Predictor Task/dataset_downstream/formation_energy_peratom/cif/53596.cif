@@ -1,0 +1,51 @@
+CIF file written using JARVIS-Tools package.
+data_KCr2FeO8
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       5.53807
+_cell_length_b       8.76621
+_cell_length_c       8.50122
+_cell_angle_alpha    66.5143
+_cell_angle_beta     90.0012
+_cell_angle_gamma    108.412
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  KCr2FeO8
+_chemical_formula_sum  K2Cr4Fe2O6
+_cell_volume  355.37513694266937
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cr  Cr1  1  0.64569  0.29136  0.97422  1
+ Cr  Cr2  1  0.14569  0.29136  0.47422  1
+ Cr  Cr3  1  0.85431  0.70864  0.52578  1
+ Cr  Cr4  1  0.35431  0.70864  0.02578  1
+ Fe  Fe1  1  0.75000  0.50000  0.25000  1
+ Fe  Fe2  1  0.25000  0.50000  0.75000  1
+ K  K1  1  0.49998  -0.00000  0.50000  1
+ K  K2  1  0.00002  -0.00000  0.00000  1
+ O  O1  1  0.54847  0.09683  0.13505  1
+ O  O2  1  0.04849  0.09683  0.63505  1
+ O  O3  1  0.95153  0.90317  0.36495  1
+ O  O4  1  0.09349  0.68623  0.64606  1
+ O  O5  1  0.72554  0.45100  0.04323  1
+ O  O6  1  0.22552  0.45100  0.54323  1
+ O  O7  1  0.45151  0.90317  0.86495  1
+ O  O8  1  0.59276  0.68621  0.64611  1
+ O  O9  1  0.90724  0.31378  0.85389  1
+ O  O10  1  0.40723  0.31380  0.35388  1
+ O  O11  1  0.77446  0.54900  0.45677  1
+ O  O12  1  0.09277  0.68620  0.14612  1
+ O  O13  1  0.40651  0.31377  0.85394  1
+ O  O14  1  0.90648  0.31376  0.35395  1
+ O  O15  1  0.27448  0.54900  0.95676  1
+ O  O16  1  0.59352  0.68624  0.14605  1

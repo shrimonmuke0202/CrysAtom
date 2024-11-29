@@ -1,0 +1,51 @@
+CIF file written using JARVIS-Tools package.
+data_TiH12C7O4
+_symmetry_space_group_name_H-M  'P1'
+_cell_length_a       4.81972
+_cell_length_b       5.82975
+_cell_length_c       7.89952
+_cell_angle_alpha    77.5295
+_cell_angle_beta     83.304
+_cell_angle_gamma    89.2875
+
+_symmetry_Int_Tables_number  1
+_chemical_formula_structural  TiH12C7O4
+_chemical_formula_sum  TiH2C7O4
+_cell_volume  215.2255810433317
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ C  C1  1  0.43963  0.52482  0.98476  1
+ C  C2  1  0.05418  0.58821  0.56798  1
+ C  C3  1  0.50371  0.03425  0.54834  1
+ C  C4  1  0.65592  0.15160  0.37332  1
+ C  C5  1  0.49077  0.15488  0.21824  1
+ C  C6  1  0.32209  0.38031  0.16007  1
+ C  C7  1  0.09506  0.01879  0.91539  1
+ H  H1  1  0.85397  0.05828  0.35990  1
+ H  H2  1  0.32167  0.49382  0.25523  1
+ H  H3  1  0.10392  0.34093  0.15106  1
+ H  H4  1  0.71741  0.32995  0.38224  1
+ H  H5  1  0.96708  0.68091  0.44935  1
+ H  H6  1  0.31793  0.06226  0.89746  1
+ H  H7  1  -0.02671  0.18000  0.88530  1
+ H  H8  1  0.03121  0.92399  0.05123  1
+ H  H9  1  -0.05533  0.41803  0.61965  1
+ H  H10  1  0.27789  0.55777  0.53780  1
+ H  H11  1  0.34668  0.00323  0.25034  1
+ H  H12  1  0.63808  0.12899  0.10768  1
+ O  O1  1  0.66148  0.95791  0.67225  1
+ O  O2  1  0.28105  0.59441  0.86861  1
+ O  O3  1  0.24451  0.00905  0.57009  1
+ O  O4  1  0.70508  0.57081  0.95856  1
+ Ti  Ti1  1  0.95817  0.78068  0.77163  1

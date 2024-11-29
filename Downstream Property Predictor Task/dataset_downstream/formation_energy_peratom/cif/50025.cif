@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_HC3SNO2
+_symmetry_space_group_name_H-M  'P1'
+_cell_length_a       4.89902
+_cell_length_b       6.56316
+_cell_length_c       6.47151
+_cell_angle_alpha    78.7792
+_cell_angle_beta     83.4805
+_cell_angle_gamma    70.7855
+
+_symmetry_Int_Tables_number  1
+_chemical_formula_structural  HC3SNO2
+_chemical_formula_sum  H2C6S2N2O4
+_cell_volume  192.45560985845597
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ C  C1  1  0.66934  0.24441  0.72122  1
+ C  C2  1  0.41023  0.21401  0.86021  1
+ C  C3  1  0.16934  0.74441  0.22122  1
+ C  C4  1  0.91023  0.71401  0.36021  1
+ C  C5  1  0.39310  0.78525  0.33737  1
+ C  C6  1  0.89309  0.28525  0.83738  1
+ H  H1  1  0.21181  0.17861  0.60522  1
+ H  H2  1  0.71182  0.67861  0.10522  1
+ N  N1  1  0.17500  0.21834  0.75388  1
+ N  N2  1  0.67500  0.71834  0.25388  1
+ O  O1  1  0.32203  0.88062  0.48980  1
+ O  O2  1  0.82203  0.38062  0.98980  1
+ O  O3  1  0.40993  0.17985  0.05316  1
+ O  O4  1  0.90994  0.67985  0.55315  1
+ S  S1  1  0.69998  0.24510  0.46854  1
+ S  S2  1  0.19999  0.74510  0.96854  1

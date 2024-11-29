@@ -1,0 +1,33 @@
+CIF file written using JARVIS-Tools package.
+data_NaNbF4
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       3.67005
+_cell_length_b       3.6716
+_cell_length_c       5.34951
+_cell_angle_alpha    89.0217
+_cell_angle_beta     88.9545
+_cell_angle_gamma    90.0831
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  NaNbF4
+_chemical_formula_sum  NaNbF4
+_cell_volume  72.06171599291885
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ F  F1  1  0.49504  0.99826  0.23012  1
+ F  F2  1  0.99817  0.49535  0.23004  1
+ F  F3  1  0.50496  0.00174  0.76988  1
+ F  F4  1  0.00183  0.50465  0.76996  1
+ Na  Na1  1  0.50000  0.50000  0.50000  1
+ Nb  Nb1  1  0.00000  0.00000  0.00000  1

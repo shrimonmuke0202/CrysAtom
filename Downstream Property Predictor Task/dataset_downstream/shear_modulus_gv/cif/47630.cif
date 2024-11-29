@@ -1,0 +1,37 @@
+CIF file written using JARVIS-Tools package.
+data_Y2Cl3
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       3.83769
+_cell_length_b       7.77372
+_cell_length_c       9.55954
+_cell_angle_alpha    69.9751
+_cell_angle_beta     78.4207
+_cell_angle_gamma    75.7096
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  Y2Cl3
+_chemical_formula_sum  Y4Cl6
+_cell_volume  257.53496429128234
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cl  Cl1  1  0.95092  0.36732  0.73084  1
+ Cl  Cl2  1  0.04908  0.63268  0.26916  1
+ Cl  Cl3  1  0.77093  0.34077  0.11736  1
+ Cl  Cl4  1  0.22907  0.65923  0.88264  1
+ Cl  Cl5  1  0.34225  0.80373  0.51177  1
+ Cl  Cl6  1  0.65775  0.19627  0.48823  1
+ Y  Y1  1  0.13724  0.01950  0.70602  1
+ Y  Y2  1  0.86276  0.98050  0.29398  1
+ Y  Y3  1  0.41087  0.23077  0.94748  1
+ Y  Y4  1  0.58913  0.76923  0.05252  1

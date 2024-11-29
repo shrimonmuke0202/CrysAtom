@@ -1,0 +1,41 @@
+CIF file written using JARVIS-Tools package.
+data_Rb7Au5O2
+_symmetry_space_group_name_H-M  'Immm'
+_cell_length_a       5.6849
+_cell_length_b       9.342
+_cell_length_c       9.88486
+_cell_angle_alpha    118.199
+_cell_angle_beta     106.71
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  71
+_chemical_formula_structural  Rb7Au5O2
+_chemical_formula_sum  Rb7Au5O2
+_cell_volume  437.34630909239615
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Au  Au1  1  0.00000  0.00000  0.00000  1
+ Au  Au2  1  0.35096  0.35094  0.70189  1
+ Au  Au3  1  0.64904  0.64906  0.29811  1
+ Au  Au4  1  0.68805  0.18805  0.37611  1
+ Au  Au5  1  0.31195  0.81195  0.62389  1
+ O  O1  1  0.00001  0.21654  0.00001  1
+ O  O2  1  -0.00001  0.78346  -0.00001  1
+ Rb  Rb1  1  -0.00000  0.50000  -0.00000  1
+ Rb  Rb2  1  0.50000  0.78863  -0.00000  1
+ Rb  Rb3  1  0.50000  0.21137  0.00000  1
+ Rb  Rb4  1  0.16809  0.39154  0.33619  1
+ Rb  Rb5  1  0.83191  0.60846  0.66381  1
+ Rb  Rb6  1  0.83191  0.05535  0.66382  1
+ Rb  Rb7  1  0.16809  0.94465  0.33618  1

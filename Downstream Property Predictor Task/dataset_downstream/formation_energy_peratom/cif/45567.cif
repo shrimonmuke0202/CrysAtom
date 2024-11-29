@@ -1,0 +1,41 @@
+CIF file written using JARVIS-Tools package.
+data_Ni5Sb2
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       5.47308
+_cell_length_b       6.15374
+_cell_length_c       7.06887
+_cell_angle_alpha    115.608
+_cell_angle_beta     112.776
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  Ni5Sb2
+_chemical_formula_sum  Ni0Sb4
+_cell_volume  193.90261620352788
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ni  Ni1  1  0.75243  0.00000  0.00000  1
+ Ni  Ni2  1  0.25082  -0.00000  -0.00000  1
+ Ni  Ni3  1  0.37596  0.15311  0.74869  1
+ Ni  Ni4  1  0.62727  0.84689  0.25131  1
+ Ni  Ni5  1  0.89732  0.59620  0.79141  1
+ Ni  Ni6  1  0.10591  0.40380  0.20859  1
+ Ni  Ni7  1  0.52326  0.74548  0.54146  1
+ Ni  Ni8  1  0.98179  0.25452  0.45854  1
+ Ni  Ni9  1  0.02147  0.74550  0.54148  1
+ Ni  Ni10  1  0.47999  0.25450  0.45852  1
+ Sb  Sb1  1  0.87658  0.15377  0.74993  1
+ Sb  Sb2  1  0.12665  0.84623  0.25007  1
+ Sb  Sb3  1  0.39673  0.59837  0.79021  1
+ Sb  Sb4  1  0.60652  0.40163  0.20979  1

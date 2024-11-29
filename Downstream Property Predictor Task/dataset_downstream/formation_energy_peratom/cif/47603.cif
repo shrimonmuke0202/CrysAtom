@@ -1,0 +1,40 @@
+CIF file written using JARVIS-Tools package.
+data_UMn4Al8
+_symmetry_space_group_name_H-M  'I4/mmm'
+_cell_length_a       4.95004
+_cell_length_b       6.6628
+_cell_length_c       6.6628
+_cell_angle_alpha    82.0685
+_cell_angle_beta     68.1938
+_cell_angle_gamma    68.1938
+
+_symmetry_Int_Tables_number  139
+_chemical_formula_structural  UMn4Al8
+_chemical_formula_sum  UMn4Al8
+_cell_volume  189.42437632552583
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Al  Al1  1  0.34273  0.65727  0.65727  1
+ Al  Al2  1  0.00000  0.34273  0.65727  1
+ Al  Al3  1  -0.00000  0.65727  0.34273  1
+ Al  Al4  1  0.65727  0.34273  0.34273  1
+ Al  Al5  1  0.28263  0.21737  0.21737  1
+ Al  Al6  1  0.50000  0.78263  0.21737  1
+ Al  Al7  1  0.50000  0.21737  0.78263  1
+ Al  Al8  1  0.71737  0.78263  0.78263  1
+ Mn  Mn1  1  0.50000  0.00000  0.50000  1
+ Mn  Mn2  1  0.00000  0.50000  -0.00000  1
+ Mn  Mn3  1  0.50000  0.50000  -0.00000  1
+ Mn  Mn4  1  0.00000  0.00000  0.50000  1
+ U  U1  1  0.00000  0.00000  0.00000  1

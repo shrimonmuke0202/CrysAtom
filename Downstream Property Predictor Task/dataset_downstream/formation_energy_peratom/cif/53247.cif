@@ -1,0 +1,55 @@
+CIF file written using JARVIS-Tools package.
+data_DyMoO5
+_symmetry_space_group_name_H-M  'P2_1/c'
+_cell_length_a       12.4446
+_cell_length_b       5.29969
+_cell_length_c       6.86544
+_cell_angle_alpha    62.6451
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  14
+_chemical_formula_structural  DyMoO5
+_chemical_formula_sum  Dy4Mo4O20
+_cell_volume  402.16246732325925
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Dy  Dy1  1  0.05947  0.65716  0.71678  1
+ Dy  Dy2  1  0.94053  0.34284  0.28322  1
+ Dy  Dy3  1  0.55947  0.34284  0.78322  1
+ Dy  Dy4  1  0.44053  0.65716  0.21678  1
+ Mo  Mo1  1  0.36373  0.91327  0.64782  1
+ Mo  Mo2  1  0.63627  0.08673  0.35218  1
+ Mo  Mo3  1  0.86373  0.08673  0.85218  1
+ Mo  Mo4  1  0.13627  0.91327  0.14782  1
+ O  O1  1  0.42180  0.01849  0.84363  1
+ O  O2  1  0.16044  0.23215  0.91526  1
+ O  O3  1  0.92180  0.98151  0.65637  1
+ O  O4  1  0.44251  0.45689  0.98683  1
+ O  O5  1  0.94251  0.54311  0.51317  1
+ O  O6  1  0.55749  0.54311  0.01317  1
+ O  O7  1  0.57820  0.98151  0.15637  1
+ O  O8  1  0.05749  0.45689  0.48683  1
+ O  O9  1  0.07820  0.01849  0.34363  1
+ O  O10  1  0.66044  0.76785  0.58474  1
+ O  O11  1  0.73613  0.23121  0.76227  1
+ O  O12  1  0.94263  0.29273  0.95838  1
+ O  O13  1  0.44263  0.70727  0.54162  1
+ O  O14  1  0.26387  0.76879  0.23773  1
+ O  O15  1  0.33956  0.23215  0.41526  1
+ O  O16  1  0.76387  0.23121  0.26227  1
+ O  O17  1  0.23613  0.76879  0.73773  1
+ O  O18  1  0.05737  0.70727  0.04162  1
+ O  O19  1  0.55737  0.29273  0.45838  1
+ O  O20  1  0.83956  0.76785  0.08474  1

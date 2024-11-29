@@ -1,0 +1,51 @@
+CIF file written using JARVIS-Tools package.
+data_Er2AlGe3
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       4.155
+_cell_length_b       6.77981
+_cell_length_c       17.5965
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  Er2AlGe3
+_chemical_formula_sum  Er8Al4Ge2
+_cell_volume  495.69692528916414
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Al  Al1  1  0.75000  0.05090  0.93580  1
+ Al  Al2  1  0.25000  0.94910  0.06420  1
+ Al  Al3  1  0.25000  0.44910  0.43580  1
+ Al  Al4  1  0.75000  0.55090  0.56420  1
+ Er  Er1  1  0.25000  0.16742  0.58625  1
+ Er  Er2  1  0.75000  0.83258  0.41375  1
+ Er  Er3  1  0.25000  0.66714  0.70418  1
+ Er  Er4  1  0.25000  0.66742  0.91375  1
+ Er  Er5  1  0.25000  0.16714  0.79582  1
+ Er  Er6  1  0.75000  0.83286  0.20418  1
+ Er  Er7  1  0.75000  0.33286  0.29582  1
+ Er  Er8  1  0.75000  0.33258  0.08625  1
+ Ge  Ge1  1  0.25000  0.64405  0.31231  1
+ Ge  Ge2  1  0.25000  0.04027  0.32846  1
+ Ge  Ge3  1  0.75000  0.95973  0.67154  1
+ Ge  Ge4  1  0.75000  0.45973  0.82846  1
+ Ge  Ge5  1  0.25000  0.54027  0.17154  1
+ Ge  Ge6  1  0.75000  0.74642  0.03346  1
+ Ge  Ge7  1  0.75000  0.24642  0.46654  1
+ Ge  Ge8  1  0.25000  0.75358  0.53346  1
+ Ge  Ge9  1  0.75000  0.85595  0.81231  1
+ Ge  Ge10  1  0.75000  0.35595  0.68769  1
+ Ge  Ge11  1  0.25000  0.25358  0.96654  1
+ Ge  Ge12  1  0.25000  0.14405  0.18769  1

@@ -1,0 +1,40 @@
+CIF file written using JARVIS-Tools package.
+data_MgMo4O8
+_symmetry_space_group_name_H-M  'Cm'
+_cell_length_a       2.7974
+_cell_length_b       7.54377
+_cell_length_c       7.72054
+_cell_angle_alpha    92.1989
+_cell_angle_beta     100.437
+_cell_angle_gamma    100.684
+
+_symmetry_Int_Tables_number  8
+_chemical_formula_structural  MgMo4O8
+_chemical_formula_sum  MgMo4O8
+_cell_volume  157.0162404092175
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Mg  Mg1  1  0.44925  0.10379  0.80673  1
+ Mo  Mo1  1  0.80845  0.19489  0.43398  1
+ Mo  Mo2  1  0.65396  0.48689  0.83302  1
+ Mo  Mo3  1  0.30775  0.50636  0.12110  1
+ Mo  Mo4  1  0.14374  0.78937  0.51008  1
+ O  O1  1  0.50428  0.66551  0.35501  1
+ O  O2  1  0.79342  0.34810  0.25075  1
+ O  O3  1  0.16574  0.63924  0.70417  1
+ O  O4  1  0.44679  0.29971  0.60588  1
+ O  O5  1  0.17842  0.00699  0.36179  1
+ O  O6  1  0.09584  0.28599  0.91770  1
+ O  O7  1  0.81186  0.97870  0.65701  1
+ O  O8  1  0.85355  0.68510  0.03397  1

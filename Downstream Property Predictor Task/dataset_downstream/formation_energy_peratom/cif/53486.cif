@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_GaH6N2F3
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       5.21493
+_cell_length_b       5.21493
+_cell_length_c       6.83346
+_cell_angle_alpha    51.8572
+_cell_angle_beta     51.8571
+_cell_angle_gamma    45.4088
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  GaH6N2F3
+_chemical_formula_sum  GaH6N2F3
+_cell_volume  98.3046956560956
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ F  F1  1  0.48153  0.48153  0.23618  1
+ F  F2  1  0.51847  0.51847  0.76382  1
+ F  F3  1  0.00000  0.00000  0.50000  1
+ Ga  Ga1  1  0.50000  0.50000  0.50000  1
+ H  H1  1  0.82660  0.82660  0.03274  1
+ H  H2  1  0.17340  0.17340  0.96726  1
+ H  H3  1  0.36723  0.95744  0.76791  1
+ H  H4  1  0.04256  0.63277  0.23209  1
+ H  H5  1  0.63277  0.04256  0.23209  1
+ H  H6  1  0.95744  0.36723  0.76791  1
+ N  N1  1  0.77991  0.77991  0.21839  1
+ N  N2  1  0.22009  0.22009  0.78161  1

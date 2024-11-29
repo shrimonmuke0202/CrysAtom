@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_NdCl2
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       3.55089
+_cell_length_b       8.78252
+_cell_length_c       9.51723
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  NdCl2
+_chemical_formula_sum  Nd4Cl8
+_cell_volume  296.801905983188
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cl  Cl1  1  0.25000  0.45542  0.14738  1
+ Cl  Cl2  1  0.75000  0.54458  0.85262  1
+ Cl  Cl3  1  0.25000  0.04458  0.64738  1
+ Cl  Cl4  1  0.75000  0.95542  0.35262  1
+ Cl  Cl5  1  0.25000  0.83296  0.05841  1
+ Cl  Cl6  1  0.75000  0.16704  0.94159  1
+ Cl  Cl7  1  0.25000  0.66704  0.55841  1
+ Cl  Cl8  1  0.75000  0.33296  0.44159  1
+ Nd  Nd1  1  0.25000  0.13928  0.18787  1
+ Nd  Nd2  1  0.75000  0.86072  0.81213  1
+ Nd  Nd3  1  0.25000  0.36072  0.68787  1
+ Nd  Nd4  1  0.75000  0.63928  0.31213  1

@@ -1,0 +1,49 @@
+CIF file written using JARVIS-Tools package.
+data_Na6CoSe4
+_symmetry_space_group_name_H-M  'P6_3mc'
+_cell_length_a       9.25302
+_cell_length_b       9.25302
+_cell_length_c       7.12603
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_symmetry_Int_Tables_number  186
+_chemical_formula_structural  Na6CoSe4
+_chemical_formula_sum  Na2Co2Se8
+_cell_volume  528.3790328926447
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Co  Co1  1  0.33333  0.66667  0.25641  1
+ Co  Co2  1  0.66667  0.33333  0.75641  1
+ Na  Na1  1  0.29498  0.14749  0.46673  1
+ Na  Na2  1  0.70502  0.85251  0.96673  1
+ Na  Na3  1  0.14749  0.29498  0.96673  1
+ Na  Na4  1  0.85251  0.70502  0.46673  1
+ Na  Na5  1  0.85251  0.14749  0.46673  1
+ Na  Na6  1  0.14749  0.85251  0.96673  1
+ Na  Na7  1  0.05646  0.52823  0.64137  1
+ Na  Na8  1  0.52823  0.47177  0.14137  1
+ Na  Na9  1  0.52823  0.05646  0.14137  1
+ Na  Na10  1  0.47177  0.94354  0.64137  1
+ Na  Na11  1  0.94354  0.47177  0.14137  1
+ Na  Na12  1  0.47177  0.52823  0.64137  1
+ Se  Se1  1  0.81131  0.62262  0.86531  1
+ Se  Se2  1  0.81131  0.18869  0.86531  1
+ Se  Se3  1  0.66667  0.33333  0.41469  1
+ Se  Se4  1  0.33333  0.66667  0.91469  1
+ Se  Se5  1  0.37738  0.18869  0.86531  1
+ Se  Se6  1  0.18869  0.81131  0.36531  1
+ Se  Se7  1  0.18869  0.37738  0.36531  1
+ Se  Se8  1  0.62262  0.81131  0.36531  1

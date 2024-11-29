@@ -1,0 +1,55 @@
+CIF file written using JARVIS-Tools package.
+data_Dy2Al9Ir3
+_symmetry_space_group_name_H-M  'Cmcm'
+_cell_length_a       7.53557
+_cell_length_b       7.53557
+_cell_length_c       9.49614
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    119.557
+
+_symmetry_Int_Tables_number  63
+_chemical_formula_structural  Dy2Al9Ir3
+_chemical_formula_sum  Dy4Al8Ir6
+_cell_volume  469.06274279526025
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Al  Al1  1  0.66478  0.99889  0.07443  1
+ Al  Al2  1  0.33522  0.00111  0.92557  1
+ Al  Al3  1  0.00111  0.33522  0.92557  1
+ Al  Al4  1  0.00111  0.33522  0.57443  1
+ Al  Al5  1  0.33522  0.00111  0.57443  1
+ Al  Al6  1  0.33339  0.33339  0.05452  1
+ Al  Al7  1  0.66661  0.66661  0.94548  1
+ Al  Al8  1  0.66661  0.66661  0.55452  1
+ Al  Al9  1  0.33339  0.33339  0.44548  1
+ Al  Al10  1  0.33917  0.54835  0.75000  1
+ Al  Al11  1  0.66083  0.45165  0.25000  1
+ Al  Al12  1  0.54835  0.33917  0.75000  1
+ Al  Al13  1  0.45165  0.66083  0.25000  1
+ Al  Al14  1  0.87090  0.87090  0.25000  1
+ Al  Al15  1  0.12910  0.12910  0.75000  1
+ Al  Al16  1  0.66478  0.99889  0.42557  1
+ Al  Al17  1  0.99889  0.66478  0.07443  1
+ Al  Al18  1  0.99889  0.66478  0.42557  1
+ Dy  Dy1  1  0.99564  0.67132  0.75000  1
+ Dy  Dy2  1  0.32868  0.00436  0.25000  1
+ Dy  Dy3  1  0.67132  0.99564  0.75000  1
+ Dy  Dy4  1  0.00436  0.32868  0.25000  1
+ Ir  Ir1  1  0.00000  0.00000  0.50000  1
+ Ir  Ir2  1  0.67179  0.32821  0.50000  1
+ Ir  Ir3  1  0.32821  0.67179  0.50000  1
+ Ir  Ir4  1  0.32821  0.67179  0.00000  1
+ Ir  Ir5  1  0.67179  0.32821  0.00000  1
+ Ir  Ir6  1  0.00000  0.00000  0.00000  1

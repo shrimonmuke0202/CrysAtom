@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_MgRhN2
+_symmetry_space_group_name_H-M  'Pna2_1'
+_cell_length_a       5.78633
+_cell_length_b       6.58879
+_cell_length_c       5.31937
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  33
+_chemical_formula_structural  MgRhN2
+_chemical_formula_sum  Mg4Rh4N8
+_cell_volume  202.8004878897657
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Mg  Mg1  1  0.59345  0.87390  0.99729  1
+ Mg  Mg2  1  0.40655  0.12610  0.49729  1
+ Mg  Mg3  1  0.90655  0.37390  0.49729  1
+ Mg  Mg4  1  0.09345  0.62610  0.99729  1
+ N  N1  1  0.56994  0.38910  0.37072  1
+ N  N2  1  0.43006  0.61090  0.87072  1
+ N  N3  1  0.93006  0.88910  0.87072  1
+ N  N4  1  0.06994  0.11090  0.37072  1
+ N  N5  1  0.60070  0.87186  0.39351  1
+ N  N6  1  0.39930  0.12814  0.89351  1
+ N  N7  1  0.89930  0.37186  0.89351  1
+ N  N8  1  0.10070  0.62814  0.39351  1
+ Rh  Rh1  1  0.57931  0.35917  0.00847  1
+ Rh  Rh2  1  0.42069  0.64083  0.50847  1
+ Rh  Rh3  1  0.92069  0.85917  0.50847  1
+ Rh  Rh4  1  0.07931  0.14083  0.00847  1

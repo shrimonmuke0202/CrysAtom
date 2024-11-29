@@ -1,0 +1,45 @@
+CIF file written using JARVIS-Tools package.
+data_BaCe2MnS5
+_symmetry_space_group_name_H-M  'I4/mcm'
+_cell_length_a       7.82014
+_cell_length_b       7.82015
+_cell_length_c       8.75143
+_cell_angle_alpha    116.538
+_cell_angle_beta     116.538
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  140
+_chemical_formula_structural  BaCe2MnS5
+_chemical_formula_sum  Ba2Ce4Mn2S0
+_cell_volume  414.81669905437906
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ba  Ba1  1  0.25000  0.25000  0.50000  1
+ Ba  Ba2  1  0.75000  0.75000  0.50000  1
+ Ce  Ce1  1  0.34213  0.15787  0.00000  1
+ Ce  Ce2  1  0.15787  0.65787  0.00000  1
+ Ce  Ce3  1  0.65787  0.84213  0.00000  1
+ Ce  Ce4  1  0.84213  0.34213  1.00000  1
+ Mn  Mn1  1  0.25000  0.75000  0.50000  1
+ Mn  Mn2  1  0.75000  0.25000  0.50000  1
+ S  S1  1  0.21379  0.71379  0.73186  1
+ S  S2  1  0.51806  0.01806  0.73186  1
+ S  S3  1  0.71379  0.51806  0.73186  1
+ S  S4  1  0.01806  0.21379  0.73186  1
+ S  S5  1  0.50000  0.50000  0.00000  1
+ S  S6  1  0.98194  0.78621  0.26814  1
+ S  S7  1  0.48194  0.98194  0.26814  1
+ S  S8  1  0.78621  0.28621  0.26814  1
+ S  S9  1  0.28621  0.48194  0.26814  1
+ S  S10  1  0.00000  0.00000  0.00000  1

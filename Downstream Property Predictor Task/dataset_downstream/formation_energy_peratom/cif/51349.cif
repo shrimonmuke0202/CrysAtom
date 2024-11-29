@@ -1,0 +1,51 @@
+CIF file written using JARVIS-Tools package.
+data_SrCrO4
+_symmetry_space_group_name_H-M  'Cmcm'
+_cell_length_a       7.4602
+_cell_length_b       6.59872
+_cell_length_c       7.58334
+_cell_angle_alpha    90.026
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  63
+_chemical_formula_structural  SrCrO4
+_chemical_formula_sum  Sr4Cr4O6
+_cell_volume  373.3113244060262
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cr  Cr1  1  0.49999  0.63923  0.74997  1
+ Cr  Cr2  1  0.50001  0.36077  0.25003  1
+ Cr  Cr3  1  0.00001  0.13923  0.74997  1
+ Cr  Cr4  1  -0.00001  0.86077  0.25003  1
+ O  O1  1  -0.00006  0.70988  0.42504  1
+ O  O2  1  0.49994  0.20979  0.07498  1
+ O  O3  1  0.50006  0.79021  0.92502  1
+ O  O4  1  0.17812  0.01111  0.25010  1
+ O  O5  1  0.17816  -0.01109  0.75002  1
+ O  O6  1  -0.00006  0.29021  0.92502  1
+ O  O7  1  0.50006  0.20988  0.42504  1
+ O  O8  1  0.82184  0.01109  0.24998  1
+ O  O9  1  0.32184  0.48891  0.75002  1
+ O  O10  1  0.00006  0.29012  0.57496  1
+ O  O11  1  0.49994  0.79012  0.57496  1
+ O  O12  1  0.82188  -0.01111  0.74990  1
+ O  O13  1  0.67812  0.48889  0.74990  1
+ O  O14  1  0.32188  0.51111  0.25010  1
+ O  O15  1  0.67816  0.51109  0.24998  1
+ O  O16  1  0.00006  0.70979  0.07498  1
+ Sr  Sr1  1  0.49998  0.86359  0.25001  1
+ Sr  Sr2  1  -0.00002  0.63641  0.74999  1
+ Sr  Sr3  1  0.50002  0.13641  0.74999  1
+ Sr  Sr4  1  0.00002  0.36359  0.25001  1

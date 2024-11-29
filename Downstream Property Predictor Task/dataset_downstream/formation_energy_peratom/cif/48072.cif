@@ -1,0 +1,37 @@
+CIF file written using JARVIS-Tools package.
+data_CaLaGe4Ir4
+_symmetry_space_group_name_H-M  'P4/mmm'
+_cell_length_a       4.21401
+_cell_length_b       4.21401
+_cell_length_c       10.5239
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  123
+_chemical_formula_structural  CaLaGe4Ir4
+_chemical_formula_sum  CaLaGe4Ir4
+_cell_volume  186.88219059577742
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ca  Ca1  1  0.00000  0.00000  0.00000  1
+ Ge  Ge1  1  0.50000  0.50000  0.12135  1
+ Ge  Ge2  1  0.00000  0.00000  0.62810  1
+ Ge  Ge3  1  0.00000  0.00000  0.37190  1
+ Ge  Ge4  1  0.50000  0.50000  0.87865  1
+ Ir  Ir1  1  0.00000  0.50000  0.24763  1
+ Ir  Ir2  1  0.50000  0.00000  0.75237  1
+ Ir  Ir3  1  0.50000  0.00000  0.24763  1
+ Ir  Ir4  1  0.00000  0.50000  0.75237  1
+ La  La1  1  0.50000  0.50000  0.50000  1

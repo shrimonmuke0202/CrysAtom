@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_NaNiO2
+_symmetry_space_group_name_H-M  'Cmcm'
+_cell_length_a       3.03883
+_cell_length_b       5.06257
+_cell_length_c       10.436
+_cell_angle_alpha    90
+_cell_angle_beta     90.0003
+_cell_angle_gamma    86.1327
+
+_symmetry_Int_Tables_number  63
+_chemical_formula_structural  NaNiO2
+_chemical_formula_sum  Na4Ni4O8
+_cell_volume  160.18429524315644
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Na  Na1  1  0.48008  0.16006  0.25000  1
+ Na  Na2  1  0.98008  0.66006  0.25000  1
+ Na  Na3  1  0.01992  0.33994  0.75000  1
+ Na  Na4  1  0.51992  0.83994  0.75000  1
+ Ni  Ni1  1  0.50000  0.50000  0.50000  1
+ Ni  Ni2  1  -0.00000  0.00000  0.00000  1
+ Ni  Ni3  1  -0.00000  0.00000  0.50000  1
+ Ni  Ni4  1  0.50000  0.50000  0.00000  1
+ O  O1  1  0.96757  0.32254  0.40264  1
+ O  O2  1  0.46757  0.82254  0.40264  1
+ O  O3  1  0.53243  0.17746  0.59736  1
+ O  O4  1  0.03243  0.67746  0.59736  1
+ O  O5  1  0.53243  0.17746  0.90264  1
+ O  O6  1  0.03243  0.67745  0.90264  1
+ O  O7  1  0.96757  0.32254  0.09736  1
+ O  O8  1  0.46757  0.82254  0.09736  1

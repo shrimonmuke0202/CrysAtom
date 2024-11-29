@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_Cu3Ag3P2S8
+_symmetry_space_group_name_H-M  'P1'
+_cell_length_a       6.31089
+_cell_length_b       6.41113
+_cell_length_c       7.72072
+_cell_angle_alpha    89.4499
+_cell_angle_beta     89.5977
+_cell_angle_gamma    89.5159
+
+_symmetry_Int_Tables_number  1
+_chemical_formula_structural  Cu3Ag3P2S8
+_chemical_formula_sum  Cu3Ag3P2S8
+_cell_volume  312.3466547161018
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ag  Ag1  1  0.02380  0.31065  0.24292  1
+ Ag  Ag2  1  0.01126  0.84253  0.50137  1
+ Ag  Ag3  1  0.49442  0.13704  0.99641  1
+ Cu  Cu1  1  0.50924  0.68198  0.74897  1
+ Cu  Cu2  1  0.50297  0.70109  0.25477  1
+ Cu  Cu3  1  0.01656  0.32545  0.75155  1
+ P  P1  1  0.50674  0.18786  0.50536  1
+ P  P2  1  0.99342  0.81373  0.99562  1
+ S  S1  1  0.40945  0.87189  0.50470  1
+ S  S2  1  0.89839  0.12418  0.98017  1
+ S  S3  1  0.83372  0.20329  0.51747  1
+ S  S4  1  0.32691  0.77504  0.99946  1
+ S  S5  1  0.87306  0.65594  0.77933  1
+ S  S6  1  0.86645  0.68268  0.22100  1
+ S  S7  1  0.37604  0.34267  0.72188  1
+ S  S8  1  0.41357  0.34398  0.27901  1

@@ -1,0 +1,51 @@
+CIF file written using JARVIS-Tools package.
+data_Li3NbV2O6
+_symmetry_space_group_name_H-M  'P-1'
+_cell_length_a       5.72848
+_cell_length_b       6.69258
+_cell_length_c       6.6936
+_cell_angle_alpha    79.1596
+_cell_angle_beta     114.538
+_cell_angle_gamma    77.3607
+
+_symmetry_Int_Tables_number  2
+_chemical_formula_structural  Li3NbV2O6
+_chemical_formula_sum  Li6Nb2V4O2
+_cell_volume  216.2479008424983
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Li  Li1  1  0.75001  0.33331  0.16668  1
+ Li  Li2  1  0.25000  0.33333  0.16667  1
+ Li  Li3  1  0.75821  0.98266  0.49524  1
+ Li  Li4  1  0.24060  0.99784  0.49135  1
+ Li  Li5  1  0.74178  0.68399  0.83813  1
+ Li  Li6  1  0.25938  0.66882  0.84198  1
+ Nb  Nb1  1  0.47438  0.34235  0.65866  1
+ Nb  Nb2  1  0.02562  0.32433  0.67467  1
+ O  O1  1  0.62321  0.35278  0.41953  1
+ O  O2  1  0.38779  0.00231  0.26037  1
+ O  O3  1  0.87201  0.97953  0.22960  1
+ O  O4  1  0.11221  0.66436  0.07296  1
+ O  O5  1  0.62799  0.68714  0.10373  1
+ O  O6  1  0.38601  0.67980  0.58807  1
+ O  O7  1  0.85855  0.65999  0.55185  1
+ O  O8  1  0.39470  0.33590  0.94316  1
+ O  O9  1  0.64146  0.00667  0.78148  1
+ O  O10  1  0.87679  0.31389  0.91380  1
+ O  O11  1  0.10530  0.33078  0.39017  1
+ O  O12  1  0.11400  -0.01313  0.74526  1
+ V  V1  1  0.04416  0.97843  0.02081  1
+ V  V2  1  0.45584  0.68825  0.31252  1
+ V  V3  1  0.46724  0.00827  -0.00560  1
+ V  V4  1  0.03277  0.65841  0.33893  1

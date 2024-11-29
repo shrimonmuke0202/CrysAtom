@@ -1,0 +1,33 @@
+CIF file written using JARVIS-Tools package.
+data_NaPr2Se3
+_symmetry_space_group_name_H-M  'Immm'
+_cell_length_a       7.39664
+_cell_length_b       7.39665
+_cell_length_c       7.39664
+_cell_angle_alpha    146.719
+_cell_angle_beta     132.102
+_cell_angle_gamma    59.5729
+
+_symmetry_Int_Tables_number  71
+_chemical_formula_structural  NaPr2Se3
+_chemical_formula_sum  NaPr2Se3
+_cell_volume  163.30198537780882
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Na  Na1  1  0.00000  0.00000  0.00000  1
+ Pr  Pr1  1  0.66469  0.66469  -0.00000  1
+ Pr  Pr2  1  0.33531  0.33531  0.00000  1
+ Se  Se1  1  0.50000  -0.00000  0.50000  1
+ Se  Se2  1  0.16593  0.66593  0.50000  1
+ Se  Se3  1  0.83407  0.33407  0.50000  1

@@ -1,0 +1,41 @@
+CIF file written using JARVIS-Tools package.
+data_LiCoSiO4
+_symmetry_space_group_name_H-M  'Pc'
+_cell_length_a       5.01657
+_cell_length_b       5.17478
+_cell_length_c       6.54781
+_cell_angle_alpha    90.0005
+_cell_angle_beta     89.701
+_cell_angle_gamma    89.9975
+
+_symmetry_Int_Tables_number  7
+_chemical_formula_structural  LiCoSiO4
+_chemical_formula_sum  Li2Co2Si2O8
+_cell_volume  169.97699336497777
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Co  Co1  1  0.99566  0.32743  0.76161  1
+ Co  Co2  1  0.49564  0.67256  0.26160  1
+ Li  Li1  1  0.49917  0.67487  0.75896  1
+ Li  Li2  1  0.99917  0.32514  0.25897  1
+ O  O1  1  0.05887  0.13095  0.99803  1
+ O  O2  1  0.11250  0.66873  0.80552  1
+ O  O3  1  0.62872  0.31535  0.71219  1
+ O  O4  1  0.16996  0.23347  0.51946  1
+ O  O5  1  0.55889  0.86905  0.49802  1
+ O  O6  1  0.61249  0.33126  0.30549  1
+ O  O7  1  0.12869  0.68467  0.21222  1
+ O  O8  1  0.66994  0.76654  0.01946  1
+ Si  Si1  1  0.49472  0.18004  0.50878  1
+ Si  Si2  1  0.99469  0.81996  0.00880  1

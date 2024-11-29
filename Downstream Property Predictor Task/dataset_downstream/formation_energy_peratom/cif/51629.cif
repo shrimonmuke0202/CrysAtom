@@ -1,0 +1,47 @@
+CIF file written using JARVIS-Tools package.
+data_Zr2InAu2
+_symmetry_space_group_name_H-M  'P4_2/mnm'
+_cell_length_a       7.61852
+_cell_length_b       7.61852
+_cell_length_c       7.10197
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  136
+_chemical_formula_structural  Zr2InAu2
+_chemical_formula_sum  Zr8In4Au8
+_cell_volume  412.2118093560887
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Au  Au1  1  0.12994  0.87006  0.70539  1
+ Au  Au2  1  0.37006  0.37006  0.79461  1
+ Au  Au3  1  0.87006  0.12994  0.29461  1
+ Au  Au4  1  0.87006  0.12994  0.70539  1
+ Au  Au5  1  0.62994  0.62994  0.20539  1
+ Au  Au6  1  0.62994  0.62994  0.79461  1
+ Au  Au7  1  0.37006  0.37006  0.20539  1
+ Au  Au8  1  0.12994  0.87006  0.29461  1
+ In  In1  1  0.50000  0.00000  0.25000  1
+ In  In2  1  0.50000  0.00000  0.75000  1
+ In  In3  1  0.00000  0.50000  0.25000  1
+ In  In4  1  0.00000  0.50000  0.75000  1
+ Zr  Zr1  1  0.19553  0.19553  0.50000  1
+ Zr  Zr2  1  0.80447  0.80447  0.50000  1
+ Zr  Zr3  1  0.30447  0.69553  0.00000  1
+ Zr  Zr4  1  0.69553  0.30447  0.00000  1
+ Zr  Zr5  1  0.35406  0.64594  0.50000  1
+ Zr  Zr6  1  0.64594  0.35406  0.50000  1
+ Zr  Zr7  1  0.85406  0.85406  0.00000  1
+ Zr  Zr8  1  0.14594  0.14594  0.00000  1

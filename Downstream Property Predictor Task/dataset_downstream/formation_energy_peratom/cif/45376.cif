@@ -1,0 +1,33 @@
+CIF file written using JARVIS-Tools package.
+data_Cu2SnSe3
+_symmetry_space_group_name_H-M  'Imm2'
+_cell_length_a       7.05034
+_cell_length_b       7.05034
+_cell_length_c       7.05034
+_cell_angle_alpha    145.94
+_cell_angle_beta     132.319
+_cell_angle_gamma    59.8867
+
+_symmetry_Int_Tables_number  44
+_chemical_formula_structural  Cu2SnSe3
+_chemical_formula_sum  Cu2SnSe3
+_cell_volume  143.7917526721399
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cu  Cu1  1  0.83959  0.82900  0.01059  1
+ Cu  Cu2  1  0.18159  0.17100  0.01059  1
+ Se  Se1  1  0.05279  0.32113  0.73166  1
+ Se  Se2  1  0.41053  0.67887  0.73166  1
+ Se  Se3  1  0.78412  -0.00000  0.78412  1
+ Sn  Sn1  1  0.48138  0.50000  0.98138  1

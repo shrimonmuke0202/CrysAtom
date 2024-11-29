@@ -1,0 +1,38 @@
+CIF file written using JARVIS-Tools package.
+data_Sn3SbSe2I5
+_symmetry_space_group_name_H-M  'Cm'
+_cell_length_a       7.41898
+_cell_length_b       7.41897
+_cell_length_c       12.8127
+_cell_angle_alpha    80.7852
+_cell_angle_beta     80.7852
+_cell_angle_gamma    33.6603
+
+_symmetry_Int_Tables_number  8
+_chemical_formula_structural  Sn3SbSe2I5
+_chemical_formula_sum  Sn3SbSe2I5
+_cell_volume  385.375886533261
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ I  I1  1  0.72016  0.72016  0.13892  1
+ I  I2  1  0.28904  0.28904  0.85840  1
+ I  I3  1  0.97278  0.97278  0.30948  1
+ I  I4  1  0.02564  0.02564  0.66752  1
+ I  I5  1  0.99827  0.99827  0.00331  1
+ Sb  Sb1  1  0.36157  0.36157  0.18651  1
+ Se  Se1  1  0.75287  0.75287  0.61593  1
+ Se  Se2  1  0.24595  0.24595  0.38122  1
+ Sn  Sn1  1  0.62443  0.62443  0.47709  1
+ Sn  Sn2  1  0.36969  0.36969  0.53204  1
+ Sn  Sn3  1  0.63960  0.63960  0.82957  1

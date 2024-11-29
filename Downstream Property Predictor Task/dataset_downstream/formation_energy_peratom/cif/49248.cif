@@ -1,0 +1,30 @@
+CIF file written using JARVIS-Tools package.
+data_BaBiCl
+_symmetry_space_group_name_H-M  'Pm'
+_cell_length_a       7.06245
+_cell_length_b       5.82016
+_cell_length_c       3.55721
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90.0075
+
+_symmetry_Int_Tables_number  6
+_chemical_formula_structural  BaBiCl
+_chemical_formula_sum  BaBiCl
+_cell_volume  146.21768537243838
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ba  Ba1  1  -0.03738  -0.05363  0.00000  1
+ Bi  Bi1  1  0.46309  -0.05225  0.00000  1
+ Cl  Cl1  1  -0.02830  0.44641  0.00000  1

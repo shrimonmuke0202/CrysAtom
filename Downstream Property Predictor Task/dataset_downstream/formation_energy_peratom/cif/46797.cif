@@ -1,0 +1,42 @@
+CIF file written using JARVIS-Tools package.
+data_Sc2O3
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       3.20397
+_cell_length_b       6.84847
+_cell_length_c       8.03345
+_cell_angle_alpha    100.323
+_cell_angle_beta     90
+_cell_angle_gamma    103.528
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  Sc2O3
+_chemical_formula_sum  Sc6O9
+_cell_volume  168.44630660505075
+_cell_formula_units_Z  3
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ O  O1  1  0.17368  0.34736  0.96467  1
+ O  O2  1  0.82632  0.65264  0.03533  1
+ O  O3  1  0.20900  0.41800  0.62159  1
+ O  O4  1  0.87389  0.74777  0.72072  1
+ O  O5  1  0.50000  0.00000  0.00000  1
+ O  O6  1  0.79100  0.58200  0.37841  1
+ O  O7  1  0.46726  0.93452  0.34175  1
+ O  O8  1  0.12611  0.25223  0.27928  1
+ O  O9  1  0.53274  0.06548  0.65825  1
+ Sc  Sc1  1  0.96895  0.93790  0.18373  1
+ Sc  Sc2  1  0.63553  0.27106  0.48631  1
+ Sc  Sc3  1  0.30810  0.61621  0.86309  1
+ Sc  Sc4  1  0.03105  0.06210  0.81627  1
+ Sc  Sc5  1  0.36447  0.72894  0.51369  1
+ Sc  Sc6  1  0.69190  0.38379  0.13691  1

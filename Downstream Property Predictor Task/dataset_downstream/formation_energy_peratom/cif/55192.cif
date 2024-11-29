@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_Sn7Pd
+_symmetry_space_group_name_H-M  'P-43m'
+_cell_length_a       6.48301
+_cell_length_b       6.48301
+_cell_length_c       6.48301
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  215
+_chemical_formula_structural  Sn7Pd
+_chemical_formula_sum  Sn7Pd
+_cell_volume  272.4768018263008
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Pd  Pd1  1  0.00000  0.00000  0.50000  1
+ Sn  Sn1  1  0.23546  0.23546  0.73546  1
+ Sn  Sn2  1  0.00000  0.50000  0.00000  1
+ Sn  Sn3  1  0.23546  0.76454  0.26454  1
+ Sn  Sn4  1  0.50000  0.00000  0.00000  1
+ Sn  Sn5  1  0.76454  0.23546  0.26454  1
+ Sn  Sn6  1  0.50000  0.50000  0.50000  1
+ Sn  Sn7  1  0.76454  0.76454  0.73546  1

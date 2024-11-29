@@ -1,0 +1,30 @@
+CIF file written using JARVIS-Tools package.
+data_Br2O
+_symmetry_space_group_name_H-M  'P1'
+_cell_length_a       4.14501
+_cell_length_b       4.35248
+_cell_length_c       6.3391
+_cell_angle_alpha    127.768
+_cell_angle_beta     80.8286
+_cell_angle_gamma    124.1
+
+_symmetry_Int_Tables_number  1
+_chemical_formula_structural  Br2O
+_chemical_formula_sum  Br2O
+_cell_volume  71.84210138290405
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Br  Br1  1  0.32853  0.54382  0.64260  1
+ Br  Br2  1  0.92401  0.29637  0.13197  1
+ O  O1  1  -0.08157  0.01414  0.26906  1

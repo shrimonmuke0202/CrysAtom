@@ -1,0 +1,41 @@
+CIF file written using JARVIS-Tools package.
+data_NdSm3Sb3
+_symmetry_space_group_name_H-M  'Cc'
+_cell_length_a       8.15017
+_cell_length_b       8.15017
+_cell_length_c       8.13928
+_cell_angle_alpha    70.5298
+_cell_angle_beta     70.5297
+_cell_angle_gamma    109.519
+
+_symmetry_Int_Tables_number  9
+_chemical_formula_structural  NdSm3Sb3
+_chemical_formula_sum  Nd2Sm6Sb6
+_cell_volume  415.95756112263496
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Nd  Nd1  1  0.50078  0.64223  0.99958  1
+ Nd  Nd2  1  0.64223  0.50078  0.49958  1
+ Sb  Sb1  1  0.62514  0.87886  0.24889  1
+ Sb  Sb2  1  0.87886  0.62514  0.74889  1
+ Sb  Sb3  1  0.37218  0.24539  0.37682  1
+ Sb  Sb4  1  0.12603  0.75170  0.12425  1
+ Sb  Sb5  1  0.75170  0.12603  0.62425  1
+ Sb  Sb6  1  0.24539  0.37218  0.87682  1
+ Sm  Sm1  1  0.14374  0.50017  0.49897  1
+ Sm  Sm2  1  0.99926  0.99866  0.85816  1
+ Sm  Sm3  1  0.35859  0.85727  0.64333  1
+ Sm  Sm4  1  0.50017  0.14374  0.99897  1
+ Sm  Sm5  1  0.99866  0.99926  0.35816  1
+ Sm  Sm6  1  0.85727  0.35859  0.14333  1

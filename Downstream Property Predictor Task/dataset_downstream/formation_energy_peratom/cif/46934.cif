@@ -1,0 +1,51 @@
+CIF file written using JARVIS-Tools package.
+data_HfHg3Se2Cl6
+_symmetry_space_group_name_H-M  'P2_1/c'
+_cell_length_a       6.55675
+_cell_length_b       7.53815
+_cell_length_c       13.3025
+_cell_angle_alpha    90
+_cell_angle_beta     92.9788
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  14
+_chemical_formula_structural  HfHg3Se2Cl6
+_chemical_formula_sum  Hf2Hg6Se4Cl2
+_cell_volume  656.5978982615013
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cl  Cl1  1  0.62771  0.78547  0.56746  1
+ Cl  Cl2  1  0.82350  0.35998  0.55766  1
+ Cl  Cl3  1  0.62771  0.71453  0.06746  1
+ Cl  Cl4  1  0.35830  0.43860  0.66413  1
+ Cl  Cl5  1  0.64170  0.93860  0.83587  1
+ Cl  Cl6  1  0.64170  0.56140  0.33587  1
+ Cl  Cl7  1  0.37229  0.21453  0.43254  1
+ Cl  Cl8  1  0.37229  0.28547  0.93254  1
+ Cl  Cl9  1  0.17650  0.64002  0.44234  1
+ Cl  Cl10  1  0.82350  0.14002  0.05766  1
+ Cl  Cl11  1  0.17650  0.85998  0.94234  1
+ Cl  Cl12  1  0.35830  0.06140  0.16413  1
+ Hf  Hf1  1  0.50000  0.00000  0.00000  1
+ Hf  Hf2  1  0.50000  0.50000  0.50000  1
+ Hg  Hg1  1  0.00000  0.50000  0.00000  1
+ Hg  Hg2  1  0.99777  0.19518  0.76474  1
+ Hg  Hg3  1  0.00223  0.69518  0.73526  1
+ Hg  Hg4  1  0.00223  0.80482  0.23526  1
+ Hg  Hg5  1  0.00000  0.00000  0.50000  1
+ Hg  Hg6  1  0.99777  0.30482  0.26474  1
+ Se  Se1  1  0.80576  0.46208  0.82949  1
+ Se  Se2  1  0.19424  0.53792  0.17051  1
+ Se  Se3  1  0.19424  0.96208  0.67051  1
+ Se  Se4  1  0.80576  0.03792  0.32949  1

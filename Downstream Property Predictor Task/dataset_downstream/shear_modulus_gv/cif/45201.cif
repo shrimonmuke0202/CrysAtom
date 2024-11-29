@@ -1,0 +1,37 @@
+CIF file written using JARVIS-Tools package.
+data_LiCuP2O6
+_symmetry_space_group_name_H-M  'C222'
+_cell_length_a       5.03052
+_cell_length_b       5.28196
+_cell_length_c       5.64203
+_cell_angle_alpha    90.0049
+_cell_angle_beta     89.9971
+_cell_angle_gamma    118.431
+
+_symmetry_Int_Tables_number  21
+_chemical_formula_structural  LiCuP2O6
+_chemical_formula_sum  LiCuP2O6
+_cell_volume  131.83347292387384
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cu  Cu1  1  0.49990  0.99983  0.66656  1
+ Li  Li1  1  0.00000  0.00003  0.66673  1
+ O  O1  1  0.66877  0.77623  0.86165  1
+ O  O2  1  0.10725  0.77597  0.47188  1
+ O  O3  1  0.27085  0.54167  0.16671  1
+ O  O4  1  0.72916  0.45828  0.16663  1
+ O  O5  1  0.89257  0.22382  0.47176  1
+ O  O6  1  0.33140  0.22407  0.86141  1
+ P  P1  1  -0.00005  0.49993  0.33709  1
+ P  P2  1  0.50004  0.50007  0.99625  1

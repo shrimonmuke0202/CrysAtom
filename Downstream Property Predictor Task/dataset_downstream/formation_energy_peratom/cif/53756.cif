@@ -1,0 +1,33 @@
+CIF file written using JARVIS-Tools package.
+data_Ca2TaO3
+_symmetry_space_group_name_H-M  'I4/mmm'
+_cell_length_a       7.37916
+_cell_length_b       3.28242
+_cell_length_c       7.37901
+_cell_angle_alpha    77.1516
+_cell_angle_beta     25.7017
+_cell_angle_gamma    77.1466
+
+_symmetry_Int_Tables_number  139
+_chemical_formula_structural  Ca2TaO3
+_chemical_formula_sum  Ca2TaO3
+_cell_volume  75.46901385836418
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ca  Ca1  1  0.89812  0.57155  0.42845  1
+ Ca  Ca2  1  0.57155  0.89812  0.10188  1
+ O  O1  1  0.39597  0.07369  0.92631  1
+ O  O2  1  0.07369  0.39597  0.60403  1
+ O  O3  1  0.73490  0.73490  0.26510  1
+ Ta  Ta1  1  0.23485  0.23485  0.76515  1

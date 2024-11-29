@@ -1,0 +1,57 @@
+CIF file written using JARVIS-Tools package.
+data_As2H6CO6
+_symmetry_space_group_name_H-M  'Aea2'
+_cell_length_a       7.27716
+_cell_length_b       7.27717
+_cell_length_c       7.03265
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120.996
+
+_symmetry_Int_Tables_number  41
+_chemical_formula_structural  As2H6CO6
+_chemical_formula_sum  As4H2C2O2
+_cell_volume  319.2477655837041
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ As  As1  1  0.75871  0.50501  0.03570  1
+ As  As2  1  0.50501  0.75871  0.96430  1
+ As  As3  1  0.25871  0.00501  0.46430  1
+ As  As4  1  0.00501  0.25871  0.53570  1
+ C  C1  1  0.98392  0.98392  0.50000  1
+ C  C2  1  0.48392  0.48392  0.00000  1
+ H  H1  1  0.74546  0.08221  0.08802  1
+ H  H2  1  0.45769  0.82447  0.65109  1
+ H  H3  1  0.32447  0.95769  0.15109  1
+ H  H4  1  0.95769  0.32447  0.84891  1
+ H  H5  1  0.82447  0.45769  0.34891  1
+ H  H6  1  0.88677  0.90846  0.37302  1
+ H  H7  1  0.58221  0.24546  0.58802  1
+ H  H8  1  0.24546  0.58221  0.41198  1
+ H  H9  1  0.38677  0.40846  0.12698  1
+ H  H10  1  0.40846  0.38677  0.87302  1
+ H  H11  1  0.90846  0.88677  0.62698  1
+ H  H12  1  0.08221  0.74546  0.91198  1
+ O  O1  1  0.26407  0.78361  0.52609  1
+ O  O2  1  0.84140  0.58489  0.27001  1
+ O  O3  1  0.34140  0.08489  0.22999  1
+ O  O4  1  0.08489  0.34140  0.77001  1
+ O  O5  1  0.58489  0.84140  0.72999  1
+ O  O6  1  0.21945  0.43283  0.38854  1
+ O  O7  1  0.43283  0.21945  0.61146  1
+ O  O8  1  0.76407  0.28361  0.97391  1
+ O  O9  1  0.28361  0.76407  0.02609  1
+ O  O10  1  0.93283  0.71945  0.88854  1
+ O  O11  1  0.71945  0.93283  0.11146  1
+ O  O12  1  0.78361  0.26407  0.47391  1

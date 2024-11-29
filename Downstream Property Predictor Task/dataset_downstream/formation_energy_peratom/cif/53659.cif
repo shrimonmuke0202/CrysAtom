@@ -1,0 +1,42 @@
+CIF file written using JARVIS-Tools package.
+data_SbMo6S8
+_symmetry_space_group_name_H-M  'R-3'
+_cell_length_a       6.53574
+_cell_length_b       6.53573
+_cell_length_c       6.53573
+_cell_angle_alpha    90.1178
+_cell_angle_beta     90.1178
+_cell_angle_gamma    90.1177
+
+_symmetry_Int_Tables_number  148
+_chemical_formula_structural  SbMo6S8
+_chemical_formula_sum  SbMo6S8
+_cell_volume  279.17753164094984
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Mo  Mo1  1  0.77513  0.58335  0.44032  1
+ Mo  Mo2  1  0.44032  0.77513  0.58335  1
+ Mo  Mo3  1  0.58335  0.44032  0.77513  1
+ Mo  Mo4  1  0.22487  0.41665  0.55968  1
+ Mo  Mo5  1  0.55968  0.22487  0.41665  1
+ Mo  Mo6  1  0.41665  0.55968  0.22487  1
+ S  S1  1  0.76234  0.76234  0.76234  1
+ S  S2  1  0.23766  0.23766  0.23766  1
+ S  S3  1  0.25614  0.62721  0.87277  1
+ S  S4  1  0.87277  0.25614  0.62721  1
+ S  S5  1  0.62721  0.87277  0.25614  1
+ S  S6  1  0.74386  0.37279  0.12723  1
+ S  S7  1  0.12723  0.74386  0.37279  1
+ S  S8  1  0.37279  0.12723  0.74386  1
+ Sb  Sb1  1  0.00000  0.00000  0.00000  1

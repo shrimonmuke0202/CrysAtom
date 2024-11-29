@@ -1,0 +1,53 @@
+CIF file written using JARVIS-Tools package.
+data_Ta2H4O7
+_symmetry_space_group_name_H-M  'Fdd2'
+_cell_length_a       7.98414
+_cell_length_b       7.43994
+_cell_length_c       7.34788
+_cell_angle_alpha    65.352
+_cell_angle_beta     57.8801
+_cell_angle_gamma    56.7678
+
+_symmetry_Int_Tables_number  43
+_chemical_formula_structural  Ta2H4O7
+_chemical_formula_sum  Ta4H8O4
+_cell_volume  304.307642675273
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ H  H1  1  0.98060  0.01940  0.98060  1
+ H  H2  1  0.23060  0.26940  0.23060  1
+ H  H3  1  0.21148  0.79214  0.00552  1
+ H  H4  1  0.00552  -0.00914  0.21148  1
+ H  H5  1  0.25914  0.24448  0.45786  1
+ H  H6  1  0.45786  0.03852  0.25914  1
+ H  H7  1  0.61179  0.88821  0.61179  1
+ H  H8  1  0.36179  0.63821  0.36179  1
+ O  O1  1  0.77654  0.53092  0.48604  1
+ O  O2  1  0.32093  0.17907  0.32093  1
+ O  O3  1  0.71908  0.47346  0.04350  1
+ O  O4  1  0.07951  0.42049  0.07951  1
+ O  O5  1  0.69888  0.80112  0.69888  1
+ O  O6  1  0.64267  0.86531  0.11547  1
+ O  O7  1  0.04350  0.76396  0.71908  1
+ O  O8  1  0.48604  0.20650  0.77654  1
+ O  O9  1  0.07093  0.92907  0.07093  1
+ O  O10  1  0.82951  0.17049  0.82951  1
+ O  O11  1  0.87346  0.13453  0.38469  1
+ O  O12  1  0.38469  0.60733  0.87346  1
+ O  O13  1  0.11547  0.37654  0.64267  1
+ O  O14  1  0.44888  0.55112  0.44888  1
+ Ta  Ta1  1  0.82208  0.46006  0.74447  1
+ Ta  Ta2  1  0.78994  0.42792  0.27660  1
+ Ta  Ta3  1  0.74447  0.97340  0.82208  1
+ Ta  Ta4  1  0.27660  0.50553  0.78994  1

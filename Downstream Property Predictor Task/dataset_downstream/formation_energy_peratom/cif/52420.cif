@@ -1,0 +1,31 @@
+CIF file written using JARVIS-Tools package.
+data_Na3F
+_symmetry_space_group_name_H-M  'P1'
+_cell_length_a       3.31957
+_cell_length_b       5.81397
+_cell_length_c       5.8954
+_cell_angle_alpha    116.15
+_cell_angle_beta     74.5755
+_cell_angle_gamma    90.5588
+
+_symmetry_Int_Tables_number  1
+_chemical_formula_structural  Na3F
+_chemical_formula_sum  Na3F
+_cell_volume  97.69344043342454
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ F  F1  1  0.58265  0.29673  0.24666  1
+ Na  Na1  1  0.22060  0.06988  0.94852  1
+ Na  Na2  1  0.58288  0.68832  0.24801  1
+ Na  Na3  1  0.93891  0.36912  0.55206  1

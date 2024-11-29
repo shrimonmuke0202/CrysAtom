@@ -1,0 +1,45 @@
+CIF file written using JARVIS-Tools package.
+data_SmAs2Pd3
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       8.64684
+_cell_length_b       8.64684
+_cell_length_c       10.079
+_cell_angle_alpha    72.822
+_cell_angle_beta     72.8221
+_cell_angle_gamma    27.5266
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  SmAs2Pd3
+_chemical_formula_sum  Sm3As6Pd9
+_cell_volume  331.7855723712841
+_cell_formula_units_Z  3
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ As  As1  1  0.53966  0.53966  0.21072  1
+ As  As2  1  0.63664  0.63664  0.54532  1
+ As  As3  1  0.46034  0.46034  0.78928  1
+ As  As4  1  0.36336  0.36336  0.45468  1
+ As  As5  1  0.19866  0.19866  0.86916  1
+ As  As6  1  0.80134  0.80134  0.13084  1
+ Pd  Pd1  1  0.62150  0.62150  0.80221  1
+ Pd  Pd2  1  0.37850  0.37850  0.19779  1
+ Pd  Pd3  1  0.22127  0.22127  0.61098  1
+ Pd  Pd4  1  0.77873  0.77873  0.38902  1
+ Pd  Pd5  1  0.04200  0.04200  0.66758  1
+ Pd  Pd6  1  0.31978  0.31978  0.96539  1
+ Pd  Pd7  1  0.68022  0.68022  0.03461  1
+ Pd  Pd8  1  0.50000  0.50000  0.50000  1
+ Pd  Pd9  1  0.95800  0.95800  0.33242  1
+ Sm  Sm1  1  0.00000  0.00000  0.00000  1
+ Sm  Sm2  1  0.15288  0.15288  0.30145  1
+ Sm  Sm3  1  0.84712  0.84712  0.69855  1

@@ -1,0 +1,41 @@
+CIF file written using JARVIS-Tools package.
+data_CuAsPbO4
+_symmetry_space_group_name_H-M  'P-1'
+_cell_length_a       4.8963
+_cell_length_b       5.86433
+_cell_length_c       8.01202
+_cell_angle_alpha    79.1476
+_cell_angle_beta     74.4219
+_cell_angle_gamma    85.1109
+
+_symmetry_Int_Tables_number  2
+_chemical_formula_structural  CuAsPbO4
+_chemical_formula_sum  Cu2As2Pb2O8
+_cell_volume  217.49304227333167
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ As  As1  1  0.58054  0.79631  0.31308  1
+ As  As2  1  0.41946  0.20369  0.68692  1
+ Cu  Cu1  1  0.36387  0.80728  0.99559  1
+ Cu  Cu2  1  0.63613  0.19272  0.00441  1
+ O  O1  1  0.78109  0.03035  0.18598  1
+ O  O2  1  0.21891  0.96965  0.81402  1
+ O  O3  1  0.22338  0.37805  0.56239  1
+ O  O4  1  0.49294  0.37178  0.82690  1
+ O  O5  1  0.72766  0.09121  0.56333  1
+ O  O6  1  0.27234  0.90879  0.43667  1
+ O  O7  1  0.77662  0.62195  0.43761  1
+ O  O8  1  0.50706  0.62822  0.17310  1
+ Pb  Pb1  1  0.07192  0.28965  0.31678  1
+ Pb  Pb2  1  0.92808  0.71035  0.68322  1

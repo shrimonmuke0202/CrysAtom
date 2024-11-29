@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_U3Ga2Ge3
+_symmetry_space_group_name_H-M  'I4cm'
+_cell_length_a       7.80215
+_cell_length_b       7.80215
+_cell_length_c       7.80215
+_cell_angle_alpha    120.499
+_cell_angle_beta     120.499
+_cell_angle_gamma    89.1382
+
+_symmetry_Int_Tables_number  108
+_chemical_formula_structural  U3Ga2Ge3
+_chemical_formula_sum  U6Ga4Ge6
+_cell_volume  333.2637192065121
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ga  Ga1  1  0.69240  0.47540  0.50000  1
+ Ga  Ga2  1  0.97540  0.19240  0.50000  1
+ Ga  Ga3  1  0.47540  0.97540  0.78300  1
+ Ga  Ga4  1  0.19240  0.69240  0.21700  1
+ Ge  Ge1  1  0.35197  0.55446  0.50000  1
+ Ge  Ge2  1  0.05446  0.85197  0.50000  1
+ Ge  Ge3  1  0.55446  0.05446  0.20249  1
+ Ge  Ge4  1  0.85197  0.35197  0.79751  1
+ Ge  Ge5  1  0.99948  0.99948  0.00000  1
+ Ge  Ge6  1  0.49948  0.49948  0.00000  1
+ U  U1  1  0.36396  0.17233  0.50000  1
+ U  U2  1  0.67233  0.86396  0.50000  1
+ U  U3  1  0.17233  0.67233  0.80837  1
+ U  U4  1  0.86396  0.36396  0.19163  1
+ U  U5  1  0.74934  0.74934  -0.00000  1
+ U  U6  1  0.24934  0.24934  -0.00000  1

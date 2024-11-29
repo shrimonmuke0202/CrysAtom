@@ -1,0 +1,51 @@
+CIF file written using JARVIS-Tools package.
+data_Lu2Be2GeO7
+_symmetry_space_group_name_H-M  'P-42_1m'
+_cell_length_a       7.32196
+_cell_length_b       7.32196
+_cell_length_c       4.7503
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  113
+_chemical_formula_structural  Lu2Be2GeO7
+_chemical_formula_sum  Lu4Be4Ge2O4
+_cell_volume  254.66917572519546
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Be  Be1  1  0.63635  0.86365  0.94715  1
+ Be  Be2  1  0.36365  0.13635  0.94715  1
+ Be  Be3  1  0.13635  0.63635  0.05285  1
+ Be  Be4  1  0.86365  0.36365  0.05285  1
+ Ge  Ge1  1  0.00000  0.00000  0.00000  1
+ Ge  Ge2  1  0.50000  0.50000  0.00000  1
+ Lu  Lu1  1  0.15720  0.34280  0.50696  1
+ Lu  Lu2  1  0.84280  0.65720  0.50696  1
+ Lu  Lu3  1  0.65720  0.15720  0.49304  1
+ Lu  Lu4  1  0.34280  0.84280  0.49304  1
+ O  O1  1  0.00000  0.50000  0.19567  1
+ O  O2  1  0.32951  0.58373  0.22627  1
+ O  O3  1  0.64253  0.85747  0.28195  1
+ O  O4  1  0.35747  0.14253  0.28195  1
+ O  O5  1  0.14253  0.64253  0.71805  1
+ O  O6  1  0.50000  0.00000  0.80433  1
+ O  O7  1  0.82951  0.91627  0.77373  1
+ O  O8  1  0.91627  0.17049  0.22627  1
+ O  O9  1  0.17049  0.08373  0.77373  1
+ O  O10  1  0.41627  0.32951  0.77373  1
+ O  O11  1  0.85747  0.35747  0.71805  1
+ O  O12  1  0.58373  0.67049  0.77373  1
+ O  O13  1  0.08373  0.82951  0.22627  1
+ O  O14  1  0.67049  0.41627  0.22627  1

@@ -1,0 +1,51 @@
+CIF file written using JARVIS-Tools package.
+data_BaNpP2O8
+_symmetry_space_group_name_H-M  'C2/c'
+_cell_length_a       6.8913
+_cell_length_b       6.89131
+_cell_length_c       9.46421
+_cell_angle_alpha    78.5049
+_cell_angle_beta     78.5049
+_cell_angle_gamma    46.2531
+
+_symmetry_Int_Tables_number  15
+_chemical_formula_structural  BaNpP2O8
+_chemical_formula_sum  Ba2Np2P4O6
+_cell_volume  316.9725551545955
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ba  Ba1  1  -0.00000  0.50000  0.00000  1
+ Ba  Ba2  1  0.50000  -0.00000  0.50000  1
+ Np  Np1  1  0.18420  0.81580  0.25000  1
+ Np  Np2  1  0.81580  0.18420  0.75000  1
+ O  O1  1  0.79534  0.89923  0.20509  1
+ O  O2  1  0.10077  0.20466  0.29491  1
+ O  O3  1  0.20466  0.10077  0.79491  1
+ O  O4  1  0.40443  0.84309  0.03660  1
+ O  O5  1  0.37248  0.40810  0.18489  1
+ O  O6  1  0.59190  0.62752  0.31511  1
+ O  O7  1  0.89923  0.79534  0.70509  1
+ O  O8  1  0.40810  0.37248  0.68489  1
+ O  O9  1  0.84585  0.21574  0.08996  1
+ O  O10  1  0.15415  0.78426  0.91004  1
+ O  O11  1  0.62752  0.59190  0.81511  1
+ O  O12  1  0.21574  0.84585  0.58996  1
+ O  O13  1  0.59557  0.15691  0.96340  1
+ O  O14  1  0.84309  0.40443  0.53660  1
+ O  O15  1  0.78426  0.15415  0.41004  1
+ O  O16  1  0.15691  0.59557  0.46340  1
+ P  P1  1  0.17301  0.64921  0.61100  1
+ P  P2  1  0.35079  0.82699  0.88900  1
+ P  P3  1  0.82699  0.35079  0.38900  1
+ P  P4  1  0.64921  0.17301  0.11100  1

@@ -1,0 +1,36 @@
+CIF file written using JARVIS-Tools package.
+data_AuO2F6
+_symmetry_space_group_name_H-M  'P-1'
+_cell_length_a       4.74346
+_cell_length_b       5.05174
+_cell_length_c       5.1493
+_cell_angle_alpha    90.4919
+_cell_angle_beta     81.8209
+_cell_angle_gamma    73.3837
+
+_symmetry_Int_Tables_number  2
+_chemical_formula_structural  AuO2F6
+_chemical_formula_sum  AuO2F6
+_cell_volume  116.87772946724007
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Au  Au1  1  0.00000  0.00000  0.00000  1
+ F  F1  1  0.96673  0.68247  0.80501  1
+ F  F2  1  0.18982  0.10178  0.67289  1
+ F  F3  1  0.81018  0.89822  0.32711  1
+ F  F4  1  0.61588  0.22678  0.93095  1
+ F  F5  1  0.38412  0.77322  0.06905  1
+ F  F6  1  0.03327  0.31753  0.19499  1
+ O  O1  1  0.38178  0.55994  0.47467  1
+ O  O2  1  0.61822  0.44006  0.52533  1

@@ -1,0 +1,37 @@
+CIF file written using JARVIS-Tools package.
+data_Zr2CoSi2
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       3.89874
+_cell_length_b       5.3492
+_cell_length_c       8.58586
+_cell_angle_alpha    82.458
+_cell_angle_beta     76.8769
+_cell_angle_gamma    68.6279
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  Zr2CoSi2
+_chemical_formula_sum  Zr4Co2Si4
+_cell_volume  162.15858569285157
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Co  Co1  1  0.27809  0.07092  0.37291  1
+ Co  Co2  1  0.72191  0.92908  0.62709  1
+ Si  Si1  1  0.64452  0.28148  0.42947  1
+ Si  Si2  1  0.35548  0.71852  0.57053  1
+ Si  Si3  1  0.51335  0.85031  0.12298  1
+ Si  Si4  1  0.48665  0.14969  0.87702  1
+ Zr  Zr1  1  0.81161  0.27466  0.10211  1
+ Zr  Zr2  1  0.18839  0.72534  0.89789  1
+ Zr  Zr3  1  0.99801  0.32908  0.67490  1
+ Zr  Zr4  1  0.00199  0.67092  0.32510  1

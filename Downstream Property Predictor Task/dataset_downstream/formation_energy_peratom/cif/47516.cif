@@ -1,0 +1,55 @@
+CIF file written using JARVIS-Tools package.
+data_Pr3Si2S8Br
+_symmetry_space_group_name_H-M  'C2/c'
+_cell_length_a       7.7779
+_cell_length_b       8.79191
+_cell_length_c       10.9846
+_cell_angle_alpha    97.0174
+_cell_angle_beta     90
+_cell_angle_gamma    116.253
+
+_symmetry_Int_Tables_number  15
+_chemical_formula_structural  Pr3Si2S8Br
+_chemical_formula_sum  Pr6Si4S6Br2
+_cell_volume  667.392789064354
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Br  Br1  1  0.99106  0.00000  0.75000  1
+ Br  Br2  1  0.00894  -0.00000  0.25000  1
+ Pr  Pr1  1  0.38749  0.00000  0.75000  1
+ Pr  Pr2  1  0.07458  0.38986  0.68341  1
+ Pr  Pr3  1  0.92542  0.61014  0.31659  1
+ Pr  Pr4  1  0.61251  -0.00000  0.25000  1
+ Pr  Pr5  1  0.31528  0.38986  0.18341  1
+ Pr  Pr6  1  0.68472  0.61014  0.81659  1
+ S  S1  1  0.27684  0.86878  0.45541  1
+ S  S2  1  0.59193  0.86878  0.95541  1
+ S  S3  1  0.14444  0.43178  0.41537  1
+ S  S4  1  0.39703  0.29130  0.64362  1
+ S  S5  1  0.60297  0.70870  0.35638  1
+ S  S6  1  0.72316  0.13122  0.54459  1
+ S  S7  1  0.74368  0.29562  0.83824  1
+ S  S8  1  0.25632  0.70438  0.16176  1
+ S  S9  1  0.10572  0.70870  0.85638  1
+ S  S10  1  0.55195  0.29562  0.33824  1
+ S  S11  1  0.89428  0.29130  0.14362  1
+ S  S12  1  0.85556  0.56822  0.58463  1
+ S  S13  1  0.28735  0.43178  0.91537  1
+ S  S14  1  0.40807  0.13122  0.04459  1
+ S  S15  1  0.71265  0.56822  0.08463  1
+ S  S16  1  0.44805  0.70438  0.66176  1
+ Si  Si1  1  0.37464  0.68070  0.47173  1
+ Si  Si2  1  0.62536  0.31930  0.52827  1
+ Si  Si3  1  0.69394  0.31930  0.02827  1
+ Si  Si4  1  0.30606  0.68070  0.97173  1

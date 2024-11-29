@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_AlF3
+_symmetry_space_group_name_H-M  'Cmmm'
+_cell_length_a       9.52448
+_cell_length_b       3.62899
+_cell_length_c       5.92815
+_cell_angle_alpha    90.0217
+_cell_angle_beta     150.262
+_cell_angle_gamma    89.9682
+
+_symmetry_Int_Tables_number  65
+_chemical_formula_structural  AlF3
+_chemical_formula_sum  Al2F6
+_cell_volume  101.63699095907354
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Al  Al1  1  0.55837  0.30571  0.03802  1
+ Al  Al2  1  0.82734  0.30573  0.84447  1
+ F  F1  1  0.19286  0.30571  0.44125  1
+ F  F2  1  0.69287  0.30571  0.94127  1
+ F  F3  1  0.83070  0.80572  0.85436  1
+ F  F4  1  0.55501  0.80571  0.02813  1
+ F  F5  1  0.91517  0.30551  0.66336  1
+ F  F6  1  0.47054  0.30593  0.21913  1

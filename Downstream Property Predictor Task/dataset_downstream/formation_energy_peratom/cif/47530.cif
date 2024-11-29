@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_In3Ir
+_symmetry_space_group_name_H-M  'P4_2/mnm'
+_cell_length_a       7.10721
+_cell_length_b       7.10721
+_cell_length_c       7.33004
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  136
+_chemical_formula_structural  In3Ir
+_chemical_formula_sum  In2Ir4
+_cell_volume  370.2580201901268
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ In  In1  1  0.15011  0.15011  0.74261  1
+ In  In2  1  0.65011  0.34989  0.24261  1
+ In  In3  1  0.65011  0.34989  0.75739  1
+ In  In4  1  0.00000  0.50000  0.00000  1
+ In  In5  1  0.34989  0.65011  0.75739  1
+ In  In6  1  0.34989  0.65011  0.24261  1
+ In  In7  1  0.50000  0.00000  0.00000  1
+ In  In8  1  0.84989  0.84989  0.74261  1
+ In  In9  1  0.84989  0.84989  0.25739  1
+ In  In10  1  0.00000  0.50000  0.50000  1
+ In  In11  1  0.15011  0.15011  0.25739  1
+ In  In12  1  0.50000  0.00000  0.50000  1
+ Ir  Ir1  1  0.34160  0.34160  0.00000  1
+ Ir  Ir2  1  0.15840  0.84160  0.50000  1
+ Ir  Ir3  1  0.84160  0.15840  0.50000  1
+ Ir  Ir4  1  0.65840  0.65840  0.00000  1

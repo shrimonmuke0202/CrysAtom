@@ -1,0 +1,47 @@
+CIF file written using JARVIS-Tools package.
+data_PrNCl4O4
+_symmetry_space_group_name_H-M  'P2_12_12'
+_cell_length_a       6.89393
+_cell_length_b       8.81221
+_cell_length_c       5.87757
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  18
+_chemical_formula_structural  PrNCl4O4
+_chemical_formula_sum  Pr2N2Cl8O8
+_cell_volume  357.0669595082154
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cl  Cl1  1  0.75227  0.39453  0.60754  1
+ Cl  Cl2  1  0.63929  0.00625  0.24451  1
+ Cl  Cl3  1  0.36071  0.00625  0.75549  1
+ Cl  Cl4  1  0.13929  -0.00625  0.25549  1
+ Cl  Cl5  1  0.86071  -0.00625  0.74451  1
+ Cl  Cl6  1  0.25227  0.60547  0.89246  1
+ Cl  Cl7  1  0.24773  0.39453  0.39246  1
+ Cl  Cl8  1  0.74773  0.60547  0.10754  1
+ N  N1  1  0.00000  0.20906  0.00000  1
+ N  N2  1  0.50000  0.79094  0.50000  1
+ O  O1  1  0.36266  0.72866  0.40704  1
+ O  O2  1  -0.02002  0.85880  0.25614  1
+ O  O3  1  0.02002  0.85880  0.74386  1
+ O  O4  1  0.52002  0.14120  0.75614  1
+ O  O5  1  0.86266  0.27134  0.09296  1
+ O  O6  1  0.13734  0.27134  0.90704  1
+ O  O7  1  0.63734  0.72866  0.59296  1
+ O  O8  1  0.47998  0.14120  0.24386  1
+ Pr  Pr1  1  0.50000  0.36209  0.00000  1
+ Pr  Pr2  1  0.00000  0.63791  0.50000  1

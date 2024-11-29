@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_Y2Al
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       5.09833
+_cell_length_b       6.57612
+_cell_length_c       9.47353
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  Y2Al
+_chemical_formula_sum  Y8Al4
+_cell_volume  317.6213992442188
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Al  Al1  1  0.75000  0.71027  0.10345  1
+ Al  Al2  1  0.25000  0.28973  0.89655  1
+ Al  Al3  1  0.75000  0.21027  0.39655  1
+ Al  Al4  1  0.25000  0.78973  0.60345  1
+ Y  Y1  1  0.75000  0.18763  0.07311  1
+ Y  Y2  1  0.25000  0.81237  0.92689  1
+ Y  Y3  1  0.75000  0.68763  0.42689  1
+ Y  Y4  1  0.25000  0.31237  0.57311  1
+ Y  Y5  1  0.75000  0.02677  0.70831  1
+ Y  Y6  1  0.25000  0.97323  0.29169  1
+ Y  Y7  1  0.75000  0.52677  0.79169  1
+ Y  Y8  1  0.25000  0.47323  0.20831  1

@@ -1,0 +1,41 @@
+CIF file written using JARVIS-Tools package.
+data_La3Mg2TiS8
+_symmetry_space_group_name_H-M  'R-3m'
+_cell_length_a       8.06247
+_cell_length_b       7.93399
+_cell_length_c       8.06196
+_cell_angle_alpha    59.4661
+_cell_angle_beta     60.0004
+_cell_angle_gamma    59.4613
+
+_symmetry_Int_Tables_number  166
+_chemical_formula_structural  La3Mg2TiS8
+_chemical_formula_sum  La3Mg2TiS8
+_cell_volume  361.67435210809373
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ La  La1  1  0.50000  0.50001  0.49999  1
+ La  La2  1  0.50000  0.49999  -0.00000  1
+ La  La3  1  1.00000  0.50000  0.50000  1
+ Mg  Mg1  1  0.87488  0.87544  0.87485  1
+ Mg  Mg2  1  0.12513  0.12456  0.12515  1
+ S  S1  1  0.72957  0.77855  0.72961  1
+ S  S2  1  0.27042  0.22146  0.73772  1
+ S  S3  1  0.25063  0.74804  0.25066  1
+ S  S4  1  0.73770  0.22141  0.27044  1
+ S  S5  1  0.74936  0.25196  0.74933  1
+ S  S6  1  0.26230  0.77859  0.72957  1
+ S  S7  1  0.27043  0.22144  0.27041  1
+ S  S8  1  0.72958  0.77855  0.26228  1
+ Ti  Ti1  1  0.50000  -0.00000  0.50000  1

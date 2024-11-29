@@ -1,0 +1,41 @@
+CIF file written using JARVIS-Tools package.
+data_KGdGeS4
+_symmetry_space_group_name_H-M  'P2_1'
+_cell_length_a       6.68046
+_cell_length_b       6.53472
+_cell_length_c       8.55179
+_cell_angle_alpha    72.0316
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  4
+_chemical_formula_structural  KGdGeS4
+_chemical_formula_sum  K2Gd2Ge2S8
+_cell_volume  355.1199624556366
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Gd  Gd1  1  0.50752  0.23068  0.44678  1
+ Gd  Gd2  1  0.00752  0.76932  0.55322  1
+ Ge  Ge1  1  0.97326  0.21993  0.68013  1
+ Ge  Ge2  1  0.47326  0.78007  0.31987  1
+ K  K1  1  0.49376  0.26169  0.93699  1
+ K  K2  1  0.99376  0.73831  0.06301  1
+ S  S1  1  0.40969  0.56861  0.57577  1
+ S  S2  1  0.90969  0.43139  0.42423  1
+ S  S3  1  0.97030  0.42147  0.84459  1
+ S  S4  1  0.47030  0.57853  0.15541  1
+ S  S5  1  0.24589  0.01244  0.70943  1
+ S  S6  1  0.74589  0.98756  0.29057  1
+ S  S7  1  0.23257  0.03084  0.27449  1
+ S  S8  1  0.73257  0.96916  0.72551  1

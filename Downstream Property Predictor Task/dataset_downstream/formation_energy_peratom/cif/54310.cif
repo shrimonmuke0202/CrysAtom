@@ -1,0 +1,31 @@
+CIF file written using JARVIS-Tools package.
+data_MoNO2
+_symmetry_space_group_name_H-M  'Amm2'
+_cell_length_a       3.79684
+_cell_length_b       3.79684
+_cell_length_c       2.77564
+_cell_angle_alpha    90.0206
+_cell_angle_beta     90.0206
+_cell_angle_gamma    88.2547
+
+_symmetry_Int_Tables_number  38
+_chemical_formula_structural  MoNO2
+_chemical_formula_sum  MoNO2
+_cell_volume  39.994931477876996
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Mo  Mo1  1  -0.06190  0.06190  0.50000  1
+ N  N1  1  0.64347  0.35653  -0.00000  1
+ O  O1  1  0.25327  0.33478  0.00017  1
+ O  O2  1  0.66522  0.74673  0.99983  1

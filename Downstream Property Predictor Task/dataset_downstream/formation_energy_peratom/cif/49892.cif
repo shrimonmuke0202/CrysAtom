@@ -1,0 +1,31 @@
+CIF file written using JARVIS-Tools package.
+data_Sr2PF
+_symmetry_space_group_name_H-M  'R-3m'
+_cell_length_a       6.61927
+_cell_length_b       6.61927
+_cell_length_c       6.61927
+_cell_angle_alpha    37.9227
+_cell_angle_beta     37.9227
+_cell_angle_gamma    37.9227
+
+_symmetry_Int_Tables_number  166
+_chemical_formula_structural  Sr2PF
+_chemical_formula_sum  Sr2PF
+_cell_volume  98.32325788834649
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ F  F1  1  0.00000  0.00000  0.00000  1
+ P  P1  1  0.50000  0.50000  0.50000  1
+ Sr  Sr1  1  0.74724  0.74724  0.74723  1
+ Sr  Sr2  1  0.25276  0.25276  0.25276  1

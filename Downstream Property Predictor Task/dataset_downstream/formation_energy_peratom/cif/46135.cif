@@ -1,0 +1,54 @@
+CIF file written using JARVIS-Tools package.
+data_Na2TiF6
+_symmetry_space_group_name_H-M  'P321'
+_cell_length_a       5.07897
+_cell_length_b       9.25608
+_cell_length_c       9.25646
+_cell_angle_alpha    120.001
+_cell_angle_beta     90
+_cell_angle_gamma    89.9991
+
+_symmetry_Int_Tables_number  150
+_chemical_formula_structural  Na2TiF6
+_chemical_formula_sum  Na6Ti3F8
+_cell_volume  376.85343838569827
+_cell_formula_units_Z  3
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ F  F1  1  0.28591  0.40912  0.86082  1
+ F  F2  1  0.28874  0.47264  0.24895  1
+ F  F3  1  0.78774  0.19336  0.11156  1
+ F  F4  1  0.28594  0.45024  0.59234  1
+ F  F5  1  0.71131  0.24749  0.47413  1
+ F  F6  1  0.28869  0.75251  0.22664  1
+ F  F7  1  0.21226  0.80664  0.91820  1
+ F  F8  1  0.21222  0.08328  0.89138  1
+ F  F9  1  0.28596  0.14064  0.55122  1
+ F  F10  1  0.21222  0.11009  0.19482  1
+ F  F11  1  0.78778  0.88991  0.08473  1
+ F  F12  1  0.71409  0.59088  0.45170  1
+ F  F13  1  0.78778  0.91672  0.80810  1
+ F  F14  1  0.71126  0.52736  0.77631  1
+ F  F15  1  0.71406  0.54976  0.14210  1
+ F  F16  1  0.71404  0.85936  0.41058  1
+ F  F17  1  0.71130  0.22518  0.75398  1
+ F  F18  1  0.28870  0.77482  0.52880  1
+ Na  Na1  1  0.00000  -0.00000  0.62938  1
+ Na  Na2  1  0.50001  0.70755  0.70900  1
+ Na  Na3  1  0.50000  -0.00000  0.29391  1
+ Na  Na4  1  0.49999  0.29245  0.00145  1
+ Na  Na5  1  0.00001  0.37207  0.37354  1
+ Na  Na6  1  -0.00001  0.62793  0.00147  1
+ Ti  Ti1  1  0.50120  0.66666  0.33479  1
+ Ti  Ti2  1  0.00000  0.00000  0.00146  1
+ Ti  Ti3  1  0.49880  0.33334  0.66813  1

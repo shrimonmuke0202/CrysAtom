@@ -1,0 +1,41 @@
+CIF file written using JARVIS-Tools package.
+data_Mn2Cr3GaS8
+_symmetry_space_group_name_H-M  'R-3m'
+_cell_length_a       7.17568
+_cell_length_b       7.17569
+_cell_length_c       7.17568
+_cell_angle_alpha    59.7905
+_cell_angle_beta     59.7904
+_cell_angle_gamma    59.7905
+
+_symmetry_Int_Tables_number  166
+_chemical_formula_structural  Mn2Cr3GaS8
+_chemical_formula_sum  Mn2Cr3GaS8
+_cell_volume  260.0183515350229
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cr  Cr1  1  0.50000  0.00000  -0.00000  1
+ Cr  Cr2  1  0.00000  -0.00000  0.50000  1
+ Cr  Cr3  1  0.00000  0.50000  -0.00000  1
+ Ga  Ga1  1  0.00000  0.00000  0.00000  1
+ Mn  Mn1  1  0.37497  0.37497  0.37497  1
+ Mn  Mn2  1  0.62503  0.62503  0.62503  1
+ S  S1  1  0.24000  0.24000  0.24000  1
+ S  S2  1  0.77927  0.24355  0.24355  1
+ S  S3  1  0.24355  0.24355  0.77927  1
+ S  S4  1  0.24355  0.77927  0.24355  1
+ S  S5  1  0.76000  0.76000  0.76000  1
+ S  S6  1  0.22073  0.75645  0.75645  1
+ S  S7  1  0.75645  0.75645  0.22073  1
+ S  S8  1  0.75645  0.22073  0.75645  1

@@ -1,0 +1,53 @@
+CIF file written using JARVIS-Tools package.
+data_Nd2Si2PbS8
+_symmetry_space_group_name_H-M  'Cc'
+_cell_length_a       8.93971
+_cell_length_b       8.93971
+_cell_length_c       10.1659
+_cell_angle_alpha    65.5387
+_cell_angle_beta     65.5387
+_cell_angle_gamma    61.1172
+
+_symmetry_Int_Tables_number  9
+_chemical_formula_structural  Nd2Si2PbS8
+_chemical_formula_sum  Nd4Si4Pb2S6
+_cell_volume  623.7350801517322
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Nd  Nd1  1  0.06064  0.25412  0.75050  1
+ Nd  Nd2  1  0.44159  0.56071  0.75480  1
+ Nd  Nd3  1  0.25412  0.06064  0.25050  1
+ Nd  Nd4  1  0.56071  0.44159  0.25480  1
+ Pb  Pb1  1  0.91310  0.75380  0.24104  1
+ Pb  Pb2  1  0.75380  0.91310  0.74104  1
+ S  S1  1  0.87745  0.98369  0.92022  1
+ S  S2  1  0.70933  0.40845  0.94421  1
+ S  S3  1  0.39724  0.91892  0.73973  1
+ S  S4  1  0.40845  0.70933  0.44421  1
+ S  S5  1  0.98369  0.87745  0.42022  1
+ S  S6  1  0.23628  0.42362  0.45276  1
+ S  S7  1  0.42362  0.23628  0.95276  1
+ S  S8  1  0.27268  0.61522  0.06649  1
+ S  S9  1  0.53270  0.79601  0.06956  1
+ S  S10  1  0.79601  0.53270  0.56956  1
+ S  S11  1  0.07254  0.10331  0.54866  1
+ S  S12  1  0.10331  0.07254  0.04866  1
+ S  S13  1  0.56941  0.09910  0.26136  1
+ S  S14  1  0.09910  0.56941  0.76136  1
+ S  S15  1  0.61522  0.27268  0.56649  1
+ S  S16  1  0.91892  0.39724  0.23973  1
+ Si  Si1  1  0.85135  0.32596  0.48043  1
+ Si  Si2  1  0.32596  0.85135  0.98043  1
+ Si  Si3  1  0.17656  0.64623  0.52024  1
+ Si  Si4  1  0.64623  0.17656  0.02024  1

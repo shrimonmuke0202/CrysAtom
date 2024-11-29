@@ -1,0 +1,37 @@
+CIF file written using JARVIS-Tools package.
+data_TlNiCl3
+_symmetry_space_group_name_H-M  'P6_3/mmc'
+_cell_length_a       6.82504
+_cell_length_b       6.82503
+_cell_length_c       5.8417
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_symmetry_Int_Tables_number  194
+_chemical_formula_structural  TlNiCl3
+_chemical_formula_sum  Tl2Ni2Cl6
+_cell_volume  235.65657906643656
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cl  Cl1  1  0.16102  0.32204  0.25000  1
+ Cl  Cl2  1  0.83898  0.67796  0.75000  1
+ Cl  Cl3  1  0.67796  0.83898  0.25000  1
+ Cl  Cl4  1  0.32204  0.16102  0.75000  1
+ Cl  Cl5  1  0.16102  0.83898  0.25000  1
+ Cl  Cl6  1  0.83898  0.16102  0.75000  1
+ Ni  Ni1  1  0.00000  0.00000  0.00000  1
+ Ni  Ni2  1  0.00000  0.00000  0.50000  1
+ Tl  Tl1  1  0.33333  0.66667  0.75000  1
+ Tl  Tl2  1  0.66667  0.33333  0.25000  1

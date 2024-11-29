@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_BaFe2S2O
+_symmetry_space_group_name_H-M  'Pmmn'
+_cell_length_a       3.93221
+_cell_length_b       6.5617
+_cell_length_c       9.56688
+_cell_angle_alpha    89.998
+_cell_angle_beta     90.0003
+_cell_angle_gamma    90.0007
+
+_symmetry_Int_Tables_number  59
+_chemical_formula_structural  BaFe2S2O
+_chemical_formula_sum  Ba2Fe4S4O2
+_cell_volume  246.84387998540055
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ba  Ba1  1  0.49999  0.00522  0.50000  1
+ Ba  Ba2  1  -0.00001  0.99478  0.00000  1
+ Fe  Fe1  1  0.50001  0.38668  0.81856  1
+ Fe  Fe2  1  0.50001  0.38669  0.18140  1
+ Fe  Fe3  1  -0.00001  0.61331  0.31860  1
+ Fe  Fe4  1  -0.00001  0.61332  0.68144  1
+ O  O1  1  0.50001  0.26736  0.99999  1
+ O  O2  1  -0.00002  0.73264  0.50001  1
+ S  S1  1  0.50000  0.74153  0.79282  1
+ S  S2  1  0.50000  0.74153  0.20721  1
+ S  S3  1  0.00002  0.25847  0.29279  1
+ S  S4  1  0.00002  0.25847  0.70718  1

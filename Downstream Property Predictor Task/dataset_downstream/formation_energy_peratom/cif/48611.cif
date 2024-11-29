@@ -1,0 +1,45 @@
+CIF file written using JARVIS-Tools package.
+data_Ca3In2N4
+_symmetry_space_group_name_H-M  'C2/c'
+_cell_length_a       7.00172
+_cell_length_b       8.71733
+_cell_length_c       5.96687
+_cell_angle_alpha    90
+_cell_angle_beta     89.4342
+_cell_angle_gamma    128.5
+
+_symmetry_Int_Tables_number  15
+_chemical_formula_structural  Ca3In2N4
+_chemical_formula_sum  Ca6In4N8
+_cell_volume  284.9998331456666
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ca  Ca1  1  0.22276  0.98023  0.05233  1
+ Ca  Ca2  1  0.77724  0.75748  0.44767  1
+ Ca  Ca3  1  0.77724  0.01977  0.94767  1
+ Ca  Ca4  1  0.22276  0.24252  0.55233  1
+ Ca  Ca5  1  0.00000  0.61397  0.75000  1
+ Ca  Ca6  1  -0.00000  0.38603  0.25000  1
+ In  In1  1  0.40120  0.58010  0.88213  1
+ In  In2  1  0.59880  0.17890  0.61787  1
+ In  In3  1  0.59880  0.41990  0.11787  1
+ In  In4  1  0.40120  0.82110  0.38213  1
+ N  N1  1  0.29905  0.55304  0.53533  1
+ N  N2  1  0.29905  0.74601  0.03533  1
+ N  N3  1  0.21392  0.94449  0.50791  1
+ N  N4  1  0.78608  0.73057  0.99209  1
+ N  N5  1  0.78608  0.05551  0.49209  1
+ N  N6  1  0.21392  0.26943  0.00791  1
+ N  N7  1  0.70095  0.25399  0.96467  1
+ N  N8  1  0.70095  0.44696  0.46467  1

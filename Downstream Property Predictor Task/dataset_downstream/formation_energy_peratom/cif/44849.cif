@@ -1,0 +1,33 @@
+CIF file written using JARVIS-Tools package.
+data_DyGePd
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       5.64638
+_cell_length_b       5.64638
+_cell_length_c       7.03159
+_cell_angle_alpha    51.8048
+_cell_angle_beta     51.8048
+_cell_angle_gamma    45.2402
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  DyGePd
+_chemical_formula_sum  Dy2Ge2Pd2
+_cell_volume  118.18840736842793
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Dy  Dy1  1  0.54733  0.54733  0.69177  1
+ Dy  Dy2  1  0.45267  0.45267  0.30823  1
+ Ge  Ge1  1  0.84183  0.84183  0.09965  1
+ Ge  Ge2  1  0.15817  0.15817  0.90035  1
+ Pd  Pd1  1  0.17655  0.17655  0.27720  1
+ Pd  Pd2  1  0.82345  0.82345  0.72280  1

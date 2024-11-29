@@ -1,0 +1,55 @@
+CIF file written using JARVIS-Tools package.
+data_Na2CuSbS3
+_symmetry_space_group_name_H-M  'P2_1/c'
+_cell_length_a       5.83897
+_cell_length_b       17.2096
+_cell_length_c       6.92828
+_cell_angle_alpha    90
+_cell_angle_beta     116.005
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  14
+_chemical_formula_structural  Na2CuSbS3
+_chemical_formula_sum  Na8Cu4Sb4S2
+_cell_volume  625.7096813431627
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cu  Cu1  1  0.86760  0.29090  0.39505  1
+ Cu  Cu2  1  0.13240  0.70910  0.60495  1
+ Cu  Cu3  1  0.13240  0.79090  0.10495  1
+ Cu  Cu4  1  0.86760  0.20910  0.89505  1
+ Na  Na1  1  0.84632  0.46258  0.19220  1
+ Na  Na2  1  0.15368  0.96258  0.30780  1
+ Na  Na3  1  0.84632  0.03742  0.69220  1
+ Na  Na4  1  0.43106  0.89185  0.87725  1
+ Na  Na5  1  0.43106  0.60815  0.37725  1
+ Na  Na6  1  0.56894  0.10815  0.12275  1
+ Na  Na7  1  0.15368  0.53742  0.80780  1
+ Na  Na8  1  0.56894  0.39185  0.62275  1
+ S  S1  1  0.71030  0.30712  0.03277  1
+ S  S2  1  0.28970  0.80712  0.46723  1
+ S  S3  1  0.34412  0.44624  0.19785  1
+ S  S4  1  0.34412  0.05376  0.69785  1
+ S  S5  1  0.07606  0.11234  0.12675  1
+ S  S6  1  0.28970  0.69288  0.96723  1
+ S  S7  1  0.65588  0.55376  0.80215  1
+ S  S8  1  0.07606  0.38766  0.62675  1
+ S  S9  1  0.65588  0.94624  0.30215  1
+ S  S10  1  0.71030  0.19288  0.53277  1
+ S  S11  1  0.92394  0.88766  0.87325  1
+ S  S12  1  0.92394  0.61234  0.37325  1
+ Sb  Sb1  1  0.25690  0.17314  0.48728  1
+ Sb  Sb2  1  0.74310  0.82686  0.51272  1
+ Sb  Sb3  1  0.74310  0.67314  0.01272  1
+ Sb  Sb4  1  0.25690  0.32686  0.98728  1

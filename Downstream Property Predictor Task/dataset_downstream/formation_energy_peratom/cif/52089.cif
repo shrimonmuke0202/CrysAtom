@@ -1,0 +1,55 @@
+CIF file written using JARVIS-Tools package.
+data_TbWO5
+_symmetry_space_group_name_H-M  'P2_1/c'
+_cell_length_a       12.6619
+_cell_length_b       5.27601
+_cell_length_c       6.92942
+_cell_angle_alpha    63.1552
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  14
+_chemical_formula_structural  TbWO5
+_chemical_formula_sum  Tb4W4O20
+_cell_volume  413.02913118854707
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ O  O1  1  0.14886  0.77672  0.08019  1
+ O  O2  1  0.91547  0.49694  0.44825  1
+ O  O3  1  0.08453  0.50306  0.55175  1
+ O  O4  1  0.41547  0.50306  0.05175  1
+ O  O5  1  0.58453  0.49694  0.94825  1
+ O  O6  1  0.42672  0.98982  0.15691  1
+ O  O7  1  0.64886  0.22328  0.41981  1
+ O  O8  1  0.92672  0.01018  0.34309  1
+ O  O9  1  0.07328  0.98982  0.65691  1
+ O  O10  1  0.57328  0.01018  0.84309  1
+ O  O11  1  0.06452  0.30840  0.96467  1
+ O  O12  1  0.22810  0.21651  0.28063  1
+ O  O13  1  0.43548  0.30840  0.46467  1
+ O  O14  1  0.35114  0.77672  0.58019  1
+ O  O15  1  0.77190  0.78349  0.71937  1
+ O  O16  1  0.85114  0.22328  0.91981  1
+ O  O17  1  0.27190  0.21651  0.78063  1
+ O  O18  1  0.72810  0.78349  0.21937  1
+ O  O19  1  0.56452  0.69160  0.53533  1
+ O  O20  1  0.93548  0.69160  0.03533  1
+ Tb  Tb1  1  0.94349  0.64341  0.71401  1
+ Tb  Tb2  1  0.05651  0.35659  0.28599  1
+ Tb  Tb3  1  0.44349  0.35659  0.78599  1
+ Tb  Tb4  1  0.55651  0.64341  0.21401  1
+ W  W1  1  0.63793  0.88978  0.65492  1
+ W  W2  1  0.36207  0.11022  0.34508  1
+ W  W3  1  0.13793  0.11022  0.84508  1
+ W  W4  1  0.86207  0.88978  0.15492  1

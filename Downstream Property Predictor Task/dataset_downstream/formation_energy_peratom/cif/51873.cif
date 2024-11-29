@@ -1,0 +1,47 @@
+CIF file written using JARVIS-Tools package.
+data_Ca3CoO6
+_symmetry_space_group_name_H-M  'R-3c'
+_cell_length_a       6.31746
+_cell_length_b       6.31759
+_cell_length_c       6.31714
+_cell_angle_alpha    88.3966
+_cell_angle_beta     88.3951
+_cell_angle_gamma    88.3983
+
+_symmetry_Int_Tables_number  167
+_chemical_formula_structural  Ca3CoO6
+_chemical_formula_sum  Ca6Co2O2
+_cell_volume  251.83340198381546
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ca  Ca1  1  0.39720  0.10280  0.74999  1
+ Ca  Ca2  1  0.10278  0.75001  0.39722  1
+ Ca  Ca3  1  0.25003  0.60281  0.89722  1
+ Ca  Ca4  1  0.60278  0.89721  0.24999  1
+ Ca  Ca5  1  0.89720  0.24998  0.60279  1
+ Ca  Ca6  1  0.75000  0.39720  0.10279  1
+ Co  Co1  1  0.50000  0.50001  0.50001  1
+ Co  Co2  1  -0.00000  0.00000  0.00000  1
+ O  O1  1  0.43292  0.77767  0.57615  1
+ O  O2  1  0.72234  0.06709  0.92385  1
+ O  O3  1  0.77769  0.57609  0.43287  1
+ O  O4  1  0.42389  0.56713  0.22232  1
+ O  O5  1  0.92389  0.72232  0.06708  1
+ O  O6  1  0.93284  0.07610  0.27769  1
+ O  O7  1  0.57613  0.43288  0.77768  1
+ O  O8  1  0.06714  0.92391  0.72230  1
+ O  O9  1  0.27767  0.93291  0.07614  1
+ O  O10  1  0.07613  0.27767  0.93292  1
+ O  O11  1  0.22232  0.42391  0.56713  1
+ O  O12  1  0.56706  0.22233  0.42386  1

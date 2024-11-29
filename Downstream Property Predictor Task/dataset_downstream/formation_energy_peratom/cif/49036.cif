@@ -1,0 +1,30 @@
+CIF file written using JARVIS-Tools package.
+data_SrAsF
+_symmetry_space_group_name_H-M  'Amm2'
+_cell_length_a       6.09088
+_cell_length_b       6.09144
+_cell_length_c       3.32261
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    39.9572
+
+_symmetry_Int_Tables_number  38
+_chemical_formula_structural  SrAsF
+_chemical_formula_sum  SrAsF
+_cell_volume  79.16980255039641
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ As  As1  1  -0.25496  0.11781  0.00000  1
+ F  F1  1  0.45309  -0.17362  0.00000  1
+ Sr  Sr1  1  0.02707  0.40029  0.00000  1

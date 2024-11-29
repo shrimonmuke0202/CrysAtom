@@ -1,0 +1,40 @@
+CIF file written using JARVIS-Tools package.
+data_MgBi4O8
+_symmetry_space_group_name_H-M  'Cm'
+_cell_length_a       3.45596
+_cell_length_b       6.9921
+_cell_length_c       9.49436
+_cell_angle_alpha    65.2843
+_cell_angle_beta     79.5209
+_cell_angle_gamma    75.6948
+
+_symmetry_Int_Tables_number  8
+_chemical_formula_structural  MgBi4O8
+_chemical_formula_sum  MgBi4O8
+_cell_volume  201.1408928328626
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Bi  Bi1  1  0.40537  0.71698  0.48430  1
+ Bi  Bi2  1  0.94865  0.25941  0.85540  1
+ Bi  Bi3  1  0.10855  0.66369  0.13109  1
+ Bi  Bi4  1  0.68865  0.21054  0.42423  1
+ Mg  Mg1  1  0.69543  0.85882  0.76206  1
+ O  O1  1  0.07508  0.48331  0.37865  1
+ O  O2  1  0.50621  0.84675  0.15275  1
+ O  O3  1  0.54045  0.20141  0.72970  1
+ O  O4  1  0.85664  0.59358  0.70519  1
+ O  O5  1  0.86151  -0.06901  0.35802  1
+ O  O6  1  0.14796  0.82624  0.88966  1
+ O  O7  1  0.22551  -0.02321  0.58439  1
+ O  O8  1  0.71758  0.44085  0.13577  1

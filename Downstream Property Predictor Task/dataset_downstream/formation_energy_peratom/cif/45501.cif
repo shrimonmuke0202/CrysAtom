@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_CeMgSi2
+_symmetry_space_group_name_H-M  'I4_1/amd'
+_cell_length_a       4.19774
+_cell_length_b       4.19775
+_cell_length_c       18.8123
+_cell_angle_alpha    96.4058
+_cell_angle_beta     96.4058
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  141
+_chemical_formula_structural  CeMgSi2
+_chemical_formula_sum  Ce4Mg4Si8
+_cell_volume  327.34109759479026
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ce  Ce1  1  0.70312  0.95312  0.90625  1
+ Ce  Ce2  1  0.45312  0.20312  0.40625  1
+ Ce  Ce3  1  0.29688  0.04688  0.09375  1
+ Ce  Ce4  1  0.54688  0.79688  0.59375  1
+ Mg  Mg1  1  0.62491  0.37491  0.74981  1
+ Mg  Mg2  1  0.37509  0.62509  0.25019  1
+ Mg  Mg3  1  0.12509  0.87509  0.75019  1
+ Mg  Mg4  1  0.87491  0.12491  0.24981  1
+ Si  Si1  1  0.07691  0.32691  0.65382  1
+ Si  Si2  1  0.17309  0.42309  0.84618  1
+ Si  Si3  1  0.82691  0.57691  0.15382  1
+ Si  Si4  1  0.92309  0.67309  0.34618  1
+ Si  Si5  1  0.01431  0.26431  0.52862  1
+ Si  Si6  1  0.76431  0.51431  0.02862  1
+ Si  Si7  1  0.98569  0.73569  0.47138  1
+ Si  Si8  1  0.23569  0.48569  0.97138  1

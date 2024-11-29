@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_TiCu2NiO4
+_symmetry_space_group_name_H-M  'R-3m'
+_cell_length_a       11.7179
+_cell_length_b       11.7179
+_cell_length_c       11.7179
+_cell_angle_alpha    14.4963
+_cell_angle_beta     14.4963
+_cell_angle_gamma    14.4963
+
+_symmetry_Int_Tables_number  166
+_chemical_formula_structural  TiCu2NiO4
+_chemical_formula_sum  TiCu2NiO4
+_cell_volume  87.77492300889232
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cu  Cu1  1  0.75250  0.75250  0.75250  1
+ Cu  Cu2  1  0.24750  0.24750  0.24750  1
+ Ni  Ni1  1  0.50000  0.50000  0.50000  1
+ O  O1  1  0.19512  0.19512  0.19512  1
+ O  O2  1  0.69836  0.69836  0.69836  1
+ O  O3  1  0.80488  0.80488  0.80488  1
+ O  O4  1  0.30164  0.30164  0.30164  1
+ Ti  Ti1  1  0.00000  0.00000  0.00000  1

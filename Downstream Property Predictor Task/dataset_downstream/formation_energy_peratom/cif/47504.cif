@@ -1,0 +1,52 @@
+CIF file written using JARVIS-Tools package.
+data_Al4B6O15
+_symmetry_space_group_name_H-M  'R3'
+_cell_length_a       6.98176
+_cell_length_b       6.98176
+_cell_length_c       6.98176
+_cell_angle_alpha    110.734
+_cell_angle_beta     110.734
+_cell_angle_gamma    110.734
+
+_symmetry_Int_Tables_number  146
+_chemical_formula_structural  Al4B6O15
+_chemical_formula_sum  Al4B6O5
+_cell_volume  248.9858573487557
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Al  Al1  1  0.99780  0.99780  0.99780  1
+ Al  Al2  1  0.91660  0.19675  0.70761  1
+ Al  Al3  1  0.70761  0.91660  0.19675  1
+ Al  Al4  1  0.19675  0.70761  0.91660  1
+ B  B1  1  0.82898  0.72508  0.49842  1
+ B  B2  1  0.47413  0.14225  0.40250  1
+ B  B3  1  0.14225  0.40250  0.47413  1
+ B  B4  1  0.40250  0.47413  0.14225  1
+ B  B5  1  0.49842  0.82898  0.72508  1
+ B  B6  1  0.72508  0.49842  0.82898  1
+ O  O1  1  0.89675  0.92215  0.47399  1
+ O  O2  1  0.47399  0.89675  0.92215  1
+ O  O3  1  0.92215  0.47399  0.89675  1
+ O  O4  1  0.60920  0.49923  0.30954  1
+ O  O5  1  0.12311  0.42319  0.66685  1
+ O  O6  1  0.42319  0.66685  0.12311  1
+ O  O7  1  0.30954  0.60920  0.49923  1
+ O  O8  1  0.25540  0.98314  0.17754  1
+ O  O9  1  0.98314  0.17754  0.25540  1
+ O  O10  1  0.17754  0.25540  0.98314  1
+ O  O11  1  0.49923  0.30954  0.60920  1
+ O  O12  1  0.72008  0.97250  0.75891  1
+ O  O13  1  0.97250  0.75891  0.72008  1
+ O  O14  1  0.66685  0.12311  0.42319  1
+ O  O15  1  0.75891  0.72008  0.97250  1

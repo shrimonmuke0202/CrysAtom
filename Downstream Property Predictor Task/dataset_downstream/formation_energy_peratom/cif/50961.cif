@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_Li2CoNiO4
+_symmetry_space_group_name_H-M  'Imma'
+_cell_length_a       5.74787
+_cell_length_b       5.74787
+_cell_length_c       5.74786
+_cell_angle_alpha    120.775
+_cell_angle_beta     120.897
+_cell_angle_gamma    88.5578
+
+_symmetry_Int_Tables_number  74
+_chemical_formula_structural  Li2CoNiO4
+_chemical_formula_sum  Li4Co2Ni2O8
+_cell_volume  132.53518634661134
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Co  Co1  1  0.00000  0.50000  0.00000  1
+ Co  Co2  1  -0.00000  -0.00000  0.50000  1
+ Li  Li1  1  0.50000  0.00000  0.00000  1
+ Li  Li2  1  0.50000  0.50000  0.00000  1
+ Li  Li3  1  -0.00000  0.50000  0.50000  1
+ Li  Li4  1  0.50000  0.50000  0.50000  1
+ Ni  Ni1  1  0.50000  -0.00000  0.50000  1
+ Ni  Ni2  1  0.00000  0.00000  0.00000  1
+ O  O1  1  0.77016  0.75016  0.02000  1
+ O  O2  1  0.76727  0.24941  0.98213  1
+ O  O3  1  0.23273  0.21486  0.48213  1
+ O  O4  1  0.76984  0.24984  0.52000  1
+ O  O5  1  0.23016  0.75016  0.48000  1
+ O  O6  1  0.76727  0.78514  0.51787  1
+ O  O7  1  0.23273  0.75059  0.01787  1
+ O  O8  1  0.22984  0.24984  0.98000  1

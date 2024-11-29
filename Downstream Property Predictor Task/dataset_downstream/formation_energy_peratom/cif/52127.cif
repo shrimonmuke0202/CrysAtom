@@ -1,0 +1,47 @@
+CIF file written using JARVIS-Tools package.
+data_NaLuTi2O6
+_symmetry_space_group_name_H-M  'Pmn2_1'
+_cell_length_a       5.24456
+_cell_length_b       5.49609
+_cell_length_c       7.54152
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  31
+_chemical_formula_structural  NaLuTi2O6
+_chemical_formula_sum  Na2Lu2Ti4O2
+_cell_volume  217.3810589197339
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Lu  Lu1  1  0.02018  0.17299  0.50000  1
+ Lu  Lu2  1  0.52018  0.82701  0.00000  1
+ Na  Na1  1  0.49324  0.71152  0.50000  1
+ Na  Na2  1  0.99324  0.28848  0.00000  1
+ O  O1  1  0.91624  0.77977  0.50000  1
+ O  O2  1  0.18389  0.43852  0.30807  1
+ O  O3  1  0.11562  0.72037  0.00000  1
+ O  O4  1  0.41624  0.22023  0.00000  1
+ O  O5  1  0.61562  0.27963  0.50000  1
+ O  O6  1  0.28255  0.96244  0.29529  1
+ O  O7  1  0.78255  0.03756  0.20471  1
+ O  O8  1  0.78255  0.03756  0.79529  1
+ O  O9  1  0.18389  0.43852  0.69193  1
+ O  O10  1  0.68389  0.56148  0.19193  1
+ O  O11  1  0.68389  0.56148  0.80807  1
+ O  O12  1  0.28255  0.96244  0.70471  1
+ Ti  Ti1  1  0.01092  0.73496  0.74773  1
+ Ti  Ti2  1  0.51092  0.26504  0.24773  1
+ Ti  Ti3  1  0.01092  0.73496  0.25227  1
+ Ti  Ti4  1  0.51092  0.26504  0.75227  1

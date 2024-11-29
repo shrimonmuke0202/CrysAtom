@@ -1,0 +1,30 @@
+CIF file written using JARVIS-Tools package.
+data_SrSO
+_symmetry_space_group_name_H-M  'Pm'
+_cell_length_a       4.27478
+_cell_length_b       5.95933
+_cell_length_c       4.917
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    51.2514
+
+_symmetry_Int_Tables_number  6
+_chemical_formula_structural  SrSO
+_chemical_formula_sum  SrSO
+_cell_volume  97.69019017329884
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ O  O1  1  0.34678  0.05887  0.00000  1
+ S  S1  1  -0.08027  0.40448  0.00000  1
+ Sr  Sr1  1  0.03021  -0.15720  0.00000  1

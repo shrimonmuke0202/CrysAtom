@@ -1,0 +1,29 @@
+CIF file written using JARVIS-Tools package.
+data_IBr
+_symmetry_space_group_name_H-M  'Cm'
+_cell_length_a       5.70936
+_cell_length_b       5.71452
+_cell_length_c       4.26623
+_cell_angle_alpha    113.091
+_cell_angle_beta     81.7267
+_cell_angle_gamma    144.562
+
+_symmetry_Int_Tables_number  8
+_chemical_formula_structural  IBr
+_chemical_formula_sum  IBr
+_cell_volume  70.09891907611807
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Br  Br1  1  0.05928  0.07642  -0.00379  1
+ I  I1  1  0.06401  0.57883  0.50294  1

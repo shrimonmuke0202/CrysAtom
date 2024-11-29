@@ -1,0 +1,33 @@
+CIF file written using JARVIS-Tools package.
+data_ZrO2
+_symmetry_space_group_name_H-M  'P4_2/mnm'
+_cell_length_a       3.27347
+_cell_length_b       4.89289
+_cell_length_c       4.89328
+_cell_angle_alpha    90.0006
+_cell_angle_beta     89.9975
+_cell_angle_gamma    90.0009
+
+_symmetry_Int_Tables_number  136
+_chemical_formula_structural  ZrO2
+_chemical_formula_sum  Zr2O4
+_cell_volume  78.37450682975785
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ O  O1  1  0.49821  0.69456  0.80451  1
+ O  O2  1  0.99819  0.80552  0.30451  1
+ O  O3  1  0.99817  0.19456  0.69334  1
+ O  O4  1  0.49819  0.30552  0.19334  1
+ Zr  Zr1  1  0.49816  0.00004  0.49892  1
+ Zr  Zr2  1  0.99819  0.50004  0.99892  1

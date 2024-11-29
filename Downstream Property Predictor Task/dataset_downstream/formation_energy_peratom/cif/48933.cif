@@ -1,0 +1,42 @@
+CIF file written using JARVIS-Tools package.
+data_NaCo2Mo2O10
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       5.52755
+_cell_length_b       5.52755
+_cell_length_c       7.84044
+_cell_angle_alpha    67.4646
+_cell_angle_beta     67.4647
+_cell_angle_gamma    62.3283
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  NaCo2Mo2O10
+_chemical_formula_sum  NaCo2Mo2O0
+_cell_volume  189.68645340158773
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Co  Co1  1  0.00000  0.50000  0.50000  1
+ Co  Co2  1  0.50000  0.00000  0.50000  1
+ Mo  Mo1  1  0.57024  0.57024  0.23744  1
+ Mo  Mo2  1  0.42976  0.42976  0.76256  1
+ Na  Na1  1  0.00000  0.00000  0.00000  1
+ O  O1  1  0.17930  0.17930  0.41960  1
+ O  O2  1  0.82070  0.82070  0.58040  1
+ O  O3  1  0.19976  0.69758  0.25947  1
+ O  O4  1  0.69758  0.19976  0.25947  1
+ O  O5  1  0.80024  0.30242  0.74053  1
+ O  O6  1  0.30242  0.80024  0.74053  1
+ O  O7  1  0.72366  0.72366  0.01222  1
+ O  O8  1  0.27634  0.27634  0.98778  1
+ O  O9  1  0.66068  0.66068  0.40829  1
+ O  O10  1  0.33932  0.33932  0.59171  1

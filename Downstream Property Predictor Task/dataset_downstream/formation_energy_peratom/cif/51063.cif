@@ -1,0 +1,53 @@
+CIF file written using JARVIS-Tools package.
+data_Cu3C2O8
+_symmetry_space_group_name_H-M  'P2_1/c'
+_cell_length_a       5.59239
+_cell_length_b       4.95102
+_cell_length_c       10.5388
+_cell_angle_alpha    85.8038
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  14
+_chemical_formula_structural  Cu3C2O8
+_chemical_formula_sum  Cu6C4O6
+_cell_volume  291.01589793113516
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ C  C1  1  0.81262  0.67513  0.81884  1
+ C  C2  1  0.31262  0.32487  0.68116  1
+ C  C3  1  0.18738  0.32487  0.18116  1
+ C  C4  1  0.68738  0.67513  0.31884  1
+ Cu  Cu1  1  0.49530  0.75805  0.08369  1
+ Cu  Cu2  1  0.50000  -0.00000  0.50000  1
+ Cu  Cu3  1  0.50470  0.24195  0.91631  1
+ Cu  Cu4  1  0.00470  0.75805  0.58369  1
+ Cu  Cu5  1  0.00000  0.00000  0.00000  1
+ Cu  Cu6  1  0.99530  0.24195  0.41631  1
+ O  O1  1  0.41932  0.09680  0.66618  1
+ O  O2  1  0.31630  0.93870  0.95527  1
+ O  O3  1  0.81630  0.06130  0.54473  1
+ O  O4  1  0.20430  0.41094  0.29315  1
+ O  O5  1  0.18370  0.93870  0.45527  1
+ O  O6  1  0.91932  0.90320  0.83382  1
+ O  O7  1  0.68370  0.06130  0.04473  1
+ O  O8  1  0.79570  0.58906  0.70685  1
+ O  O9  1  0.22552  0.46486  0.58308  1
+ O  O10  1  0.27448  0.46486  0.08308  1
+ O  O11  1  0.77448  0.53514  0.41692  1
+ O  O12  1  0.08068  0.09680  0.16618  1
+ O  O13  1  0.29570  0.41094  0.79315  1
+ O  O14  1  0.72552  0.53514  0.91692  1
+ O  O15  1  0.58068  0.90320  0.33382  1
+ O  O16  1  0.70430  0.58906  0.20685  1

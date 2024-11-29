@@ -1,0 +1,37 @@
+CIF file written using JARVIS-Tools package.
+data_Ga2O3
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       3.07771
+_cell_length_b       5.8677
+_cell_length_c       6.38394
+_cell_angle_alpha    103.305
+_cell_angle_beta     103.949
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  Ga2O3
+_chemical_formula_sum  Ga4O6
+_cell_volume  108.69741155899686
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ga  Ga1  1  0.65883  0.31389  0.31766  1
+ Ga  Ga2  1  0.34117  0.68611  0.68234  1
+ Ga  Ga3  1  0.09052  0.79481  0.18104  1
+ Ga  Ga4  1  0.90948  0.20519  0.81896  1
+ O  O1  1  0.49632  0.25585  0.99265  1
+ O  O2  1  0.50368  0.74415  0.00735  1
+ O  O3  1  0.17326  0.56265  0.34651  1
+ O  O4  1  0.82674  0.43735  0.65349  1
+ O  O5  1  0.83481  0.89100  0.66963  1
+ O  O6  1  0.16519  0.10900  0.33037  1

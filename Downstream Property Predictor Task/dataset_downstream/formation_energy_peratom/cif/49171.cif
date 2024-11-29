@@ -1,0 +1,51 @@
+CIF file written using JARVIS-Tools package.
+data_HoNiB4
+_symmetry_space_group_name_H-M  'I4/mmm'
+_cell_length_a       6.79788
+_cell_length_b       6.79788
+_cell_length_c       6.79788
+_cell_angle_alpha    112.881
+_cell_angle_beta     112.881
+_cell_angle_gamma    102.848
+
+_symmetry_Int_Tables_number  139
+_chemical_formula_structural  HoNiB4
+_chemical_formula_sum  Ho4Ni4B6
+_cell_volume  239.43815769529596
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ B  B1  1  0.11265  0.58111  0.00000  1
+ B  B2  1  0.27502  0.11106  0.38608  1
+ B  B3  1  0.72498  0.88894  0.61392  1
+ B  B4  1  0.27502  0.88894  0.16396  1
+ B  B5  1  0.88735  0.41889  -0.00000  1
+ B  B6  1  0.11106  0.72498  0.83604  1
+ B  B7  1  0.88894  0.27502  0.16396  1
+ B  B8  1  0.72498  0.11106  0.83604  1
+ B  B9  1  0.88894  0.72498  0.61392  1
+ B  B10  1  0.11265  0.11265  0.53154  1
+ B  B11  1  0.58111  0.58111  0.46846  1
+ B  B12  1  0.41889  0.88735  -0.00000  1
+ B  B13  1  0.58111  0.11265  -0.00000  1
+ B  B14  1  0.88735  0.88735  0.46846  1
+ B  B15  1  0.41889  0.41889  0.53154  1
+ B  B16  1  0.11106  0.27502  0.38608  1
+ Ho  Ho1  1  0.25000  0.75000  0.50000  1
+ Ho  Ho2  1  0.75000  0.25000  0.50000  1
+ Ho  Ho3  1  0.20520  0.20520  -0.00000  1
+ Ho  Ho4  1  0.79480  0.79480  0.00000  1
+ Ni  Ni1  1  0.50000  0.27128  0.77128  1
+ Ni  Ni2  1  0.50000  0.72872  0.22872  1
+ Ni  Ni3  1  0.72872  0.50000  0.22872  1
+ Ni  Ni4  1  0.27128  0.50000  0.77128  1

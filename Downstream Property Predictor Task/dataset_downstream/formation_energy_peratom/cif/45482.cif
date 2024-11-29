@@ -1,0 +1,67 @@
+CIF file written using JARVIS-Tools package.
+data_Ho2O3
+_symmetry_space_group_name_H-M  'Ia-3'
+_cell_length_a       9.16418
+_cell_length_b       9.16417
+_cell_length_c       9.16417
+_cell_angle_alpha    109.471
+_cell_angle_beta     109.471
+_cell_angle_gamma    109.471
+
+_symmetry_Int_Tables_number  206
+_chemical_formula_structural  Ho2O3
+_chemical_formula_sum  Ho6O24
+_cell_volume  592.4587275465194
+_cell_formula_units_Z  8
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ho  Ho1  1  0.49999  0.49999  0.49999  1
+ Ho  Ho2  1  -0.00000  0.00001  0.50000  1
+ Ho  Ho3  1  0.96753  0.25000  0.21753  1
+ Ho  Ho4  1  0.00001  0.50000  -0.00000  1
+ Ho  Ho5  1  0.25000  0.21753  0.96753  1
+ Ho  Ho6  1  0.28247  0.53247  0.75000  1
+ Ho  Ho7  1  0.53247  0.75000  0.28247  1
+ Ho  Ho8  1  0.21753  0.96753  0.25000  1
+ Ho  Ho9  1  0.50000  0.00000  0.00001  1
+ Ho  Ho10  1  0.75000  0.28247  0.53247  1
+ Ho  Ho11  1  0.78246  0.03246  0.75000  1
+ Ho  Ho12  1  0.03246  0.75000  0.78246  1
+ Ho  Ho13  1  0.71754  0.46754  0.25000  1
+ Ho  Ho14  1  0.46754  0.25000  0.71754  1
+ Ho  Ho15  1  0.75000  0.78246  0.03246  1
+ Ho  Ho16  1  0.25000  0.71754  0.46754  1
+ O  O1  1  0.48815  0.76041  0.03133  1
+ O  O2  1  0.26042  0.77227  0.72909  1
+ O  O3  1  0.23958  0.96868  0.51185  1
+ O  O4  1  0.77091  0.54317  0.53132  1
+ O  O5  1  0.46867  0.22908  0.45683  1
+ O  O6  1  0.76041  0.03133  0.48815  1
+ O  O7  1  0.73959  0.22774  0.27092  1
+ O  O8  1  0.45683  0.46867  0.22908  1
+ O  O9  1  0.96868  0.51185  0.23958  1
+ O  O10  1  0.04317  0.27226  0.01185  1
+ O  O11  1  0.95683  0.72773  0.98815  1
+ O  O12  1  0.03133  0.48815  0.76041  1
+ O  O13  1  0.53132  0.77091  0.54317  1
+ O  O14  1  0.54317  0.53132  0.77091  1
+ O  O15  1  0.51185  0.23958  0.96868  1
+ O  O16  1  0.98815  0.95683  0.72773  1
+ O  O17  1  0.22774  0.27092  0.73959  1
+ O  O18  1  0.72909  0.26042  0.77227  1
+ O  O19  1  0.72773  0.98815  0.95683  1
+ O  O20  1  0.01185  0.04317  0.27226  1
+ O  O21  1  0.22908  0.45683  0.46867  1
+ O  O22  1  0.27092  0.73959  0.22774  1
+ O  O23  1  0.77227  0.72909  0.26042  1
+ O  O24  1  0.27226  0.01185  0.04317  1

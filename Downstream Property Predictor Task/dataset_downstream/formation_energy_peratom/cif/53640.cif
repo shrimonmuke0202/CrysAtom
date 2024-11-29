@@ -1,0 +1,30 @@
+CIF file written using JARVIS-Tools package.
+data_ScNCl
+_symmetry_space_group_name_H-M  'Pm'
+_cell_length_a       5.50705
+_cell_length_b       5.51685
+_cell_length_c       4.36923
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    142.246
+
+_symmetry_Int_Tables_number  6
+_chemical_formula_structural  ScNCl
+_chemical_formula_sum  ScNCl
+_cell_volume  81.27630868245313
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cl  Cl1  1  0.32049  0.01721  0.00000  1
+ N  N1  1  0.04981  0.28076  0.00000  1
+ Sc  Sc1  1  0.62970  0.70204  0.00000  1

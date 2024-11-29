@@ -1,0 +1,33 @@
+CIF file written using JARVIS-Tools package.
+data_YVO4
+_symmetry_space_group_name_H-M  'Cm'
+_cell_length_a       5.71586
+_cell_length_b       5.71586
+_cell_length_c       4.26842
+_cell_angle_alpha    107.803
+_cell_angle_beta     107.803
+_cell_angle_gamma    39.8569
+
+_symmetry_Int_Tables_number  8
+_chemical_formula_structural  YVO4
+_chemical_formula_sum  YVO4
+_cell_volume  84.51331364067057
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ O  O1  1  0.01575  0.01575  0.48815  1
+ O  O2  1  0.82598  0.82598  0.81822  1
+ O  O3  1  0.17474  0.17474  0.14236  1
+ O  O4  1  0.48124  0.48124  0.00878  1
+ V  V1  1  0.00148  0.00148  0.08515  1
+ Y  Y1  1  0.25030  0.25030  0.70734  1

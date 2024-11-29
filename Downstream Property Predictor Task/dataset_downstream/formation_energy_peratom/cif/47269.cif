@@ -1,0 +1,33 @@
+CIF file written using JARVIS-Tools package.
+data_LuAlSi
+_symmetry_space_group_name_H-M  'Cmcm'
+_cell_length_a       3.97818
+_cell_length_b       5.42624
+_cell_length_c       5.62685
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    111.504
+
+_symmetry_Int_Tables_number  63
+_chemical_formula_structural  LuAlSi
+_chemical_formula_sum  Lu2Al2Si2
+_cell_volume  113.00906000757993
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Al  Al1  1  0.00000  0.00000  0.50000  1
+ Al  Al2  1  0.00000  0.00000  0.00000  1
+ Lu  Lu1  1  0.30665  0.61330  0.75000  1
+ Lu  Lu2  1  0.69335  0.38670  0.25000  1
+ Si  Si1  1  0.60445  0.20889  0.75000  1
+ Si  Si2  1  0.39555  0.79111  0.25000  1

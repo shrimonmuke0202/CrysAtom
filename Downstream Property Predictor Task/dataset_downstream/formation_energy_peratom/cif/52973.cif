@@ -1,0 +1,47 @@
+CIF file written using JARVIS-Tools package.
+data_La7Pd3
+_symmetry_space_group_name_H-M  'P6_3mc'
+_cell_length_a       10.3606
+_cell_length_b       10.3606
+_cell_length_c       6.54848
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_symmetry_Int_Tables_number  186
+_chemical_formula_structural  La7Pd3
+_chemical_formula_sum  La4Pd6
+_cell_volume  608.7501629685603
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ La  La1  1  0.33333  0.66667  0.44729  1
+ La  La2  1  0.25072  0.12536  0.74225  1
+ La  La3  1  0.66667  0.33333  0.94729  1
+ La  La4  1  0.12536  0.87464  0.24225  1
+ La  La5  1  0.74928  0.87464  0.24225  1
+ La  La6  1  0.87464  0.12536  0.74225  1
+ La  La7  1  0.92346  0.46173  0.44761  1
+ La  La8  1  0.12536  0.25072  0.24225  1
+ La  La9  1  0.53827  0.46173  0.44761  1
+ La  La10  1  0.53827  0.07654  0.44761  1
+ La  La11  1  0.46173  0.53827  0.94761  1
+ La  La12  1  0.07654  0.53827  0.94761  1
+ La  La13  1  0.46173  0.92346  0.94761  1
+ La  La14  1  0.87464  0.74928  0.74225  1
+ Pd  Pd1  1  0.18844  0.81156  0.69200  1
+ Pd  Pd2  1  0.62312  0.81156  0.69200  1
+ Pd  Pd3  1  0.81156  0.18844  0.19200  1
+ Pd  Pd4  1  0.37688  0.18844  0.19200  1
+ Pd  Pd5  1  0.81156  0.62312  0.19200  1
+ Pd  Pd6  1  0.18844  0.37688  0.69200  1

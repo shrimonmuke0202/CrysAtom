@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_CeZn3
+_symmetry_space_group_name_H-M  'Cmcm'
+_cell_length_a       4.59118
+_cell_length_b       6.51074
+_cell_length_c       10.3298
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  63
+_chemical_formula_structural  CeZn3
+_chemical_formula_sum  Ce4Zn2
+_cell_volume  308.7785099522397
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ce  Ce1  1  0.25000  0.25023  0.65018  1
+ Ce  Ce2  1  0.25000  0.75023  0.84982  1
+ Ce  Ce3  1  0.75000  0.74977  0.34982  1
+ Ce  Ce4  1  0.75000  0.24977  0.15018  1
+ Zn  Zn1  1  0.25000  0.55658  0.13085  1
+ Zn  Zn2  1  0.25000  0.05658  0.36915  1
+ Zn  Zn3  1  0.75000  0.44342  0.86915  1
+ Zn  Zn4  1  0.75000  0.94342  0.63085  1
+ Zn  Zn5  1  0.25000  0.94300  0.13118  1
+ Zn  Zn6  1  0.25000  0.44300  0.36882  1
+ Zn  Zn7  1  0.75000  0.05700  0.86882  1
+ Zn  Zn8  1  0.75000  0.55700  0.63118  1
+ Zn  Zn9  1  0.25000  0.24976  0.95225  1
+ Zn  Zn10  1  0.25000  0.74976  0.54775  1
+ Zn  Zn11  1  0.75000  0.75024  0.04775  1
+ Zn  Zn12  1  0.75000  0.25024  0.45225  1

@@ -1,0 +1,46 @@
+CIF file written using JARVIS-Tools package.
+data_Mg8Fe3N8
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       8.44395
+_cell_length_b       4.32727
+_cell_length_c       6.58635
+_cell_angle_alpha    90
+_cell_angle_beta     74.7299
+_cell_angle_gamma    75.1533
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  Mg8Fe3N8
+_chemical_formula_sum  Mg8Fe3N8
+_cell_volume  223.82455756944304
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Fe  Fe1  1  0.38371  0.80815  0.79228  1
+ Fe  Fe2  1  -0.00000  0.50000  0.50000  1
+ Fe  Fe3  1  0.61629  0.19185  0.20772  1
+ Mg  Mg1  1  0.37800  0.81100  0.20790  1
+ Mg  Mg2  1  0.62200  0.18900  0.79210  1
+ Mg  Mg3  1  0.06175  0.96913  0.75648  1
+ Mg  Mg4  1  0.82267  0.58866  0.96565  1
+ Mg  Mg5  1  0.32521  0.33740  0.53607  1
+ Mg  Mg6  1  0.67479  0.66260  0.46393  1
+ Mg  Mg7  1  0.93825  0.03087  0.24352  1
+ Mg  Mg8  1  0.17733  0.41134  0.03435  1
+ N  N1  1  0.06750  0.46625  0.74483  1
+ N  N2  1  0.20178  0.89911  0.01454  1
+ N  N3  1  0.79822  0.10089  0.98546  1
+ N  N4  1  0.34765  0.82618  0.54448  1
+ N  N5  1  0.65235  0.17382  0.45552  1
+ N  N6  1  0.59144  0.70428  0.81394  1
+ N  N7  1  0.40856  0.29572  0.18606  1
+ N  N8  1  0.93250  0.53375  0.25517  1

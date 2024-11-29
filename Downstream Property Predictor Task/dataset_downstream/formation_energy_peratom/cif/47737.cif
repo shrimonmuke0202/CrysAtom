@@ -1,0 +1,53 @@
+CIF file written using JARVIS-Tools package.
+data_Ta2Zn2SnO8
+_symmetry_space_group_name_H-M  'C2/c'
+_cell_length_a       5.43387
+_cell_length_b       5.93818
+_cell_length_c       10.8696
+_cell_angle_alpha    105.859
+_cell_angle_beta     92.2285
+_cell_angle_gamma    90.0047
+
+_symmetry_Int_Tables_number  15
+_chemical_formula_structural  Ta2Zn2SnO8
+_chemical_formula_sum  Ta4Zn4Sn2O6
+_cell_volume  337.10779582262984
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ O  O1  1  0.14752  0.45275  0.60209  1
+ O  O2  1  0.01583  0.16651  0.16071  1
+ O  O3  1  0.48191  0.00587  0.83929  1
+ O  O4  1  0.91224  0.06916  0.36205  1
+ O  O5  1  0.51575  0.99449  0.16070  1
+ O  O6  1  0.61253  0.45638  0.13915  1
+ O  O7  1  0.88505  0.31746  0.86084  1
+ O  O8  1  0.98181  0.83384  0.83926  1
+ O  O9  1  0.11261  0.68290  0.13916  1
+ O  O10  1  0.41228  0.29320  0.36208  1
+ O  O11  1  0.08542  0.93124  0.63794  1
+ O  O12  1  0.35013  0.85060  0.39790  1
+ O  O13  1  0.58537  0.70720  0.63789  1
+ O  O14  1  0.64753  0.14980  0.60210  1
+ O  O15  1  0.85014  0.54764  0.39789  1
+ O  O16  1  0.38514  0.54398  0.86083  1
+ Sn  Sn1  1  0.74883  0.68917  -0.00015  1
+ Sn  Sn2  1  0.24882  0.31118  0.00014  1
+ Ta  Ta1  1  0.21197  0.96738  0.25077  1
+ Ta  Ta2  1  0.28569  0.71675  0.74923  1
+ Ta  Ta3  1  0.78568  0.03299  0.74921  1
+ Ta  Ta4  1  0.71197  0.28363  0.25076  1
+ Zn  Zn1  1  0.27854  0.13043  0.56105  1
+ Zn  Zn2  1  0.21915  0.56931  0.43895  1
+ Zn  Zn3  1  0.71911  0.86996  0.43894  1
+ Zn  Zn4  1  0.77852  0.43109  0.56104  1

@@ -1,0 +1,47 @@
+CIF file written using JARVIS-Tools package.
+data_Na3ScBr6
+_symmetry_space_group_name_H-M  'P-31c'
+_cell_length_a       7.22838
+_cell_length_b       7.22838
+_cell_length_c       13.0231
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_symmetry_Int_Tables_number  163
+_chemical_formula_structural  Na3ScBr6
+_chemical_formula_sum  Na6Sc2Br2
+_cell_volume  589.2850317367688
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Br  Br1  1  0.04337  0.36196  0.62921  1
+ Br  Br2  1  0.36196  0.04337  0.12921  1
+ Br  Br3  1  0.04337  0.68141  0.87079  1
+ Br  Br4  1  0.36196  0.31859  0.37079  1
+ Br  Br5  1  0.68141  0.04337  0.37079  1
+ Br  Br6  1  0.95663  0.63804  0.37079  1
+ Br  Br7  1  0.68141  0.63804  0.12921  1
+ Br  Br8  1  0.31859  0.95663  0.62921  1
+ Br  Br9  1  0.63804  0.68141  0.62921  1
+ Br  Br10  1  0.31859  0.36196  0.87079  1
+ Br  Br11  1  0.63804  0.95663  0.87079  1
+ Br  Br12  1  0.95663  0.31859  0.12921  1
+ Na  Na1  1  0.00000  0.00000  0.75000  1
+ Na  Na2  1  0.00000  0.00000  0.25000  1
+ Na  Na3  1  0.33333  0.66667  0.03628  1
+ Na  Na4  1  0.33333  0.66667  0.46372  1
+ Na  Na5  1  0.66667  0.33333  0.96372  1
+ Na  Na6  1  0.66667  0.33333  0.53628  1
+ Sc  Sc1  1  0.33333  0.66667  0.75000  1
+ Sc  Sc2  1  0.66667  0.33333  0.25000  1

@@ -1,0 +1,55 @@
+CIF file written using JARVIS-Tools package.
+data_BaTl2O4
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       3.53599
+_cell_length_b       10.4417
+_cell_length_c       12.1289
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  BaTl2O4
+_chemical_formula_sum  Ba4Tl8O6
+_cell_volume  447.82132414789555
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ba  Ba1  1  0.75000  0.24595  0.65101  1
+ Ba  Ba2  1  0.25000  0.25405  0.15101  1
+ Ba  Ba3  1  0.75000  0.74595  0.84899  1
+ Ba  Ba4  1  0.25000  0.75405  0.34899  1
+ O  O1  1  0.25000  0.01941  0.27994  1
+ O  O2  1  0.25000  0.92200  0.92490  1
+ O  O3  1  0.25000  0.12022  0.51756  1
+ O  O4  1  0.25000  0.20940  0.83330  1
+ O  O5  1  0.75000  0.29060  0.33330  1
+ O  O6  1  0.75000  0.37978  0.01756  1
+ O  O7  1  0.75000  0.07800  0.07510  1
+ O  O8  1  0.75000  0.48059  0.77994  1
+ O  O9  1  0.75000  0.57800  0.42490  1
+ O  O10  1  0.25000  0.62022  0.98244  1
+ O  O11  1  0.25000  0.70940  0.66670  1
+ O  O12  1  0.75000  0.87978  0.48244  1
+ O  O13  1  0.25000  0.42200  0.57510  1
+ O  O14  1  0.25000  0.51941  0.22006  1
+ O  O15  1  0.75000  0.79060  0.16670  1
+ O  O16  1  0.75000  0.98059  0.72006  1
+ Tl  Tl1  1  0.25000  0.42250  0.89157  1
+ Tl  Tl2  1  0.75000  0.07750  0.39157  1
+ Tl  Tl3  1  0.75000  0.07608  0.89224  1
+ Tl  Tl4  1  0.25000  0.42392  0.39224  1
+ Tl  Tl5  1  0.75000  0.57608  0.60776  1
+ Tl  Tl6  1  0.75000  0.57750  0.10843  1
+ Tl  Tl7  1  0.25000  0.92392  0.10776  1
+ Tl  Tl8  1  0.25000  0.92250  0.60843  1

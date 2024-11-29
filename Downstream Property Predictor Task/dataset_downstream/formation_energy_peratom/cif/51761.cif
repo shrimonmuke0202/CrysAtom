@@ -1,0 +1,56 @@
+CIF file written using JARVIS-Tools package.
+data_Cu12As4S13
+_symmetry_space_group_name_H-M  'Cm'
+_cell_length_a       8.7954
+_cell_length_b       8.79438
+_cell_length_c       8.87042
+_cell_angle_alpha    109.404
+_cell_angle_beta     109.409
+_cell_angle_gamma    109.261
+
+_symmetry_Int_Tables_number  8
+_chemical_formula_structural  Cu12As4S13
+_chemical_formula_sum  Cu2As4S3
+_cell_volume  530.3833474102433
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ As  As1  1  0.00023  0.00020  0.53010  1
+ As  As2  1  -0.00001  0.52940  -0.00003  1
+ As  As3  1  0.47016  0.47008  0.46993  1
+ As  As4  1  0.52943  -0.00002  0.00000  1
+ Cu  Cu1  1  0.00011  0.80377  0.75976  1
+ Cu  Cu2  1  0.21075  0.21061  -0.00089  1
+ Cu  Cu3  1  0.80356  -0.00004  0.75976  1
+ Cu  Cu4  1  0.04356  0.24027  0.24031  1
+ Cu  Cu5  1  0.74936  0.49497  0.24971  1
+ Cu  Cu6  1  0.24053  0.04413  0.24047  1
+ Cu  Cu7  1  0.49494  0.74931  0.24963  1
+ Cu  Cu8  1  0.24536  0.49973  0.75043  1
+ Cu  Cu9  1  0.25244  0.75242  0.50004  1
+ Cu  Cu10  1  0.49973  0.24527  0.75035  1
+ Cu  Cu11  1  0.75242  0.25242  0.50007  1
+ Cu  Cu12  1  0.76538  0.76542  -0.00001  1
+ S  S1  1  0.24205  0.00187  0.47881  1
+ S  S2  1  0.23840  0.76158  0.75795  1
+ S  S3  1  0.75660  0.75661  0.24296  1
+ S  S4  1  0.76157  0.23836  0.75794  1
+ S  S5  1  0.00187  0.24209  0.47893  1
+ S  S6  1  0.51362  0.51361  0.75702  1
+ S  S7  1  0.52303  0.76320  0.52117  1
+ S  S8  1  0.00364  0.48052  0.24208  1
+ S  S9  1  0.48050  0.00366  0.24209  1
+ S  S10  1  0.76331  0.52312  0.52127  1
+ S  S11  1  0.24038  0.47734  -0.00002  1
+ S  S12  1  0.47746  0.24042  -0.00001  1
+ S  S13  1  0.98604  0.98606  0.00018  1

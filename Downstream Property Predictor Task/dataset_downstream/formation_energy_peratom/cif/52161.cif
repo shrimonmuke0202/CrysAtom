@@ -1,0 +1,45 @@
+CIF file written using JARVIS-Tools package.
+data_BaYMnCoO5
+_symmetry_space_group_name_H-M  'I4mm'
+_cell_length_a       5.46344
+_cell_length_b       5.46342
+_cell_length_c       8.50238
+_cell_angle_alpha    71.2632
+_cell_angle_beta     71.261
+_cell_angle_gamma    90.0101
+
+_symmetry_Int_Tables_number  107
+_chemical_formula_structural  BaYMnCoO5
+_chemical_formula_sum  Ba2Y2Mn2Co2O0
+_cell_volume  226.08124791929484
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ba  Ba1  1  0.00666  0.00665  0.98671  1
+ Ba  Ba2  1  0.50665  0.50663  0.98671  1
+ Co  Co1  1  0.13842  0.63842  0.72315  1
+ Co  Co2  1  0.65139  0.15140  0.69722  1
+ Mn  Mn1  1  0.36262  0.86261  0.27476  1
+ Mn  Mn2  1  0.86750  0.36750  0.26500  1
+ O  O1  1  0.09748  0.08769  0.31481  1
+ O  O2  1  -0.00201  0.49802  0.00401  1
+ O  O3  1  0.40878  0.90878  0.69099  1
+ O  O4  1  0.48499  0.98495  0.03005  1
+ O  O5  1  0.90021  0.90880  0.69100  1
+ O  O6  1  0.09746  0.59745  0.31484  1
+ O  O7  1  0.58770  0.08770  0.31483  1
+ O  O8  1  0.90022  0.40024  0.69099  1
+ O  O9  1  0.40877  0.40020  0.69102  1
+ O  O10  1  0.58768  0.59748  0.31485  1
+ Y  Y1  1  0.74773  0.74775  0.50452  1
+ Y  Y2  1  0.24774  0.24773  0.50452  1

@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_CuBiS2
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       3.94842
+_cell_length_b       6.27812
+_cell_length_c       14.4651
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  CuBiS2
+_chemical_formula_sum  Cu4Bi4S8
+_cell_volume  358.57152168389064
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Bi  Bi1  1  0.25000  0.73532  0.56121  1
+ Bi  Bi2  1  0.75000  0.26468  0.43879  1
+ Bi  Bi3  1  0.25000  0.23532  0.93879  1
+ Bi  Bi4  1  0.75000  0.76468  0.06121  1
+ Cu  Cu1  1  0.25000  0.24102  0.17166  1
+ Cu  Cu2  1  0.25000  0.74102  0.32834  1
+ Cu  Cu3  1  0.75000  0.75898  0.82834  1
+ Cu  Cu4  1  0.75000  0.25898  0.67166  1
+ S  S1  1  0.75000  0.62485  0.67971  1
+ S  S2  1  0.25000  0.37515  0.32029  1
+ S  S3  1  0.75000  0.12485  0.82029  1
+ S  S4  1  0.25000  0.87515  0.17971  1
+ S  S5  1  0.25000  0.14258  0.59806  1
+ S  S6  1  0.75000  0.35742  0.09806  1
+ S  S7  1  0.25000  0.64258  0.90194  1
+ S  S8  1  0.75000  0.85742  0.40194  1

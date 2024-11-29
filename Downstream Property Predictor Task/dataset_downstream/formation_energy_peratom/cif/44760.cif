@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_Fe2O3F
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       4.53217
+_cell_length_b       5.37635
+_cell_length_c       5.37635
+_cell_angle_alpha    115.373
+_cell_angle_beta     94.2341
+_cell_angle_gamma    85.7659
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  Fe2O3F
+_chemical_formula_sum  Fe4O6F2
+_cell_volume  117.91314792305235
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ F  F1  1  0.78134  0.63862  0.86138  1
+ F  F2  1  0.21866  0.36138  0.13862  1
+ Fe  Fe1  1  0.50000  0.00000  0.50000  1
+ Fe  Fe2  1  0.50000  0.50000  0.00000  1
+ Fe  Fe3  1  0.00000  0.50000  0.50000  1
+ Fe  Fe4  1  0.00000  0.00000  0.00000  1
+ O  O1  1  0.82092  0.16238  0.33762  1
+ O  O2  1  0.69462  0.15158  0.84561  1
+ O  O3  1  0.69462  0.65439  0.34842  1
+ O  O4  1  0.30538  0.84842  0.15439  1
+ O  O5  1  0.30538  0.34561  0.65158  1
+ O  O6  1  0.17908  0.83762  0.66238  1

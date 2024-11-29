@@ -1,0 +1,55 @@
+CIF file written using JARVIS-Tools package.
+data_Na3InP2O8
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       5.49434
+_cell_length_b       7.02979
+_cell_length_c       8.67924
+_cell_angle_alpha    89.9578
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  Na3InP2O8
+_chemical_formula_sum  Na6In2P4O6
+_cell_volume  335.22750638148676
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ In  In1  1  0.75000  0.00001  0.75003  1
+ In  In2  1  0.25000  -0.00001  0.24997  1
+ Na  Na1  1  0.75000  0.50001  0.74996  1
+ Na  Na2  1  0.25000  0.49999  0.25004  1
+ Na  Na3  1  0.75000  0.71378  0.43954  1
+ Na  Na4  1  0.25000  0.28622  0.56046  1
+ Na  Na5  1  0.75000  0.28633  0.06047  1
+ Na  Na6  1  0.25000  0.71367  0.93953  1
+ O  O1  1  0.25000  0.95969  0.49751  1
+ O  O2  1  0.51985  0.22421  0.29409  1
+ O  O3  1  0.01985  0.77579  0.70591  1
+ O  O4  1  0.75000  0.04031  0.50249  1
+ O  O5  1  0.75000  0.40096  0.50164  1
+ O  O6  1  0.75000  0.59912  0.99828  1
+ O  O7  1  0.48015  0.77579  0.70591  1
+ O  O8  1  0.25000  0.59904  0.49836  1
+ O  O9  1  0.75000  0.95977  0.99757  1
+ O  O10  1  0.98015  0.77576  0.20590  1
+ O  O11  1  0.01985  0.22424  0.79410  1
+ O  O12  1  0.51985  0.77576  0.20590  1
+ O  O13  1  0.98015  0.22421  0.29409  1
+ O  O14  1  0.48015  0.22424  0.79410  1
+ O  O15  1  0.25000  0.04023  0.00243  1
+ O  O16  1  0.25000  0.40088  0.00172  1
+ P  P1  1  0.75000  0.22311  0.40272  1
+ P  P2  1  0.25000  0.77689  0.59728  1
+ P  P3  1  0.75000  0.77691  0.09727  1
+ P  P4  1  0.25000  0.22309  0.90273  1

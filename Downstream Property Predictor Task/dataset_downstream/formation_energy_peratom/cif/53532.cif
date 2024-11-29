@@ -1,0 +1,40 @@
+CIF file written using JARVIS-Tools package.
+data_Ta4AgS8
+_symmetry_space_group_name_H-M  'Pm'
+_cell_length_a       3.3596
+_cell_length_b       5.81964
+_cell_length_c       13.404
+_cell_angle_alpha    81.7883
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  6
+_chemical_formula_structural  Ta4AgS8
+_chemical_formula_sum  Ta4AgS8
+_cell_volume  259.3831404546939
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ag  Ag1  1  0.50000  0.34774  0.47801  1
+ S  S1  1  0.50000  0.27938  0.65909  1
+ S  S2  1  0.00000  0.77954  0.65183  1
+ S  S3  1  0.50000  0.72659  0.34781  1
+ S  S4  1  0.00000  0.21290  0.34381  1
+ S  S5  1  0.50000  0.20676  0.88686  1
+ S  S6  1  0.00000  0.69838  0.89285  1
+ S  S7  1  0.50000  0.79775  0.10835  1
+ S  S8  1  0.00000  0.29396  0.11250  1
+ Ta  Ta1  1  0.50000  0.43352  0.22669  1
+ Ta  Ta2  1  0.00000  0.91597  0.22639  1
+ Ta  Ta3  1  0.50000  0.58640  0.77336  1
+ Ta  Ta4  1  0.00000  0.06041  0.77455  1

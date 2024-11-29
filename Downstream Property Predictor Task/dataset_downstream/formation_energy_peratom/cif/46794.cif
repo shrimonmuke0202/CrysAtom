@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_ScSn2
+_symmetry_space_group_name_H-M  'I4_1/amd'
+_cell_length_a       4.26462
+_cell_length_b       4.26463
+_cell_length_c       16.0271
+_cell_angle_alpha    97.6456
+_cell_angle_beta     97.6456
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  141
+_chemical_formula_structural  ScSn2
+_chemical_formula_sum  Sc4Sn8
+_cell_volume  286.27891310670447
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Sc  Sc1  1  0.95120  0.20120  0.40241  1
+ Sc  Sc2  1  0.70120  0.45120  0.90241  1
+ Sc  Sc3  1  0.04880  0.79880  0.59759  1
+ Sc  Sc4  1  0.29880  0.54880  0.09759  1
+ Sn  Sn1  1  0.78309  0.03309  0.06618  1
+ Sn  Sn2  1  0.53309  0.28309  0.56618  1
+ Sn  Sn3  1  0.21691  0.96691  0.93382  1
+ Sn  Sn4  1  0.46691  0.71691  0.43382  1
+ Sn  Sn5  1  0.12500  0.37500  0.75000  1
+ Sn  Sn6  1  0.87500  0.62500  0.25000  1
+ Sn  Sn7  1  0.37500  0.12500  0.25000  1
+ Sn  Sn8  1  0.62500  0.87500  0.75000  1

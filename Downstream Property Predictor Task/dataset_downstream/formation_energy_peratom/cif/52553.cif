@@ -1,0 +1,44 @@
+CIF file written using JARVIS-Tools package.
+data_NiN2F14
+_symmetry_space_group_name_H-M  'I4/m'
+_cell_length_a       6.6034
+_cell_length_b       6.6034
+_cell_length_c       6.6034
+_cell_angle_alpha    119.605
+_cell_angle_beta     119.605
+_cell_angle_gamma    90.6857
+
+_symmetry_Int_Tables_number  87
+_chemical_formula_structural  NiN2F14
+_chemical_formula_sum  NiN2F4
+_cell_volume  204.80481955806923
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ F  F1  1  0.80531  0.80531  0.00000  1
+ F  F2  1  0.41368  0.97829  0.72551  1
+ F  F3  1  0.23836  0.13397  0.37233  1
+ F  F4  1  0.13397  0.76164  0.89561  1
+ F  F5  1  0.86603  0.23836  0.10439  1
+ F  F6  1  0.76164  0.86603  0.62767  1
+ F  F7  1  0.19469  0.19469  -0.00000  1
+ F  F8  1  0.68818  0.41368  0.43540  1
+ F  F9  1  0.97829  0.25278  0.56460  1
+ F  F10  1  0.31182  0.58632  0.56460  1
+ F  F11  1  0.02171  0.74722  0.43540  1
+ F  F12  1  0.58632  0.02171  0.27449  1
+ F  F13  1  0.25278  0.68818  0.27449  1
+ F  F14  1  0.74722  0.31182  0.72551  1
+ N  N1  1  0.25000  0.75000  0.50000  1
+ N  N2  1  0.75000  0.25000  0.50000  1
+ Ni  Ni1  1  0.00000  0.00000  0.00000  1

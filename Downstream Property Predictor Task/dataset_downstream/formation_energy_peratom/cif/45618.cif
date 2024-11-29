@@ -1,0 +1,59 @@
+CIF file written using JARVIS-Tools package.
+data_KGaS2
+_symmetry_space_group_name_H-M  'Cc'
+_cell_length_a       7.39892
+_cell_length_b       7.39891
+_cell_length_c       14.8047
+_cell_angle_alpha    97.1928
+_cell_angle_beta     97.1928
+_cell_angle_gamma    90.0001
+
+_symmetry_Int_Tables_number  9
+_chemical_formula_structural  KGaS2
+_chemical_formula_sum  K8Ga8S6
+_cell_volume  797.6583399634092
+_cell_formula_units_Z  8
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ga  Ga1  1  0.18656  0.80871  0.49839  1
+ Ga  Ga2  1  0.60534  0.98297  0.17438  1
+ Ga  Ga3  1  0.98297  0.60534  0.67438  1
+ Ga  Ga4  1  0.47766  0.60542  0.67469  1
+ Ga  Ga5  1  0.60542  0.47766  0.17469  1
+ Ga  Ga6  1  0.31408  0.18653  -0.00174  1
+ Ga  Ga7  1  0.18653  0.31408  0.49826  1
+ Ga  Ga8  1  0.80871  0.18656  -0.00161  1
+ K  K1  1  0.67294  0.54949  0.44846  1
+ K  K2  1  0.54949  0.67294  0.94846  1
+ K  K3  1  0.11861  0.74411  0.22610  1
+ K  K4  1  0.74411  0.11861  0.72610  1
+ K  K5  1  0.04772  0.67288  0.94679  1
+ K  K6  1  0.67288  0.04772  0.44679  1
+ K  K7  1  0.24212  0.11789  0.72439  1
+ K  K8  1  0.11789  0.24212  0.22439  1
+ S  S1  1  0.46495  0.84024  0.58678  1
+ S  S2  1  0.62962  0.25425  0.27090  1
+ S  S3  1  0.25425  0.62962  0.77090  1
+ S  S4  1  0.32686  0.95157  0.08608  1
+ S  S5  1  0.95157  0.32686  0.58608  1
+ S  S6  1  0.75396  0.62878  0.76814  1
+ S  S7  1  0.62878  0.75396  0.26814  1
+ S  S8  1  0.53734  0.16320  0.90195  1
+ S  S9  1  0.32678  0.46495  0.08660  1
+ S  S10  1  0.83990  0.95165  0.08626  1
+ S  S11  1  0.16356  0.03787  0.40473  1
+ S  S12  1  0.03787  0.16356  0.90473  1
+ S  S13  1  0.84024  0.46495  0.08678  1
+ S  S14  1  0.95165  0.83990  0.58626  1
+ S  S15  1  0.46495  0.32678  0.58660  1
+ S  S16  1  0.16320  0.53734  0.40195  1

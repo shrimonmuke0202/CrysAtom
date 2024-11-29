@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_HoWC2
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       3.3575
+_cell_length_b       5.71872
+_cell_length_c       10.8031
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  HoWC2
+_chemical_formula_sum  Ho4W4C8
+_cell_volume  207.42532709480744
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ C  C1  1  0.25000  0.65934  0.74705  1
+ C  C2  1  0.25000  0.15934  0.75295  1
+ C  C3  1  0.75000  0.34066  0.25295  1
+ C  C4  1  0.75000  0.84066  0.24705  1
+ C  C5  1  0.25000  0.22576  0.48515  1
+ C  C6  1  0.25000  0.72576  0.01485  1
+ C  C7  1  0.75000  0.77424  0.51485  1
+ C  C8  1  0.75000  0.27424  0.98515  1
+ Ho  Ho1  1  0.25000  0.58701  0.36317  1
+ Ho  Ho2  1  0.25000  0.08701  0.13683  1
+ Ho  Ho3  1  0.75000  0.41299  0.63683  1
+ Ho  Ho4  1  0.75000  0.91299  0.86317  1
+ W  W1  1  0.25000  0.90167  0.61090  1
+ W  W2  1  0.25000  0.40167  0.88910  1
+ W  W3  1  0.75000  0.09833  0.38910  1
+ W  W4  1  0.75000  0.59833  0.11090  1

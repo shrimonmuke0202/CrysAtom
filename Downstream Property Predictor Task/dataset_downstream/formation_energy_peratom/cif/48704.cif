@@ -1,0 +1,31 @@
+CIF file written using JARVIS-Tools package.
+data_CuNO2
+_symmetry_space_group_name_H-M  'C2'
+_cell_length_a       3.98956
+_cell_length_b       3.98956
+_cell_length_c       3.09088
+_cell_angle_alpha    70.6492
+_cell_angle_beta     70.6492
+_cell_angle_gamma    73.7705
+
+_symmetry_Int_Tables_number  5
+_chemical_formula_structural  CuNO2
+_chemical_formula_sum  CuNO2
+_cell_volume  42.99172832594548
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cu  Cu1  1  0.01353  -0.01353  0.50000  1
+ N  N1  1  0.60164  0.39836  -0.00000  1
+ O  O1  1  0.26347  0.37859  0.19667  1
+ O  O2  1  0.62141  0.73653  0.80333  1

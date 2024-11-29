@@ -1,0 +1,30 @@
+CIF file written using JARVIS-Tools package.
+data_MgSe2
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       4.06986
+_cell_length_b       4.3867
+_cell_length_c       5.42695
+_cell_angle_alpha    90
+_cell_angle_beta     110.04
+_cell_angle_gamma    122.611
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  MgSe2
+_chemical_formula_sum  MgSe2
+_cell_volume  74.55576967319104
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Mg  Mg1  1  -0.00000  0.33335  0.16667  1
+ Se  Se1  1  0.87734  0.77200  0.42162  1
+ Se  Se2  1  0.12266  -0.10534  0.91172  1

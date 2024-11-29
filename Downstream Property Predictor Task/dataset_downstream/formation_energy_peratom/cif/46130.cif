@@ -1,0 +1,41 @@
+CIF file written using JARVIS-Tools package.
+data_MgAg2O4
+_symmetry_space_group_name_H-M  'Cmcm'
+_cell_length_a       3.06578
+_cell_length_b       5.49806
+_cell_length_c       9.78504
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    106.189
+
+_symmetry_Int_Tables_number  63
+_chemical_formula_structural  MgAg2O4
+_chemical_formula_sum  Mg2Ag4O8
+_cell_volume  158.3949217625304
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ag  Ag1  1  0.86840  0.73679  0.07299  1
+ Ag  Ag2  1  0.13160  0.26321  0.92701  1
+ Ag  Ag3  1  0.86840  0.73679  0.42701  1
+ Ag  Ag4  1  0.13160  0.26321  0.57299  1
+ Mg  Mg1  1  0.39037  0.78075  0.75000  1
+ Mg  Mg2  1  0.60963  0.21925  0.25000  1
+ O  O1  1  0.20983  0.41966  0.37897  1
+ O  O2  1  0.79017  0.58034  0.62103  1
+ O  O3  1  0.79017  0.58034  0.87897  1
+ O  O4  1  0.20983  0.41966  0.12103  1
+ O  O5  1  0.97283  0.94565  0.25000  1
+ O  O6  1  0.02717  0.05435  0.75000  1
+ O  O7  1  0.50000  0.00000  0.00000  1
+ O  O8  1  0.50000  0.00000  0.50000  1

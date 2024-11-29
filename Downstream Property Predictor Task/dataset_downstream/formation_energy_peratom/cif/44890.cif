@@ -1,0 +1,37 @@
+CIF file written using JARVIS-Tools package.
+data_CeCrS2O
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       3.71971
+_cell_length_b       5.89734
+_cell_length_c       7.92112
+_cell_angle_alpha    89.5801
+_cell_angle_beta     90
+_cell_angle_gamma    108.383
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  CeCrS2O
+_chemical_formula_sum  Ce2Cr2S4O2
+_cell_volume  164.88836190769217
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ce  Ce1  1  0.26578  0.53157  0.78999  1
+ Ce  Ce2  1  0.73422  0.46844  0.21001  1
+ Cr  Cr1  1  0.00000  0.00000  -0.00000  1
+ Cr  Cr2  1  0.50000  1.00000  0.50000  1
+ O  O1  1  0.82951  0.65902  0.93602  1
+ O  O2  1  0.17049  0.34098  0.06399  1
+ S  S1  1  0.54490  0.08981  0.80049  1
+ S  S2  1  0.13774  0.27548  0.46683  1
+ S  S3  1  0.86226  0.72451  0.53317  1
+ S  S4  1  0.45510  0.91019  0.19950  1

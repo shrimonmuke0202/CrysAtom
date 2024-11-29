@@ -1,0 +1,32 @@
+CIF file written using JARVIS-Tools package.
+data_MgZnO3
+_symmetry_space_group_name_H-M  'Cm'
+_cell_length_a       3.89581
+_cell_length_b       3.89581
+_cell_length_c       4.54963
+_cell_angle_alpha    97.4549
+_cell_angle_beta     97.4549
+_cell_angle_gamma    89.9092
+
+_symmetry_Int_Tables_number  8
+_chemical_formula_structural  MgZnO3
+_chemical_formula_sum  MgZnO3
+_cell_volume  67.88047775001698
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Mg  Mg1  1  0.45758  0.45758  0.75065  1
+ O  O1  1  0.48576  -0.02651  0.87148  1
+ O  O2  1  -0.02651  0.48576  0.87148  1
+ O  O3  1  0.20032  0.20032  0.38993  1
+ Zn  Zn1  1  -0.00380  -0.00380  0.00312  1

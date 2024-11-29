@@ -1,0 +1,55 @@
+CIF file written using JARVIS-Tools package.
+data_KHg6
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       5.43475
+_cell_length_b       10.7103
+_cell_length_c       14.3125
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  KHg6
+_chemical_formula_sum  K4Hg24
+_cell_volume  833.0972824330171
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Hg  Hg1  1  0.25000  0.78204  0.79374  1
+ Hg  Hg2  1  0.25000  0.15463  0.55592  1
+ Hg  Hg3  1  0.25000  0.34537  0.05592  1
+ Hg  Hg4  1  0.75000  0.84537  0.44408  1
+ Hg  Hg5  1  0.75000  0.65463  0.94408  1
+ Hg  Hg6  1  0.25000  0.85728  0.58204  1
+ Hg  Hg7  1  0.25000  0.64272  0.08204  1
+ Hg  Hg8  1  0.75000  0.14272  0.41796  1
+ Hg  Hg9  1  0.75000  0.35728  0.91796  1
+ Hg  Hg10  1  0.25000  0.41713  0.65625  1
+ Hg  Hg11  1  0.75000  0.09758  0.00679  1
+ Hg  Hg12  1  0.25000  0.08287  0.15625  1
+ Hg  Hg13  1  0.75000  0.91713  0.84375  1
+ Hg  Hg14  1  0.75000  0.40242  0.50679  1
+ Hg  Hg15  1  0.25000  0.71796  0.29374  1
+ Hg  Hg16  1  0.75000  0.21796  0.20626  1
+ Hg  Hg17  1  0.75000  0.28204  0.70626  1
+ Hg  Hg18  1  0.25000  0.50663  0.86153  1
+ Hg  Hg19  1  0.25000  -0.00663  0.36153  1
+ Hg  Hg20  1  0.75000  0.49337  0.13847  1
+ Hg  Hg21  1  0.75000  0.00663  0.63847  1
+ Hg  Hg22  1  0.25000  0.90242  -0.00679  1
+ Hg  Hg23  1  0.25000  0.59758  0.49321  1
+ Hg  Hg24  1  0.75000  0.58287  0.34375  1
+ K  K1  1  0.75000  0.64731  0.67487  1
+ K  K2  1  0.75000  0.85269  0.17487  1
+ K  K3  1  0.25000  0.35269  0.32513  1
+ K  K4  1  0.25000  0.14731  0.82513  1

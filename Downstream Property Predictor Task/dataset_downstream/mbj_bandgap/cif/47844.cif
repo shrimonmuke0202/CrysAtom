@@ -1,0 +1,45 @@
+CIF file written using JARVIS-Tools package.
+data_RuC4O4
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       5.78012
+_cell_length_b       6.82374
+_cell_length_c       8.29352
+_cell_angle_alpha    114.094
+_cell_angle_beta     110.448
+_cell_angle_gamma    89.9889
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  RuC4O4
+_chemical_formula_sum  Ru2C8O8
+_cell_volume  275.8907718963347
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ C  C1  1  0.62523  0.24657  0.25142  1
+ C  C2  1  0.87230  0.99583  0.74625  1
+ C  C3  1  0.12529  0.00493  0.25155  1
+ C  C4  1  0.93879  0.68376  0.87940  1
+ C  C5  1  0.37237  0.75391  0.74636  1
+ C  C6  1  0.05862  0.31698  0.11840  1
+ C  C7  1  0.55874  0.80241  0.11860  1
+ C  C8  1  0.43866  0.19809  0.87919  1
+ O  O1  1  0.79752  0.99348  0.59671  1
+ O  O2  1  0.59459  0.68520  0.19011  1
+ O  O3  1  0.90294  0.49560  0.80805  1
+ O  O4  1  0.40273  0.31532  0.80769  1
+ O  O5  1  0.70005  0.39275  0.40085  1
+ O  O6  1  0.20014  0.00732  0.40110  1
+ O  O7  1  0.09439  0.50514  0.18976  1
+ O  O8  1  0.29765  0.60771  0.59694  1
+ Ru  Ru1  1  0.49875  0.00025  0.99889  1
+ Ru  Ru2  1  -0.00124  0.00037  -0.00110  1

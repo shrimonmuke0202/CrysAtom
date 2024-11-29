@@ -1,0 +1,35 @@
+CIF file written using JARVIS-Tools package.
+data_Mn2SbTe
+_symmetry_space_group_name_H-M  'Pnnm'
+_cell_length_a       3.80169
+_cell_length_b       6.55697
+_cell_length_c       7.23799
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  58
+_chemical_formula_structural  Mn2SbTe
+_chemical_formula_sum  Mn4Sb2Te2
+_cell_volume  180.42518337772628
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Mn  Mn1  1  0.00000  0.83376  0.50328  1
+ Mn  Mn2  1  0.50000  0.33376  0.49672  1
+ Mn  Mn3  1  0.50000  0.66469  0.00337  1
+ Mn  Mn4  1  0.00000  0.16469  0.99663  1
+ Sb  Sb1  1  0.50000  0.99921  0.74997  1
+ Sb  Sb2  1  0.00000  0.49921  0.25003  1
+ Te  Te1  1  0.50000  -0.00075  0.24994  1
+ Te  Te2  1  0.00000  0.49925  0.75006  1

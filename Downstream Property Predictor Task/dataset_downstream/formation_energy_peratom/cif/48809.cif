@@ -1,0 +1,33 @@
+CIF file written using JARVIS-Tools package.
+data_CaGaCu
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       5.51349
+_cell_length_b       5.51349
+_cell_length_c       7.20261
+_cell_angle_alpha    51.6152
+_cell_angle_beta     51.6152
+_cell_angle_gamma    47.4844
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  CaGaCu
+_chemical_formula_sum  Ca2Ga2Cu2
+_cell_volume  118.57644844040317
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ca  Ca1  1  0.55272  0.55272  0.69333  1
+ Ca  Ca2  1  0.44728  0.44728  0.30667  1
+ Cu  Cu1  1  0.16435  0.16435  0.27213  1
+ Cu  Cu2  1  0.83565  0.83565  0.72787  1
+ Ga  Ga1  1  0.83049  0.83049  0.10684  1
+ Ga  Ga2  1  0.16951  0.16951  0.89316  1

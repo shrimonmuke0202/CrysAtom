@@ -1,0 +1,63 @@
+CIF file written using JARVIS-Tools package.
+data_Ti5Si4
+_symmetry_space_group_name_H-M  'P4_12_12'
+_cell_length_a       6.73029
+_cell_length_b       6.73029
+_cell_length_c       12.2165
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  92
+_chemical_formula_structural  Ti5Si4
+_chemical_formula_sum  Ti20Si6
+_cell_volume  553.3700913432226
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Si  Si1  1  0.64201  0.70543  0.82856  1
+ Si  Si2  1  0.70543  0.64201  0.17144  1
+ Si  Si3  1  0.20543  0.85799  0.57856  1
+ Si  Si4  1  0.79457  0.14201  0.07856  1
+ Si  Si5  1  0.85799  0.20543  0.42144  1
+ Si  Si6  1  0.14201  0.79457  0.92144  1
+ Si  Si7  1  0.29457  0.35799  0.67144  1
+ Si  Si8  1  0.69847  0.95657  0.68647  1
+ Si  Si9  1  0.95657  0.69847  0.31353  1
+ Si  Si10  1  0.45657  0.80153  0.43647  1
+ Si  Si11  1  0.80153  0.45657  0.56353  1
+ Si  Si12  1  0.19847  0.54343  0.06353  1
+ Si  Si13  1  0.04343  0.30153  0.81353  1
+ Si  Si14  1  0.35799  0.29457  0.32856  1
+ Si  Si15  1  0.54343  0.19847  0.93647  1
+ Si  Si16  1  0.30153  0.04343  0.18647  1
+ Ti  Ti1  1  0.35033  0.49543  0.87163  1
+ Ti  Ti2  1  0.15522  0.50310  0.46860  1
+ Ti  Ti3  1  0.99543  0.14967  0.62163  1
+ Ti  Ti4  1  0.50457  0.64967  0.62837  1
+ Ti  Ti5  1  0.82953  0.82953  0.50000  1
+ Ti  Ti6  1  0.67047  0.32953  0.75000  1
+ Ti  Ti7  1  0.17047  0.17047  0.00000  1
+ Ti  Ti8  1  0.65522  0.99690  0.28140  1
+ Ti  Ti9  1  0.34478  0.00310  0.78140  1
+ Ti  Ti10  1  0.99690  0.65522  0.71860  1
+ Ti  Ti11  1  0.49543  0.35033  0.12837  1
+ Ti  Ti12  1  0.49690  0.84478  0.03140  1
+ Ti  Ti13  1  0.84478  0.49690  0.96860  1
+ Ti  Ti14  1  0.32953  0.67047  0.25000  1
+ Ti  Ti15  1  0.00310  0.34478  0.21860  1
+ Ti  Ti16  1  0.85033  0.00457  0.87837  1
+ Ti  Ti17  1  0.14967  0.99543  0.37837  1
+ Ti  Ti18  1  0.00457  0.85033  0.12163  1
+ Ti  Ti19  1  0.50310  0.15522  0.53140  1
+ Ti  Ti20  1  0.64967  0.50457  0.37163  1

@@ -1,0 +1,37 @@
+CIF file written using JARVIS-Tools package.
+data_K2NaTiOF5
+_symmetry_space_group_name_H-M  'I4mm'
+_cell_length_a       5.91269
+_cell_length_b       5.8883
+_cell_length_c       5.91269
+_cell_angle_alpha    60.1363
+_cell_angle_beta     59.7273
+_cell_angle_gamma    60.1363
+
+_symmetry_Int_Tables_number  107
+_chemical_formula_structural  K2NaTiOF5
+_chemical_formula_sum  K2NaTiOF5
+_cell_volume  145.55639514336207
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ F  F1  1  0.22637  0.23865  0.76135  1
+ F  F2  1  0.22637  0.77363  0.76135  1
+ F  F3  1  0.76135  0.23865  0.22637  1
+ F  F4  1  0.76135  0.77363  0.22637  1
+ F  F5  1  0.76737  0.23263  0.76737  1
+ K  K1  1  0.25672  0.24328  0.25672  1
+ K  K2  1  0.75672  0.74328  0.75672  1
+ Na  Na1  1  0.50093  0.49907  0.50093  1
+ O  O1  1  0.22360  0.77640  0.22360  1
+ Ti  Ti1  1  0.01922  0.98078  0.01922  1

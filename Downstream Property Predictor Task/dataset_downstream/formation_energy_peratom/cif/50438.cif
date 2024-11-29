@@ -1,0 +1,49 @@
+CIF file written using JARVIS-Tools package.
+data_Li2In2GeS6
+_symmetry_space_group_name_H-M  'Cc'
+_cell_length_a       7.10223
+_cell_length_b       7.10223
+_cell_length_c       12.2682
+_cell_angle_alpha    72.4425
+_cell_angle_beta     72.4425
+_cell_angle_gamma    60.0343
+
+_symmetry_Int_Tables_number  9
+_chemical_formula_structural  Li2In2GeS6
+_chemical_formula_sum  Li4In4Ge2S2
+_cell_volume  502.517572422324
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ge  Ge1  1  0.46177  0.99100  0.75066  1
+ Ge  Ge2  1  0.99100  0.46177  0.25066  1
+ In  In1  1  0.87964  0.07646  0.81305  1
+ In  In2  1  0.07646  0.87964  0.31305  1
+ In  In3  1  0.23167  0.08220  0.50706  1
+ In  In4  1  0.08220  0.23167  0.00706  1
+ Li  Li1  1  0.58552  0.99969  0.16313  1
+ Li  Li2  1  0.99969  0.58552  0.66313  1
+ Li  Li3  1  0.60389  0.39698  0.50181  1
+ Li  Li4  1  0.39698  0.60389  0.00181  1
+ S  S1  1  0.56860  0.03977  0.55895  1
+ S  S2  1  0.23293  0.73400  0.49549  1
+ S  S3  1  0.33523  0.87764  0.12065  1
+ S  S4  1  0.87764  0.33523  0.62065  1
+ S  S5  1  0.73400  0.23293  0.99549  1
+ S  S6  1  0.78609  0.76294  0.33039  1
+ S  S7  1  0.27690  0.31975  0.80252  1
+ S  S8  1  0.31975  0.27690  0.30252  1
+ S  S9  1  0.76294  0.78609  0.83039  1
+ S  S10  1  0.28192  0.78784  0.80674  1
+ S  S11  1  0.78784  0.28192  0.30674  1
+ S  S12  1  0.03977  0.56860  0.05895  1

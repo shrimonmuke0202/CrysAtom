@@ -1,0 +1,49 @@
+CIF file written using JARVIS-Tools package.
+data_H12OsN5Cl3O
+_symmetry_space_group_name_H-M  'I4mm'
+_cell_length_a       6.71943
+_cell_length_b       6.71943
+_cell_length_c       6.71943
+_cell_angle_alpha    102.489
+_cell_angle_beta     113.071
+_cell_angle_gamma    113.071
+
+_symmetry_Int_Tables_number  107
+_chemical_formula_structural  H12OsN5Cl3O
+_chemical_formula_sum  H2OsN5Cl3O
+_cell_volume  230.98994621442307
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cl  Cl1  1  0.50000  0.75070  0.25070  1
+ Cl  Cl2  1  -0.00000  0.75115  0.75115  1
+ Cl  Cl3  1  0.50000  0.25070  0.75070  1
+ H  H1  1  0.46528  0.13259  0.13259  1
+ H  H2  1  0.48328  0.39405  0.23386  1
+ H  H3  1  -0.00000  0.66731  0.13259  1
+ H  H4  1  0.53472  0.66731  0.66731  1
+ H  H5  1  0.00000  0.13259  0.66731  1
+ H  H6  1  0.48328  0.23386  0.39405  1
+ H  H7  1  0.83981  0.23386  0.75057  1
+ H  H8  1  0.16019  0.91076  0.39405  1
+ H  H9  1  0.51672  0.91076  0.75057  1
+ H  H10  1  0.83981  0.75057  0.23386  1
+ H  H11  1  0.16019  0.39405  0.91076  1
+ H  H12  1  0.51672  0.75057  0.91076  1
+ N  N1  1  0.00000  0.23811  0.23811  1
+ N  N2  1  0.59154  0.81259  0.81259  1
+ N  N3  1  -0.00000  0.81259  0.22106  1
+ N  N4  1  0.00000  0.22106  0.81259  1
+ N  N5  1  0.40846  0.22106  0.22106  1
+ O  O1  1  0.00000  0.37887  0.37887  1
+ Os  Os1  1  -0.00000  0.02967  0.02967  1

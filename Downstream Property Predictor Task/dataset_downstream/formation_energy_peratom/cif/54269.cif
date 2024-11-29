@@ -1,0 +1,55 @@
+CIF file written using JARVIS-Tools package.
+data_LiVSiO4
+_symmetry_space_group_name_H-M  'P-1'
+_cell_length_a       9.25174
+_cell_length_b       5.50468
+_cell_length_c       6.35466
+_cell_angle_alpha    107.936
+_cell_angle_beta     103.823
+_cell_angle_gamma    80.4366
+
+_symmetry_Int_Tables_number  2
+_chemical_formula_structural  LiVSiO4
+_chemical_formula_sum  Li4V4Si4O6
+_cell_volume  297.4788093702581
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Li  Li1  1  0.14080  0.17972  0.37369  1
+ Li  Li2  1  0.21716  0.68376  0.43060  1
+ Li  Li3  1  0.78283  0.31624  0.56940  1
+ Li  Li4  1  0.85920  0.82028  0.62631  1
+ O  O1  1  0.15150  0.35883  0.72637  1
+ O  O2  1  0.90558  0.14477  0.32965  1
+ O  O3  1  0.07922  0.74736  0.14464  1
+ O  O4  1  0.20954  0.11486  0.05863  1
+ O  O5  1  0.44539  0.12817  0.84211  1
+ O  O6  1  0.38322  0.62611  0.77492  1
+ O  O7  1  0.09442  0.85523  0.67035  1
+ O  O8  1  0.36160  0.60127  0.22083  1
+ O  O9  1  0.63840  0.39874  0.77917  1
+ O  O10  1  0.61522  0.79258  0.55613  1
+ O  O11  1  0.61678  0.37389  0.22507  1
+ O  O12  1  0.79046  0.88514  0.94137  1
+ O  O13  1  0.38478  0.20742  0.44386  1
+ O  O14  1  0.92078  0.25264  0.85536  1
+ O  O15  1  0.55461  0.87183  0.15789  1
+ O  O16  1  0.84850  0.64117  0.27363  1
+ Si  Si1  1  0.09313  0.16064  0.82492  1
+ Si  Si2  1  0.46238  0.32384  0.70321  1
+ Si  Si3  1  0.53762  0.67616  0.29679  1
+ Si  Si4  1  0.90687  0.83936  0.17508  1
+ V  V1  1  0.79110  0.29631  0.07262  1
+ V  V2  1  0.57506  0.79698  0.84103  1
+ V  V3  1  0.42494  0.20302  0.15896  1
+ V  V4  1  0.20890  0.70369  0.92738  1

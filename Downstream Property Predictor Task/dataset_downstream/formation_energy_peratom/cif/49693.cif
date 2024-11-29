@@ -1,0 +1,41 @@
+CIF file written using JARVIS-Tools package.
+data_LuMg2Mn3S8
+_symmetry_space_group_name_H-M  'R-3m'
+_cell_length_a       7.41065
+_cell_length_b       7.41089
+_cell_length_c       7.41268
+_cell_angle_alpha    59.4223
+_cell_angle_beta     59.4255
+_cell_angle_gamma    59.4498
+
+_symmetry_Int_Tables_number  166
+_chemical_formula_structural  LuMg2Mn3S8
+_chemical_formula_sum  LuMg2Mn3S8
+_cell_volume  284.1474012165816
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Lu  Lu1  1  0.50000  0.50000  0.50000  1
+ Mg  Mg1  1  0.87547  0.87547  0.87549  1
+ Mg  Mg2  1  0.12453  0.12453  0.12451  1
+ Mn  Mn1  1  0.50000  0.50000  0.00000  1
+ Mn  Mn2  1  0.00000  0.50000  0.50000  1
+ Mn  Mn3  1  0.50000  0.00000  0.50000  1
+ S  S1  1  0.74072  0.74071  0.74089  1
+ S  S2  1  0.24823  0.24822  0.72021  1
+ S  S3  1  0.24828  0.72018  0.24833  1
+ S  S4  1  0.72018  0.24829  0.24835  1
+ S  S5  1  0.75173  0.27982  0.75167  1
+ S  S6  1  0.27982  0.75172  0.75165  1
+ S  S7  1  0.25928  0.25928  0.25911  1
+ S  S8  1  0.75177  0.75179  0.27979  1

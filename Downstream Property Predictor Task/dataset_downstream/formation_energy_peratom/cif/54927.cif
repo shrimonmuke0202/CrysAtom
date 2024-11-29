@@ -1,0 +1,51 @@
+CIF file written using JARVIS-Tools package.
+data_NaCa3MgFeSi4O14
+_symmetry_space_group_name_H-M  'P1'
+_cell_length_a       5.0471
+_cell_length_b       7.80474
+_cell_length_c       7.88654
+_cell_angle_alpha    89.701
+_cell_angle_beta     88.1664
+_cell_angle_gamma    89.641
+
+_symmetry_Int_Tables_number  1
+_chemical_formula_structural  NaCa3MgFeSi4O14
+_chemical_formula_sum  NaCa3MgFeSi4O4
+_cell_volume  310.4915148127126
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ca  Ca1  1  0.51120  0.34591  0.18310  1
+ Ca  Ca2  1  0.50412  0.16063  0.65363  1
+ Ca  Ca3  1  0.47977  0.65380  0.82701  1
+ Fe  Fe1  1  0.00670  0.01082  0.00088  1
+ Mg  Mg1  1  0.99684  0.49391  0.50140  1
+ Na  Na1  1  0.50757  0.81635  0.33454  1
+ O  O1  1  0.27030  0.62389  0.12118  1
+ O  O2  1  0.17493  0.98498  0.48647  1
+ O  O3  1  0.24515  0.35094  0.84062  1
+ O  O4  1  0.73481  0.86830  0.66343  1
+ O  O5  1  0.80121  0.56885  0.30912  1
+ O  O6  1  0.75048  0.16123  0.36897  1
+ O  O7  1  0.76667  0.41016  0.68372  1
+ O  O8  1  0.21006  0.93396  0.81053  1
+ O  O9  1  0.23170  0.30910  0.42976  1
+ O  O10  1  0.77534  0.18733  0.93022  1
+ O  O11  1  0.20736  0.10603  0.17332  1
+ O  O12  1  0.81990  0.82586  0.09178  1
+ O  O13  1  0.19042  0.67454  0.60603  1
+ O  O14  1  0.81612  0.51208  0.98888  1
+ Si  Si1  1  0.05218  0.85942  0.64219  1
+ Si  Si2  1  0.92811  0.36139  0.85352  1
+ Si  Si3  1  0.06739  0.14316  0.36281  1
+ Si  Si4  1  0.95168  0.63736  0.13687  1

@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_Ba3SrCl4F4
+_symmetry_space_group_name_H-M  'P4mm'
+_cell_length_a       4.34059
+_cell_length_b       4.34059
+_cell_length_c       14.424
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  99
+_chemical_formula_structural  Ba3SrCl4F4
+_chemical_formula_sum  Ba3SrCl4F4
+_cell_volume  271.7590271363848
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ba  Ba1  1  0.50000  0.50000  0.89696  1
+ Ba  Ba2  1  0.00000  0.00000  0.11025  1
+ Ba  Ba3  1  0.00000  0.00000  0.59676  1
+ Cl  Cl1  1  0.50000  0.50000  0.18733  1
+ Cl  Cl2  1  0.50000  0.50000  0.67143  1
+ Cl  Cl3  1  0.00000  0.00000  0.32917  1
+ Cl  Cl4  1  0.00000  0.00000  0.82070  1
+ F  F1  1  0.50000  0.00000  0.00324  1
+ F  F2  1  0.50000  0.00000  0.49081  1
+ F  F3  1  0.00000  0.50000  0.00324  1
+ F  F4  1  0.00000  0.50000  0.49081  1
+ Sr  Sr1  1  0.50000  0.50000  0.39928  1

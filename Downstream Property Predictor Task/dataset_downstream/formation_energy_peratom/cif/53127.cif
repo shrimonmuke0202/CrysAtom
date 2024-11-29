@@ -1,0 +1,51 @@
+CIF file written using JARVIS-Tools package.
+data_Er4CdPd
+_symmetry_space_group_name_H-M  'F-43m'
+_cell_length_a       9.52796
+_cell_length_b       9.52795
+_cell_length_c       9.52796
+_cell_angle_alpha    60
+_cell_angle_beta     60
+_cell_angle_gamma    60
+
+_symmetry_Int_Tables_number  216
+_chemical_formula_structural  Er4CdPd
+_chemical_formula_sum  Er6Cd4Pd4
+_cell_volume  611.6235184696112
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Cd  Cd1  1  0.25123  0.58292  0.58292  1
+ Cd  Cd2  1  0.58292  0.25123  0.58292  1
+ Cd  Cd3  1  0.58292  0.58292  0.25123  1
+ Cd  Cd4  1  0.58292  0.58292  0.58292  1
+ Er  Er1  1  0.35465  0.35465  0.35465  1
+ Er  Er2  1  0.81107  0.18893  0.81107  1
+ Er  Er3  1  0.35465  0.35465  0.93605  1
+ Er  Er4  1  0.35465  0.93605  0.35465  1
+ Er  Er5  1  0.93605  0.35465  0.35465  1
+ Er  Er6  1  0.18893  0.81107  0.81107  1
+ Er  Er7  1  0.81107  0.18893  0.18893  1
+ Er  Er8  1  0.56616  0.93384  0.93384  1
+ Er  Er9  1  0.18893  0.18893  0.81107  1
+ Er  Er10  1  0.81107  0.81107  0.18893  1
+ Er  Er11  1  0.93384  0.56616  0.56616  1
+ Er  Er12  1  0.56616  0.93384  0.56616  1
+ Er  Er13  1  0.93384  0.56616  0.93384  1
+ Er  Er14  1  0.56616  0.56616  0.93384  1
+ Er  Er15  1  0.93384  0.93384  0.56616  1
+ Er  Er16  1  0.18893  0.81107  0.18893  1
+ Pd  Pd1  1  0.14501  0.14501  0.56498  1
+ Pd  Pd2  1  0.14501  0.56498  0.14501  1
+ Pd  Pd3  1  0.14501  0.14501  0.14501  1
+ Pd  Pd4  1  0.56498  0.14501  0.14501  1

@@ -1,0 +1,47 @@
+CIF file written using JARVIS-Tools package.
+data_NaTmTi2O6
+_symmetry_space_group_name_H-M  'Pmn2_1'
+_cell_length_a       5.26608
+_cell_length_b       5.50564
+_cell_length_c       7.56206
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  31
+_chemical_formula_structural  NaTmTi2O6
+_chemical_formula_sum  Na2Tm2Ti4O2
+_cell_volume  219.24779963470615
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Na  Na1  1  0.49396  0.71282  0.50000  1
+ Na  Na2  1  0.99396  0.28718  0.00000  1
+ O  O1  1  0.18602  0.44026  0.69399  1
+ O  O2  1  0.10962  0.72125  0.00000  1
+ O  O3  1  0.78266  0.03857  0.20660  1
+ O  O4  1  0.68602  0.55974  0.80601  1
+ O  O5  1  0.28266  0.96143  0.29340  1
+ O  O6  1  0.68602  0.55974  0.19399  1
+ O  O7  1  0.18602  0.44026  0.30601  1
+ O  O8  1  0.28266  0.96143  0.70660  1
+ O  O9  1  0.91769  0.77710  0.50000  1
+ O  O10  1  0.60962  0.27875  0.50000  1
+ O  O11  1  0.78266  0.03857  0.79340  1
+ O  O12  1  0.41769  0.22290  0.00000  1
+ Ti  Ti1  1  0.01144  0.73469  0.74763  1
+ Ti  Ti2  1  0.51144  0.26531  0.24763  1
+ Ti  Ti3  1  0.01144  0.73469  0.25237  1
+ Ti  Ti4  1  0.51144  0.26531  0.75237  1
+ Tm  Tm1  1  0.51846  0.82533  0.00000  1
+ Tm  Tm2  1  0.01846  0.17467  0.50000  1

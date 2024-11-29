@@ -1,0 +1,55 @@
+CIF file written using JARVIS-Tools package.
+data_BaSnHgS4
+_symmetry_space_group_name_H-M  'Pnn2'
+_cell_length_a       6.69317
+_cell_length_b       10.8763
+_cell_length_c       10.9795
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  34
+_chemical_formula_structural  BaSnHgS4
+_chemical_formula_sum  Ba4Sn4Hg4S6
+_cell_volume  799.2704475257901
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ba  Ba1  1  0.03738  0.00000  0.50000  1
+ Ba  Ba2  1  0.53738  0.50000  0.00000  1
+ Ba  Ba3  1  0.56964  0.50000  0.50000  1
+ Ba  Ba4  1  0.06964  0.00000  0.00000  1
+ Hg  Hg1  1  0.01773  0.67528  0.19413  1
+ Hg  Hg2  1  0.51773  0.17528  0.30587  1
+ Hg  Hg3  1  0.01773  0.32472  0.80587  1
+ Hg  Hg4  1  0.51773  0.82472  0.69413  1
+ S  S1  1  0.79726  0.54866  0.75598  1
+ S  S2  1  0.79726  0.45134  0.24402  1
+ S  S3  1  0.74908  0.22521  0.92132  1
+ S  S4  1  0.76396  0.76609  0.42899  1
+ S  S5  1  0.74908  0.77479  0.07868  1
+ S  S6  1  0.76396  0.23391  0.57101  1
+ S  S7  1  0.24908  0.72521  0.57868  1
+ S  S8  1  0.29726  0.04866  0.74402  1
+ S  S9  1  0.34074  0.59622  0.25628  1
+ S  S10  1  0.84074  0.90378  0.75628  1
+ S  S11  1  0.34074  0.40378  0.74372  1
+ S  S12  1  0.29726  0.95134  0.25598  1
+ S  S13  1  0.26396  0.73391  0.92899  1
+ S  S14  1  0.24908  0.27479  0.42132  1
+ S  S15  1  0.84074  0.09622  0.24372  1
+ S  S16  1  0.26396  0.26609  0.07101  1
+ Sn  Sn1  1  0.53732  0.20970  0.73716  1
+ Sn  Sn2  1  0.03732  0.70970  0.76284  1
+ Sn  Sn3  1  0.03732  0.29030  0.23716  1
+ Sn  Sn4  1  0.53732  0.79030  0.26284  1

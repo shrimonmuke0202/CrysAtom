@@ -1,0 +1,39 @@
+CIF file written using JARVIS-Tools package.
+data_LuGeIr
+_symmetry_space_group_name_H-M  'Pnma'
+_cell_length_a       4.24797
+_cell_length_b       6.70658
+_cell_length_c       7.59864
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  62
+_chemical_formula_structural  LuGeIr
+_chemical_formula_sum  Lu4Ge4Ir4
+_cell_volume  216.48006731273537
+_cell_formula_units_Z  4
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ge  Ge1  1  0.25000  0.71272  0.61319  1
+ Ge  Ge2  1  0.25000  0.21272  0.88681  1
+ Ge  Ge3  1  0.75000  0.28728  0.38681  1
+ Ge  Ge4  1  0.75000  0.78728  0.11319  1
+ Ir  Ir1  1  0.25000  0.83430  0.93571  1
+ Ir  Ir2  1  0.25000  0.33430  0.56429  1
+ Ir  Ir3  1  0.75000  0.66570  0.43571  1
+ Ir  Ir4  1  0.75000  0.16570  0.06429  1
+ Lu  Lu1  1  0.75000  0.50994  0.80814  1
+ Lu  Lu2  1  0.25000  0.99006  0.30814  1
+ Lu  Lu3  1  0.75000  0.00994  0.69186  1
+ Lu  Lu4  1  0.25000  0.49006  0.19186  1

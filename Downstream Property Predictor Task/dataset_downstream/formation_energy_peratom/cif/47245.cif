@@ -1,0 +1,47 @@
+CIF file written using JARVIS-Tools package.
+data_Ca2TiSbO6
+_symmetry_space_group_name_H-M  'P2_1/m'
+_cell_length_a       5.48674
+_cell_length_b       7.92275
+_cell_length_c       5.69012
+_cell_angle_alpha    90
+_cell_angle_beta     90.0361
+_cell_angle_gamma    90
+
+_symmetry_Int_Tables_number  11
+_chemical_formula_structural  Ca2TiSbO6
+_chemical_formula_sum  Ca4Ti2Sb2O2
+_cell_volume  247.35014712358725
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ca  Ca1  1  0.48432  0.75000  0.43666  1
+ Ca  Ca2  1  0.51568  0.25000  0.56334  1
+ Ca  Ca3  1  0.01230  0.75000  0.95088  1
+ Ca  Ca4  1  0.98770  0.25000  0.04912  1
+ O  O1  1  0.68683  0.44762  0.29146  1
+ O  O2  1  0.90006  0.75000  0.53379  1
+ O  O3  1  0.31317  0.94762  0.70854  1
+ O  O4  1  0.20666  0.55251  0.19161  1
+ O  O5  1  0.79334  0.05251  0.80839  1
+ O  O6  1  0.20666  0.94749  0.19161  1
+ O  O7  1  0.09994  0.25000  0.46621  1
+ O  O8  1  0.59439  0.75000  0.03231  1
+ O  O9  1  0.79334  0.44749  0.80839  1
+ O  O10  1  0.31317  0.55238  0.70854  1
+ O  O11  1  0.68683  0.05238  0.29146  1
+ O  O12  1  0.40561  0.25000  0.96769  1
+ Sb  Sb1  1  0.00000  0.00000  0.50000  1
+ Sb  Sb2  1  0.00000  0.50000  0.50000  1
+ Ti  Ti1  1  0.50000  0.00000  0.00000  1
+ Ti  Ti2  1  0.50000  0.50000  0.00000  1

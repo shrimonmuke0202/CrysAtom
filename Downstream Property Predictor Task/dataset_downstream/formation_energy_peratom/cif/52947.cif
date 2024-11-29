@@ -1,0 +1,42 @@
+CIF file written using JARVIS-Tools package.
+data_CaB2H10N2
+_symmetry_space_group_name_H-M  'C2'
+_cell_length_a       5.01969
+_cell_length_b       5.01969
+_cell_length_c       6.30539
+_cell_angle_alpha    86.3027
+_cell_angle_beta     86.3028
+_cell_angle_gamma    50.0149
+
+_symmetry_Int_Tables_number  5
+_chemical_formula_structural  CaB2H10N2
+_chemical_formula_sum  CaB2H0N2
+_cell_volume  121.42586568202996
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ B  B1  1  0.79002  0.86540  0.21635  1
+ B  B2  1  0.13460  0.20998  0.78365  1
+ Ca  Ca1  1  0.44814  0.55186  0.00000  1
+ H  H1  1  0.57196  0.69348  0.42353  1
+ H  H2  1  0.30652  0.42804  0.57647  1
+ H  H3  1  0.63078  0.06026  0.68256  1
+ H  H4  1  0.93974  0.36922  0.31744  1
+ H  H5  1  0.03705  0.80733  0.30528  1
+ H  H6  1  0.19267  0.96295  0.69472  1
+ H  H7  1  0.83636  0.46994  0.74281  1
+ H  H8  1  0.53006  0.16364  0.25719  1
+ H  H9  1  0.84951  0.85759  0.02041  1
+ H  H10  1  0.14241  0.15049  0.97959  1
+ N  N1  1  0.71637  0.61633  0.28425  1
+ N  N2  1  0.38367  0.28363  0.71575  1

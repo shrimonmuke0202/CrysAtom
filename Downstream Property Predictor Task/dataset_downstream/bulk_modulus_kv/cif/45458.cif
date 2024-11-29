@@ -1,0 +1,40 @@
+CIF file written using JARVIS-Tools package.
+data_CaSn4O8
+_symmetry_space_group_name_H-M  'Cm'
+_cell_length_a       3.28521
+_cell_length_b       7.83018
+_cell_length_c       8.19905
+_cell_angle_alpha    76.412
+_cell_angle_beta     78.4381
+_cell_angle_gamma    77.8873
+
+_symmetry_Int_Tables_number  8
+_chemical_formula_structural  CaSn4O8
+_chemical_formula_sum  CaSn4O8
+_cell_volume  197.8924453399941
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Ca  Ca1  1  0.64313  0.89578  0.81809  1
+ O  O1  1  0.12553  0.35395  0.39508  1
+ O  O2  1  0.53486  0.67210  0.25833  1
+ O  O3  1  0.51579  0.24688  0.72146  1
+ O  O4  1  0.85684  0.71066  0.57592  1
+ O  O5  1  0.83782  0.00301  0.32159  1
+ O  O6  1  0.16575  0.72892  0.93969  1
+ O  O7  1  0.19461  0.01641  0.59447  1
+ O  O8  1  0.75306  0.39991  0.09422  1
+ Sn  Sn1  1  0.36940  0.82939  0.43207  1
+ Sn  Sn2  1  0.89221  0.42830  0.78719  1
+ Sn  Sn3  1  0.14988  0.54412  0.15633  1
+ Sn  Sn4  1  0.66536  0.19445  0.47493  1

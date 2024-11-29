@@ -1,0 +1,45 @@
+CIF file written using JARVIS-Tools package.
+data_Li3Ti2Co3O10
+_symmetry_space_group_name_H-M  'P-1'
+_cell_length_a       4.95283
+_cell_length_b       4.98976
+_cell_length_c       7.63466
+_cell_angle_alpha    72.2166
+_cell_angle_beta     72.8527
+_cell_angle_gamma    78.7331
+
+_symmetry_Int_Tables_number  2
+_chemical_formula_structural  Li3Ti2Co3O10
+_chemical_formula_sum  Li3Ti2Co3O0
+_cell_volume  170.5231599892961
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Co  Co1  1  0.50000  -0.00000  -0.00000  1
+ Co  Co2  1  0.97796  0.29634  0.90487  1
+ Co  Co3  1  0.02204  0.70366  0.09513  1
+ Li  Li1  1  0.51392  0.78011  0.39743  1
+ Li  Li2  1  -0.00000  0.50000  0.50000  1
+ Li  Li3  1  0.48608  0.21989  0.60257  1
+ O  O1  1  0.22526  0.11456  0.47151  1
+ O  O2  1  0.77474  0.88544  0.52849  1
+ O  O3  1  0.78133  0.66808  0.94901  1
+ O  O4  1  0.22749  0.96042  0.87423  1
+ O  O5  1  0.20701  0.52732  0.67167  1
+ O  O6  1  0.21867  0.33192  0.05099  1
+ O  O7  1  0.74630  0.20964  0.77457  1
+ O  O8  1  0.25370  0.79036  0.22543  1
+ O  O9  1  0.79299  0.47268  0.32833  1
+ O  O10  1  0.77251  0.03958  0.12577  1
+ Ti  Ti1  1  0.00142  0.13024  0.30441  1
+ Ti  Ti2  1  -0.00142  0.86976  0.69559  1

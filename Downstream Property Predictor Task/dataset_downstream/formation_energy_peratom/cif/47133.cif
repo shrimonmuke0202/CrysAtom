@@ -1,0 +1,38 @@
+CIF file written using JARVIS-Tools package.
+data_Na3HfF7
+_symmetry_space_group_name_H-M  'Cm'
+_cell_length_a       5.42922
+_cell_length_b       5.42922
+_cell_length_c       6.20825
+_cell_angle_alpha    113.013
+_cell_angle_beta     113.013
+_cell_angle_gamma    91.0077
+
+_symmetry_Int_Tables_number  8
+_chemical_formula_structural  Na3HfF7
+_chemical_formula_sum  Na3HfF7
+_cell_volume  151.86074409124905
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ F  F1  1  0.14564  0.14564  0.83758  1
+ F  F2  1  0.10613  0.64439  0.77315  1
+ F  F3  1  0.32998  0.98103  0.24999  1
+ F  F4  1  0.64439  0.10613  0.77315  1
+ F  F5  1  0.62429  0.62429  0.70940  1
+ F  F6  1  0.98103  0.32998  0.24999  1
+ F  F7  1  0.84373  0.84373  0.21272  1
+ Hf  Hf1  1  0.95279  0.95279  0.97218  1
+ Na  Na1  1  0.23818  0.77484  0.50900  1
+ Na  Na2  1  0.48399  0.48399  0.95384  1
+ Na  Na3  1  0.77484  0.23818  0.50900  1

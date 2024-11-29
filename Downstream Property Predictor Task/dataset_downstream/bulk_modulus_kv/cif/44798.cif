@@ -1,0 +1,43 @@
+CIF file written using JARVIS-Tools package.
+data_BClO2F4
+_symmetry_space_group_name_H-M  'Cc'
+_cell_length_a       4.92814
+_cell_length_b       4.92814
+_cell_length_c       9.51395
+_cell_angle_alpha    95.2968
+_cell_angle_beta     95.2968
+_cell_angle_gamma    115.046
+
+_symmetry_Int_Tables_number  9
+_chemical_formula_structural  BClO2F4
+_chemical_formula_sum  B2Cl2O4F8
+_cell_volume  206.2179904604177
+_cell_formula_units_Z  2
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ B  B1  1  0.58022  0.43371  0.48484  1
+ B  B2  1  0.43371  0.58022  0.98484  1
+ Cl  Cl1  1  0.93286  0.07406  0.24854  1
+ Cl  Cl2  1  0.07406  0.93286  0.74854  1
+ F  F1  1  0.62502  0.48481  0.63866  1
+ F  F2  1  0.48481  0.62502  0.13866  1
+ F  F3  1  0.29325  0.43132  0.43779  1
+ F  F4  1  0.57300  0.15481  0.43640  1
+ F  F5  1  0.67246  0.81337  0.93740  1
+ F  F6  1  0.81337  0.67246  0.43740  1
+ F  F7  1  0.43132  0.29325  0.93779  1
+ F  F8  1  0.15481  0.57300  0.93640  1
+ O  O1  1  0.29004  0.86767  0.68150  1
+ O  O2  1  0.13704  0.97636  0.18958  1
+ O  O3  1  0.97636  0.13704  0.68958  1
+ O  O4  1  0.86767  0.29004  0.18150  1

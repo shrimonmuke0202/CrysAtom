@@ -1,0 +1,59 @@
+CIF file written using JARVIS-Tools package.
+data_AlH16C10ClO4
+_symmetry_space_group_name_H-M  'P1'
+_cell_length_a       4.64248
+_cell_length_b       7.57509
+_cell_length_c       9.8056
+_cell_angle_alpha    97.5116
+_cell_angle_beta     105.844
+_cell_angle_gamma    108.69
+
+_symmetry_Int_Tables_number  1
+_chemical_formula_structural  AlH16C10ClO4
+_chemical_formula_sum  AlH6C0ClO4
+_cell_volume  305.09795116994894
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Al  Al1  1  0.19621  0.31281  0.90288  1
+ C  C1  1  0.86358  0.60693  0.67336  1
+ C  C2  1  0.16240  0.02746  0.95690  1
+ C  C3  1  0.97104  0.46705  0.74569  1
+ C  C4  1  0.53325  0.69046  0.46073  1
+ C  C5  1  0.65517  0.53496  0.51036  1
+ C  C6  1  0.60238  0.05449  0.27091  1
+ C  C7  1  0.71043  0.04637  0.43211  1
+ C  C8  1  0.80463  0.87313  0.46206  1
+ C  C9  1  0.28808  0.88905  0.17760  1
+ C  C10  1  0.20930  0.86178  0.01213  1
+ Cl  Cl1  1  0.57250  0.52079  0.08831  1
+ H  H1  1  0.52167  0.05085  0.47956  1
+ H  H2  1  0.29694  0.75251  0.19910  1
+ H  H3  1  0.08512  -0.09331  0.20663  1
+ H  H4  1  0.08410  0.72958  0.68797  1
+ H  H5  1  0.39595  0.83037  0.97642  1
+ H  H6  1  0.91727  0.83518  0.38316  1
+ H  H7  1  -0.00570  0.92198  0.57000  1
+ H  H8  1  0.92244  0.17828  0.49191  1
+ H  H9  1  0.35166  0.62650  0.35127  1
+ H  H10  1  0.79598  0.05445  0.22633  1
+ H  H11  1  0.57360  0.19232  0.26357  1
+ H  H12  1  0.98036  0.73738  0.96055  1
+ H  H13  1  0.72119  0.65375  0.73219  1
+ H  H14  1  0.44821  0.40301  0.49496  1
+ H  H15  1  0.79459  0.49948  0.44390  1
+ H  H16  1  0.40644  0.72874  0.53323  1
+ O  O1  1  0.02136  0.12737  0.00778  1
+ O  O2  1  0.27449  0.08830  0.85599  1
+ O  O3  1  0.83572  0.38150  0.83118  1
+ O  O4  1  0.22437  0.43392  0.74095  1

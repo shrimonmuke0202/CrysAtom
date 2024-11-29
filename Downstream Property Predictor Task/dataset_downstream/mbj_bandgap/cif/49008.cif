@@ -1,0 +1,38 @@
+CIF file written using JARVIS-Tools package.
+data_Er2Zr2O7
+_symmetry_space_group_name_H-M  'C2/m'
+_cell_length_a       5.81733
+_cell_length_b       5.81733
+_cell_length_c       5.56653
+_cell_angle_alpha    84.2224
+_cell_angle_beta     84.2224
+_cell_angle_gamma    106.716
+
+_symmetry_Int_Tables_number  12
+_chemical_formula_structural  Er2Zr2O7
+_chemical_formula_sum  Er2Zr2O7
+_cell_volume  177.83271417945585
+_cell_formula_units_Z  1
+loop_
+  _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+ 1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_fract_occupancy
+ Er  Er1  1  0.69121  0.30879  0.50000  1
+ Er  Er2  1  0.30879  0.69121  0.50000  1
+ O  O1  1  0.00000  0.00000  0.00000  1
+ O  O2  1  0.94357  0.58872  0.70207  1
+ O  O3  1  0.55733  0.55733  0.23545  1
+ O  O4  1  0.58872  0.94357  0.70207  1
+ O  O5  1  0.41128  0.05643  0.29793  1
+ O  O6  1  0.44267  0.44267  0.76455  1
+ O  O7  1  0.05643  0.41128  0.29793  1
+ Zr  Zr1  1  0.74200  0.74200  0.90238  1
+ Zr  Zr2  1  0.25800  0.25800  0.09762  1

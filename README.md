@@ -8,7 +8,7 @@ pip install -r requirements.txt
 ```
 
 ## Dataset
-A small subset of dataset present in the data directory. Upon acceptance we will resealse all datasets.
+A small subset of dataset present in the data directory. To get the datasets used for creating dense vector is present in [[Zenodo](https://zenodo.org/records/14242239?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjA2NzVlMjVmLWM1ZWEtNDk4NC04ZmM5LTFkMWMzNjg0ZTRjMSIsImRhdGEiOnt9LCJyYW5kb20iOiIzYjdkNTFhMzFkYjc1ZWU3N2M2NGIzMmE4YWFiYjNlOSJ9.zG80nRXipzEdJ9MypJe2toA5UcvOmsZ1svlaKk-5qHtN937iHdOlKU1WeIBslatZFgXvCcNb7NrGRFIgPFXhBQ)]
 ## Dense Vector Extraction
 We will release our dense vector representation upon acceptance of this work. Please wait.
 To get the dense vector representation please run the AtomVectorExtractor.py
